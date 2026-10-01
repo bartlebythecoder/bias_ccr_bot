@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Blue Lou Boyle
 
-**Summary**: Notorious Demon Prince and underworld kingpin controlling smuggling, racketeering, and gambling across the Lower Circuit, suspected to be former Imperial officer Lazlo Kovacs.
+**Summary**: Notorious [[demon-princes|Demon Prince]] and underworld kingpin controlling smuggling, racketeering, and gambling across the Lower Circuit, suspected to be former Imperial officer Lazlo Kovacs.
 
 **Last updated**: 2026-09-20
 
