@@ -23,6 +23,9 @@
       "#ask-ai-drawer.open { display: flex; }",
       ".ask-ai-header { padding: 12px 16px; background: #f3f4f6; border-bottom: 1px solid #e5e7eb; display: flex; justify-content: space-between; align-items: center; font-weight: 600; font-size: 14px; }",
       ".ask-ai-close { background: none; border: none; font-size: 18px; cursor: pointer; color: inherit; }",
+      ".ask-ai-header-actions { display: flex; align-items: center; gap: 8px; }",
+      ".ask-ai-new { background: none; border: 1px solid #d1d5db; border-radius: 6px; padding: 2px 8px; font-size: 12px; font-weight: 500; cursor: pointer; color: inherit; font-family: inherit; }",
+      ".ask-ai-new:hover { background: #e5e7eb; }",
       ".ask-ai-messages { flex: 1; overflow-y: auto; padding: 12px; display: flex; flex-direction: column; gap: 10px; font-size: 13px; line-height: 1.5; }",
       ".ask-ai-msg { padding: 8px 12px; border-radius: 8px; max-width: 85%; word-break: break-word; }",
       ".ask-ai-msg.user { background: #2563eb; color: #ffffff; align-self: flex-end; }",
@@ -60,8 +63,17 @@
     closeBtn.className = "ask-ai-close";
     closeBtn.id = "ask-ai-close";
     closeBtn.textContent = "x";
+    var newBtn = document.createElement("button");
+    newBtn.className = "ask-ai-new";
+    newBtn.type = "button";
+    newBtn.textContent = "New conversation";
+    newBtn.title = "Clear this conversation so the Bot starts fresh";
+    var headerActions = document.createElement("span");
+    headerActions.className = "ask-ai-header-actions";
+    headerActions.appendChild(newBtn);
+    headerActions.appendChild(closeBtn);
     header.appendChild(titleSpan);
-    header.appendChild(closeBtn);
+    header.appendChild(headerActions);
 
     var msgs = document.createElement("div");
     msgs.id = "ask-ai-msgs";
@@ -169,7 +181,12 @@
         var res = await fetch(PROXY_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ question: question, turnstileToken: turnstileToken, accessCode: loadAccessCode() })
+          body: JSON.stringify({
+            question: question,
+            turnstileToken: turnstileToken,
+            accessCode: loadAccessCode(),
+            history: loadHistory()
+          })
         });
         var data = await res.json();
         if (res.status === 401 && data.code === "access_code") {
@@ -181,6 +198,7 @@
           setCodeMode(true);
         } else if (res.ok && data.answer) {
           renderAnswer(botBubble, data.answer, data.sources);
+          rememberExchange(question, data.answer, data.sources);
         } else {
           botBubble.textContent = data.error || "Query failed. Please try again.";
         }
@@ -215,9 +233,51 @@
       addBubble("user", value);
       await askBot(value);
     };
+
+    newBtn.onclick = function () {
+      saveHistory([]);
+      pendingQuestion = null;
+      setCodeMode(false);
+      msgs.textContent = "";
+      addBubble("bot", "New conversation. BIAS CCR Bot online. Enter query.");
+      input.focus();
+    };
+
+    // Re-show this tab's conversation (e.g. after following a Files link or reloading),
+    // so players can see what the Bot will take into account.
+    loadHistory().forEach(function (item) {
+      addBubble("user", item.q);
+      renderAnswer(addBubble("bot", ""), item.a, item.files);
+    });
   }
 
   // The access code is remembered in this browser so players enter it only once.
+  // Recent exchanges, sent with each query so the Bot can follow the conversation. Kept per tab
+  // (sessionStorage), so it survives page changes and reloads but ends when the tab closes.
+  var HISTORY_KEY = "biasCcrBotHistory";
+  var HISTORY_LIMIT = 6;   // the proxy also caps this
+  var historyInMemory = [];
+
+  function loadHistory() {
+    try {
+      var parsed = JSON.parse(window.sessionStorage.getItem(HISTORY_KEY) || "null");
+      if (Array.isArray(parsed)) return parsed;
+    } catch (err) { /* storage unavailable or corrupt: fall back to memory */ }
+    return historyInMemory;
+  }
+
+  function saveHistory(history) {
+    historyInMemory = history;
+    try { window.sessionStorage.setItem(HISTORY_KEY, JSON.stringify(history)); } catch (err) { /* memory copy is used */ }
+  }
+
+  function rememberExchange(question, answer, sources) {
+    var files = (Array.isArray(sources) ? sources : []).map(function (s) {
+      return { title: s.title, slug: s.slug };
+    });
+    saveHistory(loadHistory().concat([{ q: question, a: answer, files: files }]).slice(-HISTORY_LIMIT));
+  }
+
   // If browser storage is blocked, it lasts until the page is reloaded.
   var ACCESS_CODE_KEY = "biasCcrBotAccessCode";
   var accessCodeInMemory = "";
