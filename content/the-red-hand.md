@@ -23,11 +23,15 @@ The Red Hand is a violent, anti-extractive insurgent group based on [[romentino|
 
 ## Attack on Morella Outpost
 
-On 051-1105, Red Hand mercenaries disguised themselves as corporate auditors to penetrate the perimeter of [[ling-standard-products|Ling Standard Products]]'s Morella Mining outpost. Once inside, they unleashed automatic fire and detonated explosives, completely destroying the facility and killing all ~200 mining staff who were extracting Noavarite ([[news-1105-vol-5|News Dispatch — Volume 5]]).
+The news reported on 051-1105, Red Hand mercenaries disguised themselves as corporate auditors to penetrate the perimeter of [[ling-standard-products|Ling Standard Products]]'s Morella Mining outpost. Once inside, they unleashed automatic fire and detonated explosives, completely destroying the facility and killing all ~200 mining staff who were extracting Noavarite ([[news-1105-vol-5|News Dispatch — Volume 5]]).
+
+In fact this was [[bias-ccr]] who infiltrated the outpost disguised as corporate auditors investigating illegal cloning rumours.  When discovered a shoot-out did occur and [[bias-ccr]] arrested/abducted [[dr-eva-smart]]
+
+The outpost was destroyed, and [[lord-baltimore]] believes the [[erebus-power]] company that the site had been outsourced to, had deliberately blown it up to hide evidence.
 
 ## Law Enforcement Response
 
-Planetary security forces launched aggressive tactical raids across Startown Liberty immediately following the massacre. Approximately 45 Red Hand militants were killed during the crackdown, including key leadership figures **Umdala Kinchasa**, **Emnishi Moth**, and **Trey Capulet** ([[news-1105-vol-5|News Dispatch — Volume 5]]).
+Planetary security forces launched aggressive tactical raids across [[startown-liberty]] immediately following the massacre. Approximately 45 Red Hand militants were killed during the crackdown, including key leadership figures [[umdala]], [[eminshi-moth]], and [[tres-capulet]]. ([[news-1105-vol-5|News Dispatch — Volume 5]]).
 
 ## Abduction of Christine's Brother
 
