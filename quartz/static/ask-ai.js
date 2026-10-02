@@ -32,6 +32,7 @@
       ".ask-ai-input { flex: 1; padding: 8px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 13px; background: #ffffff; color: #111111; }",
       ".ask-ai-submit { background: #2563eb; color: #ffffff; border: none; border-radius: 6px; padding: 8px 14px; font-size: 13px; cursor: pointer; font-weight: 500; }",
       ".ask-ai-submit:disabled { background: #93c5fd; cursor: wait; }",
+      ".ask-ai-input.ask-ai-masked { -webkit-text-security: disc; }",
       ".ask-ai-answer { white-space: pre-wrap; }",
       ".ask-ai-sources { margin-top: 8px; padding-top: 6px; border-top: 1px solid #e5e7eb; font-size: 12px; color: #4b5563; }",
       ".ask-ai-sources a { color: #2563eb; text-decoration: none; }",
@@ -87,6 +88,11 @@
     input.placeholder = "Enter query...";
     input.required = true;
     input.autocomplete = "off";
+    // Tell password managers (LastPass, 1Password, Bitwarden) to leave this box alone.
+    input.setAttribute("data-lpignore", "true");
+    input.setAttribute("data-1p-ignore", "true");
+    input.setAttribute("data-bwignore", "true");
+    input.setAttribute("data-form-type", "other");
 
     var submitBtn = document.createElement("button");
     submitBtn.type = "submit";
@@ -135,7 +141,8 @@
 
     function setCodeMode(on) {
       awaitingCode = on;
-      input.type = on ? "password" : "text";
+      // Masked with CSS rather than type="password", which would summon password managers.
+      input.classList.toggle("ask-ai-masked", on);
       input.placeholder = on ? "Enter access code..." : "Enter query...";
     }
 
