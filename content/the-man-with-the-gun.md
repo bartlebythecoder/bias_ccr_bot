@@ -33,7 +33,7 @@ tags:
 
 # The Man With The Gun (Richard)
 
-**Summary**: Richard, the gunman and chief bodyguard for Marie Orslo Jollynn and The Stratemeyers on Freeport, killed in the mansion raid.
+**Summary**: Richard, the gunman and chief bodyguard for Marie [[orslo-jollynn]] and The Stratemeyers on Freeport, killed in the mansion raid.
 
 **Last updated**: 2026-09-30
 

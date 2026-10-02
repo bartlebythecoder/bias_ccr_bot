@@ -26,7 +26,7 @@ In the underworld lexicon of the Third Imperium, a **Demon Prince** is an inform
 ## Recognized Demon Princes in Kidderminster Subsector
 
 - **[[blue-lou-boyle|Blue Lou Boyle]]**: Mastermind of the Lower Circuit, commanding vast smuggling, gambling, and racketeering rings; widely suspected to be cashiered Imperial officer Lazlo Kovacs ([[blue-lou-boyle|Blue Lou Boyle]]).
-- **Yandee**: Supreme ruler of [[meinhoff-brigade|The Meinhoff Brigade]], governing [[eternity-station|Eternity Station]] in the Arico belt and controlling the interstellar Sycorax narcotics trade ([[eternity-station|Eternity Station]]).
+- [[04_knowledge_wikis/bias_ccr_wiki/wiki/yandee|Yandee]]: Supreme ruler of [[meinhoff-brigade|The Meinhoff Brigade]], governing [[eternity-station|Eternity Station]] in the Arico belt and controlling the interstellar Sycorax narcotics trade ([[eternity-station|Eternity Station]]).
 - **Les Larque**: Powerful multi-system syndicate lord operating across regional circuits.
 - **Cleopatra Jackson**: Notorious underworld syndicate leader commanding cross-sector illicit operations.
 
