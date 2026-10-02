@@ -54,7 +54,7 @@
     var header = document.createElement("div");
     header.className = "ask-ai-header";
     var titleSpan = document.createElement("span");
-    titleSpan.textContent = "BIAS CCR Wiki AI";
+    titleSpan.textContent = "BIAS CCR Bot";
     var closeBtn = document.createElement("button");
     closeBtn.className = "ask-ai-close";
     closeBtn.id = "ask-ai-close";
@@ -67,7 +67,7 @@
     msgs.className = "ask-ai-messages";
     var welcomeMsg = document.createElement("div");
     welcomeMsg.className = "ask-ai-msg bot";
-    welcomeMsg.textContent = "Hi! Ask me anything grounded in this wiki.";
+    welcomeMsg.textContent = "BIAS CCR Bot online. Enter query.";
     msgs.appendChild(welcomeMsg);
 
     var form = document.createElement("form");
@@ -84,7 +84,7 @@
     var input = document.createElement("input");
     input.id = "ask-ai-input";
     input.className = "ask-ai-input";
-    input.placeholder = "Type a question...";
+    input.placeholder = "Enter query...";
     input.required = true;
     input.autocomplete = "off";
 
@@ -128,22 +128,28 @@
       drawer.classList.remove("open");
     };
 
-    form.onsubmit = async function (e) {
-      e.preventDefault();
-      var question = input.value.trim();
-      if (!question) return;
+    // When the Bot rejects a query for a missing or wrong access code, the input box
+    // switches to asking for the code, then re-runs the query once the code is entered.
+    var awaitingCode = false;
+    var pendingQuestion = null;
 
-      var userBubble = document.createElement("div");
-      userBubble.className = "ask-ai-msg user";
-      userBubble.textContent = question;
-      msgs.appendChild(userBubble);
-      input.value = "";
+    function setCodeMode(on) {
+      awaitingCode = on;
+      input.type = on ? "password" : "text";
+      input.placeholder = on ? "Enter access code..." : "Enter query...";
+    }
 
-      var botBubble = document.createElement("div");
-      botBubble.className = "ask-ai-msg bot";
-      botBubble.textContent = "Researching the wiki... this can take 10-20 seconds.";
-      msgs.appendChild(botBubble);
+    function addBubble(kind, text) {
+      var bubble = document.createElement("div");
+      bubble.className = "ask-ai-msg " + kind;
+      bubble.textContent = text;
+      msgs.appendChild(bubble);
       msgs.scrollTop = msgs.scrollHeight;
+      return bubble;
+    }
+
+    async function askBot(question) {
+      var botBubble = addBubble("bot", "Searching the BIAS CCR files... this can take 10-20 seconds.");
       submitBtn.disabled = true;
 
       var turnstileToken = "";
@@ -151,21 +157,28 @@
         turnstileToken = window.turnstile.getResponse(widgetId);
       }
 
-      // The proxy does its own wiki research; it only needs the question.
+      // The proxy does its own research; it only needs the question.
       try {
         var res = await fetch(PROXY_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ question: question, turnstileToken: turnstileToken })
+          body: JSON.stringify({ question: question, turnstileToken: turnstileToken, accessCode: loadAccessCode() })
         });
         var data = await res.json();
-        if (res.ok && data.answer) {
+        if (res.status === 401 && data.code === "access_code") {
+          botBubble.textContent = loadAccessCode()
+            ? "Access code rejected. Enter the BIAS CCR access code."
+            : "Access restricted. Enter the BIAS CCR access code.";
+          saveAccessCode("");
+          pendingQuestion = question;
+          setCodeMode(true);
+        } else if (res.ok && data.answer) {
           renderAnswer(botBubble, data.answer, data.sources);
         } else {
-          botBubble.textContent = data.error || data.detail || "Error retrieving response.";
+          botBubble.textContent = data.error || "Query failed. Please try again.";
         }
       } catch (err) {
-        botBubble.textContent = "Failed to communicate with proxy service.";
+        botBubble.textContent = "Connection to the BIAS CCR Bot failed. Please try again.";
       }
 
       submitBtn.disabled = false;
@@ -173,7 +186,45 @@
         window.turnstile.reset(widgetId);
       }
       msgs.scrollTop = msgs.scrollHeight;
+      input.focus();
+    }
+
+    form.onsubmit = async function (e) {
+      e.preventDefault();
+      var value = input.value.trim();
+      if (!value) return;
+      input.value = "";
+
+      if (awaitingCode) {
+        addBubble("user", "••••••");
+        saveAccessCode(value);
+        setCodeMode(false);
+        var question = pendingQuestion;
+        pendingQuestion = null;
+        if (question) await askBot(question);
+        return;
+      }
+
+      addBubble("user", value);
+      await askBot(value);
     };
+  }
+
+  // The access code is remembered in this browser so players enter it only once.
+  // If browser storage is blocked, it lasts until the page is reloaded.
+  var ACCESS_CODE_KEY = "biasCcrBotAccessCode";
+  var accessCodeInMemory = "";
+
+  function loadAccessCode() {
+    try { return window.localStorage.getItem(ACCESS_CODE_KEY) || accessCodeInMemory; } catch (err) { return accessCodeInMemory; }
+  }
+
+  function saveAccessCode(code) {
+    accessCodeInMemory = code;
+    try {
+      if (code) window.localStorage.setItem(ACCESS_CODE_KEY, code);
+      else window.localStorage.removeItem(ACCESS_CODE_KEY);
+    } catch (err) { /* storage unavailable: the in-memory copy is used instead */ }
   }
 
   function renderAnswer(bubble, answer, sources) {
@@ -188,7 +239,7 @@
 
     var sourcesEl = document.createElement("div");
     sourcesEl.className = "ask-ai-sources";
-    sourcesEl.appendChild(document.createTextNode("Sources: "));
+    sourcesEl.appendChild(document.createTextNode("Files: "));
     sources.forEach(function (source, index) {
       if (index > 0) sourcesEl.appendChild(document.createTextNode(" · "));
       var link = document.createElement("a");
