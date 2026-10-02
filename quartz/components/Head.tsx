@@ -104,6 +104,7 @@ export default (() => {
             return resource
           }
         })}
+              <script src="/static/ask-ai.js" defer></script>
       </head>
     )
   }
