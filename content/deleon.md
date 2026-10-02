@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # DeLeon
 
-**Summary**: Proprietary anagathic life-extension drug developed by SuSAG, banned across multiple Imperial worlds amidst rumors of Imperial consumption.
+**Summary**: Proprietary anagathic life-extension drug developed by [[susag|SuSAG]], banned across multiple Imperial worlds amidst rumors of Imperial consumption.
 
 **Last updated**: 2026-09-20
 

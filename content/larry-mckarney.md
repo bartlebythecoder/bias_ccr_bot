@@ -15,7 +15,7 @@ category: person
 
 # Larry McKarney
 
-**Summary**: Alias of the mercenary commander hired by Rainford Ruby to raid the Foust Refinery, killed by Sarik.
+**Summary**: Alias of the mercenary commander hired by [[rainford-ruby|Rainford Ruby]] to raid the [[foust-refinery|Foust Refinery]], killed by [[sarik|Sarik]].
 
 **Last updated**: 2026-09-30
 

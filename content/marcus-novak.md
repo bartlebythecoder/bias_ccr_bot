@@ -13,7 +13,7 @@ category: person
 
 # Marcus Novak
 
-**Summary**: Freeport researcher offering Cr 50,000 per escaped uplifted simian returned to him.
+**Summary**: [[freeport|Freeport]] researcher offering Cr 50,000 per escaped uplifted simian returned to him.
 
 **Last updated**: 2026-09-30
 

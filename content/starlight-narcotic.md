@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Starlight Narcotic
 
-**Summary**: Potent, highly addictive hallucinogen manufactured on Romentino combining Noavarite with psychoactive geyser compounds to induce temporary telepathic faculties.
+**Summary**: Potent, highly addictive hallucinogen manufactured on [[romentino|Romentino]] combining [[noavarite|Noavarite]] with psychoactive geyser compounds to induce temporary telepathic faculties.
 
 **Last updated**: 2026-09-20
 

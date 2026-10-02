@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Erebus Power
 
-**Summary**: Energy and technological corporation based on Lachat, developer of the Alexandria AI advisory system, led by Byron Falcon Power with backing from Sabrina and LSP.
+**Summary**: Energy and technological corporation based on [[lachat|Lachat]], developer of the [[alexandria-ai|Alexandria AI]] advisory system, led by Byron Falcon Power with backing from [[sabrina|Sabrina]] and LSP.
 
 **Last updated**: 2026-09-20
 

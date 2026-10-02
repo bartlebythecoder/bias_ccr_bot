@@ -18,7 +18,7 @@ category: person
 
 # Lars
 
-**Summary**: Young scavenger-diver in a tricorn hat, abandoned by the Saltpeter's crew on Metropolis Station and rescued by BIAS CCR.
+**Summary**: Young scavenger-diver in a tricorn hat, abandoned by [[saltpeter|the Saltpeter]]'s crew on [[metropolis-station|Metropolis Station]] and rescued by BIAS CCR.
 
 **Last updated**: 2026-09-30
 

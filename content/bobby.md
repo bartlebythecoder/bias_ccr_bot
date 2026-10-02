@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Bobby
 
-**Summary**: Underworld smuggler and brother of Red Hand soldier Joey, killed by Sarik during a hazardous surface trek on Romentino.
+**Summary**: Underworld smuggler and brother of Red Hand soldier [[joey|Joey]], killed by [[sarik|Sarik]] during a hazardous surface trek on [[romentino|Romentino]].
 
 **Last updated**: 2026-09-20
 

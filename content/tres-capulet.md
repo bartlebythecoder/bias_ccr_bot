@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Tres Capulet
 
-**Summary**: Veteran labor activist and leader of the Real Red Hand on Romentino who unmasked Elin Butler's kidnapping hoax and exposed the mining clone conspiracy.
+**Summary**: Veteran labor activist and leader of the [[real-red-hand|Real Red Hand]] on [[romentino|Romentino]] who unmasked [[elin-butler|Elin Butler]]'s kidnapping hoax and exposed the mining clone conspiracy.
 
 **Last updated**: 2026-09-20
 

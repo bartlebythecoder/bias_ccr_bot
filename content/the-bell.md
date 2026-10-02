@@ -13,7 +13,7 @@ category: location
 
 # The Bell
 
-**Summary**: Arkady's thruster habitat moored beside Metropolis Station, a base for scavenger-divers.
+**Summary**: [[arkady|Arkady]]'s thruster habitat moored beside [[metropolis-station|Metropolis Station]], a base for scavenger-divers.
 
 **Last updated**: 2026-09-30
 

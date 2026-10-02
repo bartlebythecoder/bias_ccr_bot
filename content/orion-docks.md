@@ -21,7 +21,7 @@ tags:
 
 # Orion Docks
 
-**Summary**: Freeport cargo port and warehouse district used by The Stratemeyers as a smuggling corridor.
+**Summary**: [[freeport|Freeport]] cargo port and warehouse district used by [[the-stratemeyers|The Stratemeyers]] as a smuggling corridor.
 
 **Last updated**: 2026-09-30
 

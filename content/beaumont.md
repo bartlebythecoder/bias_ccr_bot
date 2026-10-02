@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Beaumont
 
-**Summary**: System 1422 in Solo Sector Subsector J, an authoritarian world ruled by Supreme Leader Volkov.
+**Summary**: System 1422 in Solo Sector Subsector J, an authoritarian world ruled by [[supreme-leader-volkov|Supreme Leader Volkov]].
 
 **Last updated**: 2026-09-20
 

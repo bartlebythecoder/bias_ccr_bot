@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Dr. Pearson
 
-**Summary**: Academic researcher at Nesvorny University whose published papers describe ancient Romentino civilizations and specifically reference Ancient Orbs.
+**Summary**: Academic researcher at [[nesvorny-university|Nesvorny University]] whose published papers describe ancient [[romentino|Romentino]] civilizations and specifically reference Ancient Orbs.
 
 **Last updated**: 2026-09-20
 

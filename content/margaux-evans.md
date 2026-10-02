@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Margaux Evans
 
-**Summary**: Diplomatic attaché and high-level fixer for Viscount Rittenhouse who managed the crime scene fallout on Cal's Dream and arranged palace archival access for BIAS CCR.
+**Summary**: Diplomatic attaché and high-level fixer for Viscount Rittenhouse who managed the crime scene fallout on [[cals-dream|Cal's Dream]] and arranged palace archival access for BIAS CCR.
 
 **Last updated**: 2026-09-20
 

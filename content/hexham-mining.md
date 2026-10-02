@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Hexham Mining
 
-**Summary**: An extraction enterprise on Marcolandia that partnered with Youst Refining to resolve long-standing refining bottlenecks.
+**Summary**: An extraction enterprise on [[marcolandia|Marcolandia]] that partnered with [[youst-refining|Youst Refining]] to resolve long-standing refining bottlenecks.
 
 **Last updated**: 2026-09-20
 

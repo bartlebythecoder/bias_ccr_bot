@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Chloe Vinit
 
-**Summary**: Student at Freeport University on Csabai and mercenary girlfriend of Jacob Godard who surrendered his comm-phone and wilderness location for a cash bribe.
+**Summary**: Student at [[freeport-university|Freeport University]] on [[csabai|Csabai]] and mercenary girlfriend of [[jacob-godard|Jacob Godard]] who surrendered his comm-phone and wilderness location for a cash bribe.
 
 **Last updated**: 2026-09-20
 

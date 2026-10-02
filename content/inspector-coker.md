@@ -12,7 +12,7 @@ category: person
 
 # Inspector Coker
 
-**Summary**: Freeport homicide detective leading the Louise Soto murder investigation, who treated it as a domestic killing.
+**Summary**: [[freeport|Freeport]] homicide detective leading the [[louise-soto|Louise Soto]] murder investigation, who treated it as a domestic killing.
 
 **Last updated**: 2026-09-30
 

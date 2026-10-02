@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Asher
 
-**Summary**: Brilliant chemist and elite hacker originating from the impoverished world of Pharr and educated on Nesvorny, serving as scientific and cyber infiltration specialist for the crew.
+**Summary**: Brilliant chemist and elite hacker originating from the impoverished world of [[pharr|Pharr]] and educated on [[nesvorny|Nesvorny]], serving as scientific and cyber infiltration specialist for the crew.
 
 **Last updated**: 2026-09-20
 

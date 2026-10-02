@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # House Yetrina
 
-**Summary**: Ruling noble house of the Kidderminster subsector headed by Duchess Margaret, allied with Tukera Lines, and opposed to the Psalm 134 movement.
+**Summary**: Ruling noble house of the [[kidderminster|Kidderminster]] subsector headed by [[duchess-margaret|Duchess Margaret]], allied with [[tukera-lines|Tukera Lines]], and opposed to the [[psalm-134|Psalm 134]] movement.
 
 **Last updated**: 2026-09-20
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Inkulan
 
-**Summary**: Irklan cultural go-between and intermediary based in Theos bar on Csabai who provided BIAS CCR with Irklan cultural insights and Csabaipede antidote.
+**Summary**: [[irklan|Irklan]] cultural go-between and intermediary based in Theos bar on [[csabai|Csabai]] who provided BIAS CCR with Irklan cultural insights and [[csabaipede|Csabaipede]] antidote.
 
 **Last updated**: 2026-09-20
 

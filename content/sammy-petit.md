@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Sammy Petit
 
-**Summary**: Hot-tempered martial arts instructor and proprietor of Sammy's Dojo in Basin City on Csabai, defeated in a ring match by Isambard.
+**Summary**: Hot-tempered martial arts instructor and proprietor of [[sammys-dojo|Sammy's Dojo]] in [[basin-city|Basin City]] on [[csabai|Csabai]], defeated in a ring match by [[isambard|Isambard]].
 
 **Last updated**: 2026-09-20
 

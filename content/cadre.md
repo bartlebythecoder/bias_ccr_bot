@@ -10,7 +10,7 @@ category: person
 
 # Cadre
 
-**Summary**: Club Strata bartender and friend of Louise Soto who had warned her about her violent ex-boyfriend David Parker.
+**Summary**: [[club-strata|Club Strata]] bartender and friend of [[louise-soto|Louise Soto]] who had warned her about her violent ex-boyfriend [[david-parker|David Parker]].
 
 **Last updated**: 2026-09-30
 

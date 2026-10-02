@@ -15,7 +15,7 @@ category: person
 
 # Commander Kilroy
 
-**Summary**: Wu-Ketai naval commander of the interdiction sweep around Metropolis Station, determined to destroy Monarch.
+**Summary**: [[wu-ketai|Wu-Ketai]] naval commander of the interdiction sweep around [[metropolis-station|Metropolis Station]], determined to destroy [[monarch|Monarch]].
 
 **Last updated**: 2026-09-30
 

@@ -16,7 +16,7 @@ category: location
 
 # The Warrens
 
-**Summary**: Wu-Ketai-controlled tunnel network where most of Suliman's residents live and work under heavy surveillance.
+**Summary**: Wu-Ketai-controlled tunnel network where most of [[suliman|Suliman]]'s residents live and work under heavy surveillance.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Jacob Godard
 
-**Summary**: Young Psalmist courier on Csabai who fled the Basin City center with a data wafer containing wiped evidence of the Irklan hit, captured in the Mushroom Woods.
+**Summary**: Young Psalmist courier on [[csabai|Csabai]] who fled the [[basin-city|Basin City]] center with a data wafer containing wiped evidence of the [[irklan|Irklan]] hit, captured in the [[mushroom-woods|Mushroom Woods]].
 
 **Last updated**: 2026-09-20
 

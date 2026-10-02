@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 4
 
-**Summary**: Dispatches spanning days 035 to 056 of 1105 across Subsector J, covering medical black market booms and underworld tensions on Csabai, Duchess Margaret's Grand Tour initiative on Kidderminster, post-war reconstruction and life support aid appeals on Sanlucar, penal overcrowding on Maseru, centenary celebrations in the Torus of Arico El Nuevo, and Supreme Leader Volkov's warning on Beaumont regarding Sanlucar.
+**Summary**: Dispatches spanning days 035 to 056 of 1105 across Subsector J, covering medical black market booms and underworld tensions on Csabai, [[duchess-margaret|Duchess Margaret]]'s Grand Tour initiative on [[kidderminster|Kidderminster]], post-war reconstruction and life support aid appeals on Sanlucar, penal overcrowding on Maseru, centenary celebrations in the Torus of [[arico-el-nuevo|Arico El Nuevo]], and [[supreme-leader-volkov|Supreme Leader Volkov]]'s warning on [[beaumont|Beaumont]] regarding Sanlucar.
 
 **Last updated**: 2026-09-20
 

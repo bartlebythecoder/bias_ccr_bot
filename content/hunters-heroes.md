@@ -11,7 +11,7 @@ category: faction
 
 # Hunter's Heroes
 
-**Summary**: Rival mercenary outfit in the Arico system that competes aggressively with BIAS CCR for contracts and bounties.
+**Summary**: Rival mercenary outfit in the [[arico-el-nuevo|Arico]] system that competes aggressively with BIAS CCR for contracts and bounties.
 
 **Last updated**: 2026-09-30
 

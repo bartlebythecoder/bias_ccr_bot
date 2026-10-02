@@ -21,7 +21,7 @@ tags:
 
 # Irquez
 
-**Summary**: Union dock supervisor at Orion Docks who took payoffs from Starka Pramerski to ease syndicate cargo through customs.
+**Summary**: Union dock supervisor at [[orion-docks|Orion Docks]] who took payoffs from [[starka-pramerski|Starka Pramerski]] to ease syndicate cargo through customs.
 
 **Last updated**: 2026-09-30
 

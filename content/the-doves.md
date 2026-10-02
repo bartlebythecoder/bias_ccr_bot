@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # The Doves
 
-**Summary**: Clandestine, militant Psalmist extremist cell operating on Csabai, plotting the assassination of Darnes and targeting BIAS CCR to seize the Ancient Orb.
+**Summary**: Clandestine, militant Psalmist extremist cell operating on [[csabai|Csabai]], plotting the assassination of [[darnes|Darnes]] and targeting BIAS CCR to seize the [[ancient-orb|Ancient Orb]].
 
 **Last updated**: 2026-09-20
 

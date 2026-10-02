@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Sanlucar Civil War
 
-**Summary**: Devastating 1089–1090 conflict on Sanlucar de Barram that resulted in the annihilation of the Khanate of Aridush and controversial covert intervention by Imperial Marines.
+**Summary**: Devastating 1089–1090 conflict on [[sanlucar-de-barram|Sanlucar de Barram]] that resulted in the annihilation of the Khanate of Aridush and controversial covert intervention by Imperial Marines.
 
 **Last updated**: 2026-09-20
 

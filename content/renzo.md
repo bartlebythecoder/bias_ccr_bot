@@ -11,7 +11,7 @@ sessions: [79]
 
 # Renzo
 
-**Summary**: Ghost of a Wu-Ketai crew member in Metropolis Station's warhead chamber, obsessed with destroying the station and Monarch.
+**Summary**: Ghost of a [[wu-ketai|Wu-Ketai]] crew member in [[metropolis-station|Metropolis Station]]'s warhead chamber, obsessed with destroying the station and [[monarch|Monarch]].
 
 **Last updated**: 2026-09-30
 

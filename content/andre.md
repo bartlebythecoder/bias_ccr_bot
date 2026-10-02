@@ -10,7 +10,7 @@ category: person
 
 # Andre
 
-**Summary**: Bouncer at Club Strata on Freeport who unknowingly carried Hunter's Heroes' surveillance bug after Beck slipped it into his pocket.
+**Summary**: Bouncer at [[club-strata|Club Strata]] on [[freeport|Freeport]] who unknowingly carried [[hunters-heroes|Hunter's Heroes]]' surveillance bug after [[beck|Beck]] slipped it into his pocket.
 
 **Last updated**: 2026-09-30
 

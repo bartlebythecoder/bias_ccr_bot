@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Reidmar
 
-**Summary**: A leader on Eternity Station who instituted a total general strike in response to hostage killings by the Stratemeyers.
+**Summary**: A leader on [[eternity-station|Eternity Station]] who instituted a total general strike in response to hostage killings by [[the-stratemeyers|the Stratemeyers]].
 
 **Last updated**: 2026-09-20
 

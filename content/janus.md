@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Janus Asteroid Base
 
-**Summary**: Covert research outpost in the Arico belt operated by Carbrooke Minerals under Erebus Power, housing a 40-person team dedicated to classified studies.
+**Summary**: Covert research outpost in the [[arico-el-nuevo|Arico]] belt operated by Carbrooke Minerals under [[erebus-power|Erebus Power]], housing a 40-person team dedicated to classified studies.
 
 **Last updated**: 2026-09-20
 

@@ -14,7 +14,7 @@ category: person
 
 # Jean Luc Cartier
 
-**Summary**: Young Csabai nobleman and nephew of Viscount Rittenhouse who eloped to Marcolandia aboard the Raconteur.
+**Summary**: Young [[csabai|Csabai]] nobleman and nephew of Viscount Rittenhouse who eloped to [[marcolandia|Marcolandia]] aboard [[raconteur|the Raconteur]].
 
 **Last updated**: 2026-09-30
 

@@ -17,7 +17,7 @@ category: concept
 
 # Golden Rat Statue
 
-**Summary**: Gilded rat idol found on a ritual shrine in the Level 1 kitchen of Metropolis Station, flanked by crucified Wu-Ketai guards.
+**Summary**: Gilded rat idol found on a ritual shrine in the Level 1 kitchen of [[metropolis-station|Metropolis Station]], flanked by crucified [[wu-ketai|Wu-Ketai]] guards.
 
 **Last updated**: 2026-09-30
 

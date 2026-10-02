@@ -17,7 +17,7 @@ category: person
 
 # Dr. Vance
 
-**Summary**: Wu-Ketai scientist on Suliman who recaptured an escaped simian and walked into BIAS CCR's ambush in the animal pen labs.
+**Summary**: [[wu-ketai|Wu-Ketai]] scientist on [[suliman|Suliman]] who recaptured an escaped simian and walked into BIAS CCR's ambush in the animal pen labs.
 
 **Last updated**: 2026-09-30
 

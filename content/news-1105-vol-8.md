@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 8
 
-**Summary**: Dispatches spanning days 129 to 131 of 1105 on Arico El Nuevo and Eternity Station via Ridpath, covering pop star Sabrina's scheduled arrival on Arico, lethal vigilante riots in the Cairo district resulting in martial law, banking profit records, a general strike on Eternity Station following hostage executions, and an encrypted underworld assassination leak from Leluz.
+**Summary**: Dispatches spanning days 129 to 131 of 1105 on [[arico-el-nuevo|Arico El Nuevo]] and [[eternity-station|Eternity Station]] via [[ridpath|Ridpath]], covering pop star [[sabrina|Sabrina]]'s scheduled arrival on Arico, lethal vigilante riots in the Cairo district resulting in martial law, banking profit records, a general strike on Eternity Station following hostage executions, and an encrypted underworld assassination leak from [[leluz|Leluz]].
 
 **Last updated**: 2026-09-20
 

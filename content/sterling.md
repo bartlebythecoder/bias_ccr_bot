@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Sterling
 
-**Summary**: Arrogant and patronizing head butler of Csabai Palace who managed domestic staff and summarily dismissed security chief Morgan following the Beaugard theft.
+**Summary**: Arrogant and patronizing head butler of [[csabai-palace|Csabai Palace]] who managed domestic staff and summarily dismissed security chief [[morgan|Morgan]] following the Beaugard theft.
 
 **Last updated**: 2026-09-20
 

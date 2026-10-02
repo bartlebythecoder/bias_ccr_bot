@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Cal's Dream
 
-**Summary**: Berthed starship belonging to information broker Calmer Singh at Berth 17 of Csabai Starport Alpha, where his murdered crew was discovered.
+**Summary**: Berthed starship belonging to information broker [[calmer-singh|Calmer Singh]] at Berth 17 of [[csabai-starport-alpha|Csabai Starport Alpha]], where his murdered crew was discovered.
 
 **Last updated**: 2026-09-20
 

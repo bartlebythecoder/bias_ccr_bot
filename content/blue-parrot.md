@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Blue Parrot
 
-**Summary**: Seedy tavern located in the GAS town industrial district of Startown Liberty on Romentino, site of Harry Proud's final meeting before his murder.
+**Summary**: Seedy tavern located in the GAS town industrial district of [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]], site of [[harry-proud|Harry Proud]]'s final meeting before his murder.
 
 **Last updated**: 2026-09-20
 

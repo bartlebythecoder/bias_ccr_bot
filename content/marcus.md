@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Marcus
 
-**Summary**: Teenage gambler at Rickeys casino in Startown Liberty and social companion of kidnapping victim Elin Butler.
+**Summary**: Teenage gambler at Rickeys casino in [[startown-liberty|Startown Liberty]] and social companion of kidnapping victim [[elin-butler|Elin Butler]].
 
 **Last updated**: 2026-09-20
 

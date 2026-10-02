@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Lord Julian
 
-**Summary**: Son of Viscount Rittenhouse, who was drugged by his girlfriend Vivienne LaCroix while guarding the Beaugard painting in Csabai Palace.
+**Summary**: Son of Viscount Rittenhouse, who was drugged by his girlfriend [[vivienne-lacroix|Vivienne LaCroix]] while guarding the Beaugard painting in [[csabai-palace|Csabai Palace]].
 
 **Last updated**: 2026-09-20
 

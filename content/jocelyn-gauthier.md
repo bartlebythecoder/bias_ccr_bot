@@ -13,7 +13,7 @@ category: person
 
 # Jocelyn Gauthier
 
-**Summary**: Former Csabai servant who eloped with Jean Luc Cartier aboard the Raconteur.
+**Summary**: Former [[csabai|Csabai]] servant who eloped with [[jean-luc-cartier|Jean Luc Cartier]] aboard [[raconteur|the Raconteur]].
 
 **Last updated**: 2026-09-30
 

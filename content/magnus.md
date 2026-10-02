@@ -8,7 +8,7 @@ category: character
 ---
 # Magnus
 
-**Summary**: Scavenger-diver aboard The Bell and survivor of the Saltpeter crew, which tore itself apart after finding a relic in Metropolis.
+**Summary**: Scavenger-diver aboard [[the-bell|The Bell]] and survivor of [[saltpeter|the Saltpeter]] crew, which tore itself apart after finding a relic in Metropolis.
 
 **Last updated**: 2026-09-30
 

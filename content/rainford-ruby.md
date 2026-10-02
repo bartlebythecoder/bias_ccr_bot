@@ -14,7 +14,7 @@ category: person
 
 # Rainford Ruby
 
-**Summary**: Marcolandia industrialist and cousin of Kino Yuba Foust who organized the failed heist on the Foust Refinery.
+**Summary**: [[marcolandia|Marcolandia]] industrialist and cousin of [[kino-yuba-foust|Kino Yuba Foust]] who organized the failed heist on the [[foust-refinery|Foust Refinery]].
 
 **Last updated**: 2026-09-30
 

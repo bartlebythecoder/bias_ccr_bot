@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Theos Bar
 
-**Summary**: Popular tavern and meeting place in Csabai Starport Alpha frequented by starport fixers, travelers, and Irklan cultural go-between Inkulan.
+**Summary**: Popular tavern and meeting place in [[csabai-starport-alpha|Csabai Starport Alpha]] frequented by starport fixers, travelers, and [[irklan|Irklan]] cultural go-between [[inkulan|Inkulan]].
 
 **Last updated**: 2026-09-20
 

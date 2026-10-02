@@ -16,7 +16,7 @@ category: person
 
 # Isaiah
 
-**Summary**: Articulate uplifted simian freed from Wu-Ketai's Suliman labs who chose to stay with BIAS CCR.
+**Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with BIAS CCR.
 
 **Last updated**: 2026-09-30
 

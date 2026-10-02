@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Major Samson
 
-**Summary**: Imperial noble and former military officer residing on Romentino who openly praised the crew for outmaneuvering Ling Standard Products.
+**Summary**: Imperial noble and former military officer residing on [[romentino|Romentino]] who openly praised the crew for outmaneuvering [[ling-standard-products|Ling Standard Products]].
 
 **Last updated**: 2026-09-20
 

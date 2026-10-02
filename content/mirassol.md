@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # Mirassol
 
-**Summary**: Extremely frigid, low-oxygen moon in the Romentino system hosting K.C. Station, dangerous indigenous cryo-fauna, a crashed battle cruiser, and a buried Ancient pyramid.
+**Summary**: Extremely frigid, low-oxygen moon in the [[romentino|Romentino]] system hosting [[kc-station|K.C. Station]], dangerous indigenous cryo-fauna, a crashed battle cruiser, and a buried Ancient pyramid.
 
 **Last updated**: 2026-09-20
 

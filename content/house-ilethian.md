@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # House Ilethian
 
-**Summary**: Imperial Great House governing Pleasant Hill subsector under Duke Dulinor, owning 19% of Hortalez et Cie, sponsoring Psalm 134, and demanding a total Imperial ban on psionics.
+**Summary**: Imperial Great House governing [[pleasant-hill|Pleasant Hill]] subsector under [[duke-dulinor|Duke Dulinor]], owning 19% of [[hortalez-et-cie|Hortalez et Cie]], sponsoring [[psalm-134|Psalm 134]], and demanding a total Imperial ban on psionics.
 
 **Last updated**: 2026-09-20
 

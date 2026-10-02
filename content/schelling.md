@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Schelling
 
-**Summary**: Base Manager at K.C. Station on Mirassol; see full profile at [[tricia-schelling|Tricia Schelling]].
+**Summary**: Base Manager at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]]; see full profile at [[tricia-schelling|Tricia Schelling]].
 
 **Last updated**: 2026-09-20
 

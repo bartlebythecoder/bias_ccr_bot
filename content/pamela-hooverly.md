@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Pamela Hooverly
 
-**Summary**: Personal executive assistant to Lord Baltimore aboard his private luxury yacht, harborer of resentment toward Sky.
+**Summary**: Personal executive assistant to [[lord-baltimore|Lord Baltimore]] aboard his private luxury yacht, harborer of resentment toward [[sky|Sky]].
 
 **Last updated**: 2026-09-20
 

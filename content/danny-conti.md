@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Danny Conti
 
-**Summary**: Prospector at Morella Station on Romentino revealed to be an illegal clone duplicate of a deceased miner.
+**Summary**: Prospector at [[morella-station|Morella Station]] on [[romentino|Romentino]] revealed to be an illegal clone duplicate of a deceased miner.
 
 **Last updated**: 2026-09-20
 

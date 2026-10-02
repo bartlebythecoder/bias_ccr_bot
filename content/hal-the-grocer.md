@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Hal the Grocer
 
-**Summary**: Imposing Startown merchant, protector of Sydney Antonelli, and connector for The Red Hand who revealed Blue Lou Boyle's syndicate truce.
+**Summary**: Imposing Startown merchant, protector of [[sydney|Sydney]] Antonelli, and connector for [[the-red-hand|The Red Hand]] who revealed [[blue-lou-boyle|Blue Lou Boyle]]'s syndicate truce.
 
 **Last updated**: 2026-09-20
 

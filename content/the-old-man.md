@@ -15,7 +15,7 @@ category: person
 
 # The Old Man
 
-**Summary**: The contact inside Metropolis Station named in BIAS CCR's dossier, later identified as the diver [[04_knowledge_wikis/bias_ccr_wiki/wiki/arkady|arkady|Arkady]].
+**Summary**: The contact inside [[metropolis-station|Metropolis Station]] named in BIAS CCR's dossier, later identified as the diver [[arkady|Arkady]].
 
 **Last updated**: 2026-09-30
 

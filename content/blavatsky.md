@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Blavatsky
 
-**Summary**: Scientist who created The Cube, the anti-Monarch virus, and was the sole survivor of the team sent to deploy it inside Metropolis Station.
+**Summary**: Scientist who created [[the-cube|The Cube]], the anti-Monarch virus, and was the sole survivor of the team sent to deploy it inside [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

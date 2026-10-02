@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 5
 
-**Summary**: Dispatches spanning days 051 to 093 of 1105 across Subsector J, featuring the Red Hand terrorist attack on Ling Standard Products on Romentino, the first public appearances of Wu-Ketai's uplifted apes on Arico El Nuevo, and musical pop icon Sabrina touring Csabai under Duchess Margaret's Cultural Exchange Tour.
+**Summary**: Dispatches spanning days 051 to 093 of 1105 across Subsector J, featuring [[the-red-hand|the Red Hand]] terrorist attack on [[ling-standard-products|Ling Standard Products]] on [[romentino|Romentino]], the first public appearances of Wu-Ketai's uplifted apes on [[arico-el-nuevo|Arico El Nuevo]], and musical pop icon Sabrina touring Csabai under [[duchess-margaret|Duchess Margaret]]'s Cultural Exchange Tour.
 
 **Last updated**: 2026-09-20
 

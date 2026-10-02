@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Dr. Eva Smart
 
-**Summary**: Chief Medical Officer at Morella Station on Romentino who concealed a secret laboratory door and was attacked by Sarik during a psionic psychotic break.
+**Summary**: Chief Medical Officer at [[morella-station|Morella Station]] on [[romentino|Romentino]] who concealed a secret laboratory door and was attacked by [[sarik|Sarik]] during a psionic psychotic break.
 
 **Last updated**: 2026-09-20
 

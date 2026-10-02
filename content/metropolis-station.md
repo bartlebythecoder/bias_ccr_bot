@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Metropolis Station
 
-**Summary**: Apocryphal, abandoned deep-space research station where Wu-Ketai reportedly conducted forbidden Ancient-assisted memory-transfer experiments resulting in a rogue-AI catastrophe.
+**Summary**: Apocryphal, abandoned deep-space research station where [[wu-ketai|Wu-Ketai]] reportedly conducted forbidden Ancient-assisted memory-transfer experiments resulting in a rogue-AI catastrophe.
 
 **Last updated**: 2026-09-20
 

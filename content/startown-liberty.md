@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Startown Liberty
 
-**Summary**: Frontier starport community on Romentino (pop ~5,000) divided into green safety zones, GAS town industrial sector, and the Barrikday slums.
+**Summary**: Frontier starport community on [[romentino|Romentino]] (pop ~5,000) divided into green safety zones, GAS town industrial sector, and the Barrikday slums.
 
 **Last updated**: 2026-09-20
 

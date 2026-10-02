@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Isambard Replica
 
-**Summary**: Dead synthetic clone of Isambard, some years older than him, found in the Tactical Simulation Suite on Level 2 of Metropolis Station.
+**Summary**: Dead synthetic clone of [[isambard|Isambard]], some years older than him, found in the Tactical Simulation Suite on Level 2 of [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

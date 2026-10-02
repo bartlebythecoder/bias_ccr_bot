@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Ricci Plaza
 
-**Summary**: Upscale public commercial square in Startown Liberty on Romentino featuring civilized cafes and breakfast shops.
+**Summary**: Upscale public commercial square in [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]] featuring civilized cafes and breakfast shops.
 
 **Last updated**: 2026-09-20
 

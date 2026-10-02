@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # House Aledon
 
-**Summary**: One of the Three Great Houses of the Imperium, ruling the Pilar subsector under Duke Norris, holding 18% of Ling Standard Products, and fiercely opposing Psalm 134.
+**Summary**: One of the Three Great Houses of the Imperium, ruling the Pilar subsector under Duke Norris, holding 18% of [[ling-standard-products|Ling Standard Products]], and fiercely opposing [[psalm-134|Psalm 134]].
 
 **Last updated**: 2026-09-20
 

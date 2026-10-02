@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # George Castle
 
-**Summary**: Research scientist formerly stationed at K.C. Station on Mirassol who survived giant spider attacks and departed to join the Psalmist faith.
+**Summary**: Research scientist formerly stationed at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]] who survived giant spider attacks and departed to join the Psalmist faith.
 
 **Last updated**: 2026-09-20
 

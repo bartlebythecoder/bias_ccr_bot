@@ -15,7 +15,7 @@ category: location
 
 # Suliman
 
-**Summary**: Wu-Ketai's mining and research asteroid in the Arico system, home to about 70,000 people and its uplift laboratories.
+**Summary**: [[wu-ketai|Wu-Ketai]]'s mining and research asteroid in the [[arico-el-nuevo|Arico]] system, home to about 70,000 people and its uplift laboratories.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Apex
 
-**Summary**: Advanced floating repulsor/grav-city on Csabai housing corporate regional headquarters, major research libraries, and administrative centers.
+**Summary**: Advanced floating repulsor/grav-city on [[csabai|Csabai]] housing corporate regional headquarters, major research libraries, and administrative centers.
 
 **Last updated**: 2026-09-20
 

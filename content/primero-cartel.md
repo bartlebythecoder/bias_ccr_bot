@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Primero Cartel
 
-**Summary**: Major organized crime syndicate operating across the upscale entertainment districts of Freeport, led by Kaelen Varr and trafficking Sycorax from Eternity Station.
+**Summary**: Major organized crime syndicate operating across the upscale entertainment districts of [[freeport|Freeport]], led by Kaelen Varr and trafficking Sycorax from [[eternity-station|Eternity Station]].
 
 **Last updated**: 2026-09-20
 

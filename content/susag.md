@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # SuSAG
 
-**Summary**: Imperial Megacorporation specializing in chemicals, geneering, pharmaceuticals, and anagathics (DeLeon), protected by TL 12–14 paramilitary security forces.
+**Summary**: Imperial Megacorporation specializing in chemicals, geneering, pharmaceuticals, and anagathics ([[deleon|DeLeon]]), protected by TL 12–14 paramilitary security forces.
 
 **Last updated**: 2026-09-20
 

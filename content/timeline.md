@@ -3,7 +3,7 @@ title: "Campaign Master Timeline"
 ---
 # Solo Subsector J — Campaign Master Timeline
 
-**Summary**: A chronological sequence of events, operations, and planetary jumps undertaken by **BIAS Corporate Conflict Resolution (BIAS CCR)** and major regional events across Sector Solo-6, Subsector J.
+**Summary**: A chronological sequence of events, operations, and planetary jumps undertaken by **[[bias-ccr|BIAS Corporate Conflict Resolution]] (BIAS CCR)** and major regional events across Sector Solo-6, Subsector J.
 
 [[index|← Back to Main Index]]
 

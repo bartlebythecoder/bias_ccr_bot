@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Mushroom Woods
 
-**Summary**: Subterranean fungal forest and cavern wilderness on Csabai where fugitive Psalmist courier Jacob Godard was apprehended.
+**Summary**: Subterranean fungal forest and cavern wilderness on [[csabai|Csabai]] where fugitive Psalmist courier [[jacob-godard|Jacob Godard]] was apprehended.
 
 **Last updated**: 2026-09-20
 

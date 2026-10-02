@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Tricia Schelling
 
-**Summary**: Base Manager at K.C. Station on Mirassol, recognized for her eccentric doll collection and bureaucratic reliance on incoming corporate investigators.
+**Summary**: Base Manager at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]], recognized for her eccentric doll collection and bureaucratic reliance on incoming corporate investigators.
 
 **Last updated**: 2026-09-20
 

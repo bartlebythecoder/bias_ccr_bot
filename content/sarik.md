@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Sarik
 
-**Summary**: Former Imperial marine veteran of the Sanlucar Civil War and Tutin colonist, operating as the heavy combatant and field operative for the crew.
+**Summary**: Former Imperial marine veteran of the [[sanlucar-civil-war|Sanlucar Civil War]] and Tutin colonist, operating as the heavy combatant and field operative for the crew.
 
 **Last updated**: 2026-09-20
 

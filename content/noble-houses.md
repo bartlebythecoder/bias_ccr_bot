@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # Noble Houses
 
-**Summary**: The sixteen aristocratic dynasties entrusted with feudal governance of the Imperium's subsectors, centered on the royal crown of House Alkalikoi and the rival Three Great Houses.
+**Summary**: The sixteen aristocratic dynasties entrusted with feudal governance of the Imperium's subsectors, centered on the royal crown of [[house-alkalikoi|House Alkalikoi]] and the rival Three Great Houses.
 
 **Last updated**: 2026-09-20
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Andy
 
-**Summary**: Real Red Hand operative on Romentino who escorted BIAS CCR into Morella Station under cover as bank compliance auditors.
+**Summary**: [[real-red-hand|Real Red Hand]] operative on [[romentino|Romentino]] who escorted BIAS CCR into [[morella-station|Morella Station]] under cover as bank compliance auditors.
 
 **Last updated**: 2026-09-20
 

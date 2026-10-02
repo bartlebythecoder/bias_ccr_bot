@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Sir Byron Falcon Power
 
-**Summary**: Chairperson of Erebus Power, who spearheaded the launch of the Alexandria supercomputer advisory project.
+**Summary**: Chairperson of [[erebus-power|Erebus Power]], who spearheaded the launch of the Alexandria supercomputer advisory project.
 
 **Last updated**: 2026-09-20
 

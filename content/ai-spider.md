@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # AI Spider
 
-**Summary**: Highly illegal, powerful, and valuable autonomous cybernetic/robotic device recovered from a hidden subterranean cache in the Backways of Romentino.
+**Summary**: Highly illegal, powerful, and valuable autonomous cybernetic/robotic device recovered from a hidden subterranean cache in [[the-backways|the Backways]] of [[romentino|Romentino]].
 
 **Last updated**: 2026-09-20
 

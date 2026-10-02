@@ -15,7 +15,7 @@ category: facility
 
 # Ruby Refinery
 
-**Summary**: Rainford Ruby's metals refinery on Marcolandia, whose earlier robbery started the feud with Kino Yuba Foust.
+**Summary**: [[rainford-ruby|Rainford Ruby]]'s metals refinery on [[marcolandia|Marcolandia]], whose earlier robbery started the feud with [[kino-yuba-foust|Kino Yuba Foust]].
 
 **Last updated**: 2026-09-30
 

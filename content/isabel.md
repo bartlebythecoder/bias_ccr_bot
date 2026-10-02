@@ -21,7 +21,7 @@ tags:
 
 # Isabel
 
-**Summary**: Housemaid at Marie Orslo Jollynn's Freeport mansion who revealed a secret passage during BIAS CCR's raid.
+**Summary**: Housemaid at Marie [[orslo-jollynn|Orslo Jollynn]]'s [[freeport|Freeport]] mansion who revealed a secret passage during BIAS CCR's raid.
 
 **Last updated**: 2026-09-30
 

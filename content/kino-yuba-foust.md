@@ -15,7 +15,7 @@ category: person
 
 # Kino Yuba Foust
 
-**Summary**: Owner of the Foust Refinery on Marcolandia who hired BIAS CCR to protect his stockpiled rare metals.
+**Summary**: Owner of the [[foust-refinery|Foust Refinery]] on [[marcolandia|Marcolandia]] who hired BIAS CCR to protect his stockpiled rare metals.
 
 **Last updated**: 2026-09-30
 

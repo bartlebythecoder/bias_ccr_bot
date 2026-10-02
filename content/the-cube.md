@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # The Cube
 
-**Summary**: Anti-AI virus created by Blavatsky to destroy Monarch, hidden on Level 4 of Metropolis Station.
+**Summary**: Anti-AI virus created by [[blavatsky|Blavatsky]] to destroy [[monarch|Monarch]], hidden on Level 4 of [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

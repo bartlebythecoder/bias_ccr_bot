@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Tomas the Concierge
 
-**Summary**: Concierge at the luxury glass apartment tower in Startown Liberty who resisted a bribe and was subdued by Isambard during the raid on Elin Butler.
+**Summary**: Concierge at the luxury glass apartment tower in [[startown-liberty|Startown Liberty]] who resisted a bribe and was subdued by [[isambard|Isambard]] during the raid on [[elin-butler|Elin Butler]].
 
 **Last updated**: 2026-09-20
 

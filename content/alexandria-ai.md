@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Alexandria AI
 
-**Summary**: Advanced supercomputer knowledge repository and AI advisor developed on Lachat by Erebus Power, strictly built to adhere to Imperial AI advisory regulations.
+**Summary**: Advanced supercomputer knowledge repository and AI advisor developed on [[lachat|Lachat]] by [[erebus-power|Erebus Power]], strictly built to adhere to Imperial AI advisory regulations.
 
 **Last updated**: 2026-09-20
 

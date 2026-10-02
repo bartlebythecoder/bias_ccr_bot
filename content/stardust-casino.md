@@ -10,7 +10,7 @@ category: location
 
 # Stardust Casino
 
-**Summary**: Aging casino in North Lux on Freeport owned by Ortega Frey and used by underworld brokers.
+**Summary**: Aging casino in North Lux on [[freeport|Freeport]] owned by [[ortega-frey|Ortega Frey]] and used by underworld brokers.
 
 **Last updated**: 2026-09-30
 

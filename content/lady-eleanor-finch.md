@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Lady Eleanor Finch
 
-**Summary**: Daughter of Viscount Rittenhouse, who expressed grave concern for her brother Lord Julian during the Beaugard painting theft investigation.
+**Summary**: Daughter of Viscount Rittenhouse, who expressed grave concern for her brother [[lord-julian|Lord Julian]] during the Beaugard painting theft investigation.
 
 **Last updated**: 2026-09-20
 

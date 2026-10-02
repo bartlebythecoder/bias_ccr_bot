@@ -9,7 +9,7 @@ sessions: [70, 71]
 ---
 # Ella
 
-**Summary**: Friendly android on Level 2 of Metropolis Station who mistook BIAS CCR for newly born androids and guided them to the Child King's court.
+**Summary**: Friendly android on Level 2 of [[metropolis-station|Metropolis Station]] who mistook BIAS CCR for newly born androids and guided them to [[child-king|the Child King]]'s court.
 
 **Last updated**: 2026-09-30
 

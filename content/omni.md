@@ -18,7 +18,7 @@ tags:
 
 # Omni
 
-**Summary**: Freeport shell company used by the Zero-G Vipers to launder narcotics money, with Starka Pramerski as its only employee.
+**Summary**: [[freeport|Freeport]] shell company used by the [[zero-g-vipers|Zero-G Vipers]] to launder narcotics money, with [[starka-pramerski|Starka Pramerski]] as its only employee.
 
 **Last updated**: 2026-09-30
 

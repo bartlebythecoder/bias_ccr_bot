@@ -10,7 +10,7 @@ sessions: [76]
 
 # Silas
 
-**Summary**: Independent sub-AI inside Metropolis Station that operates outside Monarch's control.
+**Summary**: Independent sub-AI inside [[metropolis-station|Metropolis Station]] that operates outside [[monarch|Monarch]]'s control.
 
 **Last updated**: 2026-09-30
 

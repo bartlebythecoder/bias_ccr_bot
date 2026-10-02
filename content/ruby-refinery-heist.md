@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Ruby Refinery Heist
 
-**Summary**: 1104 mercenary heist on Marcolandia targeting stockpiled super-metal shipping crates at the independent refinery of Rainford Ruby.
+**Summary**: 1104 mercenary heist on [[marcolandia|Marcolandia]] targeting stockpiled super-metal shipping crates at the independent refinery of [[rainford-ruby|Rainford Ruby]].
 
 **Last updated**: 2026-09-20
 

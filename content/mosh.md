@@ -12,7 +12,7 @@ category: person
 
 # Mosh
 
-**Summary**: Volatile Eternity Station resident linked to Katarin who became a prime suspect in Harvon Sargon's murder.
+**Summary**: Volatile [[eternity-station|Eternity Station]] resident linked to [[katarin|Katarin]] who became a prime suspect in [[harvon-sargon|Harvon Sargon]]'s murder.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Sky
 
-**Summary**: Commercial flyer pilot at K.C. Station, former Imperial Marine, and Cooper's local contact who joined the crew's raid on the Mirassol Pyramid for an equal share of artifacts.
+**Summary**: Commercial flyer pilot at [[kc-station|K.C. Station]], former Imperial Marine, and [[cooper|Cooper]]'s local contact who joined the crew's raid on the [[mirassol-pyramid|Mirassol Pyramid]] for an equal share of artifacts.
 
 **Last updated**: 2026-09-20
 

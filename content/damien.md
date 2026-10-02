@@ -9,7 +9,7 @@ sessions: [68, 69, 70, 71, 74, 75, 77]
 ---
 # Damien
 
-**Summary**: Young android on Metropolis Station working against Monarch and linked to The Cube, whom BIAS CCR set out to find.
+**Summary**: Young android on [[metropolis-station|Metropolis Station]] working against [[monarch|Monarch]] and linked to [[the-cube|The Cube]], whom BIAS CCR set out to find.
 
 **Last updated**: 2026-09-30
 

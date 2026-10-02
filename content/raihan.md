@@ -11,7 +11,7 @@ sessions: [71]
 
 # Raihan
 
-**Summary**: Maintenance android on Metropolis Station's lower decks, fixated on a twelve-hour rescue protocol.
+**Summary**: Maintenance android on [[metropolis-station|Metropolis Station]]'s lower decks, fixated on a twelve-hour rescue protocol.
 
 **Last updated**: 2026-09-30
 

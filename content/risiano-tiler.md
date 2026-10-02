@@ -10,7 +10,7 @@ category: person
 
 # Risiano Tiler
 
-**Summary**: Independent investigative journalist in the Arico system who shares leads with BIAS CCR.
+**Summary**: Independent investigative journalist in the [[arico-el-nuevo|Arico]] system who shares leads with BIAS CCR.
 
 **Last updated**: 2026-09-30
 

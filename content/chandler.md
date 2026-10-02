@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Chandler
 
-**Summary**: Art historian and courier who transported the Beaugard painting on loan from Kidderminster to Csabai Palace.
+**Summary**: Art historian and courier who transported the Beaugard painting on loan from [[kidderminster|Kidderminster]] to [[csabai-palace|Csabai Palace]].
 
 **Last updated**: 2026-09-20
 

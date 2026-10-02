@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Henry's Tavern
 
-**Summary**: Popular drinking establishment and concourse venue in Csabai Starport Alpha, site of Calmer Singh's assassination.
+**Summary**: Popular drinking establishment and concourse venue in [[csabai-starport-alpha|Csabai Starport Alpha]], site of [[calmer-singh|Calmer Singh]]'s assassination.
 
 **Last updated**: 2026-09-20
 

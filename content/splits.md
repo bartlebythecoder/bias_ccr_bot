@@ -13,7 +13,7 @@ category: person
 
 # Splits
 
-**Summary**: Card player at The Blue Moose on Suliman whose poker game gave Isambard useful rumors.
+**Summary**: Card player at [[the-blue-moose|The Blue Moose]] on [[suliman|Suliman]] whose poker game gave [[isambard|Isambard]] useful rumors.
 
 **Last updated**: 2026-09-30
 

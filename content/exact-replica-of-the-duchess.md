@@ -12,7 +12,7 @@ sessions: [77]
 
 # Exact Replica of the Duchess
 
-**Summary**: Inert android duplicate of Duchess Margaret made by Monarch inside Metropolis Station and recovered by BIAS CCR.
+**Summary**: Inert android duplicate of [[duchess-margaret|Duchess Margaret]] made by [[monarch|Monarch]] inside [[metropolis-station|Metropolis Station]] and recovered by BIAS CCR.
 
 **Last updated**: 2026-09-30
 

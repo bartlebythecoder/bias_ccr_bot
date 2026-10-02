@@ -14,7 +14,7 @@ category: world
 
 # Arico El Nuevo
 
-**Summary**: Wealthy high-tech asteroid-belt world (1324) governed as a feudal technocracy, with its capital at the Freeport Torus and Wu-Ketai's operations on Suliman.
+**Summary**: Wealthy high-tech asteroid-belt world (1324) governed as a feudal technocracy, with its capital at the [[freeport|Freeport]] Torus and [[wu-ketai|Wu-Ketai]]'s operations on [[suliman|Suliman]].
 
 **Last updated**: 2026-09-30
 

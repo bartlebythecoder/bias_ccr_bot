@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # The Stratemeyers
 
-**Summary**: Militarized mining syndicate based in the lawless Dark Crescent of the Arico belt, secretly commanded by banker [[orslo-jollynn|Orslo Jollyn]] until her 1105 assassination.
+**Summary**: Militarized mining syndicate based in the lawless [[dark-crescent|Dark Crescent]] of the [[arico-el-nuevo|Arico]] belt, secretly commanded by banker [[orslo-jollynn|Orslo Jollyn]] until her 1105 assassination.
 
 **Last updated**: 2026-09-20
 

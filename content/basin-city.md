@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Basin City
 
-**Summary**: Major surface metropolis on Csabai, location of the regional Csabai Psalmist Center and municipal transit links.
+**Summary**: Major surface metropolis on [[csabai|Csabai]], location of the regional [[csabai-psalmist-center|Csabai Psalmist Center]] and municipal transit links.
 
 **Last updated**: 2026-09-20
 

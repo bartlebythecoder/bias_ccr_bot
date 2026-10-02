@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Ancient Orb
 
-**Summary**: Precursor artifact recovered from the Mirassol Pyramid; a crystalline sphere emitting a luminous azure glow, initially mistaken for the source of regional psionic blasts.
+**Summary**: Precursor artifact recovered from the [[mirassol-pyramid|Mirassol Pyramid]]; a crystalline sphere emitting a luminous azure glow, initially mistaken for the source of regional psionic blasts.
 
 **Last updated**: 2026-09-20
 

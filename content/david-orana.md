@@ -14,7 +14,7 @@ category: person
 
 # David Orana
 
-**Summary**: Wu-Ketai research technician on Suliman who pointed BIAS CCR toward Shailok and the Care Facility in the Lundquist case.
+**Summary**: [[wu-ketai|Wu-Ketai]] research technician on [[suliman|Suliman]] who pointed BIAS CCR toward [[shailok|Shailok]] and the Care Facility in the Lundquist case.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Chris Silverson
 
-**Summary**: Wu-Ketai scientist from the Human Emulation Labs on Metropolis Station, known to the crew only from an ID badge Sarik found.
+**Summary**: [[wu-ketai|Wu-Ketai]] scientist from the Human Emulation Labs on [[metropolis-station|Metropolis Station]], known to the crew only from an ID badge [[sarik|Sarik]] found.
 
 **Last updated**: 2026-09-30
 

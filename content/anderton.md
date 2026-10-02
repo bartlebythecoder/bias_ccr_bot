@@ -15,7 +15,7 @@ category: person
 
 # Anderton
 
-**Summary**: Wu-Ketai security officer on Suliman who detained BIAS CCR after the Warrens street brawl and warned them against further disturbances.
+**Summary**: [[wu-ketai|Wu-Ketai]] security officer on [[suliman|Suliman]] who detained BIAS CCR after [[the-warrens|the Warrens]] street brawl and warned them against further disturbances.
 
 **Last updated**: 2026-09-30
 

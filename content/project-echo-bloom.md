@@ -19,7 +19,7 @@ category: project
 
 # Project Echo Bloom
 
-**Summary**: Secret Wu-Ketai program on Suliman that siphons lifespan from victims, leaving them artificially aged.
+**Summary**: Secret [[wu-ketai|Wu-Ketai]] program on [[suliman|Suliman]] that siphons lifespan from victims, leaving them artificially aged.
 
 **Last updated**: 2026-09-30
 

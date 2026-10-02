@@ -15,7 +15,7 @@ category: person
 
 # Anya (Suliman)
 
-**Summary**: Wu-Ketai security officer at Suliman's arrivals checkpoint who interrogated Beck under her Emily Cora cover.
+**Summary**: [[wu-ketai|Wu-Ketai]] security officer at [[suliman|Suliman]]'s arrivals checkpoint who interrogated [[beck|Beck]] under her Emily Cora cover.
 
 **Last updated**: 2026-09-30
 

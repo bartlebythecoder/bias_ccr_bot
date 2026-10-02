@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Beck
 
-**Summary**: High-society psychological profiler from Kidderminster who serves as medical specialist, interrogator, and social engineer for the crew.
+**Summary**: High-society psychological profiler from [[kidderminster|Kidderminster]] who serves as medical specialist, interrogator, and social engineer for the crew.
 
 **Last updated**: 2026-09-20
 

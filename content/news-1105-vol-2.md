@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 2
 
-**Summary**: Dispatches covering late 1104 into early 1105, including SuSAG's anagathic drug DeLeon, Pleasant Hill ceding governance to the Children of the Psalms with Duke Dulinor's backing, and stalled diplomatic talks between Kidderminster and Sanlucar over war crime trials.
+**Summary**: Dispatches covering late 1104 into early 1105, including SuSAG's anagathic drug [[deleon|DeLeon]], [[pleasant-hill|Pleasant Hill]] ceding governance to the [[children-of-the-psalms|Children of the Psalms]] with [[duke-dulinor|Duke Dulinor]]'s backing, and stalled diplomatic talks between [[kidderminster|Kidderminster]] and Sanlucar over war crime trials.
 
 **Last updated**: 2026-09-20
 

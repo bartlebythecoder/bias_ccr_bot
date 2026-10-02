@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Screetch
 
-**Summary**: Starlight-addicted son of shuttle pilot Harry Proud who fatally stabbed his father and experienced precognitive visions through the purple-glowing Ancient Orb.
+**Summary**: Starlight-addicted son of shuttle pilot [[harry-proud|Harry Proud]] who fatally stabbed his father and experienced precognitive visions through the purple-glowing [[ancient-orb|Ancient Orb]].
 
 **Last updated**: 2026-09-20
 

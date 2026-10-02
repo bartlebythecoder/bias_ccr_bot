@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Calmer Singh
 
-**Summary**: Information broker on Csabai assassinated by an Irklan poisoned dart outside Henry's Tavern, whose data logs exposed The Doves' conspiracy.
+**Summary**: Information broker on [[csabai|Csabai]] assassinated by an [[irklan|Irklan]] poisoned dart outside [[henrys-tavern|Henry's Tavern]], whose data logs exposed [[the-doves|The Doves]]' conspiracy.
 
 **Last updated**: 2026-09-20
 

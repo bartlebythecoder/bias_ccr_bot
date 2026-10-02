@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Umdala
 
-**Summary**: Supreme overall crime lord and executive head of The Red Hand on Romentino, superior to captain Eminshi Moth.
+**Summary**: Supreme overall crime lord and executive head of [[the-red-hand|The Red Hand]] on [[romentino|Romentino]], superior to captain [[eminshi-moth|Eminshi Moth]].
 
 **Last updated**: 2026-09-20
 

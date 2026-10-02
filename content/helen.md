@@ -12,7 +12,7 @@ sessions: [72]
 
 # Helen
 
-**Summary**: Ghostly projection of a K.C. Station fixer that BIAS CCR met and disrupted with EMP grenades in Metropolis Station's Tool Shed.
+**Summary**: Ghostly projection of a [[kc-station|K.C. Station]] fixer that BIAS CCR met and disrupted with EMP grenades in [[metropolis-station|Metropolis Station]]'s Tool Shed.
 
 **Last updated**: 2026-09-30
 

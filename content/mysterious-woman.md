@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Mysterious Woman
 
-**Summary**: Unidentified operative on Romentino who warned BIAS CCR of an imminent kidnapping ambush organized by Eminshi Moth.
+**Summary**: Unidentified operative on [[romentino|Romentino]] who warned BIAS CCR of an imminent kidnapping ambush organized by [[eminshi-moth|Eminshi Moth]].
 
 **Last updated**: 2026-09-20
 

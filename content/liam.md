@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Liam
 
-**Summary**: Mechanic at K.C. Station on Mirassol and friend of Isambard, who was coerced by Blue Lou Boyle into raiding the Mirassol Pyramid and was found dead.
+**Summary**: Mechanic at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]] and friend of [[isambard|Isambard]], who was coerced by [[blue-lou-boyle|Blue Lou Boyle]] into raiding the [[mirassol-pyramid|Mirassol Pyramid]] and was found dead.
 
 **Last updated**: 2026-09-20
 

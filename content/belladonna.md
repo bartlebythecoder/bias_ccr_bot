@@ -18,7 +18,7 @@ tags:
 
 # Belladonna
 
-**Summary**: Starship berthed at Freeport's Class A starport and linked to underworld figure Conde Borbon.
+**Summary**: Starship berthed at [[freeport|Freeport]]'s Class A starport and linked to underworld figure [[conde-borbon|Conde Borbon]].
 
 **Last updated**: 2026-09-30
 

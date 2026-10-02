@@ -8,7 +8,7 @@ category: character
 ---
 # Noriko
 
-**Summary**: Retired scavenger-diver aboard The Bell, the lone survivor of her crew, with rare knowledge of Monarch and the Minotaur.
+**Summary**: Retired scavenger-diver aboard [[the-bell|The Bell]], the lone survivor of her crew, with rare knowledge of [[monarch|Monarch]] and [[the-minotaur|the Minotaur]].
 
 **Last updated**: 2026-09-30
 

@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Pleasant Hill
 
-**Summary**: System 1218, capital of the Pleasant Hill Subsector, governed by the Children of the Psalms.
+**Summary**: System 1218, capital of the Pleasant Hill Subsector, governed by the [[children-of-the-psalms|Children of the Psalms]].
 
 **Last updated**: 2026-09-20
 

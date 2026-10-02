@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # Jollynn Trust
 
-**Summary**: Overview of the leadership, corporate structure, and recent financial dealings of the Jollynn Trust on Freeport.
+**Summary**: Overview of the leadership, corporate structure, and recent financial dealings of the Jollynn Trust on [[freeport|Freeport]].
 
 **Last updated**: 2026-09-20
 

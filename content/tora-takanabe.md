@@ -23,7 +23,7 @@ tags:
 
 # Tora Takanabe
 
-**Summary**: Cold, calculating President of Jollynn Trust on Freeport, once kidnapped by Hunter's Heroes.
+**Summary**: Cold, calculating President of [[jollynn-trust|Jollynn Trust]] on [[freeport|Freeport]], once kidnapped by [[hunters-heroes|Hunter's Heroes]].
 
 **Last updated**: 2026-09-30
 

@@ -14,7 +14,7 @@ category: person
 
 # Carl Parker
 
-**Summary**: Union leader on Suliman who helped BIAS CCR pose as a workers' rights delegation to search for Richard Lundquist.
+**Summary**: Union leader on [[suliman|Suliman]] who helped BIAS CCR pose as a workers' rights delegation to search for [[richard-lundquist|Richard Lundquist]].
 
 **Last updated**: 2026-09-30
 

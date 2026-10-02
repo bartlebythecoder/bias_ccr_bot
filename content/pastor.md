@@ -17,7 +17,7 @@ category: person
 
 # Pastor
 
-**Summary**: Laborer in Suliman's core laboratories who told Isambard about the lab's management under Dr. Young and Dr. Harknett.
+**Summary**: Laborer in [[suliman|Suliman]]'s core laboratories who told [[isambard|Isambard]] about the lab's management under [[dr-young|Dr. Young]] and [[dr-harknett|Dr. Harknett]].
 
 **Last updated**: 2026-09-30
 

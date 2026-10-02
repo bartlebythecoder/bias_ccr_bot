@@ -12,7 +12,7 @@ category: person
 
 # Angus
 
-**Summary**: Information broker on Eternity Station who flagged BIAS CCR's arrival to the dockmaster and later sold them the Metropolis dossier.
+**Summary**: Information broker on [[eternity-station|Eternity Station]] who flagged BIAS CCR's arrival to the dockmaster and later sold them the Metropolis dossier.
 
 **Last updated**: 2026-09-30
 

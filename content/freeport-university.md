@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Freeport University
 
-**Summary**: Prominent academic institution and campus on Csabai attended by student Chloe Vinit, site of the intelligence shakedown.
+**Summary**: Prominent academic institution and campus on [[csabai|Csabai]] attended by student [[chloe-vinit|Chloe Vinit]], site of the intelligence shakedown.
 
 **Last updated**: 2026-09-20
 

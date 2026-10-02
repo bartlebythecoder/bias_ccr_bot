@@ -15,7 +15,7 @@ category: person
 
 # Elara
 
-**Summary**: Care Facility worker on Suliman who confirmed that the dying "Dickie Lundquist" and Hector Nilasen had been admitted as aged patients.
+**Summary**: Care Facility worker on [[suliman|Suliman]] who confirmed that the dying "Dickie Lundquist" and [[hector|Hector]] Nilasen had been admitted as aged patients.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Agnes Tuttle
 
-**Summary**: Head housekeeper of Csabai Palace who oversees domestic maintenance, room servicing, and household staff for Viscount Rittenhouse.
+**Summary**: Head housekeeper of [[csabai-palace|Csabai Palace]] who oversees domestic maintenance, room servicing, and household staff for Viscount Rittenhouse.
 
 **Last updated**: 2026-09-20
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Gunther Charm
 
-**Summary**: Rig Manager in executive command of Morella Station on Romentino who granted inspection access to the undercover BIAS CCR team.
+**Summary**: Rig Manager in executive command of [[morella-station|Morella Station]] on [[romentino|Romentino]] who granted inspection access to the undercover BIAS CCR team.
 
 **Last updated**: 2026-09-20
 

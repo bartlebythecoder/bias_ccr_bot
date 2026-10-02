@@ -15,7 +15,7 @@ category: facility
 
 # Foust Refinery
 
-**Summary**: Kino Yuba Foust's rare metals refinery in Hollow on Marcolandia, which BIAS CCR defended against Rainford Ruby's heist.
+**Summary**: [[kino-yuba-foust|Kino Yuba Foust]]'s rare metals refinery in Hollow on [[marcolandia|Marcolandia]], which BIAS CCR defended against [[rainford-ruby|Rainford Ruby]]'s heist.
 
 **Last updated**: 2026-09-30
 

@@ -15,7 +15,7 @@ category: starship
 
 # Saltpeter
 
-**Summary**: Salvage starship whose diving crew worked inside Metropolis Station and left Lars behind.
+**Summary**: Salvage starship whose diving crew worked inside [[metropolis-station|Metropolis Station]] and left [[lars|Lars]] behind.
 
 **Last updated**: 2026-09-30
 

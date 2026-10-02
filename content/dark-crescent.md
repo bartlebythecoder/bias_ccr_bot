@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Dark Crescent
 
-**Summary**: The remote, lawless outer region of the Arico asteroid belt, home to Eternity Station and the militarized Stratemeyer Syndicate.
+**Summary**: The remote, lawless outer region of the [[arico-el-nuevo|Arico]] asteroid belt, home to [[eternity-station|Eternity Station]] and the militarized Stratemeyer Syndicate.
 
 **Last updated**: 2026-09-20
 

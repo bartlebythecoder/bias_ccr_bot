@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 6
 
-**Summary**: Dispatches spanning days 087 to 113 of 1105 across Subsector J, featuring an anti-telepath lynching on Arico El Nuevo, stock surges and pressure crystal speculation on Kidderminster, the arrest of Psalmist Center leader Darlene Suitor in Csabai on drug/murder charges, severe reconstruction equipment shortages on Sanlucar, and controversial Ancient-fauna research at Nesvorny University.
+**Summary**: Dispatches spanning days 087 to 113 of 1105 across Subsector J, featuring an anti-telepath lynching on [[arico-el-nuevo|Arico El Nuevo]], stock surges and pressure crystal speculation on [[kidderminster|Kidderminster]], the arrest of Psalmist Center leader [[darlene-suitor|Darlene Suitor]] in [[csabai|Csabai]] on drug/murder charges, severe reconstruction equipment shortages on Sanlucar, and controversial Ancient-fauna research at [[nesvorny-university|Nesvorny University]].
 
 **Last updated**: 2026-09-20
 

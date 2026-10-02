@@ -13,7 +13,7 @@ category: person
 
 # Cindy
 
-**Summary**: Young girl who greeted Asher and Sarik and offered directions in the Green Area of Suliman's core laboratories.
+**Summary**: Young girl who greeted [[asher|Asher]] and [[sarik|Sarik]] and offered directions in the Green Area of [[suliman|Suliman]]'s core laboratories.
 
 **Last updated**: 2026-09-30
 

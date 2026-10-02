@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Orslo Jollynn
 
-**Summary**: Influential banker, philanthropist, and CEO of Jollynn Trust on Arico El Nuevo who was murdered in 1105 and exposed as the secret mastermind of the Stratemeyer Syndicate.
+**Summary**: Influential banker, philanthropist, and CEO of [[jollynn-trust|Jollynn Trust]] on [[arico-el-nuevo|Arico El Nuevo]] who was murdered in 1105 and exposed as the secret mastermind of the Stratemeyer Syndicate.
 
 **Last updated**: 2026-09-20
 

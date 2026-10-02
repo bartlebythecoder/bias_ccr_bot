@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Marius Hope
 
-**Summary**: Chief of Security at Morella Station on Romentino responsible for internal surveillance and facility enforcement.
+**Summary**: Chief of Security at [[morella-station|Morella Station]] on [[romentino|Romentino]] responsible for internal surveillance and facility enforcement.
 
 **Last updated**: 2026-09-20
 

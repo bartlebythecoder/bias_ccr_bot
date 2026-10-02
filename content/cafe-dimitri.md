@@ -23,7 +23,7 @@ tags:
 
 # Cafe Dimitri
 
-**Summary**: Fortified members-only clubhouse of the Zero-G Vipers in Freeport's Jonestown district, where BIAS CCR found the occupants already executed.
+**Summary**: Fortified members-only clubhouse of the [[zero-g-vipers|Zero-G Vipers]] in [[freeport|Freeport]]'s Jonestown district, where BIAS CCR found the occupants already executed.
 
 **Last updated**: 2026-09-30
 

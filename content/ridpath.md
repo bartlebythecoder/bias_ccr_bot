@@ -13,7 +13,7 @@ category: person
 
 # Ridpath
 
-**Summary**: Freeport attorney who acts as Demon Prince Yandee's legal counsel and BIAS CCR's only channel to her.
+**Summary**: [[freeport|Freeport]] attorney who acts as [[yandee|Demon Prince Yandee]]'s legal counsel and BIAS CCR's only channel to her.
 
 **Last updated**: 2026-09-30
 

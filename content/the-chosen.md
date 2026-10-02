@@ -11,7 +11,7 @@ sessions: [71]
 
 # The Chosen
 
-**Summary**: Armed android caste serving the Child King and Monarch on Level 2 of Metropolis Station.
+**Summary**: Armed android caste serving [[child-king|the Child King]] and [[monarch|Monarch]] on Level 2 of [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

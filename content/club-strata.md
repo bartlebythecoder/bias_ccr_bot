@@ -10,7 +10,7 @@ category: location
 
 # Club Strata
 
-**Summary**: Nightclub in The Lux on Freeport where Louise Soto was shot dead while waiting in line.
+**Summary**: Nightclub in The Lux on [[freeport|Freeport]] where [[louise-soto|Louise Soto]] was shot dead while waiting in line.
 
 **Last updated**: 2026-09-30
 

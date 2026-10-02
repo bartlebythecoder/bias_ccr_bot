@@ -17,7 +17,7 @@ category: person
 
 # Sargon's Wife
 
-**Summary**: Harvon Sargon's estranged wife, found by BIAS CCR in Bunk 43 on Eternity Station during the murder investigation.
+**Summary**: [[harvon-sargon|Harvon Sargon]]'s estranged wife, found by BIAS CCR in Bunk 43 on [[eternity-station|Eternity Station]] during the murder investigation.
 
 **Last updated**: 2026-09-30
 

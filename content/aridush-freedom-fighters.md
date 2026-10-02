@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Aridush Freedom Fighters
 
-**Summary**: A revolutionary rebel movement on the moon Sanlucar, founded to overthrow the Valentian Republic and resist Psalm 134 influence.
+**Summary**: A revolutionary rebel movement on the moon Sanlucar, founded to overthrow the [[valentian-republic|Valentian Republic]] and resist [[psalm-134|Psalm 134]] influence.
 
 **Last updated**: 2026-09-20
 

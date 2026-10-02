@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 3
 
-**Summary**: Dispatches covering day 034 to 044 of 1105, featuring the diplomatic resolution on Sanlucar with Kidderminster recognizing the Commonwealth States under President Giuliana Weber, and the Imperial Navy lifting travel restrictions in Romentino.
+**Summary**: Dispatches covering day 034 to 044 of 1105, featuring the diplomatic resolution on Sanlucar with [[kidderminster|Kidderminster]] recognizing the Commonwealth States under President [[giuliana-weber|Giuliana Weber]], and the Imperial Navy lifting travel restrictions in [[romentino|Romentino]].
 
 **Last updated**: 2026-09-20
 

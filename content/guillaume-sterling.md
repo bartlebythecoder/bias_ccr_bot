@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Guillaume Sterling
 
-**Summary**: Militant operative of The Doves on Csabai who contracted the Irklan assassin to eliminate Calmer Singh and BIAS CCR, critically wounded in a shotgun duel with Sarik.
+**Summary**: Militant operative of [[the-doves|The Doves]] on [[csabai|Csabai]] who contracted the [[irklan|Irklan]] assassin to eliminate [[calmer-singh|Calmer Singh]] and BIAS CCR, critically wounded in a shotgun duel with [[sarik|Sarik]].
 
 **Last updated**: 2026-09-20
 

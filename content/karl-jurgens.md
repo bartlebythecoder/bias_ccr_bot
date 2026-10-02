@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Karl Jurgens
 
-**Summary**: Industrial mechanic at Morella Station who harbored a secret cloned prospector inside his machinery room.
+**Summary**: Industrial mechanic at [[morella-station|Morella Station]] who harbored a secret cloned prospector inside his machinery room.
 
 **Last updated**: 2026-09-20
 

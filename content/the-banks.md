@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # The Banks
 
-**Summary**: Ruling financial oligopoly of Romentino that exercises de facto governing authority, controls planetary security, and issues law enforcement warrants.
+**Summary**: Ruling financial oligopoly of [[romentino|Romentino]] that exercises de facto governing authority, controls planetary security, and issues law enforcement warrants.
 
 **Last updated**: 2026-09-20
 

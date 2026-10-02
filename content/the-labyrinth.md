@@ -9,7 +9,7 @@ category: location
 ---
 # The Labyrinth
 
-**Summary**: Shifting maze on Level 2 of Metropolis Station where Monarch imprisons the Minotaur.
+**Summary**: Shifting maze on Level 2 of [[metropolis-station|Metropolis Station]] where [[monarch|Monarch]] imprisons [[the-minotaur|the Minotaur]].
 
 **Last updated**: 2026-09-30
 

@@ -14,7 +14,7 @@ category: person
 
 # Silvio Warren
 
-**Summary**: Honest, cantankerous security chief at the Foust Refinery who held the south perimeter during the heist.
+**Summary**: Honest, cantankerous security chief at the [[foust-refinery|Foust Refinery]] who held the south perimeter during the heist.
 
 **Last updated**: 2026-09-30
 

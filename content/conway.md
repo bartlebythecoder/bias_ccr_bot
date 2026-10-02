@@ -17,7 +17,7 @@ last_updated: 2026-09-30
 
 # Officer Conway
 
-**Summary**: Corrupt Wu-Ketai naval officer outside Metropolis Station who took over the perimeter when Kilroy went silent and bargained with BIAS CCR over salvage.
+**Summary**: Corrupt [[wu-ketai|Wu-Ketai]] naval officer outside [[metropolis-station|Metropolis Station]] who took over the perimeter when [[commander-kilroy|Kilroy]] went silent and bargained with BIAS CCR over salvage.
 
 **Last updated**: 2026-09-30
 

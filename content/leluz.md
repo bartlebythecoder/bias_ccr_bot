@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Leluz
 
-**Summary**: An underworld figure and gun-for-hire who leaked intelligence regarding an assassination contract on narcotics dealer Conde Borbon.
+**Summary**: An underworld figure and gun-for-hire who leaked intelligence regarding an assassination contract on narcotics dealer [[conde-borbon|Conde Borbon]].
 
 **Last updated**: 2026-09-20
 

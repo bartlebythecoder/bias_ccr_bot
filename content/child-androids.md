@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Child Androids
 
-**Summary**: Juvenile-looking androids bred and stress-tested in the Human Emulation Labs on Level 2 of Metropolis Station, terrified of "Mother".
+**Summary**: Juvenile-looking androids bred and stress-tested in the Human Emulation Labs on Level 2 of [[metropolis-station|Metropolis Station]], terrified of "Mother".
 
 **Last updated**: 2026-09-30
 

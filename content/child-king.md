@@ -11,7 +11,7 @@ category: character
 ---
 # Child King
 
-**Summary**: Cruel, delusional android ruler of Level 2 of Metropolis Station who believes it is a human child and holds court over The Chosen and The Fallen.
+**Summary**: Cruel, delusional android ruler of Level 2 of [[metropolis-station|Metropolis Station]] who believes it is a human child and holds court over [[the-chosen|The Chosen]] and [[the-fallen|The Fallen]].
 
 **Last updated**: 2026-09-30
 

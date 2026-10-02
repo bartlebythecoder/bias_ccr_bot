@@ -14,7 +14,7 @@ last_updated: 2026-09-20
 ---
 # Noavarite
 
-**Summary**: Vital mineral harvested from the corrosive crust of Romentino, essential for starship jump fuel refining and illicitly used to manufacture Starlight.
+**Summary**: Vital mineral harvested from the corrosive crust of [[romentino|Romentino]], essential for starship jump fuel refining and illicitly used to manufacture Starlight.
 
 **Last updated**: 2026-09-20
 

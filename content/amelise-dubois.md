@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Amelise Dubois
 
-**Summary**: Master palace chef at Csabai Palace who oversees state banquets and culinary operations for Viscount Rittenhouse.
+**Summary**: Master palace chef at [[csabai-palace|Csabai Palace]] who oversees state banquets and culinary operations for Viscount Rittenhouse.
 
 **Last updated**: 2026-09-20
 

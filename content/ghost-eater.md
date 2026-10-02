@@ -9,7 +9,7 @@ category: character
 ---
 # Ghost Eater
 
-**Summary**: Heavily cybernetic scavenger-diver aboard The Bell who dives into Metropolis Station, which the divers call The Deep.
+**Summary**: Heavily cybernetic scavenger-diver aboard [[the-bell|The Bell]] who dives into [[metropolis-station|Metropolis Station]], which the divers call The Deep.
 
 **Last updated**: 2026-09-30
 

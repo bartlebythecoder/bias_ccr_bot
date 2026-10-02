@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # House Liashay
 
-**Summary**: Ruling noble house of the Hess subsector, elevated by the Emperor following the defeat of House Gaval in the Hessian Revolt, led by Duke Shiral Vash Liashav.
+**Summary**: Ruling noble house of the Hess subsector, elevated by the Emperor following the defeat of House Gaval in the [[hessian-revolt|Hessian Revolt]], led by Duke Shiral Vash Liashav.
 
 **Last updated**: 2026-09-20
 

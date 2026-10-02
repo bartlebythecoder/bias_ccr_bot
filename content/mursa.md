@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Mursa
 
-**Summary**: Towering apex predators native to Mirassol in the Romentino system, insulated by nitrogen-hollow fur, feeding on liquid methane plants, and actively hunting humans.
+**Summary**: Towering apex predators native to [[mirassol|Mirassol]] in the [[romentino|Romentino]] system, insulated by nitrogen-hollow fur, feeding on liquid methane plants, and actively hunting humans.
 
 **Last updated**: 2026-09-20
 

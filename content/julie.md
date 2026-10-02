@@ -14,7 +14,7 @@ category: person
 
 # Julie (Telepathic Assassin)
 
-**Summary**: Psionic assassin who posed as a colleague of Louise Soto to infiltrate BIAS CCR and abduct Sarik.
+**Summary**: Psionic assassin who posed as a colleague of [[louise-soto|Louise Soto]] to infiltrate BIAS CCR and abduct [[sarik|Sarik]].
 
 **Last updated**: 2026-09-30
 

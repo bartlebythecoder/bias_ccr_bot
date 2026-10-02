@@ -15,7 +15,7 @@ category: location
 
 # The Rusty Bolt
 
-**Summary**: Cramped Warrens tavern on Suliman frequented by laborers, union members and uplifted simians.
+**Summary**: Cramped Warrens tavern on [[suliman|Suliman]] frequented by laborers, union members and uplifted simians.
 
 **Last updated**: 2026-09-30
 

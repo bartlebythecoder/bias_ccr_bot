@@ -21,7 +21,7 @@ tags:
 
 # Winslow Leach
 
-**Summary**: Freeport professor of Ancient archaeology, secretly funded by Ortega Frey, who helped uncover Project Metropolis.
+**Summary**: [[freeport|Freeport]] professor of Ancient archaeology, secretly funded by [[ortega-frey|Ortega Frey]], who helped uncover Project Metropolis.
 
 **Last updated**: 2026-09-30
 

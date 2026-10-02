@@ -15,7 +15,7 @@ category: organization
 
 # Elliott's Eagles
 
-**Summary**: Five-man mercenary fire team hired by BIAS CCR to guard the Foust Refinery warehouse on Marcolandia.
+**Summary**: Five-man mercenary fire team hired by BIAS CCR to guard the [[foust-refinery|Foust Refinery]] warehouse on [[marcolandia|Marcolandia]].
 
 **Last updated**: 2026-09-30
 

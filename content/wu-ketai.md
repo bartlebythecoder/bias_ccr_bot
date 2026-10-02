@@ -15,7 +15,7 @@ category: corporation
 
 # Wu-Ketai
 
-**Summary**: Bio-engineering, mining and research megacorporation headquartered on Freeport, known for its uplifted simian labor.
+**Summary**: Bio-engineering, mining and research megacorporation headquartered on [[freeport|Freeport]], known for its uplifted simian labor.
 
 **Last updated**: 2026-09-30
 

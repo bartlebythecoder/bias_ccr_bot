@@ -11,7 +11,7 @@ sessions: [77]
 
 # Nuclear Warhead
 
-**Summary**: Strategic nuclear device in a vault deep inside Metropolis Station that BIAS CCR armed to destroy the station and Monarch.
+**Summary**: Strategic nuclear device in a vault deep inside [[metropolis-station|Metropolis Station]] that BIAS CCR armed to destroy the station and [[monarch|Monarch]].
 
 **Last updated**: 2026-09-30
 

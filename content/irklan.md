@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Irklan
 
-**Summary**: An austere, insular mountain culture on Csabai renowned for extreme physical discipline, rejection of advanced technology, and lethal close-quarters martial prowess.
+**Summary**: An austere, insular mountain culture on [[csabai|Csabai]] renowned for extreme physical discipline, rejection of advanced technology, and lethal close-quarters martial prowess.
 
 **Last updated**: 2026-09-20
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-20
 ---
 # Duchess Margaret
 
-**Summary**: Ruling noblewoman of Kidderminster and head of House Yetrina, allied with Tukera Lines, and patron of the subsector-wide Grand Tour cultural initiative.
+**Summary**: Ruling noblewoman of [[kidderminster|Kidderminster]] and head of [[house-yetrina|House Yetrina]], allied with [[tukera-lines|Tukera Lines]], and patron of the subsector-wide Grand Tour cultural initiative.
 
 **Last updated**: 2026-09-20
 

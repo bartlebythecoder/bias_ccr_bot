@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Vivienne LaCroix
 
-**Summary**: High-society socialite and girlfriend of Lord Julian who orchestrated the theft of the Beaugard painting inside Csabai Palace by drugging Julian's coffee.
+**Summary**: High-society socialite and girlfriend of [[lord-julian|Lord Julian]] who orchestrated the theft of the Beaugard painting inside [[csabai-palace|Csabai Palace]] by drugging Julian's coffee.
 
 **Last updated**: 2026-09-20
 

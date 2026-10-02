@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # Morella Station
 
-**Summary**: Subterranean industrial mining settlement on Romentino operated under Rig Manager Gunther Charm; site of an illicit corporate cloning program replacing deceased miners.
+**Summary**: Subterranean industrial mining settlement on [[romentino|Romentino]] operated under Rig Manager [[gunther-charm|Gunther Charm]]; site of an illicit corporate cloning program replacing deceased miners.
 
 **Last updated**: 2026-09-20
 

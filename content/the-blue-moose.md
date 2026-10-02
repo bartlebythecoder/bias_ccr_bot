@@ -16,7 +16,7 @@ category: location
 
 # The Blue Moose
 
-**Summary**: Warrens bar on Suliman where Hector Nilasen was last seen before he vanished.
+**Summary**: Warrens bar on [[suliman|Suliman]] where [[hector|Hector]] Nilasen was last seen before he vanished.
 
 **Last updated**: 2026-09-30
 

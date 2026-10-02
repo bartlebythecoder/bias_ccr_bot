@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Youst Refining
 
-**Summary**: An industrial refining corporation on Marcolandia that secured an exclusive processing monopoly with Hexham Mining.
+**Summary**: An industrial refining corporation on [[marcolandia|Marcolandia]] that secured an exclusive processing monopoly with [[hexham-mining|Hexham Mining]].
 
 **Last updated**: 2026-09-20
 

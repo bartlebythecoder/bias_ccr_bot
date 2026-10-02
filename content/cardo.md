@@ -14,7 +14,7 @@ category: person
 
 # Cardo
 
-**Summary**: Underworld fixer on Suliman who sold BIAS CCR covert access to the restricted Apex Zenith sector for Cr 6,000.
+**Summary**: Underworld fixer on [[suliman|Suliman]] who sold BIAS CCR covert access to the restricted [[apex|Apex]] Zenith sector for Cr 6,000.
 
 **Last updated**: 2026-09-30
 

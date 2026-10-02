@@ -16,7 +16,7 @@ category: location
 
 # Derry
 
-**Summary**: Commercial sector and sushi bar on Suliman where BIAS CCR met secretly with security officer Hector.
+**Summary**: Commercial sector and sushi bar on [[suliman|Suliman]] where BIAS CCR met secretly with security officer [[hector|Hector]].
 
 **Last updated**: 2026-09-30
 

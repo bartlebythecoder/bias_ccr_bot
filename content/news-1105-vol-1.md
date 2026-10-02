@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 1
 
-**Summary**: News dispatches covering the first month of 1105 across Solo Sector Subsector J, featuring the Aridush uprising on Sanlucar, genetic uplifting on Arico El Nuevo, Erebus Power's Alexandria supercomputer announcement on Lachat, humanitarian aid from Nesvorny to Pharr, and shipping travel restrictions in Romentino.
+**Summary**: News dispatches covering the first month of 1105 across Solo Sector Subsector J, featuring the Aridush uprising on Sanlucar, genetic uplifting on [[arico-el-nuevo|Arico El Nuevo]], [[erebus-power|Erebus Power]]'s Alexandria supercomputer announcement on [[lachat|Lachat]], humanitarian aid from [[nesvorny|Nesvorny]] to Pharr, and shipping travel restrictions in [[romentino|Romentino]].
 
 **Last updated**: 2026-09-20
 

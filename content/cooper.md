@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Cooper
 
-**Summary**: Covert espionage patron who recruited the crew to infiltrate K.C. Station on Mirassol and retrieve sensor telemetry from a crashed battle cruiser.
+**Summary**: Covert espionage patron who recruited the crew to infiltrate [[kc-station|K.C. Station]] on [[mirassol|Mirassol]] and retrieve sensor telemetry from a crashed battle cruiser.
 
 **Last updated**: 2026-09-20
 

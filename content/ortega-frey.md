@@ -26,7 +26,7 @@ tags:
 
 # Ortega Frey
 
-**Summary**: Owner of the Stardust Casino on Freeport who secretly funded Winslow Leach's research into Project Metropolis.
+**Summary**: Owner of the [[stardust-casino|Stardust Casino]] on [[freeport|Freeport]] who secretly funded [[winslow-leach|Winslow Leach]]'s research into Project Metropolis.
 
 **Last updated**: 2026-09-30
 

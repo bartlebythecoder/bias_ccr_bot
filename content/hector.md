@@ -16,7 +16,7 @@ category: person
 
 # Hector
 
-**Summary**: Wu-Ketai security officer on Suliman and friend of Richard Lundquist who secretly briefed BIAS CCR, then disappeared himself.
+**Summary**: [[wu-ketai|Wu-Ketai]] security officer on [[suliman|Suliman]] and friend of [[richard-lundquist|Richard Lundquist]] who secretly briefed BIAS CCR, then disappeared himself.
 
 **Last updated**: 2026-09-30
 

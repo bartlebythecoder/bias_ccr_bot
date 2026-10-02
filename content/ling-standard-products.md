@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # Ling Standard Products
 
-**Summary**: Imperial Megacorporation dominating the Lower Circuit from its Nesvorny headquarters, operating Frontier Lines, manufacturing weapons, and funding anti-Psalmist lobbying.
+**Summary**: Imperial Megacorporation dominating the Lower Circuit from its [[nesvorny|Nesvorny]] headquarters, operating Frontier Lines, manufacturing weapons, and funding anti-Psalmist lobbying.
 
 **Last updated**: 2026-09-20
 

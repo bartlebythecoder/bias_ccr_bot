@@ -22,7 +22,7 @@ tags:
 
 # Rico Mathers
 
-**Summary**: Small-time narcotics dealer in Jonestown on Freeport and a close friend of Conde Borbon.
+**Summary**: Small-time narcotics dealer in Jonestown on [[freeport|Freeport]] and a close friend of [[conde-borbon|Conde Borbon]].
 
 **Last updated**: 2026-09-30
 

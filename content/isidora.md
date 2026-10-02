@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Isidora
 
-**Summary**: Professional steward aboard Lord Baltimore's luxury yacht, second cousin to Isambard, and expert informant on the politics and society of Csabai.
+**Summary**: Professional steward aboard [[lord-baltimore|Lord Baltimore]]'s luxury yacht, second cousin to [[isambard|Isambard]], and expert informant on the politics and society of [[csabai|Csabai]].
 
 **Last updated**: 2026-09-20
 

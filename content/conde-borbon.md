@@ -11,7 +11,7 @@ category: person
 
 # Conde Borbon
 
-**Summary**: Independent narcotics dealer on Freeport tied to both the Meinhoff Brigade and the Primero Cartel, sought by several rival parties.
+**Summary**: Independent narcotics dealer on [[freeport|Freeport]] tied to both the [[meinhoff-brigade|Meinhoff Brigade]] and the [[primero-cartel|Primero Cartel]], sought by several rival parties.
 
 **Last updated**: 2026-09-30
 

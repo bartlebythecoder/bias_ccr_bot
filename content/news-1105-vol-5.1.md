@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 5.1
 
-**Summary**: Dispatches spanning days 070 to 092 of 1105 focused entirely on Marcolandia, covering a major refinery monopoly deal between Youst/Foust Refining and Hexham Mining, emergency penal labor recruitment with Ouro Correction, and a systemic shortage of contra-grav surface lifters impacting independent commerce.
+**Summary**: Dispatches spanning days 070 to 092 of 1105 focused entirely on [[marcolandia|Marcolandia]], covering a major refinery monopoly deal between Youst/Foust Refining and [[hexham-mining|Hexham Mining]], emergency penal labor recruitment with Ouro Correction, and a systemic shortage of contra-grav surface lifters impacting independent commerce.
 
 **Last updated**: 2026-09-20
 

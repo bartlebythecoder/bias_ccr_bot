@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Rickeys Casino
 
-**Summary**: Prominent gambling house in the Entertainment district of Startown Liberty frequented by Elin Butler and his associate Marcus.
+**Summary**: Prominent gambling house in the Entertainment district of [[startown-liberty|Startown Liberty]] frequented by [[elin-butler|Elin Butler]] and his associate [[marcus|Marcus]].
 
 **Last updated**: 2026-09-20
 

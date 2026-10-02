@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Sabrina
 
-**Summary**: Popular musical superstar from Kidderminster, headline performer of Duchess Margaret's Cultural Exchange Tour.
+**Summary**: Popular musical superstar from [[kidderminster|Kidderminster]], headline performer of [[duchess-margaret|Duchess Margaret]]'s Cultural Exchange Tour.
 
 **Last updated**: 2026-09-20
 

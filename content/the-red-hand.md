@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # The Red Hand
 
-**Summary**: An extremist anti-mining terrorist organization operating out of Startown Liberty on Romentino.
+**Summary**: An extremist anti-mining terrorist organization operating out of [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]].
 
 **Last updated**: 2026-09-20
 

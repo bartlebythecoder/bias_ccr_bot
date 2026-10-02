@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Beaugard Painting
 
-**Summary**: Masterpiece historic painting on loan from Kidderminster to Viscount Rittenhouse, stolen from the Csabai Palace gallery and recovered by BIAS CCR.
+**Summary**: Masterpiece historic painting on loan from [[kidderminster|Kidderminster]] to Viscount Rittenhouse, stolen from the [[csabai-palace|Csabai Palace]] gallery and recovered by BIAS CCR.
 
 **Last updated**: 2026-09-20
 

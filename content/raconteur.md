@@ -14,7 +14,7 @@ category: starship
 
 # Raconteur
 
-**Summary**: Imperial Scout Service vessel on loan to Isambard, used as BIAS CCR's main transport.
+**Summary**: Imperial Scout Service vessel on loan to [[isambard|Isambard]], used as BIAS CCR's main transport.
 
 **Last updated**: 2026-09-30
 

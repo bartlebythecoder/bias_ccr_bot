@@ -16,7 +16,7 @@ category: person
 
 # Orla
 
-**Summary**: Warrens guide and fixer on Suliman hired by BIAS CCR for Cr 1,500.
+**Summary**: Warrens guide and fixer on [[suliman|Suliman]] hired by BIAS CCR for Cr 1,500.
 
 **Last updated**: 2026-09-30
 

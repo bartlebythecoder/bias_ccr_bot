@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Oberlindes Lines
 
-**Summary**: Major interstellar shipping line in the Kidderminster subsector, established post-Hessian Revolt by Roxanne Hault Oberlindes and now majority-owned by SuSAG.
+**Summary**: Major interstellar shipping line in the [[kidderminster|Kidderminster]] subsector, established post-Hessian Revolt by Roxanne Hault Oberlindes and now majority-owned by [[susag|SuSAG]].
 
 **Last updated**: 2026-09-20
 

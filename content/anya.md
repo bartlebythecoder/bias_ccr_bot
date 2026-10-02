@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Anya
 
-**Summary**: Junior IT technician at Morella Station who provided Asher with critical power telemetry and the deceased employee manifest.
+**Summary**: Junior IT technician at [[morella-station|Morella Station]] who provided [[asher|Asher]] with critical power telemetry and the deceased employee manifest.
 
 **Last updated**: 2026-09-20
 

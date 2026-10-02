@@ -16,7 +16,7 @@ category: person
 
 # Solon
 
-**Summary**: Elite cybernetic surgeon in the Icebox on Eternity Station who fitted Harvon Sargon with an illegal black box.
+**Summary**: Elite cybernetic surgeon in the Icebox on [[eternity-station|Eternity Station]] who fitted [[harvon-sargon|Harvon Sargon]] with an illegal black box.
 
 **Last updated**: 2026-09-30
 

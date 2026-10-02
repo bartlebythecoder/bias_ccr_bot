@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Tutin Pacification
 
-**Summary**: Prolonged 1077–1083 counter-insurgency on Tutin where Kidderminster military forces crushed the militant Order of the Psalms, laying the groundwork for the modern 134 Psalms movement.
+**Summary**: Prolonged 1077–1083 counter-insurgency on Tutin where [[kidderminster|Kidderminster]] military forces crushed the militant Order of the Psalms, laying the groundwork for the modern 134 Psalms movement.
 
 **Last updated**: 2026-09-20
 

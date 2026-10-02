@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Real Red Hand
 
-**Summary**: Militant splinter faction of The Red Hand seeking to break Blue Lou Boyle's syndicate truce by resuming lucrative kidnappings and illicit Starlight exports.
+**Summary**: Militant splinter faction of [[the-red-hand|The Red Hand]] seeking to break [[blue-lou-boyle|Blue Lou Boyle]]'s syndicate truce by resuming lucrative kidnappings and illicit Starlight exports.
 
 **Last updated**: 2026-09-20
 

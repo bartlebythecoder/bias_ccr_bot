@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # Duke Dulinor
 
-**Summary**: Senior Imperial nobleman, Duke of Ilelish and head of Great House Ilethian, wielding controlling equity in Hortalez et Cie, sponsoring Psalm 134, and leading the anti-psionic campaign.
+**Summary**: Senior Imperial nobleman, Duke of Ilelish and head of Great [[house-ilethian|House Ilethian]], wielding controlling equity in [[hortalez-et-cie|Hortalez et Cie]], sponsoring [[psalm-134|Psalm 134]], and leading the anti-psionic campaign.
 
 **Last updated**: 2026-09-20
 

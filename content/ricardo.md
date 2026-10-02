@@ -16,7 +16,7 @@ category: person
 
 # Ricardo
 
-**Summary**: Street cyberneticist in the Icebox on Eternity Station who referred BIAS CCR to the surgeon Solon.
+**Summary**: Street cyberneticist in the Icebox on [[eternity-station|Eternity Station]] who referred BIAS CCR to the surgeon [[solon|Solon]].
 
 **Last updated**: 2026-09-30
 

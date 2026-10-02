@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Marco
 
-**Summary**: Young Romentino street urchin who guided BIAS CCR through the Backways beneath Startown Liberty and salvaged an illegal AI spider.
+**Summary**: Young [[romentino|Romentino]] street urchin who guided BIAS CCR through [[the-backways|the Backways]] beneath [[startown-liberty|Startown Liberty]] and salvaged an illegal AI spider.
 
 **Last updated**: 2026-09-20
 

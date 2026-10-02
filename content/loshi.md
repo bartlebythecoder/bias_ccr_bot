@@ -16,7 +16,7 @@ category: person
 
 # Loshi
 
-**Summary**: Dockmaster at Eternity Station who admitted BIAS CCR on their stolen Wu-Ketai launch.
+**Summary**: Dockmaster at [[eternity-station|Eternity Station]] who admitted BIAS CCR on their stolen [[wu-ketai|Wu-Ketai]] launch.
 
 **Last updated**: 2026-09-30
 

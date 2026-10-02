@@ -24,7 +24,7 @@ tags:
 
 # Palmas
 
-**Summary**: Hunter's Heroes operative on Freeport who taunts Beck and competes with BIAS CCR.
+**Summary**: [[hunters-heroes|Hunter's Heroes]] operative on [[freeport|Freeport]] who taunts [[beck|Beck]] and competes with BIAS CCR.
 
 **Last updated**: 2026-09-30
 

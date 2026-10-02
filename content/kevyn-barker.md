@@ -19,7 +19,7 @@ category: person
 
 # Kevyn Barker
 
-**Summary**: Apparent Wu-Ketai IT intern found locked in a gym locker on Metropolis Station, who passed a blood test but was later confirmed to be an advanced synthetic.
+**Summary**: Apparent [[wu-ketai|Wu-Ketai]] IT intern found locked in a gym locker on [[metropolis-station|Metropolis Station]], who passed a blood test but was later confirmed to be an advanced synthetic.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ category: person
 
 # Stadler
 
-**Summary**: Information broker at the Stardust Casino coffee shop who sold BIAS CCR footage of David Parker's abduction.
+**Summary**: Information broker at the [[stardust-casino|Stardust Casino]] coffee shop who sold BIAS CCR footage of [[david-parker|David Parker]]'s abduction.
 
 **Last updated**: 2026-09-30
 

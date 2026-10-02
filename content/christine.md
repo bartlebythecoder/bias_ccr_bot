@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Christine
 
-**Summary**: Aristocratic woman on Romentino whose younger brother [[elin-butler|Elin Butler]] was abducted by a militant cell of The Red Hand, offering a million-credit rescue contract.
+**Summary**: Aristocratic woman on [[romentino|Romentino]] whose younger brother [[elin-butler|Elin Butler]] was abducted by a militant cell of [[the-red-hand|The Red Hand]], offering a million-credit rescue contract.
 
 **Last updated**: 2026-09-20
 

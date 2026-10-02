@@ -15,7 +15,7 @@ category: person
 
 # Romero
 
-**Summary**: Underworld technician on Suliman who helped BIAS CCR tap the colony's surveillance cameras.
+**Summary**: Underworld technician on [[suliman|Suliman]] who helped BIAS CCR tap the colony's surveillance cameras.
 
 **Last updated**: 2026-09-30
 

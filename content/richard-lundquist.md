@@ -14,7 +14,7 @@ category: person
 
 # Richard Lundquist
 
-**Summary**: Wu-Ketai researcher who vanished on Suliman and was later found artificially aged in the Care Facility.
+**Summary**: [[wu-ketai|Wu-Ketai]] researcher who vanished on [[suliman|Suliman]] and was later found artificially aged in the Care Facility.
 
 **Last updated**: 2026-09-30
 

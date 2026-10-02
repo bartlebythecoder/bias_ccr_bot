@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Sharpshooter
 
-**Summary**: 300-ton Wu-Ketai patrol gunboat on interdiction duty around Metropolis Station.
+**Summary**: 300-ton [[wu-ketai|Wu-Ketai]] patrol gunboat on interdiction duty around [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

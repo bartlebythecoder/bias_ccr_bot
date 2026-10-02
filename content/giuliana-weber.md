@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Giuliana Weber
 
-**Summary**: President of the Commonwealth States of Sanlucar and revolutionary commander of the Aridush Freedom Fighters, driven by historical trauma from the 1089 Civil War.
+**Summary**: President of the [[commonwealth-states-of-sanlucar|Commonwealth States of Sanlucar]] and revolutionary commander of the [[aridush-freedom-fighters|Aridush Freedom Fighters]], driven by historical trauma from the 1089 Civil War.
 
 **Last updated**: 2026-09-20
 

@@ -16,7 +16,7 @@ category: concept
 
 # Monarch
 
-**Summary**: Ancient alien rogue AI in control of Metropolis Station, able to scan and copy minds.
+**Summary**: Ancient alien rogue AI in control of [[metropolis-station|Metropolis Station]], able to scan and copy minds.
 
 **Last updated**: 2026-09-30
 

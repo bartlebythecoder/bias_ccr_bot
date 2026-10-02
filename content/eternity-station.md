@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Eternity Station
 
-**Summary**: Quasi-legal worker co-op habitat in the Dark Crescent of the Arico belt, ruled by the Meinhoff Brigade under Demon Prince Yandee, and paralyzed by strikes in 1105.
+**Summary**: Quasi-legal worker co-op habitat in the [[dark-crescent|Dark Crescent]] of the [[arico-el-nuevo|Arico]] belt, ruled by the [[meinhoff-brigade|Meinhoff Brigade]] under [[yandee|Demon Prince Yandee]], and paralyzed by strikes in 1105.
 
 **Last updated**: 2026-09-20
 

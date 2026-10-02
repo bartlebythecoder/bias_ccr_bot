@@ -11,7 +11,7 @@ last_updated: 2026-09-25
 ---
 # House Tauribi
 
-**Summary**: One of the sixteen Imperial noble houses, ruling the Acigne subsector under Duke Ishuggi, with its largest corporate stake in Tukera Lines.
+**Summary**: One of the sixteen Imperial noble houses, ruling the Acigne subsector under Duke Ishuggi, with its largest corporate stake in [[tukera-lines|Tukera Lines]].
 
 **Last updated**: 2026-09-25
 

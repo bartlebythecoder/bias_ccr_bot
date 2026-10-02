@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Lord Edgar
 
-**Summary**: Curt and unfriendly younger brother of Viscount Rittenhouse, implicated in the conspiracy to steal the Beaugard painting inside Csabai Palace.
+**Summary**: Curt and unfriendly younger brother of Viscount Rittenhouse, implicated in the conspiracy to steal the Beaugard painting inside [[csabai-palace|Csabai Palace]].
 
 **Last updated**: 2026-09-20
 

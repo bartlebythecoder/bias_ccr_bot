@@ -11,7 +11,7 @@ last_updated: 2026-09-26
 ---
 # Arico Banks
 
-**Summary**: The three banking houses that control the finances of the Arico El Nuevo system, all headquartered in the Humboldt District of Freeport.
+**Summary**: The three banking houses that control the finances of the [[arico-el-nuevo|Arico El Nuevo]] system, all headquartered in the Humboldt District of [[freeport|Freeport]].
 
 **Last updated**: 2026-09-26
 

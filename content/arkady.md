@@ -15,7 +15,7 @@ category: person
 
 # Arkady
 
-**Summary**: Elderly scavenger-diver living aboard The Bell outside Metropolis Station, the contact known in briefings as The Old Man and BIAS CCR's guide to the station's dangers.
+**Summary**: Elderly scavenger-diver living aboard [[the-bell|The Bell]] outside [[metropolis-station|Metropolis Station]], the contact known in briefings as [[the-old-man|The Old Man]] and BIAS CCR's guide to the station's dangers.
 
 **Last updated**: 2026-09-30
 

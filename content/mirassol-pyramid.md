@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Mirassol Pyramid
 
-**Summary**: Subterranean precursor structure of Ancient origin on the moon Mirassol, targeted for artifact theft by Blue Lou Boyle.
+**Summary**: Subterranean precursor structure of Ancient origin on the moon [[mirassol|Mirassol]], targeted for artifact theft by [[blue-lou-boyle|Blue Lou Boyle]].
 
 **Last updated**: 2026-09-20
 

@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Incubu Asteroid Colony
 
-**Summary**: Asteroid research colony in the Arico belt funded by House Ilethian, focused on genetic engineering and populated by Psalmist factions divided over biological manipulation.
+**Summary**: Asteroid research colony in the [[arico-el-nuevo|Arico]] belt funded by [[house-ilethian|House Ilethian]], focused on genetic engineering and populated by Psalmist factions divided over biological manipulation.
 
 **Last updated**: 2026-09-20
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Simon Conti
 
-**Summary**: Civilian cook formerly employed at K.C. Station on Mirassol who unexpectedly recognized the undercover crew in Ricci Plaza on Romentino.
+**Summary**: Civilian cook formerly employed at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]] who unexpectedly recognized the undercover crew in [[ricci-plaza|Ricci Plaza]] on [[romentino|Romentino]].
 
 **Last updated**: 2026-09-20
 

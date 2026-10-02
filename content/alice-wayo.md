@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Alice Wayo
 
-**Summary**: Wu-Ketai operative found unconscious in a Level 1 storage room of Metropolis Station, shot by Sarik and stripped of her battle dress and weapons.
+**Summary**: [[wu-ketai|Wu-Ketai]] operative found unconscious in a Level 1 storage room of [[metropolis-station|Metropolis Station]], shot by [[sarik|Sarik]] and stripped of her battle dress and weapons.
 
 **Last updated**: 2026-09-30
 

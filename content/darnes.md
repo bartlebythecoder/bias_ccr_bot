@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Darnes
 
-**Summary**: Individual on Csabai targeted for assassination by the militant Psalmist extremist cell known as The Doves.
+**Summary**: Individual on [[csabai|Csabai]] targeted for assassination by the militant Psalmist extremist cell known as [[the-doves|The Doves]].
 
 **Last updated**: 2026-09-20
 

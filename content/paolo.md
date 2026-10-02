@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Paolo
 
-**Summary**: Young orphan street urchin in Startown Liberty living in the subterranean refuse processing district who inquired after Sydney Antonelli.
+**Summary**: Young orphan street urchin in [[startown-liberty|Startown Liberty]] living in the subterranean refuse processing district who inquired after [[sydney|Sydney]] Antonelli.
 
 **Last updated**: 2026-09-20
 

@@ -14,7 +14,7 @@ category: station
 
 # Freeport
 
-**Summary**: One-million-resident Stanford Torus habitat and capital of the Arico El Nuevo system.
+**Summary**: One-million-resident Stanford Torus habitat and capital of the [[arico-el-nuevo|Arico El Nuevo]] system.
 
 **Last updated**: 2026-09-30
 

@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Darlene Suitor
 
-**Summary**: Former head of the Psalmist Center on Csabai who was arrested in 1105 for leading an organized crime and illegal drug ring.
+**Summary**: Former head of the Psalmist Center on [[csabai|Csabai]] who was arrested in 1105 for leading an organized crime and illegal drug ring.
 
 **Last updated**: 2026-09-20
 

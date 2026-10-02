@@ -9,7 +9,7 @@ category: character
 ---
 # Ishmael
 
-**Summary**: Unknown figure inside Metropolis Station who left a dead-drop of strange cables and a signed note behind a bathroom mirror.
+**Summary**: Unknown figure inside [[metropolis-station|Metropolis Station]] who left a dead-drop of strange cables and a signed note behind a bathroom mirror.
 
 **Last updated**: 2026-09-30
 

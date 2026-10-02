@@ -20,7 +20,7 @@ tags:
 
 # Montañez
 
-**Summary**: Zero-G Vipers gang member tied to the Cafe Dimitri clubhouse in Jonestown on Freeport.
+**Summary**: [[zero-g-vipers|Zero-G Vipers]] gang member tied to the [[cafe-dimitri|Cafe Dimitri]] clubhouse in Jonestown on [[freeport|Freeport]].
 
 **Last updated**: 2026-09-30
 

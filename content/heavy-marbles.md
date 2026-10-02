@@ -9,7 +9,7 @@ sessions: [65, 66, 67, 68]
 ---
 # Heavy Marbles
 
-**Summary**: Dense black spheres of unknown purpose recovered by BIAS CCR from Metropolis Station and sellable to fences such as Fagan.
+**Summary**: Dense black spheres of unknown purpose recovered by BIAS CCR from [[metropolis-station|Metropolis Station]] and sellable to fences such as [[fagan|Fagan]].
 
 **Last updated**: 2026-09-30
 

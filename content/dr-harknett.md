@@ -16,7 +16,7 @@ category: person
 
 # Dr. Harknett
 
-**Summary**: Elderly chief scientist and nominal head of Wu-Ketai's Suliman laboratories, suspected of being a figurehead for Dr. Young.
+**Summary**: Elderly chief scientist and nominal head of [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] laboratories, suspected of being a figurehead for [[dr-young|Dr. Young]].
 
 **Last updated**: 2026-09-30
 

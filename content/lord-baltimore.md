@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Lord Baltimore
 
-**Summary**: Prominent noble residing at Baltimore House in Startown Liberty, confidant of patron Cooper, and geopolitical theorist predicting an inevitable civil war between the Great Houses.
+**Summary**: Prominent noble residing at Baltimore House in [[startown-liberty|Startown Liberty]], confidant of patron [[cooper|Cooper]], and geopolitical theorist predicting an inevitable civil war between the Great Houses.
 
 **Last updated**: 2026-09-20
 

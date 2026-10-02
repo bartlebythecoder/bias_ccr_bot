@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Elena Dumont
 
-**Summary**: Chief Medical Officer at K.C. Station on Mirassol, whose professional anxieties and career ambitions were manipulated by Beck to authorize the secret pyramid expedition.
+**Summary**: Chief Medical Officer at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]], whose professional anxieties and career ambitions were manipulated by [[beck|Beck]] to authorize the secret pyramid expedition.
 
 **Last updated**: 2026-09-20
 

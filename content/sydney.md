@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Sydney
 
-**Summary**: Resourceful 11-year-old street guide and urchin fixer in Startown Liberty who guided the crew through the starport green zones and tracked down Harry Proud.
+**Summary**: Resourceful 11-year-old street guide and urchin fixer in [[startown-liberty|Startown Liberty]] who guided the crew through the starport green zones and tracked down [[harry-proud|Harry Proud]].
 
 **Last updated**: 2026-09-20
 

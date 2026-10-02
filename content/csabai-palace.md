@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Csabai Palace
 
-**Summary**: The seat of government and ancestral grand residence of Viscount Rittenhouse on Csabai, site of the Beaugard painting theft and high-society palace balls.
+**Summary**: The seat of government and ancestral grand residence of Viscount Rittenhouse on [[csabai|Csabai]], site of the Beaugard painting theft and high-society palace balls.
 
 **Last updated**: 2026-09-20
 

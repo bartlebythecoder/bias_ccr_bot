@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Morgan
 
-**Summary**: Former head of security at Csabai Palace who was fired following the Beaugard theft, whose surveillance insight helped BIAS CCR solve the case.
+**Summary**: Former head of security at [[csabai-palace|Csabai Palace]] who was fired following the Beaugard theft, whose surveillance insight helped BIAS CCR solve the case.
 
 **Last updated**: 2026-09-20
 

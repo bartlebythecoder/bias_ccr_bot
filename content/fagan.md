@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Fagan
 
-**Summary**: Black market fence on Eternity Station who buys artifacts and salvage from Metropolis Station.
+**Summary**: Black market fence on [[eternity-station|Eternity Station]] who buys artifacts and salvage from [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

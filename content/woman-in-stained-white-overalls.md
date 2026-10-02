@@ -11,7 +11,7 @@ sessions: [71]
 
 # Woman In Stained White Overalls
 
-**Summary**: Mysterious muttering figure guarding a cache of artifacts in the looted Tool Shed of Metropolis Station.
+**Summary**: Mysterious muttering figure guarding a cache of artifacts in the looted Tool Shed of [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

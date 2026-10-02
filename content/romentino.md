@@ -14,7 +14,7 @@ last_updated: 2026-09-20
 ---
 # Romentino
 
-**Summary**: Hostile world 1428 with corrosive atmosphere, sub-zero cold, and 0.9G gravity, ruled by an oligopoly known as "The Banks," centered on Noavarite mining.
+**Summary**: Hostile world 1428 with corrosive atmosphere, sub-zero cold, and 0.9G gravity, ruled by an oligopoly known as "[[the-banks|The Banks]]," centered on [[noavarite|Noavarite]] mining.
 
 **Last updated**: 2026-09-20
 

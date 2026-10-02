@@ -14,7 +14,7 @@ category: person
 
 # Dr. Kamron
 
-**Summary**: Wu-Ketai scientist and administrator in the Green Area of Suliman's core laboratories whom Sarik spoke with while casing the facility.
+**Summary**: [[wu-ketai|Wu-Ketai]] scientist and administrator in the Green Area of [[suliman|Suliman]]'s core laboratories whom [[sarik|Sarik]] spoke with while casing the facility.
 
 **Last updated**: 2026-09-30
 

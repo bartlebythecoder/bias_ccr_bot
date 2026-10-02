@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Kidderminster
 
-**Summary**: Major system 1226 in Solo Sector Subsector J, historical naval anchor during the Hessian Revolt, and administrator of Tutin following the 1077–1083 Pacification.
+**Summary**: Major system 1226 in Solo Sector Subsector J, historical naval anchor during the [[hessian-revolt|Hessian Revolt]], and administrator of Tutin following the 1077–1083 Pacification.
 
 **Last updated**: 2026-09-20
 

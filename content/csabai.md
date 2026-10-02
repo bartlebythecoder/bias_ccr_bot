@@ -15,7 +15,7 @@ last_updated: 2026-09-20
 ---
 # Csabai
 
-**Summary**: Populous world 1626 in Solo Sector Subsector J, ruled by Viscount Rittenhouse, marked by extreme stratification, corporate IT contract battles, and the arrest of Psalmist leader Darlene Suitor.
+**Summary**: Populous world 1626 in Solo Sector Subsector J, ruled by Viscount Rittenhouse, marked by extreme stratification, corporate IT contract battles, and the arrest of Psalmist leader [[darlene-suitor|Darlene Suitor]].
 
 **Last updated**: 2026-09-20
 

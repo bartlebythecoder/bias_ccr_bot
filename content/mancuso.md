@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Mancuso
 
-**Summary**: Maintenance plumber at K.C. Station on Mirassol who saved scientist George Castle from a giant spider attack during the station evacuation.
+**Summary**: Maintenance plumber at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]] who saved scientist [[george-castle|George Castle]] from a giant spider attack during the station evacuation.
 
 **Last updated**: 2026-09-20
 

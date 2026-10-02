@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Lisa
 
-**Summary**: Street-level Starlight dealer operating in Startown Liberty on Romentino who identified Screetch for the crew.
+**Summary**: Street-level Starlight dealer operating in [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]] who identified [[screetch|Screetch]] for the crew.
 
 **Last updated**: 2026-09-20
 

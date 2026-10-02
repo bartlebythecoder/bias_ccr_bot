@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Rose and Crown
 
-**Summary**: Tavern in Startown Liberty on Romentino used as the ransom drop location for Elin Butler and linked to a missing child disappearance.
+**Summary**: Tavern in [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]] used as the ransom drop location for [[elin-butler|Elin Butler]] and linked to a missing child disappearance.
 
 **Last updated**: 2026-09-20
 

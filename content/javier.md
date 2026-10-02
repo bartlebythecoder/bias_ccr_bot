@@ -18,7 +18,7 @@ tags:
 
 # Javier
 
-**Summary**: Event coordinator at the Stardust Casino whose name BIAS CCR used in a ruse during the charity gala.
+**Summary**: Event coordinator at the [[stardust-casino|Stardust Casino]] whose name BIAS CCR used in a ruse during the charity gala.
 
 **Last updated**: 2026-09-30
 

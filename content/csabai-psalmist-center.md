@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Csabai Psalmist Center
 
-**Summary**: Prominent regional headquarters, temple, and administrative complex of the Psalmist faith on Csabai, located in Basin City.
+**Summary**: Prominent regional headquarters, temple, and administrative complex of the Psalmist faith on [[csabai|Csabai]], located in [[basin-city|Basin City]].
 
 **Last updated**: 2026-09-20
 

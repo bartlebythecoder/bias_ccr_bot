@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Zero-G Vipers
 
-**Summary**: Violent street gang operating in the industrial and lower docking levels of Jonestown on Freeport, led by Serpent Rix in opposition to the Primero Cartel.
+**Summary**: Violent street gang operating in the industrial and lower docking levels of Jonestown on [[freeport|Freeport]], led by Serpent Rix in opposition to the [[primero-cartel|Primero Cartel]].
 
 **Last updated**: 2026-09-20
 

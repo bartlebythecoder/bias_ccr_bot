@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Supreme Leader Volkov
 
-**Summary**: Autocratic ruler and "Leader for Life" of Beaumont, known for hawkish stances regarding regional security and the Sanlucar revolution.
+**Summary**: Autocratic ruler and "Leader for Life" of [[beaumont|Beaumont]], known for hawkish stances regarding regional security and the Sanlucar revolution.
 
 **Last updated**: 2026-09-20
 

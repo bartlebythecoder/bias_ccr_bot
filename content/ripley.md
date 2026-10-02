@@ -16,7 +16,7 @@ category: person
 
 # Ripley
 
-**Summary**: Harvon Sargon's bodyguard on Eternity Station, judged by Beck to be a sociopath.
+**Summary**: [[harvon-sargon|Harvon Sargon]]'s bodyguard on [[eternity-station|Eternity Station]], judged by [[beck|Beck]] to be a sociopath.
 
 **Last updated**: 2026-09-30
 

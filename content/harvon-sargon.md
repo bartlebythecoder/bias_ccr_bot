@@ -16,7 +16,7 @@ category: person
 
 # Harvon Sargon
 
-**Summary**: Meinhoff-linked high-stakes gambler on Eternity Station whose winning streak and later murder BIAS CCR investigated.
+**Summary**: Meinhoff-linked high-stakes gambler on [[eternity-station|Eternity Station]] whose winning streak and later murder BIAS CCR investigated.
 
 **Last updated**: 2026-09-30
 

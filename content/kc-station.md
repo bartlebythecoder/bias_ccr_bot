@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # K.C. Station
 
-**Summary**: Research and industrial outpost on the frozen moon Mirassol, organized into the Redshed, Workshop, and Science Building.
+**Summary**: Research and industrial outpost on the frozen moon [[mirassol|Mirassol]], organized into the Redshed, Workshop, and Science Building.
 
 **Last updated**: 2026-09-20
 

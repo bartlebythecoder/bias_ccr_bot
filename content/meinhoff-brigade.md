@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Meinhoff Brigade
 
-**Summary**: Ruthless organized crime syndicate commanding Eternity Station under Demon Prince Yandee, trafficking Sycorax narcotics across the Arico belt.
+**Summary**: Ruthless organized crime syndicate commanding [[eternity-station|Eternity Station]] under [[yandee|Demon Prince Yandee]], trafficking Sycorax narcotics across the [[arico-el-nuevo|Arico]] belt.
 
 **Last updated**: 2026-09-20
 

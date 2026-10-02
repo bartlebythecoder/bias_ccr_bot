@@ -14,7 +14,7 @@ category: person
 
 # Joanna Lundquist
 
-**Summary**: Wu-Ketai employee on Freeport who hired BIAS CCR to find her missing husband, Richard Lundquist.
+**Summary**: [[wu-ketai|Wu-Ketai]] employee on [[freeport|Freeport]] who hired BIAS CCR to find her missing husband, [[richard-lundquist|Richard Lundquist]].
 
 **Last updated**: 2026-09-30
 

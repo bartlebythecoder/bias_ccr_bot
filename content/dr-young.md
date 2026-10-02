@@ -16,7 +16,7 @@ category: person
 
 # Dr. Young
 
-**Summary**: Harsh Wu-Ketai lab director on Suliman who runs the restricted Yellow Laboratories and appears to hold the real power over Dr. Harknett.
+**Summary**: Harsh [[wu-ketai|Wu-Ketai]] lab director on [[suliman|Suliman]] who runs the restricted Yellow Laboratories and appears to hold the real power over [[dr-harknett|Dr. Harknett]].
 
 **Last updated**: 2026-09-30
 

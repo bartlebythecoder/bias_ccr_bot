@@ -16,7 +16,7 @@ category: person
 
 # Dana Westby
 
-**Summary**: Eternity Station resident who guided BIAS CCR, introduced them to Teamster leader Reidmar and explained the station's syndicate politics.
+**Summary**: [[eternity-station|Eternity Station]] resident who guided BIAS CCR, introduced them to Teamster leader [[reidmar|Reidmar]] and explained the station's syndicate politics.
 
 **Last updated**: 2026-09-30
 

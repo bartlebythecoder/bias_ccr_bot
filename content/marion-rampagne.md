@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Marion Rampagne
 
-**Summary**: President of the Romentino regional office of Ling Standard Products, who actively monitors the activities of BIAS Corporate Conflict Resolution.
+**Summary**: President of the [[romentino|Romentino]] regional office of [[ling-standard-products|Ling Standard Products]], who actively monitors the activities of [[bias-ccr|BIAS Corporate Conflict Resolution]].
 
 **Last updated**: 2026-09-20
 

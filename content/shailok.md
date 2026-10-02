@@ -13,7 +13,7 @@ category: person
 
 # Shailok
 
-**Summary**: Elderly, severely aged patient in Suliman's Care Facility whom Richard Lundquist often visited.
+**Summary**: Elderly, severely aged patient in [[suliman|Suliman]]'s Care Facility whom [[richard-lundquist|Richard Lundquist]] often visited.
 
 **Last updated**: 2026-09-30
 

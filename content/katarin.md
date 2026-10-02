@@ -15,7 +15,7 @@ category: person
 
 # Katarin
 
-**Summary**: Girlfriend of Harvon Sargon on Eternity Station who sold BIAS CCR information about him.
+**Summary**: Girlfriend of [[harvon-sargon|Harvon Sargon]] on [[eternity-station|Eternity Station]] who sold BIAS CCR information about him.
 
 **Last updated**: 2026-09-30
 

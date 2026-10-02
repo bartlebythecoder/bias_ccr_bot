@@ -17,7 +17,7 @@ category: project
 
 # Project Chimera
 
-**Summary**: Classified Wu-Ketai bioengineering program on Suliman tied to its uplifted simian research.
+**Summary**: Classified [[wu-ketai|Wu-Ketai]] bioengineering program on [[suliman|Suliman]] tied to its uplifted simian research.
 
 **Last updated**: 2026-09-30
 

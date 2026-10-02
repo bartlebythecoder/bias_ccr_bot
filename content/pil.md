@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Pil
 
-**Summary**: Local black marketeer and fixer operating out of Errol's cafe in Startown Liberty on Romentino who supplied illicit munitions to the crew.
+**Summary**: Local black marketeer and fixer operating out of Errol's cafe in [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]] who supplied illicit munitions to the crew.
 
 **Last updated**: 2026-09-20
 

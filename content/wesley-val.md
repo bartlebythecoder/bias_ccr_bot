@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Wesley Val
 
-**Summary**: Commercial merchant broker on Csabai who liaised with Calmer Singh and met with BIAS CCR at Henry's Tavern.
+**Summary**: Commercial merchant broker on [[csabai|Csabai]] who liaised with [[calmer-singh|Calmer Singh]] and met with BIAS CCR at [[henrys-tavern|Henry's Tavern]].
 
 **Last updated**: 2026-09-20
 

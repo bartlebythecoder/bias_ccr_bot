@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Harry Proud
 
-**Summary**: Corrupt commercial shuttle pilot at K.C. Station who accepted a Cr 30,000 bribe to smuggle the crew off Mirassol, known for his bitter rivalry with Sky.
+**Summary**: Corrupt commercial shuttle pilot at [[kc-station|K.C. Station]] who accepted a Cr 30,000 bribe to smuggle the crew off [[mirassol|Mirassol]], known for his bitter rivalry with [[sky|Sky]].
 
 **Last updated**: 2026-09-20
 

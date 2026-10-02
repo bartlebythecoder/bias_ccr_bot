@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Sammy's Dojo
 
-**Summary**: Combat sports and martial arts training facility in Basin City on Csabai, owned by Sammy Petit.
+**Summary**: Combat sports and martial arts training facility in [[basin-city|Basin City]] on [[csabai|Csabai]], owned by [[sammy-petit|Sammy Petit]].
 
 **Last updated**: 2026-09-20
 

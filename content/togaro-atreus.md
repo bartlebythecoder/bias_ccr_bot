@@ -18,7 +18,7 @@ tags:
 
 # Togaro Atreus
 
-**Summary**: Senior Wu-Ketai executive in the Arico system whom BIAS CCR considered as a possible ally.
+**Summary**: Senior [[wu-ketai|Wu-Ketai]] executive in the [[arico-el-nuevo|Arico]] system whom BIAS CCR considered as a possible ally.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Lt. Tony McIntyre
 
-**Summary**: Starport Alpha police detective on Csabai who led the official investigation into the assassinations of Calmer Singh and his starship crew.
+**Summary**: Starport Alpha police detective on [[csabai|Csabai]] who led the official investigation into the assassinations of [[calmer-singh|Calmer Singh]] and his starship crew.
 
 **Last updated**: 2026-09-20
 

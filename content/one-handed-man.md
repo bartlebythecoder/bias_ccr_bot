@@ -11,7 +11,7 @@ category: character
 ---
 # One-Handed Man
 
-**Summary**: Armed stranger who came to Eternity Station hunting for Sarik.
+**Summary**: Armed stranger who came to [[eternity-station|Eternity Station]] hunting for [[sarik|Sarik]].
 
 **Last updated**: 2026-09-30
 

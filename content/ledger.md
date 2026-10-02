@@ -3,7 +3,7 @@ title: "BIAS CCR Campaign Ledger & Asset Tracker"
 ---
 # Solo Subsector J — BIAS CCR Campaign Ledger & Asset Tracker
 
-**Summary**: A consolidated operational record tracking finances, starships, armaments, precursor relics, medical augmentations, and faction standing for **BIAS Corporate Conflict Resolution (BIAS CCR)**.
+**Summary**: A consolidated operational record tracking finances, starships, armaments, precursor relics, medical augmentations, and faction standing for **[[bias-ccr|BIAS Corporate Conflict Resolution]] (BIAS CCR)**.
 
 [[index|← Back to Main Index]]
 

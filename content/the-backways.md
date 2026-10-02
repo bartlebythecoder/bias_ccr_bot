@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # The Backways
 
-**Summary**: Unmapped, labyrinthine subterranean network of abandoned tunnels and waterways beneath Startown Liberty, inhabited by Romentino's destitute underclass and scavengers.
+**Summary**: Unmapped, labyrinthine subterranean network of abandoned tunnels and waterways beneath [[startown-liberty|Startown Liberty]], inhabited by [[romentino|Romentino]]'s destitute underclass and scavengers.
 
 **Last updated**: 2026-09-20
 

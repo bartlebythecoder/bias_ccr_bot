@@ -11,7 +11,7 @@ sessions: [73]
 
 # Kira
 
-**Summary**: Self-aware survivor android from the Disassembly Chamber of Metropolis Station who allied with BIAS CCR.
+**Summary**: Self-aware survivor android from the Disassembly Chamber of [[metropolis-station|Metropolis Station]] who allied with BIAS CCR.
 
 **Last updated**: 2026-09-30
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Jin
 
-**Summary**: Head of Corporate Security for Ling Standard Products on Romentino who interrogated the crew following their arrival from Mirassol.
+**Summary**: Head of Corporate Security for [[ling-standard-products|Ling Standard Products]] on [[romentino|Romentino]] who interrogated the crew following their arrival from [[mirassol|Mirassol]].
 
 **Last updated**: 2026-09-20
 

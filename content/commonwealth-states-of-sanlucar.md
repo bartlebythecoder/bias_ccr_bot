@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Commonwealth States of Sanlucar
 
-**Summary**: The internationally recognized sovereign government on the moon Sanlucar, formed by the Aridush coalition under President Giuliana Weber.
+**Summary**: The internationally recognized sovereign government on the moon Sanlucar, formed by the Aridush coalition under President [[giuliana-weber|Giuliana Weber]].
 
 **Last updated**: 2026-09-20
 

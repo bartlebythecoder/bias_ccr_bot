@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Sophia
 
-**Summary**: Field Support supervisor at K.C. Station on Mirassol who was coerced by Blue Lou Boyle to breach the Ancient pyramid, currently missing.
+**Summary**: Field Support supervisor at [[kc-station|K.C. Station]] on [[mirassol|Mirassol]] who was coerced by [[blue-lou-boyle|Blue Lou Boyle]] to breach the Ancient pyramid, currently missing.
 
 **Last updated**: 2026-09-20
 

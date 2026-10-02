@@ -13,7 +13,7 @@ last_updated: 2026-09-26
 ---
 # Mirassol Spider
 
-**Summary**: Giant predatory arachnid native to the frozen moon Mirassol in the Romentino system, whose swarms forced the total evacuation of K.C. Station in 1105.
+**Summary**: Giant predatory arachnid native to the frozen moon [[mirassol|Mirassol]] in the [[romentino|Romentino]] system, whose swarms forced the total evacuation of [[kc-station|K.C. Station]] in 1105.
 
 **Last updated**: 2026-09-26
 

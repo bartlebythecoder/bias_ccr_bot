@@ -19,7 +19,7 @@ tags:
 
 # Cam Decardo
 
-**Summary**: Anti-psionic activist on Arico El Nuevo who warned BIAS CCR about the telepath Julie and urged them to wear psionic defense helmets.
+**Summary**: Anti-psionic activist on [[arico-el-nuevo|Arico El Nuevo]] who warned BIAS CCR about the telepath [[julie|Julie]] and urged them to wear psionic defense helmets.
 
 **Last updated**: 2026-09-30
 

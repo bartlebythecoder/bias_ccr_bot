@@ -15,7 +15,7 @@ category: person
 
 # Ruffian
 
-**Summary**: Warrens laborer on Suliman who picked a fight with Sarik.
+**Summary**: Warrens laborer on [[suliman|Suliman]] who picked a fight with [[sarik|Sarik]].
 
 **Last updated**: 2026-09-30
 

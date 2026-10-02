@@ -10,7 +10,7 @@ last_updated: 2026-09-30
 ---
 # Henry
 
-**Summary**: Holographic "ghost" of a Wu-Ketai maintenance technician encountered on Level 2 of Metropolis Station.
+**Summary**: Holographic "ghost" of a [[wu-ketai|Wu-Ketai]] maintenance technician encountered on Level 2 of [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

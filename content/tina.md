@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Tina
 
-**Summary**: Street-level Starlight dealer in Startown Liberty coerced by Joey into smuggling narcotics to Nesvorny; confidante and ally of Asher.
+**Summary**: Street-level Starlight dealer in [[startown-liberty|Startown Liberty]] coerced by [[joey|Joey]] into smuggling narcotics to [[nesvorny|Nesvorny]]; confidante and ally of [[asher|Asher]].
 
 **Last updated**: 2026-09-20
 

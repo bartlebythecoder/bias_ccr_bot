@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Nesvorny
 
-**Summary**: System 1229 in Solo Sector Subsector J, member of the Rimward Circuit Collective.
+**Summary**: System 1229 in Solo Sector Subsector J, member of the [[rimward-circuit-collective|Rimward Circuit Collective]].
 
 **Last updated**: 2026-09-20
 

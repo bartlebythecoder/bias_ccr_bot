@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Commodore Koroleva
 
-**Summary**: Imperial Navy officer serving as Commanding Officer for the Romentino system.
+**Summary**: Imperial Navy officer serving as Commanding Officer for the [[romentino|Romentino]] system.
 
 **Last updated**: 2026-09-20
 

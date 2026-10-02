@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Kinunir-Class Battle Cruiser
 
-**Summary**: 1,200-ton Imperial front-line combat vessel class built by General Products, featuring Jump-4 capabilities, heavy particle weaponry, and a history marred by disappearances and combat losses.
+**Summary**: 1,200-ton Imperial front-line combat vessel class built by [[general-products|General Products]], featuring Jump-4 capabilities, heavy particle weaponry, and a history marred by disappearances and combat losses.
 
 **Last updated**: 2026-09-20
 

@@ -11,7 +11,7 @@ sessions: [71]
 
 # The Fallen
 
-**Summary**: Unarmed, downtrodden android caste on Level 2 of Metropolis Station, hunted by The Chosen.
+**Summary**: Unarmed, downtrodden android caste on Level 2 of [[metropolis-station|Metropolis Station]], hunted by [[the-chosen|The Chosen]].
 
 **Last updated**: 2026-09-30
 

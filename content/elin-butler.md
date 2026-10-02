@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Elin Butler
 
-**Summary**: Young aristocrat on Romentino and younger brother of Christine Butler, whose abduction by a Red Hand faction triggered an MCr 1.0 ransom crisis.
+**Summary**: Young aristocrat on [[romentino|Romentino]] and younger brother of [[christine|Christine]] Butler, whose abduction by a Red Hand faction triggered an MCr 1.0 ransom crisis.
 
 **Last updated**: 2026-09-20
 

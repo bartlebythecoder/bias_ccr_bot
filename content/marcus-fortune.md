@@ -15,7 +15,7 @@ category: person
 
 # Marcus Fortune
 
-**Summary**: Wu-Ketai Chief of Security on Suliman, missing from his post when BIAS CCR arrived.
+**Summary**: [[wu-ketai|Wu-Ketai]] Chief of Security on [[suliman|Suliman]], missing from his post when BIAS CCR arrived.
 
 **Last updated**: 2026-09-30
 

@@ -16,7 +16,7 @@ tags:
 
 # Vince
 
-**Summary**: Head of security at the Stardust Casino, working for Ortega Frey.
+**Summary**: Head of security at the [[stardust-casino|Stardust Casino]], working for [[ortega-frey|Ortega Frey]].
 
 **Last updated**: 2026-09-30
 

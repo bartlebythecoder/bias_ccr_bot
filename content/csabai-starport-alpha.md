@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Csabai Starport Alpha
 
-**Summary**: Primary commercial starport terminal on Csabai, where fired palace security chief Morgan was tracked down by Isambard.
+**Summary**: Primary commercial starport terminal on [[csabai|Csabai]], where fired palace security chief [[morgan|Morgan]] was tracked down by [[isambard|Isambard]].
 
 **Last updated**: 2026-09-20
 

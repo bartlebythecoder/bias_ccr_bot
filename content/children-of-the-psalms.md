@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Children of the Psalms
 
-**Summary**: The militant/political governing wing of the Psalmist movement that assumed sovereign authority over Pleasant Hill on 353-1104 with Imperial ducal sponsorship.
+**Summary**: The militant/political governing wing of the Psalmist movement that assumed sovereign authority over [[pleasant-hill|Pleasant Hill]] on 353-1104 with Imperial ducal sponsorship.
 
 **Last updated**: 2026-09-20
 

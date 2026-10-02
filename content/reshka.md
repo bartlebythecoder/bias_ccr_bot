@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Reshka
 
-**Summary**: Ethnic-Irklan starport mechanic on Csabai who acted as an underworld commercial go-between for Irklan assassination contracts and sold key intelligence to BIAS CCR.
+**Summary**: Ethnic-Irklan starport mechanic on [[csabai|Csabai]] who acted as an underworld commercial go-between for [[irklan|Irklan]] assassination contracts and sold key intelligence to BIAS CCR.
 
 **Last updated**: 2026-09-20
 

@@ -29,7 +29,7 @@ tags:
 
 # Starka Pramerski
 
-**Summary**: Freeport administrator who fronted Omni's money laundering for the Vipers and The Stratemeyers, later murdered.
+**Summary**: [[freeport|Freeport]] administrator who fronted [[omni|Omni]]'s money laundering for the Vipers and [[the-stratemeyers|The Stratemeyers]], later murdered.
 
 **Last updated**: 2026-09-30
 

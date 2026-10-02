@@ -8,7 +8,7 @@ last_updated: 2026-09-20
 ---
 # News Dispatch — Volume 9
 
-**Summary**: Dispatches spanning days 134 to 170 of 1105 across Subsector J, featuring the assassination of financier Orslo Jollynn and her unmasking as leader of the Stratemeyer Syndicate, major Megacorporation contract shifts between Hortalez et Cie, Ling Standard Products, and Tukera Lines, a subsector-wide Psalmist Watch report, and rumors of an abandoned Wu-Ketai facility holding illegal Ancient technology and AI security robots.
+**Summary**: Dispatches spanning days 134 to 170 of 1105 across Subsector J, featuring the assassination of financier [[orslo-jollynn|Orslo Jollynn]] and her unmasking as leader of the Stratemeyer Syndicate, major Megacorporation contract shifts between [[hortalez-et-cie|Hortalez et Cie]], [[ling-standard-products|Ling Standard Products]], and [[tukera-lines|Tukera Lines]], a subsector-wide Psalmist Watch report, and rumors of an abandoned [[wu-ketai|Wu-Ketai]] facility holding illegal Ancient technology and AI security robots.
 
 **Last updated**: 2026-09-20
 

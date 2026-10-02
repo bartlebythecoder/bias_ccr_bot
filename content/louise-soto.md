@@ -10,7 +10,7 @@ category: person
 
 # Louise Soto
 
-**Summary**: Wu-Ketai graphic designer shot dead outside Club Strata on Freeport, whose murder BIAS CCR investigated.
+**Summary**: [[wu-ketai|Wu-Ketai]] graphic designer shot dead outside [[club-strata|Club Strata]] on [[freeport|Freeport]], whose murder BIAS CCR investigated.
 
 **Last updated**: 2026-09-30
 

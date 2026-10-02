@@ -13,7 +13,7 @@ category: person
 
 # Roxy
 
-**Summary**: Eternity Station street worker who sold BIAS CCR Katarin's address for Cr 50.
+**Summary**: [[eternity-station|Eternity Station]] street worker who sold BIAS CCR [[katarin|Katarin]]'s address for Cr 50.
 
 **Last updated**: 2026-09-30
 

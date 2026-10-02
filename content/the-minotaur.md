@@ -10,7 +10,7 @@ category: entity
 ---
 # The Minotaur
 
-**Summary**: Empathic AI created by Monarch and imprisoned in The Labyrinth on Level 2 of Metropolis Station.
+**Summary**: Empathic AI created by [[monarch|Monarch]] and imprisoned in [[the-labyrinth|The Labyrinth]] on Level 2 of [[metropolis-station|Metropolis Station]].
 
 **Last updated**: 2026-09-30
 

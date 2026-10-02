@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # BIAS Corporate Conflict Resolution
 
-**Summary**: Legally registered corporate consulting and private security firm established on Romentino by Beck, Asher, Isambard, and Sarik as an operational cover.
+**Summary**: Legally registered corporate consulting and private security firm established on [[romentino|Romentino]] by [[beck|Beck]], [[asher|Asher]], [[isambard|Isambard]], and [[sarik|Sarik]] as an operational cover.
 
 **Last updated**: 2026-09-20
 

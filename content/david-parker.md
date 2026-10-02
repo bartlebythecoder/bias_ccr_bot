@@ -9,7 +9,7 @@ category: person
 
 # David Parker
 
-**Summary**: Violent ex-boyfriend of Louise Soto and the police's prime suspect in her murder, later found to have been abducted.
+**Summary**: Violent ex-boyfriend of [[louise-soto|Louise Soto]] and the police's prime suspect in her murder, later found to have been abducted.
 
 **Last updated**: 2026-09-30
 

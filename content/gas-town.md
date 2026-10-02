@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # GaS Town
 
-**Summary**: Industrial and vice district of Startown Liberty on Romentino, known for illicit transactions, public holoscreens, and proximity to older starport docking sectors.
+**Summary**: Industrial and vice district of [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]], known for illicit transactions, public holoscreens, and proximity to older starport docking sectors.
 
 **Last updated**: 2026-09-20
 

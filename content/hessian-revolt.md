@@ -9,7 +9,7 @@ last_updated: 2026-09-20
 ---
 # Hessian Revolt
 
-**Summary**: Major 11th-Century rebellion where House Gaval seceded from the Third Imperium and invaded Kidderminster subsector, sparking interplanetary war between noble houses.
+**Summary**: Major 11th-Century rebellion where House Gaval seceded from the Third Imperium and invaded [[kidderminster|Kidderminster]] subsector, sparking interplanetary war between noble houses.
 
 **Last updated**: 2026-09-20
 

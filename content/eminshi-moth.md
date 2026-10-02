@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Eminshi Moth
 
-**Summary**: Ruthless underworld loan shark and mob boss in Startown Liberty on Romentino who held Elin Butler's Cr 500,000 casino debt and enforces the syndicate ban on Starlight smuggling.
+**Summary**: Ruthless underworld loan shark and mob boss in [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]] who held [[elin-butler|Elin Butler]]'s Cr 500,000 casino debt and enforces the syndicate ban on Starlight smuggling.
 
 **Last updated**: 2026-09-20
 

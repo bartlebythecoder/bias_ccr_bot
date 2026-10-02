@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Lachat
 
-**Summary**: System 1030 in Solo Sector Subsector J, base of Erebus Power's advanced computing operations.
+**Summary**: System 1030 in Solo Sector Subsector J, base of [[erebus-power|Erebus Power]]'s advanced computing operations.
 
 **Last updated**: 2026-09-20
 

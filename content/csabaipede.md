@@ -12,7 +12,7 @@ last_updated: 2026-09-20
 ---
 # Csabaipede
 
-**Summary**: Pernicious, venomous predatory arthropod indigenous to Csabai, notorious for off-world agricultural infestations and featured on Viscount Rittenhouse's heraldic crest.
+**Summary**: Pernicious, venomous predatory arthropod indigenous to [[csabai|Csabai]], notorious for off-world agricultural infestations and featured on Viscount Rittenhouse's heraldic crest.
 
 **Last updated**: 2026-09-20
 

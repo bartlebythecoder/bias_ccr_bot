@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Joey
 
-**Summary**: Full member of The Red Hand and associate of Hal the Grocer who struggled under the syndicate's ban on kidnappings.
+**Summary**: Full member of [[the-red-hand|The Red Hand]] and associate of [[hal-the-grocer|Hal the Grocer]] who struggled under the syndicate's ban on kidnappings.
 
 **Last updated**: 2026-09-20
 

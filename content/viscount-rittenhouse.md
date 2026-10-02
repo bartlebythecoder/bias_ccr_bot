@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Viscount Rittenhouse of Csabai
 
-**Summary**: Aristocratic ruler of Csabai, member of House Yetrina and cousin to Duchess Margaret, navigating complex alliances with Hortalez et Cie.
+**Summary**: Aristocratic ruler of [[csabai|Csabai]], member of [[house-yetrina|House Yetrina]] and cousin to [[duchess-margaret|Duchess Margaret]], navigating complex alliances with [[hortalez-et-cie|Hortalez et Cie]].
 
 **Last updated**: 2026-09-20
 
