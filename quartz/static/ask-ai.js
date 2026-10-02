@@ -1,6 +1,7 @@
 (function () {
   var TURNSTILE_SITE_KEY = "0x4AAAAAAFLc1us0UDmm5D7Y";
   var PROXY_URL = "https://bias-ccr-wiki-proxy.netlify.app/.netlify/functions/ask";
+  var CONTENT_INDEX_URL = new URL("contentIndex.json", document.currentScript.src).href;
 
   if (!document.getElementById("cf-turnstile-script")) {
     var cfScript = document.createElement("script");
@@ -145,7 +146,7 @@
 
       var contextSnippets = [];
       try {
-        var indexRes = await fetch("/static/contentIndex.json");
+        var indexRes = await fetch(CONTENT_INDEX_URL);
         if (indexRes.ok) {
           var indexData = await indexRes.json();
           var terms = question.toLowerCase().split(/\s+/).filter(function (t) { return t.length > 2; });
