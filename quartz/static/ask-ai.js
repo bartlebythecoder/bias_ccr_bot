@@ -1,7 +1,8 @@
 (function () {
   var TURNSTILE_SITE_KEY = "0x4AAAAAAFLc1us0UDmm5D7Y";
   var PROXY_URL = "https://bias-ccr-wiki-proxy.netlify.app/.netlify/functions/ask";
-  var CONTENT_INDEX_URL = new URL("contentIndex.json", document.currentScript.src).href;
+  // This script is served from <site>/static/ask-ai.js, so the site root is one level up.
+  var SITE_BASE_URL = new URL("../", document.currentScript.src).href;
 
   if (!document.getElementById("cf-turnstile-script")) {
     var cfScript = document.createElement("script");
@@ -30,6 +31,11 @@
       ".ask-ai-form-row { display: flex; gap: 6px; }",
       ".ask-ai-input { flex: 1; padding: 8px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 13px; background: #ffffff; color: #111111; }",
       ".ask-ai-submit { background: #2563eb; color: #ffffff; border: none; border-radius: 6px; padding: 8px 14px; font-size: 13px; cursor: pointer; font-weight: 500; }",
+      ".ask-ai-submit:disabled { background: #93c5fd; cursor: wait; }",
+      ".ask-ai-answer { white-space: pre-wrap; }",
+      ".ask-ai-sources { margin-top: 8px; padding-top: 6px; border-top: 1px solid #e5e7eb; font-size: 12px; color: #4b5563; }",
+      ".ask-ai-sources a { color: #2563eb; text-decoration: none; }",
+      ".ask-ai-sources a:hover { text-decoration: underline; }",
       ".ask-ai-turnstile { display: flex; justify-content: center; }"
     ].join("\n");
     document.head.appendChild(style);
@@ -135,53 +141,26 @@
 
       var botBubble = document.createElement("div");
       botBubble.className = "ask-ai-msg bot";
-      botBubble.textContent = "Searching wiki and generating answer...";
+      botBubble.textContent = "Researching the wiki... this can take 10-20 seconds.";
       msgs.appendChild(botBubble);
       msgs.scrollTop = msgs.scrollHeight;
+      submitBtn.disabled = true;
 
       var turnstileToken = "";
       if (window.turnstile && widgetId !== null) {
         turnstileToken = window.turnstile.getResponse(widgetId);
       }
 
-      var contextSnippets = [];
-      try {
-        var indexRes = await fetch(CONTENT_INDEX_URL);
-        if (indexRes.ok) {
-          var indexData = await indexRes.json();
-          var terms = question.toLowerCase().split(/\s+/).filter(function (t) { return t.length > 2; });
-          var scored = [];
-          for (var key in indexData) {
-            var item = indexData[key];
-            var content = item.content || item.description || "";
-            var title = item.title || key;
-            var combined = (title + " " + content).toLowerCase();
-            var score = 0;
-            for (var i = 0; i < terms.length; i++) {
-              if (combined.indexOf(terms[i]) !== -1) score++;
-            }
-            if (score > 0) {
-              scored.push({ title: title, text: content.slice(0, 1000), score: score });
-            }
-          }
-          scored.sort(function (a, b) { return b.score - a.score; });
-          contextSnippets = scored.slice(0, 3).map(function (s) {
-            return { title: s.title, text: s.text };
-          });
-        }
-      } catch (err) {
-        console.warn("Could not load local contentIndex:", err);
-      }
-
+      // The proxy does its own wiki research; it only needs the question.
       try {
         var res = await fetch(PROXY_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ question: question, contextSnippets: contextSnippets, turnstileToken: turnstileToken })
+          body: JSON.stringify({ question: question, turnstileToken: turnstileToken })
         });
         var data = await res.json();
         if (res.ok && data.answer) {
-          botBubble.textContent = data.answer;
+          renderAnswer(botBubble, data.answer, data.sources);
         } else {
           botBubble.textContent = data.error || data.detail || "Error retrieving response.";
         }
@@ -189,11 +168,35 @@
         botBubble.textContent = "Failed to communicate with proxy service.";
       }
 
+      submitBtn.disabled = false;
       if (window.turnstile && widgetId !== null) {
         window.turnstile.reset(widgetId);
       }
       msgs.scrollTop = msgs.scrollHeight;
     };
+  }
+
+  function renderAnswer(bubble, answer, sources) {
+    bubble.textContent = "";
+
+    var answerEl = document.createElement("div");
+    answerEl.className = "ask-ai-answer";
+    answerEl.textContent = answer;
+    bubble.appendChild(answerEl);
+
+    if (!Array.isArray(sources) || sources.length === 0) return;
+
+    var sourcesEl = document.createElement("div");
+    sourcesEl.className = "ask-ai-sources";
+    sourcesEl.appendChild(document.createTextNode("Sources: "));
+    sources.forEach(function (source, index) {
+      if (index > 0) sourcesEl.appendChild(document.createTextNode(" · "));
+      var link = document.createElement("a");
+      link.href = new URL(source.slug, SITE_BASE_URL).href;
+      link.textContent = source.title || source.slug;
+      sourcesEl.appendChild(link);
+    });
+    bubble.appendChild(sourcesEl);
   }
 
   if (document.readyState === "loading") {
