@@ -32,7 +32,7 @@ Metropolis is a legendary, highly classified space station rumored to exist in a
   - **Zero-G & Power Failures**: Significant sectors of the station lack operational artificial gravity and suffer from erratic, intermittent emergency lighting.
   - **Rogue Robotic Hazards**: Dangerous autonomous mechanical units and rogue combat robots roam derelict corridors.
   - **Patrol Security**: Active [[wu-ketai|Wu-Ketai]] security gunboats and patrol ships screen the approach vector, requiring stealth maneuvering.
-- **Infiltration Vector**: In response, BIAS CCR equipped their starship with a double turret and industrial laser drill for an EVA hull-breach entry, departing on a 3.5-day transit to contact [[the-old-man|The Old Man]] aboard the station with barter provisions (Session 58).
+- **Infiltration Vector**: In response, BIAS CCR equipped their starship with a double turret and industrial laser drill for an EVA hull-breach entry, departing on a 3.5-day transit to contact [[arkady|The Old Man]] aboard the station with barter provisions (Session 58).
 - **Infiltration & The Monarch Revelation (Day 188-1105 / Session 59)**:
   - **Running the Patrol**: Entering the restricted zone, the *Raconteur* was fired upon by a Wu-Ketai fighter before the patrol craft broke off.
   - **Arkady & The Bell**: The crew docked with ***[[the-bell|The Bell]]***, meeting scavenger-diver [[arkady|Arkady]], who identified the rogue alien AI ruling the station as **[[monarch|Monarch]]**—an entity capable of copying a diver's mind.
@@ -177,7 +177,6 @@ Metropolis is a legendary, highly classified space station rumored to exist in a
 - [[monarch|Monarch]]
 - [[arkady|Arkady]]
 - [[the-bell|The Bell]]
-- [[the-old-man|The Old Man]]
 - [[angus|Angus]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
 - [[janus|Janus Asteroid Base]]

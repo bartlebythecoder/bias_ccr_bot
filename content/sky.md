@@ -166,7 +166,7 @@ Aboard the starship across Days 189–190 (Session 65):
 - [[monarch|Monarch]]
 - [[raconteur|Raconteur]]
 - [[metropolis-station|Metropolis Station]]
-- [[the-old-man|The Old Man]]
+- [[arkady|Arkady]]
 - [[angus|Angus]]
 - [[isabel|Isabel]]
 - [[thomas|Thomas]]

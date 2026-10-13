@@ -53,7 +53,7 @@ Following their successful raid on Marie Orslo Jollynn's mansion and the decapit
 ## Related pages
 - [[angus|Angus]]
 - [[yandee|Yandee]]
-- [[the-old-man|The Old Man]]
+- [[arkady|Arkady]]
 - [[metropolis-station|Metropolis Station]]
 - [[meinhoff-brigade|Meinhoff Brigade]]
 - [[the-stratemeyers|The Stratemeyers]]

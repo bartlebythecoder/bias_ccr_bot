@@ -41,6 +41,7 @@ title: "People & Operatives"
 
 ## Corporate Figures & Scientists
 
+- [[david-ives|David Ives]]: President and CEO of Wu-Ketai since 1099, ex-Hortalez et Cie executive, under Subsector and Imperial investigation.
 - [[byron-falcon-power|Sir Byron Falcon Power]]: Chairperson of Erebus Power and sponsor of the Alexandria project.
 - [[marion-rampagne|Marion Rampagne]]: President of the Romentino regional office of Ling Standard Products.
 - [[jin|Jin]]: Chief of Corporate Security for Ling Standard Products on Romentino.
@@ -182,7 +183,7 @@ title: "People & Operatives"
 - [[andre|Andre]]: Bouncer at Club Strata on Freeport unwitting recipient of Hunter's Heroes' planted tracker.
 - [[cadre|Cadre]]: Bartender at Club Strata on Freeport and confidante of Louise Soto.
 - [[stadler|Stadler]]: Underworld information broker operating out of the Stardust Casino on Freeport.
-- [[risiano-tiler|Risiano Tiler]]: Independent investigative journalist examining illegal elite consciousness transfers and syndicate ties.
+- [[risiano-tiler|Risiano Tiler]]: Independent investigative journalist whose Suliman report triggered inquiries into Wu-Ketai; probes consciousness transfers and syndicate ties.
 - [[cam-decardo|Cam Decardo]]: Anti-psionic contact and activist warning BIAS CCR against telepathic threats.
 - [[irquez|Irquez]]: Dockworking supervisor and union official at Orion Docks on Freeport.
 - [[javier|Javier]]: Event planner coordinating the high-society charity gala at the Stardust Casino.
@@ -192,8 +193,7 @@ title: "People & Operatives"
 
 ## Project Metropolis Entities & Synthetic Life
 
-- [[the-old-man|The Old Man]]: Enigmatic resident inside Project Metropolis targeted by BIAS CCR for contact and trade.
-- [[arkady|Arkady]]: Veteran scavenger-diver living aboard *The Bell* at Project Metropolis, identified as The Old Man.
+- [[arkady|Arkady]]: Veteran scavenger-diver living aboard *The Bell* at Project Metropolis, the contact known in briefings as "The Old Man".
 - [[lars|Lars]]: Scavenger-diver from the *Saltpeter* interrogated on Level 1 and executed by Arkady as a Monarch clone.
 - [[magnus|Magnus]]: Surviving diver from the *Saltpeter* waiting on The Bell for Lars; provided Level 2 and Level 3 intelligence.
 - [[ghost-eater|Ghost Eater]]: Heavily augmented cybernetic diver on The Bell from Eternity Station offering Deep secrets for a ghost.

@@ -173,7 +173,7 @@ During the seven-week preparation period on [[eternity-station|Eternity Station]
 - **Operating Logistics**: Managed pooled finances to disburse Cr 76,500 in living costs and starship refueling, while formalizing employment contracts for [[sky|Sky]], [[isaiah|Isaiah]], and [[thomas|Thomas]].
 - **Tactical Outfitting**: Acquired a specialized combat environment suit and a high-performance cyber-warfare laptop loaded with advanced electronic penetration tools. Beck and the team also stocked up on medical supplies, forensics kits, and grenades.
 - **Skill Training & Volunteering**: Successfully advanced her professional skill training while volunteering medical services at a local Eternity Station hospital. Beck also cultivated diplomatic and social relationships with prominent underworld and station figures.
-- **Metropolis Infiltration Flight**: Deployed with BIAS CCR on a 3.5-day sublight voyage to infiltrate [[metropolis-station|Project Metropolis]] via EVA hull breach to contact [[the-old-man|The Old Man]] (Session 58).
+- **Metropolis Infiltration Flight**: Deployed with BIAS CCR on a 3.5-day sublight voyage to infiltrate [[metropolis-station|Project Metropolis]] via EVA hull breach to contact [[arkady|The Old Man]] (Session 58).
 
 ## Running the Interdiction Net & Infiltration of Metropolis (Session 59)
 On Day 188-1105, as the *Raconteur* closed within 25,000 km of Project Metropolis (Session 59):
@@ -349,7 +349,6 @@ On Day 208 during the station-wide evacuation (Session 79):
 - [[monarch|Monarch]]
 - [[the-bell|The Bell]]
 - [[raconteur|Raconteur]]
-- [[the-old-man|The Old Man]]
 - [[angus|Angus]]
 - [[metropolis-station|Metropolis Station]]
 - [[isabel|Isabel]]

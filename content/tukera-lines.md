@@ -7,13 +7,14 @@ tags:
   - megacorp
 sources:
   - "[[news-1105-vol-9]]"
-last_updated: 2026-09-20
+  - "[[news-1105-vol-10]]"
+last_updated: 2026-10-13
 ---
 # Tukera Lines
 
 **Summary**: An Imperial Megacorporation dominating interstellar passenger shipping, freight transport, and subsector commerce.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -29,6 +30,8 @@ The corporation maintains an entrenched presence on the subsector capital of [[k
 
 Despite this strong political connection, Tukera Lines suffered an unexpected commercial setback in 170-1105 when the Kidderminster Navy awarded its 'Senior Operations Initiative' defense contract to rival megacorp [[hortalez-et-cie|Hortalez et Cie]], causing Tukera stock on the Arico exchange to drop 5.5 points to 97.5 ([[news-1105-vol-9|News Dispatch — Volume 9]]).
 
+By 212-1105, the Subsector Navy had moved its banking from Tukera Lines to Hortalez et Cie. In the same period, Tukera bought an undisclosed number of shares from Hortalez, some reports say under pressure from the Imperial governor's office, as Hortalez faced fallout from the [[wu-ketai|Wu-Ketai]] investigations. Tukera stock slipped 0.5 to 97 ([[news-1105-vol-10|News Dispatch — Volume 10]]).
+
 ## Related pages
 
 - [[duchess-margaret|Duchess Margaret]]
@@ -36,3 +39,4 @@ Despite this strong political connection, Tukera Lines suffered an unexpected co
 - [[hortalez-et-cie|Hortalez et Cie]]
 - [[ling-standard-products|Ling Standard Products]]
 - [[news-1105-vol-9|News Dispatch — Volume 9]]
+- [[news-1105-vol-10|News Dispatch — Volume 10]]

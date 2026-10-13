@@ -8,13 +8,14 @@ tags:
 sources:
   - "[[news-1105-vol-1]]"
   - "[[news-1105-vol-6]]"
-last_updated: 2026-09-20
+  - "[[news-1105-vol-10]]"
+last_updated: 2026-10-13
 ---
 # Nesvorny
 
 **Summary**: System 1229 in Solo Sector Subsector J, member of the [[rimward-circuit-collective|Rimward Circuit Collective]].
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -28,6 +29,10 @@ The Nesvorny government actively coordinates regional affairs within the [[rimwa
 
 The world is also home to [[nesvorny-university|Nesvorny University]], an influential regional research institution that drew widespread scrutiny in 087-1105 after presenting controversial findings linking Ancient civilizations to genetically altered fauna in neighboring systems ([[news-1105-vol-6|News Dispatch — Volume 6]]). The university also trained noted chemistry and cyber operative [[asher|Asher]] (Sessions 1–5).
 
+## Psalmist Presence
+
+By 212-1105, a formal [[psalm-134|Psalmist]] organization had started on Nesvorny, the subsector headquarters of the anti-Psalmist [[ling-standard-products|Ling Standard Products]] ([[news-1105-vol-10|News Dispatch — Volume 10]]).
+
 ## Related pages
 
 - [[rimward-circuit-collective|Rimward Circuit Collective]]
@@ -37,3 +42,6 @@ The world is also home to [[nesvorny-university|Nesvorny University]], an influe
 - [[news-1105-vol-1|News Dispatch — Volume 1]]
 - [[news-1105-vol-6|News Dispatch — Volume 6]]
 - [[asher|Asher]]
+- [[psalm-134|Psalm 134]]
+- [[ling-standard-products|Ling Standard Products]]
+- [[news-1105-vol-10|News Dispatch — Volume 10]]

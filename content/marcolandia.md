@@ -8,13 +8,14 @@ tags:
 sources:
   - "[[news-1105-vol-5.1]]"
   - "[[ruby-refinery-heist]]"
-last_updated: 2026-09-20
+  - "[[news-1105-vol-10]]"
+last_updated: 2026-10-13
 ---
 # Marcolandia
 
 **Summary**: Small airless icy rock moon 1425 orbiting gas giant Vilnohirsk, housing 700,000 residents in subterranean cities, balkanized into Ouro and Paraty states, extracting super-metals.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -32,6 +33,7 @@ Marcolandia (1425) carries the UWP designation C2000577-A ([[news-1105-vol-5.1|N
 
 - **Sovereign States**: Divided into two main cooperative political entities, **Ouro** and **Paraty**, alongside numerous independent industrial company factory towns.
 - **Corporate Dominance**: Megacorporation [[hortalez-et-cie|Hortalez et Cie]] is the dominant financial and commercial power, though fiercely contested by [[ling-standard-products|Ling Standard Products]] ([[news-1105-vol-9|News Dispatch — Volume 9]]).
+- **LSP Refinery Takeover (212-1105)**: In a surprise move, Ling Standard Products bought a controlling interest in the system's mining and refinery operations, finally winning control of a number of its refineries ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 - **Penal Workforce**: Refining firm [[youst-refining|Youst Refining]] signed contracts with the [[ouro-correction-department|Ouro Correction Department]] to employ convict labor in heavy super-metal processing ([[news-1105-vol-5.1|News Dispatch — Volume 5.1]]).
 
 ## Heists and Security Crises
@@ -47,3 +49,4 @@ Marcolandia (1425) carries the UWP designation C2000577-A ([[news-1105-vol-5.1|N
 - [[ouro-correction-department|Ouro Correction Department]]
 - [[hortalez-et-cie|Hortalez et Cie]]
 - [[ling-standard-products|Ling Standard Products]]
+- [[news-1105-vol-10|News Dispatch — Volume 10]]

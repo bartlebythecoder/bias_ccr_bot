@@ -9,6 +9,8 @@ links:
   - "[[arico-el-nuevo]]"
   - "[[raconteur]]"
   - "[[bias-ccr]]"
+sources:
+  - "[[news-1105-vol-10]]"
 category: station
 ---
 
@@ -16,7 +18,7 @@ category: station
 
 **Summary**: One-million-resident Stanford Torus habitat and capital of the [[arico-el-nuevo|Arico El Nuevo]] system.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-13
 
 ---
 
@@ -26,7 +28,7 @@ Freeport is a massive 20-kilometer Stanford Torus orbital habitat located in the
 - **Scale**: A 20 km-diameter rotating Torus habitat in the [[arico-el-nuevo|Arico El Nuevo]] asteroid belt. Its living ring measures 1.4 km wide by 60 km in circumference.
 - **Population**: 1,045,200, served by a Class A starport. Freeport is the capital of the Arico system ([[arico-el-nuevo|Arico El Nuevo]]).
 - **Ecology**: Artificially seeded with self-sustaining terrestrial wildlife, including insects, fish, birds, and grazing herbivores.
-- **Religious Life**: Home to the *Sons and Daughters of the Psalms*, an ascetic monastic branch of the [[psalm-134|Psalm 134]] faith.
+- **Religious Life**: Home to the *Sons and Daughters of the Psalms*, an ascetic monastic branch of the [[psalm-134|Psalm 134]] faith. In 1105, a Freeport Psalmist leader was accused of financial irregularities, damaging the movement's influence across Arico ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Districts
 - **Cairo District**: Urban centre facing unrest following a governor replacement and anti-psionic riots.
@@ -43,3 +45,7 @@ On Day 130, Year 1105, BIAS CCR returned to Freeport to pursue their MCr 2.0 con
 
 ## Related pages
 - [[arico-gangs|Gangs of Arico]]
+- [[arico-el-nuevo|Arico El Nuevo]]
+- [[wu-ketai|Wu-Ketai]]
+- [[psalm-134|Psalm 134]]
+- [[jollynn-trust|Jollynn Trust]]

@@ -7,13 +7,14 @@ tags:
   - world
 sources:
   - "[[news-1105-vol-2]]"
-last_updated: 2026-09-20
+  - "[[news-1105-vol-10]]"
+last_updated: 2026-10-13
 ---
 # Kidderminster
 
 **Summary**: Major system 1226 in Solo Sector Subsector J, historical naval anchor during the [[hessian-revolt|Hessian Revolt]], and administrator of Tutin following the 1077–1083 Pacification.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -36,6 +37,8 @@ In 1105, Kidderminster mediated the resolution of the Sanlucar conflict:
 
 - **Grand Tour**: In 049-1105, [[duchess-margaret|Duchess Margaret]] inaugurated the Cultural Exchange Initiative, launching a subsector tour featuring pop icon [[sabrina|Sabrina]] ([[news-1105-vol-4|News Dispatch — Volume 4]]).
 - **Financial Markets**: The Kidderminster Stock Exchange drove massive trading in Sanlucar **pressure crystals** and tracked shifting corporate fortunes between [[hortalez-et-cie|Hortalez et Cie]], [[ling-standard-products|Ling Standard Products]], and [[tukera-lines|Tukera Lines]] ([[news-1105-vol-6|News Dispatch — Volume 6]]; [[news-1105-vol-9|News Dispatch — Volume 9]]).
+- **Navy Banking**: By 212-1105, [[hortalez-et-cie|Hortalez et Cie]]'s banking line had become the official financial provider for the Subsector Navy, whose 'redshirts' are leaving [[tukera-lines|Tukera Lines]] ([[news-1105-vol-10|News Dispatch — Volume 10]]).
+- **Psalmist Center**: An official [[psalm-134|Psalmist]] Center opened on Kidderminster in 1105, something that would have seemed impossible a year earlier. Estimated Psalmist influence rose from 2/6 to 3/6 ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Notable Individuals
 
@@ -51,3 +54,7 @@ In 1105, Kidderminster mediated the resolution of the Sanlucar conflict:
 - [[commonwealth-states-of-sanlucar|Commonwealth States of Sanlucar]]
 - [[giuliana-weber|Giuliana Weber]]
 - [[beck|Beck]]
+- [[hortalez-et-cie|Hortalez et Cie]]
+- [[tukera-lines|Tukera Lines]]
+- [[psalm-134|Psalm 134]]
+- [[david-ives|David Ives]]

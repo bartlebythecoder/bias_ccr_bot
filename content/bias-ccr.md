@@ -173,7 +173,7 @@ Following the liquidation of the Stratemeyer high command, BIAS CCR established 
 - **Contracts & Living Expenses**: Formalized employment terms with pilot [[sky|Sky]] and simian operatives [[isaiah|Isaiah]] and [[thomas|Thomas]] (base salary + hazard pay). Paid Cr 76,500 in living costs, station fees, and ship refueling from the firm's consolidated slush fund.
 - **The Metropolis Dossier**: Assessed megacorporation [[hortalez-et-cie|Hortalez et Cie]] as the dominant financial power in the sector and purchased a classified "Metropolis" dossier from information broker [[angus|Angus]]. The intelligence exposed [[metropolis-station|Project Metropolis]] as a zero-G, erratically powered orbital installation crawling with rogue robots and guarded by external [[wu-ketai|Wu-Ketai]] security gunboats.
 - **Vessel & Tactical Armament**: Refitted the starship with a double turret housing an industrial laser drill for hull breaching. Acquired heavy combat armor with grav-assist maneuvering for [[sarik|Sarik]] and [[isambard|Isambard]], combat environment suits and military cyber-warfare decks for [[beck|Beck]] and [[asher|Asher]], an accelerator rifle for Sarik, and a laser sniper rifle for Isambard.
-- **Transit & Target Contact**: After training and personal pursuits (Beck's hospital volunteering, Isambard's gambling and cellmate letters, Asher's outreach to [[tina|Tina]], and Sarik's family check-ins), the operatives launched on a 3.5-day flight toward Metropolis Station, preparing for stealth evasion of Wu-Ketai patrols to make contact with [[the-old-man|The Old Man]] (Session 58).
+- **Transit & Target Contact**: After training and personal pursuits (Beck's hospital volunteering, Isambard's gambling and cellmate letters, Asher's outreach to [[tina|Tina]], and Sarik's family check-ins), the operatives launched on a 3.5-day flight toward Metropolis Station, preparing for stealth evasion of Wu-Ketai patrols to make contact with [[arkady|The Old Man]] (Session 58).
 
 ## Running the Wu-Ketai Interdiction, The Bell & Monarch (Session 59)
 
@@ -397,7 +397,6 @@ On Day 208, during the final four hours before nuclear detonation (Session 79):
 - [[monarch|Monarch]]
 - [[the-bell|The Bell]]
 - [[raconteur|Raconteur]]
-- [[the-old-man|The Old Man]]
 - [[angus|Angus]]
 - [[hortalez-et-cie|Hortalez et Cie]]
 - [[isabel|Isabel]]

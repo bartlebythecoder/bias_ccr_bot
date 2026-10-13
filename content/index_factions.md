@@ -15,6 +15,7 @@ title: "Factions, Houses & Megacorporations"
 - [[house-ilethian|House Ilethian]]: Great House ruling Pleasant Hill subsector (Duke Dulinor), 19% Hortalez, patron of Psalm 134, anti-psionic.
 - [[house-liashay|House Liashay]]: Ruling house of Hess subsector (Duke Shiral Vash Liashav), elevated post-Hessian Revolt, anti-Psalmist.
 - [[house-yetrina|House Yetrina]]: Ruling house of Kidderminster subsector (Duchess Margaret), allied with Tukera Lines, anti-Psalmist.
+- [[house-alkalikoi|House Alkalikoi]]: The Imperial Royal House, holder of the Third Imperium's throne, with equity across the major megacorporations.
 - [[noble-houses|Noble Houses]]: Overview of the sixteen Imperial subsector dynasties, House Alkalikoi crown, and feudal authority.
 - [[commonwealth-states-of-sanlucar|Commonwealth States of Sanlucar]]: Sovereign government on Sanlucar formed by the Aridush coalition.
 - [[the-banks|The Banks]]: Ruling financial oligopoly of Romentino exercising executive governance, policing, and arrest authority.

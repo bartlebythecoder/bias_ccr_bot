@@ -4,10 +4,12 @@ tags:
   - person
   - scavenger
   - metropolis
+aliases:
+  - The Old Man
+  - Old Man
 links:
   - "[[the-bell]]"
   - "[[metropolis-station]]"
-  - "[[the-old-man]]"
   - "[[monarch]]"
   - "[[bias-ccr]]"
 category: person
@@ -15,13 +17,13 @@ category: person
 
 # Arkady
 
-**Summary**: Elderly scavenger-diver living aboard [[the-bell|The Bell]] outside [[metropolis-station|Metropolis Station]], the contact known in briefings as [[the-old-man|The Old Man]] and BIAS CCR's guide to the station's dangers.
+**Summary**: Elderly scavenger-diver living aboard [[the-bell|The Bell]] outside [[metropolis-station|Metropolis Station]], the contact known in briefings as "The Old Man" and BIAS CCR's guide to the station's dangers.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-13
 
 ---
 
-**Arkady** is an elderly scavenger-diver who resides in a detached thruster habitat known as ***[[the-bell|The Bell]]*** moored outside the derelict orbital installation of [[metropolis-station|Project Metropolis]] (Session 59). He is the resident contact previously referred to in mission briefings as **[[the-old-man|The Old Man]]**.
+**Arkady** is an elderly scavenger-diver who resides in a detached thruster habitat known as ***[[the-bell|The Bell]]*** moored outside the derelict orbital installation of [[metropolis-station|Project Metropolis]] (Session 59). He is the resident contact previously referred to in mission briefings as **The Old Man**: after buying the "Metropolis" dossier from broker [[angus|Angus]] on [[eternity-station|Eternity Station]], BIAS CCR set out with luxury provisions to barter for The Old Man's guidance on the station (Session 58).
 
 ## Habitat and Knowledge of Metropolis
 Arkady lives a solitary existence on the perimeter of the [[wu-ketai|Wu-Ketai]] restricted zone, surviving by diving into the derelict station for salvage. He possesses extensive technical and operational familiarity with the station's multi-level structure, its security systems, and its automated robotic threats (Session 59).
@@ -65,5 +67,5 @@ In a private interview on Day 190 with **[[asher|Asher]]** in his quarters (Sess
 - [[the-bell|The Bell]]
 - [[metropolis-station|Metropolis Station]]
 - [[monarch|Monarch]]
-- [[the-old-man|The Old Man]]
+- [[angus|Angus]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]

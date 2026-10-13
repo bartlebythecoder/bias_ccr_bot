@@ -118,7 +118,7 @@ During the crew's seven-week preparation sabbatical on [[eternity-station|Eterni
 - **Ship Weaponization & Hull Drill**: Coordinated mechanical upgrades on the crew's starship, installing a new double turret housing an industrial laser drill designed to cut entry points into unmonitored hull plates during boarding actions.
 - **Combat Armor & Laser Sniper Rifle**: Outfitted himself in heavy combat armor equipped with integrated grav-assist maneuvering thrusters and procured a high-precision laser sniper rifle.
 - **Skill Advancement & Downtime**: Successfully improved his technical and operational skill proficiencies during station training courses. In his off-hours, Isambard frequented station gambling tables and maintained regular written correspondence with a former prison cellmate.
-- **Project Metropolis Deployment**: Embarked on the 3.5-day flight toward [[metropolis-station|Project Metropolis]] to conduct EVA hull-breaching and contact [[the-old-man|The Old Man]] (Session 58).
+- **Project Metropolis Deployment**: Embarked on the 3.5-day flight toward [[metropolis-station|Project Metropolis]] to conduct EVA hull-breaching and contact [[arkady|The Old Man]] (Session 58).
 
 ## Running the Wu-Ketai Interdiction & Metropolis Infiltration (Session 59)
 On Day 188-1105, Isambard shared the helm of the ***[[raconteur|Raconteur]]*** with [[sky|Sky]] as they approached Project Metropolis (Session 59):
@@ -304,7 +304,6 @@ On Day 208 during the final extraction and escape from Metropolis (Session 79):
 - [[monarch|Monarch]]
 - [[the-bell|The Bell]]
 - [[raconteur|Raconteur]]
-- [[the-old-man|The Old Man]]
 - [[angus|Angus]]
 - [[metropolis-station|Metropolis Station]]
 - [[belladonna|Belladonna]]

@@ -10,6 +10,8 @@ links:
   - "[[wu-ketai]]"
   - "[[richard-lundquist]]"
   - "[[carl-parker]]"
+sources:
+  - "[[news-1105-vol-10]]"
 category: location
 ---
 
@@ -17,7 +19,7 @@ category: location
 
 **Summary**: [[wu-ketai|Wu-Ketai]]'s mining and research asteroid in the [[arico-el-nuevo|Arico]] system, home to about 70,000 people and its uplift laboratories.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-13
 
 ---
 
@@ -46,3 +48,16 @@ Suliman is a resource-rich mining and research asteroid located in the [[arico-e
   - **Surveillance Blind Spot**: The core labs possess zero internal surveillance camera monitoring, creating an absolute informational blackout (Session 35).
 - **The Triple Disappearances**: Beyond geneticist [[richard-lundquist|Richard Lundquist]], both corporate security officer [[hector|Hector Nilasen]] and Chief of Corporate Security [[marcus-fortune|Marcus Fortune]] vanished in rapid succession under suspicious circumstances, with sightings converging on the core laboratories and Fortune's private suite (Sessions 35, 37).
 - **Emergency Escape Launch Bays**: Subterranean launch tubes linked to service tunnels allowing high-velocity evacuation vessels to launch directly into deep space (Session 39).
+
+## Public Exposure & Investigations (1105)
+Journalist [[risiano-tiler|Risiano Tiler]] published a report on illegal experiments at Suliman, which news coverage describes as Wu-Ketai's flagship facility. By 212-1105, the Subsector and Imperial authorities had each opened an investigation, putting pressure on Wu-Ketai President [[david-ives|David Ives]] ([[news-1105-vol-10|News Dispatch — Volume 10]]).
+
+## Related pages
+- [[wu-ketai|Wu-Ketai]]
+- [[arico-el-nuevo|Arico El Nuevo]]
+- [[project-echo-bloom|Project Echo Bloom]]
+- [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]]
+- [[richard-lundquist|Richard Lundquist]]
+- [[risiano-tiler|Risiano Tiler]]
+- [[david-ives|David Ives]]
+- [[news-1105-vol-10|News Dispatch — Volume 10]]

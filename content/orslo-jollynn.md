@@ -7,13 +7,15 @@ tags:
   - npc
 sources:
   - "[[news-1105-vol-8]]"
-last_updated: 2026-09-20
+  - "[[news-1105-vol-9]]"
+  - "[[news-1105-vol-10]]"
+last_updated: 2026-10-13
 ---
 # Orslo Jollynn
 
 **Summary**: Influential banker, philanthropist, and CEO of [[jollynn-trust|Jollynn Trust]] on [[arico-el-nuevo|Arico El Nuevo]] who was murdered in 1105 and exposed as the secret mastermind of the Stratemeyer Syndicate.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -43,6 +45,10 @@ On the night of Day 133-1105, following the Stardust charity gala, Jollynn retur
 ## Political Repercussions
 
 Her murder and criminal exposure dealt a shattering blow to Arico financial circles and fueled the anti-establishment rhetoric of the [[psalm-134|Psalm 134]] populist movement across the belt ([[news-1105-vol-9|News Dispatch — Volume 9]]).
+
+## Official Investigation
+
+As of 212-1105, authorities were no closer to an arrest. Investigators believe the killers were professionals hired by a rival drug cartel and have since left the planet ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Related pages
 

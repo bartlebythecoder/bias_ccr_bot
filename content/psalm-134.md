@@ -10,15 +10,16 @@ sources:
   - "[[news-1105-vol-2]]"
   - "[[news-1105-vol-6]]"
   - "[[news-1105-vol-9]]"
+  - "[[news-1105-vol-10]]"
   - "[[tutin-pacification]]"
   - "[[the-134-psalms]]"
-last_updated: 2026-09-20
+last_updated: 2026-10-13
 ---
 # Psalm 134
 
 **Summary**: A pervasive religious and socio-political movement centered on 134 sacred verses, characterized by decentralized study groups, ducal political backing, and sharp working-class resistance.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -44,6 +45,16 @@ The movement has evolved into a deeply polarizing interstellar force:
 - **Csabai Scandal**: Local leader [[darlene-suitor|Darlene Suitor]] was arrested in 1105 for narcotics trafficking and murder, forcing the local church into a defensive retreat ([[news-1105-vol-6|News Dispatch — Volume 6]]; [[news-1105-vol-9|News Dispatch — Volume 9]]).
 - **Marcolandia Corporate Suppression**: [[ling-standard-products|Ling Standard Products]] systematically banned known Psalmists from corporate employment and forced center closures ([[news-1105-vol-9|News Dispatch — Volume 9]]).
 
+## Psalmist Watch (212-1105)
+
+| Region | Development | Est. Influence |
+| :--- | :--- | :--- |
+| [[arico-el-nuevo\|Arico]] | A [[freeport\|Freeport Station]] Psalmist leader accused of financial irregularities hurt the movement, though its popularity on [[eternity-station\|Eternity Station]] appears unaffected. | 5/6 → 4/6 |
+| [[kidderminster\|Kidderminster]] | An official Psalmist Center opened in the subsector capital after sustained lobbying and advertising. | 2/6 → 3/6 |
+| [[nesvorny\|Nesvorny]] and [[sanlucar-de-barram\|Sanlucar]] | Formal Psalmist organizations founded on both worlds. | 1/2 → 2/6 (as reported) |
+
+([[news-1105-vol-10|News Dispatch — Volume 10]])
+
 ## Related pages
 
 - [[the-134-psalms|The 134 Psalms]]
@@ -61,3 +72,8 @@ The movement has evolved into a deeply polarizing interstellar force:
 - [[marcolandia|Marcolandia]]
 - [[ling-standard-products|Ling Standard Products]]
 - [[sanlucar-crisis|Sanlucar Crisis]]
+- [[kidderminster|Kidderminster]]
+- [[nesvorny|Nesvorny]]
+- [[freeport|Freeport]]
+- [[eternity-station|Eternity Station]]
+- [[news-1105-vol-10|News Dispatch — Volume 10]]

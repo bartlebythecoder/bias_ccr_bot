@@ -180,7 +180,7 @@ During the seven-week rest and outfitting period on [[eternity-station|Eternity 
 - **Zero-G Armor & Accelerator Rifle**: In anticipation of the unpowered, zero-gravity conditions detailed in Angus's Metropolis dossier, Sarik purchased heavy combat armor integrated with grav-assist maneuvering thrusters and acquired an accelerator rifle specifically engineered for microgravity firearm combat.
 - **Physical Conditioning & Setbacks**: Focused heavily on physical conditioning and martial training regimens, though encountering temporary setbacks in meeting his desired training goals.
 - **Family Check-In**: Cautiously leveraged secure comms channels to check in on the wellbeing and security of his family.
-- **Metropolis Infiltration Flight**: Deployed with the team aboard their laser-drill refitted starship on a 3.5-day transit to penetrate [[metropolis-station|Project Metropolis]] and contact [[the-old-man|The Old Man]] (Session 58).
+- **Metropolis Infiltration Flight**: Deployed with the team aboard their laser-drill refitted starship on a 3.5-day transit to penetrate [[metropolis-station|Project Metropolis]] and contact [[arkady|The Old Man]] (Session 58).
 
 ## Infiltration of Metropolis & Point Reconnaissance (Session 59)
 On Day 188-1105, following the *Raconteur*'s evasive maneuvers against Wu-Ketai patrols and consultation with [[arkady|Arkady]] on ***[[the-bell|The Bell]]*** (Session 59):
@@ -371,7 +371,6 @@ On Day 208 during the high-speed evacuation from the nuclear warhead (Session 79
 - [[arkady|Arkady]]
 - [[monarch|Monarch]]
 - [[the-bell|The Bell]]
-- [[the-old-man|The Old Man]]
 - [[angus|Angus]]
 - [[metropolis-station|Metropolis Station]]
 - [[metropolis-station|Metropolis Station]]

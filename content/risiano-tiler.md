@@ -5,14 +5,16 @@ tags:
   - journalist
   - investigator
   - freeport
+sources:
+  - "[[news-1105-vol-10]]"
 category: person
 ---
 
 # Risiano Tiler
 
-**Summary**: Independent investigative journalist in the [[arico-el-nuevo|Arico]] system who shares leads with BIAS CCR.
+**Summary**: Independent investigative journalist in the [[arico-el-nuevo|Arico]] system whose report on [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] experiments sparked two inquiries; shares leads with BIAS CCR.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-13
 
 ---
 
@@ -31,6 +33,9 @@ In a reciprocal intelligence exchange, BIAS CCR provided her with information re
 ### Tracking the Belladonna & Cartel Connections (Day 131-1105)
 Following the telepathic abduction of [[sarik|Sarik]], Tiler contacted [[beck|Beck]] at 2:30 PM with vital intelligence connecting [[conde-borbon|Conde Borbon]] to the [[meinhoff-brigade|Meinhoff Brigade]] via the [[primero-cartel|Primero Cartel]] on Freeport (Session 48). Later that afternoon, Tiler identified and confirmed that an associated starship, the ***[[belladonna|Belladonna]]***, was berthed within Freeport's massive Class A starport complex, alerting the team so they could mount an intercept.
 
+### The Suliman Report (1105)
+Tiler later published an investigative report on illegal experiments at [[wu-ketai|Wu-Ketai]]'s flagship [[suliman|Suliman Asteroid]]. By 212-1105, the report had prompted separate Subsector and Imperial investigations into Wu-Ketai, putting pressure on its President [[david-ives|David Ives]] ([[news-1105-vol-10|News Dispatch — Volume 10]]).
+
 ---
 
 ## Associated Entities
@@ -43,3 +48,6 @@ Following the telepathic abduction of [[sarik|Sarik]], Tiler contacted [[beck|Be
 - [[primero-cartel|Primero Cartel]]
 - [[meinhoff-brigade|Meinhoff Brigade]]
 - [[erebus-power|Erebus Power]]
+- [[wu-ketai|Wu-Ketai]] (Investigation subject)
+- [[suliman|Suliman]]
+- [[david-ives|David Ives]]

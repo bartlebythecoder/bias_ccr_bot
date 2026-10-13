@@ -133,3 +133,11 @@ title: "Campaign Master Timeline"
 | **Day 202–204** | Metropolis Decks | Goods Elevator EMP trap; Commander Kilroy summit; discovering hidden strategic [[nuclear-warhead\|Nuclear Warhead]]. |
 | **Day 205–206** | Metropolis Core | Micro-Hangar C-118 insertion; **[[exact-replica-of-the-duchess\|Exact Replica of the Duchess]]** discovered; warhead armed on 4.5h timer. |
 | **Day 207–208** | Metropolis / Belt | Ghost [[renzo\|Renzo]] psychic strike; Duchess replica extracted; Officer Conway shakedown averted; **nuclear detonation completely annihilates Project Metropolis, Monarch, The Bell, and the Psalmist fleet**. |
+
+---
+
+### Subsector News After Metropolis (Day 209 onward)
+
+| In-Game Date | Location | Key Narrative Milestones |
+| :--- | :--- | :--- |
+| **Day 212** | Subsector J | Subsector and Imperial inquiries into [[wu-ketai\|Wu-Ketai]] over [[risiano-tiler\|Risiano Tiler]]'s [[suliman\|Suliman]] report; [[orslo-jollynn\|Jollynn]] murder unsolved; LSP takes control of Marcolandia refineries; Hortalez becomes Subsector Navy banker ([[news-1105-vol-10\|Vol 10]]). |

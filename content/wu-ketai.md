@@ -10,6 +10,9 @@ links:
   - "[[suliman]]"
   - "[[richard-lundquist]]"
   - "[[joanna-lundquist]]"
+  - "[[david-ives]]"
+sources:
+  - "[[news-1105-vol-10]]"
 category: corporation
 ---
 
@@ -17,7 +20,7 @@ category: corporation
 
 **Summary**: Bio-engineering, mining and research megacorporation headquartered on [[freeport|Freeport]], known for its uplifted simian labor.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-13
 
 ---
 
@@ -27,6 +30,11 @@ Wu-Ketai is an interstellar bio-engineering, mining, and research corporation op
 - **Headquarters**: Based in the Kidderminster subsector, headquartered at [[freeport|Freeport]] in the [[arico-el-nuevo|Arico El Nuevo]] system.
 - **Primary Laboratory**: Its main scientific facility is located on the [[suliman|Suliman]] asteroid in the Arico belt.
 - **Organic Anti-AI Mandate**: Wu-Ketai breeds and trains uplifted simians as compliant manual labour, marketed explicitly as an alternative that avoids the risks and legal restrictions of AI-based robotics and androids.
+- **Leadership**: President and CEO [[david-ives|David Ives]], a former [[hortalez-et-cie|Hortalez et Cie]] executive, has led the company since 1099.
+- **Largest Shareholder**: [[hortalez-et-cie|Hortalez et Cie]] ([[news-1105-vol-10|News Dispatch — Volume 10]]).
+
+## Subsector and Imperial Investigations (1105)
+By 212-1105, the Subsector and Imperial authorities had each opened an investigation into Wu-Ketai following journalist [[risiano-tiler|Risiano Tiler]]'s report on illegal experiments on aging at [[suliman|Suliman]]. The inquiries put pressure on President David Ives and on the share prices of Wu-Ketai and Hortalez et Cie, which denies any knowledge of the experiments ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Known Activities & Anomalies
 - **Simian Uplift Operations**: The corporation develops and licenses genetically uplifted simians for commercial and industrial use, some of which have demonstrated violent, rogue behavioral mutations (Session 33). On [[suliman|Suliman]], simians perform articulate speech and complex manual tasks throughout [[the-warrens|The Warrens]] (Session 34).
@@ -36,3 +44,15 @@ Wu-Ketai is an interstellar bio-engineering, mining, and research corporation op
 - **Fifty-Year Simian Research Conspiracy**: Intelligence gathered from Suliman laborers revealed that Wu-Ketai has secretly been breeding and aging uplifted simians for more than **fifty years**, sharply contradicting corporate claims that uplift research only started twenty years ago (Session 36).
 - **LSP Corporate Espionage**: Internal station rumors indicate that rival megacorporation [[ling-standard-products|Ling Standard Products (LSP)]] has covertly infiltrated Wu-Ketai operations on Suliman to pilfer genetic data or undermine facilities (Session 36).
 - **Core Laboratories Penetration**: Wu-Ketai operates sterile central research laboratories accessed through a concealed security door in [[the-blue-moose|The Blue Moose]] tavern's utility closet, where outside scientists such as [[george-castle|Dr. George Castle]] have been deployed (Session 36).
+
+## Related pages
+- [[david-ives|David Ives]]
+- [[suliman|Suliman]]
+- [[freeport|Freeport]]
+- [[hortalez-et-cie|Hortalez et Cie]]
+- [[risiano-tiler|Risiano Tiler]]
+- [[richard-lundquist|Richard Lundquist]]
+- [[joanna-lundquist|Joanna Lundquist]]
+- [[project-chimera|Project Chimera]]
+- [[ling-standard-products|Ling Standard Products]]
+- [[news-1105-vol-10|News Dispatch — Volume 10]]

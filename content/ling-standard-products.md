@@ -8,14 +8,15 @@ tags:
 sources:
   - "[[news-1105-vol-5]]"
   - "[[news-1105-vol-9]]"
+  - "[[news-1105-vol-10]]"
   - "[[megacorporations]]"
-last_updated: 2026-09-20
+last_updated: 2026-10-13
 ---
 # Ling Standard Products
 
 **Summary**: Imperial Megacorporation dominating the Lower Circuit from its [[nesvorny|Nesvorny]] headquarters, operating Frontier Lines, manufacturing weapons, and funding anti-Psalmist lobbying.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -36,6 +37,7 @@ LSP represents the single largest corporate power along the Rimward (Lower) Circ
 - **Romentino Bombing**: In 051-1105, LSP's Morella Noavarite mining outpost was obliterated in a catastrophic attack by [[the-red-hand|The Red Hand]], killing all 200 personnel ([[news-1105-vol-5|News Dispatch — Volume 5]]).
 - **Anti-Psalmist Lobbying**: Connected to covert anti-Psalmist lobby groups; systematically curbs [[psalm-134|Psalm 134]] expansion and bars adherents from corporate management on worlds like [[marcolandia|Marcolandia]] ([[news-1105-vol-9|News Dispatch — Volume 9]]).
 - **Tech & Refining Battles**: Lost its 12-year Csabai government contract to [[hortalez-et-cie|Hortalez et Cie]], but repelled Hortalez's takeover attempt of the [[youst-refining|Foust Refinery]] on Marcolandia ([[news-1105-vol-9|News Dispatch — Volume 9]]).
+- **Marcolandia Control (212-1105)**: In a surprise move, LSP bought a controlling interest in mining and refinery operations in the [[marcolandia|Marcolandia]] system, finally winning control of a number of its refineries. LSP stock rose 3.5 to 145 ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Operations on Mirassol & Security Interdiction
 

@@ -7,13 +7,14 @@ tags:
   - establishment
 sources:
   - "[[news-1105-vol-1]]"
-last_updated: 2026-09-20
+  - "[[news-1105-vol-10]]"
+last_updated: 2026-10-13
 ---
 # Sanlucar de Barram
 
 **Summary**: System 1022 in Solo Sector Subsector J, an arid gas-giant moon with underground and orbital cities, vital for pressure crystal harvesting and defined by decades of revolutionary conflict.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-13
 
 ---
 
@@ -40,6 +41,7 @@ In early 1105, mounting working-class resentment over resource distribution and 
 While the Imperial Navy restored Sanlucar's travel advisory to Green, the moon faced a profound reconstruction crisis:
 - Severe shortages of contra-grav lifters, atmospheric processors, and modular housing delayed refugee resettlement throughout mid-1105 ([[news-1105-vol-6|News Dispatch — Volume 6]]).
 - Concurrently, political stabilization triggered an aggressive speculative boom in pressure crystal futures on the [[kidderminster|Kidderminster]] Stock Exchange ([[news-1105-vol-6|News Dispatch — Volume 6]]).
+- By 212-1105, a formal [[psalm-134|Psalmist]] organization had started on Sanlucar, despite the movement's part in the revolution ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Related pages
 

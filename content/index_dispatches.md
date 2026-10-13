@@ -21,6 +21,7 @@ title: "News Dispatches & Reference Dossiers"
 - [[news-1105-vol-7|News Dispatch — Volume 7]]: Dispatch covering day 113-1105 on Arico El Nuevo (Murder of Wu-Ketai designer Louise Soto in The Lux).
 - [[news-1105-vol-8|News Dispatch — Volume 8]]: Dispatches covering day 129 to 131-1105 (Arico martial law, Eternity Station general strike, underworld hit leak).
 - [[news-1105-vol-9|News Dispatch — Volume 9]]: Dispatches covering day 134 to 170-1105 (Orslo Jollynn murder / Stratemeyers unmasking, Megacorp contract shifts, Psalmist watch).
+- [[news-1105-vol-10|News Dispatch — Volume 10]]: Dispatches from day 212-1105 (Wu-Ketai investigations over Suliman, Jollynn murder unsolved, LSP takes Marcolandia refineries, Hortalez wins Navy banking, Psalmist watch).
 
 ---
 

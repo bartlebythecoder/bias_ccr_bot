@@ -183,7 +183,7 @@ During the seven-week rest and preparation interval on [[eternity-station|Eterni
 - **Cyber-Warfare Outfitting**: Acquired a specialized combat environment suit and a top-tier cyber-deck / high-performance laptop loaded with cutting-edge network intrusion and hacking suites. Restocked electronic forensic kits, trauma supplies, and tactical grenades.
 - **Training Setbacks**: Engaged in intensive technical training programs on the station, but encountered obstacles and setbacks in achieving his targeted skill progression.
 - **Reaching Out to Tina**: Attempted to establish covert communication channels to locate and contact [[tina|Tina]], reflecting ongoing concern over her fate since her departure on Csabai.
-- **Metropolis Transit**: Embarked with BIAS CCR on the 3.5-day sublight voyage aboard their laser-drill refitted ship to infiltrate [[metropolis-station|Project Metropolis]] and contact [[the-old-man|The Old Man]] (Session 58).
+- **Metropolis Transit**: Embarked with BIAS CCR on the 3.5-day sublight voyage aboard their laser-drill refitted ship to infiltrate [[metropolis-station|Project Metropolis]] and contact [[arkady|The Old Man]] (Session 58).
 
 ## Infiltration of Metropolis & Welcome Terminal Cyber-Intrusion (Session 59)
 On Day 188-1105, following the docking at ***[[the-bell|The Bell]]*** and insertion into **A00 Docking Bay** (Session 59):
@@ -366,10 +366,8 @@ On Day 208 during the high-speed extraction from Metropolis Station (Session 79)
 - [[monarch|Monarch]]
 - [[the-bell|The Bell]]
 - [[raconteur|Raconteur]]
-- [[the-old-man|The Old Man]]
 - [[angus|Angus]]
 - [[metropolis-station|Metropolis Station]]
-- [[the-old-man|The Old Man]]
 - [[angus|Angus]]
 - [[metropolis-station|Metropolis Station]]
 - [[isabel|Isabel]]

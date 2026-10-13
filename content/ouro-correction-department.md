@@ -11,7 +11,7 @@ last_updated: 2026-09-20
 ---
 # Ouro Correction Department
 
-**Summary**: A correctional agency supplying penal labor to industrial corporations, notably [[youst-refining]] on [[marcolandia|Marcolandia]].
+**Summary**: A correctional agency supplying penal labor to industrial corporations, notably [[youst-refining|Youst Refining]] on [[marcolandia|Marcolandia]].
 
 **Last updated**: 2026-09-20
 

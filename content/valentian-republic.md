@@ -11,8 +11,9 @@ last_updated: 2026-09-20
 ---
 # Valentian Republic
 
-**Summary**: The governing regime on the moon [[sanlucar-de-barram]] that controlled vast gas-mining infrastructure before its overthrow in early 1105.
+**Summary**: The governing regime on the moon [[sanlucar-de-barram|Sanlucar de Barram]] that controlled vast gas-mining infrastructure before its overthrow in early 1105.
 
+**Last updated**: 2026-10-13
 
 ---
 

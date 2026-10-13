@@ -219,7 +219,8 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
-      links: {}
+      links:
+        Imperial Calendar: https://bartlebythecoder.github.io/imperial_calendar/
     layout:
       position: footer
       priority: 50
