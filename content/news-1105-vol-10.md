@@ -42,7 +42,7 @@ last_updated: 2026-10-13
 - **Actors**: [[psalm-134|Psalm 134]]
 - **Arico**: A [[freeport|Freeport Station]] Psalmist leader accused of financial irregularities has damaged Psalmist influence on Arico, though their popularity on [[eternity-station|Eternity Station]] appears unaffected. Estimated influence: was 5/6, now 4/6.
 - **Kidderminster**: An official Psalmist Center has opened on [[kidderminster|Kidderminster]], a sign of the movement's growing acceptance that would have seemed impossible a year ago. Lobbying and advertising in the subsector capital have softened the public mood. Estimated influence: was 2/6, now 3/6.
-- **Nesvorny and Sanlucar**: Formal Psalmist organizations have started on [[nesvorny|Nesvorny]] and [[sanlucar-de-barram|Sanlucar]]. Estimated influence: was 1/2, now 2/6.
+- **Nesvorny and Sanlucar**: Formal Psalmist organizations have started on [[nesvorny|Nesvorny]] and [[sanlucar-de-barram|Sanlucar]]. Estimated influence: was 1/6, now 2/6.
 
 ## Related pages
 
