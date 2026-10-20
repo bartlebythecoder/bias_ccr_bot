@@ -35,6 +35,8 @@ title: "People & Operatives"
 - [[giuliana-weber|Giuliana Weber]]: President of the Commonwealth States of Sanlucar and veteran commander of the Aridush Freedom Fighters.
 - [[supreme-leader-volkov|Supreme Leader Volkov]]: Authoritarian Leader for Life of Beaumont.
 - [[commodore-koroleva|Commodore Koroleva]]: Imperial Navy Commanding Officer stationed at Romentino.
+- [[colonel-marshall-moses-clark|Colonel Marshall Moses Clark]]: Marine colonel commanding the Subsector Navy contingent in Hampton on Tutin.
+- [[governor-stieg-tanaka|Governor Stieg Tanaka]]: Colony administrator for Hampton on Tutin and the surrounding area.
 - [[margaux-evans|Margaux Evans]]: Diplomatic attaché and fixer for Viscount Rittenhouse managing crisis media and palace interests.
 
 ---

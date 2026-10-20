@@ -15,7 +15,7 @@ last_updated: 2026-09-20
 **Last updated**: 2026-09-20
 
 ---
-![[lord_baltimore.png]]
+
 ## Aristocratic Standing & Estate
 
 Lord Baltimore is an influential Imperial aristocrat maintaining an opulent estate, Baltimore House, within the Noble Quarter of [[startown-liberty|Startown Liberty]] on [[romentino|Romentino]] (Session 11). He hosts exclusive high-society galas attended by planetary governors, megacorporation executives, and naval commanders (Session 11).

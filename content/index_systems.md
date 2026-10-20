@@ -81,6 +81,7 @@ title: "Systems, Geography & Stations"
 - [[the-labyrinth|The Labyrinth]]: Shifting, organic maze sector on Metropolis Level 2 housing the Minotaur.
 
 ### Tutin
+- [[hampton|Hampton]]: Town on Tutin near the orbital elevator, the entry and exit point for all workers on the planet.
 - [[hillcrest|Hillcrest]]: Luxury destination on Tutin catering to high society visitors.
 
 ### Eternity Station

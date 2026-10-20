@@ -31,10 +31,15 @@ An undocumented population of nomadic religious zealot communities inhabits the 
 
 [[hillcrest|Hillcrest]] is a luxury destination on Tutin catering to high society visitors.
 
+## Hampton
+
+[[hampton|Hampton]] is a town near Tutin's orbital elevator, serving as the entry and exit location for all workers on the planet.
+
 ## Related pages
 
 - [[tutin-pacification|Tutin Pacification]]
 - [[kidderminster|Kidderminster]]
+- [[hampton|Hampton]]
 - [[hillcrest|Hillcrest]]
 - [[psalm-134|Psalm 134]]
 - [[the-134-psalms|The 134 Psalms]]
