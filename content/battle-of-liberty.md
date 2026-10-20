@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 ---
 # Battle of Liberty
 
-**Summary**: Decisive fleet clash in the 1064/1084 Hessian campaigns halting House Gaval, fought within a 300,000-year-old Ancient war debris belt; La Libertad remains an interdicted graveyard.
+**Summary**: Decisive fleet clash in 1069 Hessian campaigns halting House Gaval, fought within a 300,000-year-old Ancient war debris belt; La Libertad remains an interdicted graveyard.
 
 **Last updated**: 2026-09-20
 

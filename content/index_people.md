@@ -85,8 +85,10 @@ title: "People & Operatives"
 
 - [[blue-lou-boyle|Blue Lou Boyle]]: Notorious Demon Prince dominating the Lower Circuit, suspected to be Lazlo Kovacs.
 - [[yandee|Yandee]]: Demon Prince and ruler of the Meinhoff Brigade commanding Eternity Station.
+- [[cutter|Cutter]]: Second in command to Yandee in the Meinhoff Brigade, residing at Eternity Station.
 - [[umdala|Umdala]]: Supreme overall crime lord and executive head of The Red Hand on Romentino.
 - [[tres-capulet|Tres Capulet]]: Veteran labor organizer and leader of the Real Red Hand exposing mining clone labor.
+- [[imogen-kane|Imogen Kane]]: Leader of the Hunglungs resistance movement in Doptown on Eternity Station.
 - [[joey|Joey]]: Full member of The Red Hand struggling under organizational dues due to the kidnapping ban.
 - [[bobby|Bobby]]: Underworld smuggler and brother of Joey, killed by Sarik during a hazardous surface trek on Romentino.
 - [[andy|Andy]]: Real Red Hand operative who escorted BIAS CCR into Morella Station as bank auditors.

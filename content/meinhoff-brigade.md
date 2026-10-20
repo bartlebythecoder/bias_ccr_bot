@@ -32,6 +32,10 @@ The Brigade is the primary producer and distributor of **Sycorax**, a potent ill
 ## Related pages
 
 - [[eternity-station|Eternity Station]]
+- [[yandee|Yandee]]
+- [[cutter|Cutter]]
+- [[the-choke|The Choke]]
+- [[doptown|Doptown]]
 - [[primero-cartel|Primero Cartel]]
 - [[dark-crescent|Dark Crescent]]
 - [[freeport|Freeport]]

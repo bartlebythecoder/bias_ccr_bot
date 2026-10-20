@@ -17,7 +17,7 @@ last_updated: 2026-09-20
 
 ## Outbreak of Hostilities (1077)
 
-In 1077, disputed election results on the agricultural/frontier world of [[tutin-pacification|Tutin Pacification]] (1624, UWP C764265-6) saw a militant religious sect, *The Order of the Psalms*, claim sovereign authority. Alarmed by the prospect of an aggressive theocracy, the subsector government at [[kidderminster|Kidderminster]] deployed an expeditionary army to forcefully depose the Order.
+In 1077, disputed election results on the agricultural/frontier world of [[tutin|Tutin]] (1624, UWP C764265-6) saw a militant religious sect, *The Order of the Psalms*, claim sovereign authority. Alarmed by the prospect of an aggressive theocracy, the subsector government at [[kidderminster|Kidderminster]] deployed an expeditionary army to forcefully depose the Order.
 
 ## The Five-Year Insurgency
 
@@ -32,6 +32,6 @@ The war devolved into grueling guerrilla combat across rugged terrain:
 
 ## Related pages
 
+- [[tutin|Tutin]]
 - [[psalm-134|Psalm 134]]
 - [[kidderminster|Kidderminster]]
-- [[tutin-pacification|Tutin Pacification]]

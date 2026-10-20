@@ -25,7 +25,7 @@ Kidderminster (1226) carries the UWP profile A7B49AA-B and serves as the economi
 ## Military and Strategic History
 
 - **The Battle of Liberty (1064)**: During the [[hessian-revolt|Hessian Revolt]], the Kidderminster subsector navy formed the core of the Imperial fleet that checked House Gaval at La Libertad, preventing the strategic collapse of the subsector ([[battle-of-liberty|Battle of Liberty]]).
-- **The Tutin Pacification (1077–1083)**: Kidderminster launched a decisive expeditionary campaign to crush the theocratic Order of the Psalms on [[tutin-pacification|Tutin Pacification]] ([[tutin-pacification|Tutin Pacification]]). Since 1083, Tutin has remained under strict Kidderminster administration with heavy residency restrictions ([[tutin-pacification|Tutin Pacification]]).
+- **The Tutin Pacification (1077–1083)**: Kidderminster launched a decisive expeditionary campaign to crush the theocratic Order of the Psalms on [[tutin|Tutin]] ([[tutin-pacification|Tutin Pacification]]). Since 1083, Tutin has remained under strict Kidderminster administration with heavy residency restrictions ([[tutin-pacification|Tutin Pacification]]).
 
 ## Diplomatic Role in the Sanlucar Crisis
 
@@ -48,6 +48,7 @@ In 1105, Kidderminster mediated the resolution of the Sanlucar conflict:
 
 - [[battle-of-liberty|Battle of Liberty]]
 - [[hessian-revolt|Hessian Revolt]]
+- [[tutin|Tutin]]
 - [[tutin-pacification|Tutin Pacification]]
 - [[duchess-margaret|Duchess Margaret]]
 - [[sanlucar-de-barram|Sanlucar de Barram]]

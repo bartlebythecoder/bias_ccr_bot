@@ -32,5 +32,4 @@ The Primero Cartel is the dominant criminal cartel in the primary entertainment 
 - [[zero-g-vipers|Zero-G Vipers]]
 - [[eternity-station|Eternity Station]]
 - [[arico-el-nuevo|Arico El Nuevo]]
-- [[primero-cartel|Primero Cartel]]
 - [[arico-gangs|Gangs of Arico]]

@@ -35,5 +35,4 @@ The Zero-G Vipers are an aggressive, street-level criminal gang operating within
 - [[montanez|Montañez]]
 - [[conde-borbon|Conde Borbon]]
 - [[arico-el-nuevo|Arico El Nuevo]]
-- [[primero-cartel|Primero Cartel]]
 - [[arico-gangs|Gangs of Arico]]

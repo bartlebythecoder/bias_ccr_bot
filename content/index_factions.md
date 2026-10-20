@@ -64,3 +64,4 @@ title: "Factions, Houses & Megacorporations"
 - [[zero-g-vipers|Zero-G Vipers]]: Aggressive street gang in lower Jonestown on Freeport engaged in turf wars with the Primero Cartel.
 - [[elliotts-eagles|Elliott's Eagles]]: Five-person mercenary fire team hired to defend Foust Refinery.
 - [[hunters-heroes|Hunter's Heroes]]: Independent mercenary outfit pursuing the Stratemeyer assassination bounty in competition with BIAS CCR.
+- [[hunglungs|Hunglungs]]: Resistance movement of Doptown residents on Eternity Station organizing to free themselves from The Choke.

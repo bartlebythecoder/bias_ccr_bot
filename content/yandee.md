@@ -42,6 +42,7 @@ On Day 133-1105, BIAS CCR and Hunter's Heroes submitted conclusive proof of [[or
 ## Related pages
 - [[demon-princes|Demon Princes]]
 - [[eternity-station|Eternity Station]]
+- [[cutter|Cutter]]
 - [[orslo-jollynn|Orslo Jollynn]]
 - [[ridpath|Ridpath]]
 - [[arico-gangs|Gangs of Arico]]

@@ -18,7 +18,7 @@ last_updated: 2026-09-20
 
 ## Background & Service History
 
-Sarik is a seasoned veteran of the Imperial Marines who saw active combat during the brutal [[sanlucar-civil-war|Sanlucar Civil War]] (1089) (Sessions 1–5). Following his military discharge, he spent an extended period as an agricultural/frontier colonist on the lush garden world of [[tutin-pacification|Tutin Pacification]] (1327), developing substantial stamina and comfort operating in wide-open, rugged environments (Sessions 1–5).
+Sarik is a seasoned veteran of the Imperial Marines who saw active combat during the brutal [[sanlucar-civil-war|Sanlucar Civil War]] (1089) (Sessions 1–5). Following his military discharge, he spent an extended period as an agricultural/frontier colonist on the lush garden world of [[tutin|Tutin]] (1327), developing substantial stamina and comfort operating in wide-open, rugged environments (Sessions 1–5).
 
 Upon losing his regular employment, Sarik joined [[beck|Beck]], [[asher|Asher]], and [[isambard|Isambard]] in high-stakes corporate espionage (Sessions 1–5).
 
@@ -434,6 +434,7 @@ On Day 208 during the high-speed evacuation from the nuclear warhead (Session 79
 - [[the-warrens|The Warrens]]
 
 - [[sanlucar-civil-war|Sanlucar Civil War]]
+- [[tutin|Tutin]]
 - [[tutin-pacification|Tutin Pacification]]
 - [[beck|Beck]]
 - [[asher|Asher]]

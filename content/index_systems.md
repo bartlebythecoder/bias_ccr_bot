@@ -24,6 +24,7 @@ title: "Systems, Geography & Stations"
 - [[romentino|Romentino]]: Frigid corrosive world (1428) ruled by "The Banks," centered on Noavarite mining and Red Hand terror.
 - [[sanlucar-de-barram|Sanlucar de Barram]]: Arid gas-mining moon system (1022) site of the Commonwealth government, pressure crystal trade, and equipment shortages.
 - [[mirassol|Mirassol]]: Frigid, low-oxygen moon in Romentino system hosting K.C. Station, Mursa ecology, and Ancient pyramid.
+- [[tutin|Tutin]]: One of two breathable worlds in the subsector (1624), a Kidderminster-run nature reserve with a small permanent population.
 
 ---
 
@@ -78,6 +79,15 @@ title: "Systems, Geography & Stations"
 
 ### Project Metropolis Sub-Sectors
 - [[the-labyrinth|The Labyrinth]]: Shifting, organic maze sector on Metropolis Level 2 housing the Minotaur.
+
+### Tutin
+- [[hillcrest|Hillcrest]]: Luxury destination on Tutin catering to high society visitors.
+
+### Eternity Station
+- [[the-choke|The Choke]]: Sprawling scant-oxygen under-region on Eternity Station where residents who cannot pay the daily tax are sent.
+- [[doptown|Doptown]]: Low-oxygen debtor's slum within The Choke where the station's indebted are held.
+- [[the-sink|The Sink]]: Sunken city wasteland within The Choke, now largely sewage and garbage with few inhabitants.
+- [[calibans-heart|Caliban's Heart]]: Mysterious center of The Choke on Eternity Station.
 
 ---
 

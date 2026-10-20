@@ -31,6 +31,7 @@ Eternity Station is an uncertified, quasi-legal deep-space habitat situated in t
 - **Stellar Burn**: A lively, high-traffic entertainment, cantina, and high-stakes gambling concourse where union leadership and syndicate elites intermingle (Session 40).
 - **Canyonheavy Market**: Brawling black market for classified intelligence, stolen military technology, and untraceable weapons.
 - **Doptown**: Low-oxygen slum serving as a debtor's prison; indebted inhabitants cannot leave without clearing debts and paying their mandatory "oxygen tax".
+- **The Choke**: Sprawling scant-oxygen under-region where residents who cannot pay the daily tax are sent; life there is short. Encompasses Doptown, The Sink, and Caliban's Heart.
 - **The Court**: Syndicate justice, administered entirely through financial dues.
 - **Docking & Immigration**: Supervised by dockmaster [[loshi|Loshi]], who levies strict oxygen taxes, security deposits, and temporary 24-hour passes requiring approval from union head [[reidmar|Reidmar]] for extensions (Session 40).
 - **Religious Presence**: Strong following of the *Solars*, a specialized Psalmist sect.

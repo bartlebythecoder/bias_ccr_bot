@@ -29,7 +29,7 @@ last_updated: 2026-09-20
 
 ## Major Regional Wars and Crises
 
-- **1069–1070 — [[hessian-revolt|Hessian Revolt]]**: Secessionist uprising of House Gaval, culminating in the decisive 1064 [[battle-of-liberty|Battle of Liberty]] fleet clash ([[battle-of-liberty|Battle of Liberty]]).
+- **1069–1070 — [[hessian-revolt|Hessian Revolt]]**: Secessionist uprising of House Gaval, culminating in the decisive 1069 [[battle-of-liberty|Battle of Liberty]] fleet clash ([[battle-of-liberty|Battle of Liberty]]).
 - **1077–1084 — [[tutin-pacification|Tutin Pacification]]**: Kidderminster military campaign crushing the Order of the Psalms, marked by the 1082 Varos Offensive; peak Tech Level E ([[tutin-pacification|Tutin Pacification]]).
 - **1089–1090 — [[sanlucar-civil-war|Sanlucar Civil War]]**: Destructive near-vacuum war on Sanlucar de Barram resulting in the annihilation of the Aridush Khanate ([[sanlucar-civil-war|Sanlucar Civil War]]).
 - **1105 — [[sanlucar-de-barram|The Sanlucar Crisis]]**: Revolutionary overthrow of the Valentian Republic by the Aridush Freedom Fighters; peak Tech Level F+.
