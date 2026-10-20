@@ -14,6 +14,8 @@ last_updated: 2026-10-13
 ---
 # Ling Standard Products
 
+![[lsp.png]]
+
 **Summary**: Imperial Megacorporation dominating the Lower Circuit from its [[nesvorny|Nesvorny]] headquarters, operating Frontier Lines, manufacturing weapons, and funding anti-Psalmist lobbying.
 
 **Last updated**: 2026-10-13

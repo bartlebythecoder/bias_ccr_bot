@@ -9,6 +9,8 @@ last_updated: 2026-10-20
 ---
 # Tutin
 
+![[tutin.png]]
+
 **Summary**: One of two breathable worlds in the subsector (1624), now a restricted nature reserve owned and operated by the [[kidderminster|Kidderminster]] government and site of the [[tutin-pacification|Tutin Pacification]].
 
 **Last updated**: 2026-10-20
