@@ -5,13 +5,13 @@ category: systems
 tags:
   - systems
   - establishment
-last_updated: 2026-10-20
+last_updated: 2026-10-21
 ---
 # Hampton
 
 **Summary**: Town on [[tutin|Tutin]] near the orbital elevator, serving as the entry and exit point for all workers on the planet.
 
-**Last updated**: 2026-10-20
+**Last updated**: 2026-10-21
 
 ---
 
@@ -22,6 +22,8 @@ Hampton is a town on [[tutin|Tutin]], the breathable world in the subsector (162
 ## Gateway for Workers
 
 Hampton serves as the entry and exit location for all workers on Tutin. Every worker arriving on or departing from the planet passes through the town.
+
+The town sits at the ground terminus of Tutin's orbital elevator, which links it to the Class C orbital starport. The descent takes about 90 minutes, and each car carries fewer than two dozen people.
 
 ## Subsector Navy Presence
 

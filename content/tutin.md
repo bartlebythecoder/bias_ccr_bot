@@ -5,7 +5,7 @@ category: systems
 tags:
   - systems
   - world
-last_updated: 2026-10-20
+last_updated: 2026-10-21
 ---
 # Tutin
 
@@ -13,17 +13,37 @@ last_updated: 2026-10-20
 
 **Summary**: One of two breathable worlds in the subsector (1624), now a restricted nature reserve owned and operated by the [[kidderminster|Kidderminster]] government and site of the [[tutin-pacification|Tutin Pacification]].
 
-**Last updated**: 2026-10-20
+**Last updated**: 2026-10-21
 
 ---
 
 ## Overview
 
-Tutin (1624) is one of only two breathable planets in the subsector. Following the [[tutin-pacification|Tutin Pacification]] of 1077–1083, the world was converted into a restricted nature reserve, owned and operated by the [[kidderminster|Kidderminster]] government ([[tutin-pacification|Tutin Pacification]]).
+Tutin (1624) is one of only two breathable planets in the subsector. It carries the UWP profile C764265-6.  Following the [[tutin-pacification|Tutin Pacification]] of 1077–1083, the world was converted into a restricted nature reserve, owned and operated by the [[kidderminster|Kidderminster]] government ([[tutin-pacification|Tutin Pacification]]).
+
+## Orbital Starport & Elevator
+
+Tutin is served by an orbital starport rated Class C. Surface access runs through an orbital elevator whose ground terminus lies outside [[hampton|Hampton]].
+
+- The descent from the starport to the surface takes about 90 minutes.
+- Each car carries fewer than two dozen people.
+
+The elevator's long transit time and small capacity make it the principal bottleneck on all traffic to and from Tutin.
 
 ## Population & Administration
 
-Tutin officially maintains 100 permanent residents. When temporary work visas are included, the total population at any one time stands at approximately 1,000 people. The world remains under direct Kidderminster administration with strict residency vetting ([[tutin-pacification|Tutin Pacification]]).
+Tutin officially maintains approx. 100 permanent residents. When temporary work visas are included, the total population at any one time stands at approximately 1,000 people. The world remains under direct Kidderminster administration with strict residency vetting.
+
+## Worker Colonies
+
+Beyond the main settlements, Tutin is dotted with a number of small settlements termed **colonies**. These house the workers who keep a modest amount of food production and light industry running on the planet. Each colony is a working community rather than a destination, and together they account for much of Tutin's resident population.
+
+The known colonies are:
+
+- Sundance
+- Moonlight
+- Eden
+- Elysium
 
 ## Nomadic Zealot Communities
 
@@ -36,6 +56,14 @@ An undocumented population of nomadic religious zealot communities inhabits the 
 ## Hampton
 
 [[hampton|Hampton]] is a town near Tutin's orbital elevator, serving as the entry and exit location for all workers on the planet.
+
+## Native Fauna
+
+Tutin's native ecology is the reason for its status as a restricted nature reserve. Three species are documented:
+
+- [[wigoy|Wigoy]]: A highly intelligent, eyeless bipedal herbivore, blue-gray and covered in sensory cilia, with four anemone-like tentacle arms. Now almost extinct.
+- [[rock-squid|Rock Squid]]: A colossal carnivorous ambush predator, typically 20 to 40 metres long, which mimics a boulder while motionless and strikes at prey that comes close. Dangerous to humans.
+- [[hill-monkey|Hill Monkey]]: A shy nocturnal herbivore of the high elevations, 25 to 30 centimetres tall. Not generally aggressive, but a frequent disease carrier and a persistent campsite thief.
 
 ## Related pages
 
