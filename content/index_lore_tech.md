@@ -80,4 +80,7 @@ title: "Lore, Technology, Science & Relics"
 
 - [[csabaipede|Csabaipede]]: Venomous multi-legged arthropod on Csabai, cargo infestation vector and Rittenhouse heraldic crest.
 - [[mursa|Mursa]]: Giant apex predators native to Mirassol (Romentino), nitrogen-insulated fur, liquid methane metabolism.
-- [[mirassol-spider|Mirassol Spider]]: Visual biological record for the indigenous arachnid of Mirassol in the Romentino system.
+- [[mirassol-spider|Mirassol Spider]]: Giant predatory arachnid of Mirassol (Romentino), whose swarms forced the evacuation of K.C. Station in 1105.
+- [[wigoy|Wigoy]]: Highly intelligent, eyeless bipedal herbivore native to Tutin, now almost extinct.
+- [[rock-squid|Rock Squid]]: Colossal boulder-mimicking ambush predator of Tutin, 20–40 metres long with unconfirmed reports of 100 metres.
+- [[hill-monkey|Hill Monkey]]: Shy nocturnal herbivore of the Tutin highlands, 25–30 cm tall, disease carrier and campsite thief.

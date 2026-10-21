@@ -1,6 +1,6 @@
 ---
 title: "Mirassol Spider"
-type: creature
+type: fauna
 category: lore_tech
 tags:
   - lore_tech
@@ -9,21 +9,25 @@ aliases:
   - "Mirassol Spiders"
   - "Giant Spiders"
 sessions: [17, 37]
-last_updated: 2026-09-26
+last_updated: 2026-10-21
 ---
 # Mirassol Spider
 
 **Summary**: Giant predatory arachnid native to the frozen moon [[mirassol|Mirassol]] in the [[romentino|Romentino]] system, whose swarms forced the total evacuation of [[kc-station|K.C. Station]] in 1105.
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-21
 
 ---
 
 ![[mirassol_spider.jpg|315]]
 
-## Biology
+## Biology & Behavior
 
-The Mirassol spider is an indigenous arachnid lifeform adapted to the extreme cryogenic environment of [[mirassol|Mirassol]] in the [[romentino|Romentino]] system (1428). Alongside the [[mursa|Mursa]], it is one of the moon's dangerous native predators.
+The Mirassol spider is an indigenous arachnid lifeform. Alongside the [[mursa|Mursa]], it is one of the moon's dangerous native predators. The spiders hunt in swarms, which gather and press against structures night after night rather than dispersing.
+
+## Habitat & Range
+
+The species is adapted to the extreme cryogenic environment of [[mirassol|Mirassol]] in the [[romentino|Romentino]] system (1428). It has not been recorded off the moon.
 
 ## The K.C. Station Evacuation (Day 44-1105)
 
@@ -34,6 +38,7 @@ Around Day 44-1105, nightly swarms of giant spiders repeatedly breached the peri
 ## Related pages
 
 - [[mirassol|Mirassol]]
+- [[romentino|Romentino]]
 - [[kc-station|K.C. Station]]
 - [[george-castle|George Castle]]
 - [[mancuso|Mancuso]]
