@@ -19,7 +19,7 @@ last_updated: 2026-09-26
 
 ---
 
-![[mirassol_spider.jpg]]
+![[mirassol_spider.jpg|315]]
 
 ## Biology
 

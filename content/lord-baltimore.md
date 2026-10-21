@@ -10,7 +10,7 @@ last_updated: 2026-09-20
 ---
 # Lord Baltimore
 
-![[lord_baltimore.png]]
+![[lord_baltimore.png|259]]
 
 **Summary**: Prominent noble residing at Baltimore House in [[startown-liberty|Startown Liberty]], confidant of patron [[cooper|Cooper]], and geopolitical theorist predicting an inevitable civil war between the Great Houses.
 
@@ -33,7 +33,7 @@ On Day 39-1105, Baltimore extended an exclusive dinner invitation to [[beck|Beck
 
 ## Evacuation Yacht to Csabai
 
-On Day 47-1105, coordinating with [[tres-capulet|Tres Capulet]], Lord Baltimore offered [[bias-ccr|BIAS Corporate Conflict Resolution]] immediate transport off Romentino aboard his private luxury star yacht bound for [[csabai|Csabai]] (1626), shielding the operatives from impending corporate and syndicate retaliation (Session 18).
+On Day 47-1105, coordinating with [[tres-capulet|Tres Capulet]], Lord Baltimore offered [[bias-ccr|BIAS Corporate Conflict Resolution]] immediate transport off Romentino aboard his private luxury star yacht (the Getaway) bound for [[csabai|Csabai]] (1626), shielding the operatives from impending corporate and syndicate retaliation (Session 18).
 
 ## Exfiltration of BIAS CCR to Csabai
 
