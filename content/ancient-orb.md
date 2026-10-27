@@ -5,14 +5,14 @@ category: lore_tech
 tags:
   - lore_tech
   - relic
-sessions: [7]
-last_updated: 2026-09-20
+sessions: [7, 80, 82]
+last_updated: 2026-10-27
 ---
 # Ancient Orb
 
-**Summary**: Precursor artifact recovered from the [[mirassol-pyramid|Mirassol Pyramid]]; a crystalline sphere emitting a luminous azure glow, initially mistaken for the source of regional psionic blasts.
+**Summary**: Precursor artifact recovered from the [[mirassol-pyramid|Mirassol Pyramid]]; a crystalline sphere emitting a luminous azure glow, sold by BIAS CCR to [[lord-baltimore|Lord Baltimore]] in 1105.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -93,6 +93,10 @@ In Session 78 (Session 78):
 - **Emotional Resonance with Ghost**: When the squad breached the zero-gravity warhead chamber, the Ancient Orb reacted intensely to the escalating emotional distress of the holographic station ghost perched atop the [[nuclear-warhead|Nuclear Warhead]], glowing and pulsing as her agitation mounted.
 - **Terminal Navigation Assistance**: As [[asher|Asher]] interfaced with the warhead's control mainframe to hack and modify the detonation countdown, the Ancient Orb provided passive sensory guidance and focus, aiding Asher in successfully overriding station protocols to set the **4.5-hour detonation timer** amidst incoming security bot waves.
 
+## Handed over to Lord Baltimore (Sessions 80–82)
+
+At [[the-cove|The Cove]], [[asher|Asher]] carried the Orb in to meet [[lord-baltimore|Lord Baltimore]], who had traced it through law-enforcement reports on Psalmist spies. The Orb had no established price, but BIAS CCR agreed to hand it over with the rest of their artifacts (Session 80). The Orb is now in Baltimore's hands; Asher later said he was unhappy about the handover (Session 82).
+
 ## Related pages
 
 - [[nuclear-warhead|Nuclear Warhead]]
@@ -122,3 +126,4 @@ In Session 78 (Session 78):
 - [[agnes-tuttle|Agnes Tuttle]]
 - [[romentino|Romentino]]
 - [[apex|Apex]]
+- [[the-cove|The Cove]]

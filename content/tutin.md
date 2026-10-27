@@ -5,7 +5,8 @@ category: systems
 tags:
   - systems
   - world
-last_updated: 2026-10-21
+last_updated: 2026-10-27
+sessions: [81, 82]
 ---
 # Tutin
 
@@ -13,7 +14,7 @@ last_updated: 2026-10-21
 
 **Summary**: One of two breathable worlds in the subsector (1624), now a restricted nature reserve owned and operated by the [[kidderminster|Kidderminster]] government and site of the [[tutin-pacification|Tutin Pacification]].
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-10-27
 
 ---
 
@@ -65,6 +66,12 @@ Tutin's native ecology is the reason for its status as a restricted nature reser
 - [[rock-squid|Rock Squid]]: A colossal carnivorous ambush predator, typically 20 to 40 metres long, which mimics a boulder while motionless and strikes at prey that comes close. Dangerous to humans.
 - [[hill-monkey|Hill Monkey]]: A shy nocturnal herbivore of the high elevations, 25 to 30 centimetres tall. Not generally aggressive, but a frequent disease carrier and a persistent campsite thief.
 
+## Martial Law & The Ranch (Sessions 81–82)
+
+Land on Tutin is leased rather than owned. After [[kidderminster|Kidderminster]] toppled the Psalmist government, hundreds of colonists were resettled on the world to replace that population with loyal Imperial citizens. Its oceans, wildlife and open air make it a playground for the wealthy, and travel across the planet is generally by air (Session 81).
+
+By Day 228-1105, Tutin was under martial law, with Redshirt Marines enforcing order in [[hampton|Hampton]] (Session 82). [[sarik|Sarik]]'s family lives in the Sundance colony (Session 82). [[dr-pearson|Dr. Pearson]] is held hostage at [[the-ranch-near-hampton|a luxury ranch beyond the hills from Hampton]] (Session 81).
+
 ## Related pages
 
 - [[tutin-pacification|Tutin Pacification]]
@@ -77,3 +84,5 @@ Tutin's native ecology is the reason for its status as a restricted nature reser
 - [[psalm-134|Psalm 134]]
 - [[the-134-psalms|The 134 Psalms]]
 - [[sarik|Sarik]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]
+- [[dr-pearson|Dr. Pearson]]

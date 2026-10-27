@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - npc
-sessions: [8]
-last_updated: 2026-09-20
+sessions: [8, 80]
+last_updated: 2026-10-27
 ---
 # Harry Proud
 
 **Summary**: Corrupt commercial shuttle pilot at [[kc-station|K.C. Station]] who accepted a Cr 30,000 bribe to smuggle the crew off [[mirassol|Mirassol]], known for his bitter rivalry with [[sky|Sky]].
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -31,6 +31,10 @@ Proud piloted the expedited emergency medical shuttle carrying Liam's corpse and
 Upon landing on [[romentino|Romentino]] on Day 37-1105, Proud betrayed the crew by covertly swapping his identical company flight bag for [[sky|Sky]]'s bag, stealing both the crated [[ancient-orb|Ancient Orb]] and Sky's Cr 20,000 in cash (Session 10). Proud's motive was desperate and paternal: he intended to use the stolen wealth to take his severely addicted son, [[screetch|Screetch]], off-world for rehabilitation (Session 10).
 
 On Day 38-1105, Proud rendezvoused with Screetch at the [[blue-parrot|Blue Parrot]] in GAS town (Session 10). When Proud refused to surrender his cash for Screetch to buy [[starlight-narcotic|Starlight]], Screetch flew into a rage and stabbed Proud to death in a nearby alleyway, fleeing with the bag (Session 10).
+
+## Family
+
+Proud's son is [[screetch|Screetch]] (Session 80).
 
 ## Related pages
 

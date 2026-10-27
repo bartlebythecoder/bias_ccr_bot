@@ -10,13 +10,14 @@ links:
   - "[[bias-ccr]]"
   - "Imperial Scout Service"
 category: starship
+sessions: [80]
 ---
 
 # Raconteur
 
 **Summary**: Imperial Scout Service vessel on loan to [[isambard|Isambard]], used as BIAS CCR's main transport.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-27
 
 ---
 
@@ -36,7 +37,13 @@ The *Raconteur* is an Imperial Scout Service vessel on long-term loan to [[isamb
 - **Turret & Laser Drill Refit (Session 58)**: While docked at [[eternity-station|Eternity Station]], the crew installed a double turret armed with an industrial laser drill to cut entry points into unmonitored hull plates during boarding actions (Session 58).
 - **Wu-Ketai Fighter Interception & Docking at The Bell (Session 59)**: On Day 188-1105, as the *Raconteur* approached [[metropolis-station|Project Metropolis]], [[beck|Beck]] disabled the ship's transponder. A [[wu-ketai|Wu-Ketai]] fighter-class patrol craft engaged the vessel with pulse laser fire; however, pilots [[sky|Sky]] and [[isambard|Isambard]] held course, and the attacker broke off upon nearing the station perimeter. The *Raconteur* successfully docked with ***[[the-bell|The Bell]]*** (Session 59).
 
+## Replacement Planned (Session 80)
+
+After Metropolis, [[isambard|Isambard]] argued that the Raconteur left the crew too exposed, and the crew chose a navy-seized Light Reconnaissance Ship from [[lord-baltimore|Lord Baltimore]], to be collected on [[kidderminster|Kidderminster]] after the [[tutin|Tutin]] mission. The Raconteur carried the team to [[the-cove|The Cove]], [[marcolandia|Marcolandia]] and Tutin (Sessions 80–82).
+
 ## Related pages
 - [[the-bell|The Bell]]
 - [[metropolis-station|Metropolis Station]]
 - [[wu-ketai|Wu-Ketai]]
+- [[the-cove|The Cove]]
+- [[lord-baltimore|Lord Baltimore]]

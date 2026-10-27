@@ -1,5 +1,6 @@
 ---
 title: "BIAS CCR Campaign Ledger & Asset Tracker"
+sessions: [80, 81, 82]
 ---
 # Solo Subsector J — BIAS CCR Campaign Ledger & Asset Tracker
 
@@ -17,7 +18,7 @@ title: "BIAS CCR Campaign Ledger & Asset Tracker"
 | **Charter Date** | Day 039-1105 |
 | **Charter Jurisdiction** | Startown Liberty, Romentino (1428) |
 | **Principals** | [[beck\|Beck]] (Admin/Negotiation), [[isambard\|Isambard]] (Mechanic/Security), [[asher\|Asher]] (Science/Hacking), [[sarik\|Sarik]] (Tactical/Heavy) |
-| **Retained Associates** | [[sky\|Sky]] (Chief Pilot), [[isaiah\|Isaiah]] (Uplifted Simian), [[thomas\|Thomas]] (Uplifted Simian), [[kira\|Kira]] (Autonomous Emancipated Android) |
+| **Retained Associates** | [[sky\|Sky]] (Chief Pilot), [[isaiah\|Isaiah]] (Uplifted Simian), [[tomas\|Tomas]] (Uplifted Simian), [[kira\|Kira]] (Autonomous Emancipated Android) |
 | **Operational Fronts** | PETOW (People for the Ethical Treatment of Uplifted Workers); Bank Audit Team (Morella Station); Labor Rights Lobbyists (Suliman) |
 
 ---
@@ -39,6 +40,10 @@ title: "BIAS CCR Campaign Ledger & Asset Tracker"
 | **Day 152-1105** | Orslo Jollynn Assassination Bounty | `+MCr 2.0` (Cr 2,000,000) | Execution of Stratemeyer warlord Marie Orslo Jollynn; ACR safe cracked. |
 | **Day 158-1105** | Raconteur Laser-Drill Weapon Refit | `-Cr 350,000` | Heavy mining/laser-drill upgrade installed at Eternity Station. |
 | **Day 207-1105** | Officer Conway Fleet Shakedown | `-50% Artifact Haul` | Alternating salvage split with naval officer [[conway\|Officer Conway]] to ensure clear jump corridor. |
+| **Day 211-1105** | Artifact Sale to [[lord-baltimore\|Lord Baltimore]] | `+MCr 1.0` (pending) + ship | All artifacts, including the Ancient Orb, handed over at [[the-cove\|The Cove]]. Payment comes with a navy-seized Light Reconnaissance Ship (mortgaged), to be collected on Kidderminster (Session 80). |
+| **Day 211-1105** | Tutin Hostage Rescue (Redshirt Navy) | `+Cr 400,000` advance | MCr 4.0 total fee for extracting [[dr-pearson\|Dr. Pearson]] alive; Cr 400,000 paid up front for equipment (Sessions 80–82). |
+| **Day 213-1105** | Personal Disbursements | `-Cr 30,000` | Cr 10,000 each to Isambard, Asher and Sarik. Expedition gear bought; shared fund stood at Cr 370,000 (Session 82). |
+| **Day 220-1105** | Marcolandia Passage & Crew Payday | `-Cr 27,000` | Passage Cr 17,000; crew payday Cr 10,000. Fund at Cr 318,000 (Session 82). |
 
 ---
 
@@ -46,13 +51,17 @@ title: "BIAS CCR Campaign Ledger & Asset Tracker"
 
 ### *The Raconteur* (Primary Vessel)
 - **Class / Type:** Imperial Type-S Scout/Courier (100–200 tons).
-- **Status:** Operational (In flight in deep asteroid belt; transponders cold).
+- **Status:** Operational. Carried the team to [[the-cove\|The Cove]], [[marcolandia\|Marcolandia]] and, on Day 228-1105, [[tutin\|Tutin]] (Sessions 80–82).
 - **Ownership:** On official long-term loan to [[isambard|Isambard]] from the Imperial Scout Service.
 - **Key Modifications:**
   - Forward heavy laser-drill refit (installed at Eternity Station for asteroid penetration).
   - Enhanced sensor baffled stealth suite.
   - Dedicated storage locker for precursor artifact containment.
 - **Flight Crew:** [[sky|Sky]] (Chief Pilot), [[isambard|Isambard]] (Chief Engineer).
+
+### Light Reconnaissance Ship (Pending)
+- **Source:** One of five navy-seized vessels offered by [[lord-baltimore\|Lord Baltimore]] as part of the artifact sale. The crew first favored an Ambush Frigate (63 payments of about MCr 1.36 per month) but chose the Light Reconnaissance Ship (Session 80).
+- **Status:** Awaiting collection on [[kidderminster\|Kidderminster]]; carries a mortgage. The MCr 1.0 artifact payment is due with the ship.
 
 ### Auxiliary Craft & Support Shuttles
 - **Metropolis Microhangar Shuttle Bus:** Acquired during Metropolis exfiltration; used to haul the Duchess replica.
@@ -65,11 +74,15 @@ title: "BIAS CCR Campaign Ledger & Asset Tracker"
 
 | Item / Relic | Origin | Current Custody / Status | Tactical Properties & Notes |
 | :--- | :--- | :--- | :--- |
-| **[[ancient-orb\|The Ancient Orb]]** | Mirassol Pyramid (Day 034) | BIAS CCR (Vault on *Raconteur*) | Luminous azure crystal sphere; emits precognitive flashes and psionic resonance. |
-| **[[exact-replica-of-the-duchess\|Exact Replica of the Duchess]]** | Metropolis Level 6 (Day 207) | BIAS CCR (Aboard *Raconteur*) | Inert synthetic android replica of Duchess Margaret; prime political leverage. |
+| **[[ancient-orb\|The Ancient Orb]]** | Mirassol Pyramid (Day 034) | Sold to [[lord-baltimore\|Lord Baltimore]] (Day 211) | Luminous azure crystal sphere; emits precognitive flashes and psionic resonance. |
+| **[[exact-replica-of-the-duchess\|Exact Replica of the Duchess]]** | Metropolis Level 6 (Day 207) | Returned to Duchess Margaret via Lord Baltimore | Inert synthetic android replica of Duchess Margaret; prime political leverage. |
 | **[[ai-spider\|AI Spider]]** | Backways of Romentino | Asher / Isambard | Autonomous, highly illegal spider drone capable of intrusion and sabotage. |
 | **[[the-cube\|The Cube Virus]]** | Metropolis Labs (Blavatsky) | Asher (Encrypted data crystal) | Specialized cyber-warfare virus designed to dismantle synthetic neural networks. |
-| **[[heavy-marbles\|Heavy Marbles]]** | Metropolis Level 2 (Tripwire corpse)| Partial (50% given to Conway) | Precursor hyper-dense spheres exhibiting anomalous gravitational inertia. |
+| **[[heavy-marbles\|Heavy Marbles]]** | Metropolis Level 2 (Tripwire corpse)| Eight sold to Lord Baltimore (Cr 10,000 each); others given to Conway | Precursor hyper-dense spheres exhibiting anomalous gravitational inertia. |
+| **Data Wafer** | Metropolis | Sold to Lord Baltimore | Appraised at MCr 20 (Session 80). |
+| **Pseudoflesh Sample** | Metropolis | Sold to Lord Baltimore | Appraised at Cr 100,000 (Session 80). |
+| **Beetle Artifact** | Unknown | Sold to Lord Baltimore | Held by Beck until the sale (Session 81). |
+| **Data Drive 73** | Metropolis Goods Elevator | No longer held by the crew | Encrypted drive recovered by Asher (Sessions 74, 81). |
 | **Four Named Bullets** | Metropolis Filtration Hall | Sarik | Custom high-penetration munitions etched with precursor glyphs. |
 | **Psionic Clock Mechanism** | Mirassol Subterranean Pyramid | Left in situ / Destroyed | Ancient chronological gear mechanism connected to psionic frequencies. |
 
@@ -91,12 +104,26 @@ During the Month Sabbatical on Csabai (Days 57–88-1105), all four principals u
 
 | Faction / Entity | Status | Relationship / Recent Developments |
 | :--- | :--- | :--- |
-| **[[house-yetrina\|House Yetrina]] (Duchess Margaret)** | High Alert / Unaware | Red Fleet investigating Metropolis thermal blast; team holds Duchess replica. |
+| **[[house-yetrina\|House Yetrina]] (Duchess Margaret)** | **Favor Owed** | Replica body returned via Lord Baltimore; the Duchess owes BIAS CCR a favor, which Baltimore will secure (Session 81). |
 | **[[house-aledon\|House Aledon]] / [[ling-standard-products\|Ling Standard Products]]** | **Hostile (Warrants)** | Corporate espionage warrants issued on Romentino post-Morella raid; active Lower Circuit watch. |
 | **[[wu-ketai\|Wu-Ketai]]** | **Extreme Hostility** | Core labs breached on Suliman; Metropolis destroyed; naval commander Conway deceived. |
 | **[[the-doves\|The Doves]] / Psalmists** | **Hostile (Destroyed cell)** | Doves warship obliterated at Metropolis; Csabai assassination cell neutralized. |
 | **[[demon-princes\|Demon Princes]] (Yandee / Meinhoff)** | **Neutral / Transactional** | Successful audience on Eternity Station; bounty splits respected; Sargon affair settled. |
 | **[[viscount-rittenhouse\|Viscount Rittenhouse of Csabai]] (Csabai)** | **Allied / Grateful** | Beaugard painting returned; firm enjoys aristocratic favor and clean Csabai records. |
-| **[[lord-baltimore\|Lord Baltimore]]** | **Patron / Ally** | Provided yacht transport, media cover, and deep-belt escape coordinates. |
+| **[[lord-baltimore\|Lord Baltimore]]** | **Patron / Employer** | Redshirt naval intelligence officer for the Duchess; bought the crew's artifacts and hired them for the Tutin rescue (Session 80). |
 | **[[the-red-hand\|The Red Hand]] / [[real-red-hand\|Real Red Hand]]** | **Truce / Friendly** | Brokered peace; exposed Morella clone atrocities alongside Tres Capulet. |
 | **[[hunters-heroes\|Hunter's Heroes]]** | **Rivalry** | Beaten to the Orslo Jollynn MCr 2.0 bounty on Freeport; lingering animosity. |
+
+### Crew Relationship Map (Day 210)
+
+During the flight to The Cove, [[isaiah\|Isaiah]] led the crew in sorting people and factions by their relationship with BIAS CCR (Session 80):
+
+| Category | People & Factions |
+| :--- | :--- |
+| **Big hate on** | [[wu-ketai\|Wu-Ketai]] (for its role at Metropolis), the Psalmists (for pursuing the Orb and other artifacts), [[ling-standard-products\|Ling Standard Products]]. [[sarik\|Sarik]] does not personally hate Wu-Ketai. |
+| **Don't know** | [[erebus-power\|Erebus Power]], the Psionic Institute, [[hortalez-et-cie\|Hortalez et Cie]], [[screetch\|Screetch]] (Harry Proud's son). |
+| **Avoid** | [[leluz\|Leluz]] (kidnapped Sarik), [[ortega-frey\|Ortega Frey]]. |
+| **They're okay** | [[yandee\|Yandee]], [[orla\|Orla]] (helped rescue Tomas and Isaiah), [[commodore-koroleva\|Koroleva]], [[kino-yuba-foust\|Kino Yuba Foust]]. |
+| **Favorable** | [[risiano-tiler\|Risiano Tiler]], [[tina\|Tina]], [[lord-baltimore\|Lord Baltimore]]. |
+
+Isaiah also linked Ling and Hortalez as rival megacorporations controlling the lower and upper circuits, with Erebus Power tied to Ling and Wu-Ketai to Hortalez, and placed the Psalmists (with [[george-castle\|George Castle]]) against the psionicists (with Leluz) (Session 80).

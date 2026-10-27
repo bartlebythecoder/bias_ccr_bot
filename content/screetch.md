@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - npc
-sessions: [10]
-last_updated: 2026-09-20
+sessions: [10, 80]
+last_updated: 2026-10-27
 ---
 # Screetch
 
 **Summary**: Starlight-addicted son of shuttle pilot [[harry-proud|Harry Proud]] who fatally stabbed his father and experienced precognitive visions through the purple-glowing [[ancient-orb|Ancient Orb]].
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -27,6 +27,10 @@ On Day 38-1105, after Harry Proud stole the [[ancient-orb|Ancient Orb]] and Cr 2
 When the operative team tracked Screetch to his shack, [[sarik|Sarik]] kicked in the entrance to find Screetch high on Starlight and brandishing an assault rifle (Session 10):
 - Resting beside Screetch, the **Ancient Orb shifted from azure blue to vibrant purple**, which Screetch revealed had shown him a precognitive glimpse of the future wherein he shot Sarik and was subsequently cut down (Session 10).
 - Sarik broke the predicted cycle by putting down his combat blade, prompting Screetch to surrender his weapon peacefully (Session 10).
+
+## Harry Proud's Son
+
+Screetch is the son of [[harry-proud|Harry Proud]]. When BIAS CCR sorted their contacts by relationship in 1105, they placed him among those whose standing they did not know (Session 80).
 
 ## Related pages
 

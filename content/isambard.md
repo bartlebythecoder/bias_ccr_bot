@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5]
-last_updated: 2026-09-20
+sessions: [1, 2, 3, 4, 5, 80, 81, 82]
+last_updated: 2026-10-27
 ---
 # Isambard
 
 **Summary**: Former pirate, Imperial scout, and merchant marine who operates as the crew's mechanic, close-quarters combatant, and pilot-in-waiting for a surplus Type-S Scout ship.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -259,6 +259,14 @@ On Day 208 during the final extraction and escape from Metropolis (Session 79):
 - **The Conway Parley & Protecting Kira**: With one hour on the nuclear timer, negotiated safe passage through the Psalmist blockade with naval officer [[conway|Officer Conway]]; agreed to a 50% artifact split via alternating picks, while forcefully and successfully arguing to exclude [[kira|Kira]] from the division as crew rather than salvage.
 - **Escape into the Belt**: Directed Sky to burn out-system toward Lord Baltimore's secret rock coordinates, withholding any warning about the nuclear bomb from Conway, and witnessed the thermonuclear flash annihilating Metropolis Station.
 
+## After Metropolis & The Cove (Session 80)
+
+Isambard said he hoped [[conway|Officer Conway]] had suffered in the nuclear blast and regretted letting him take half the artifacts. He described Metropolis's rooms turning into nightmares, with flesh tentacles grabbing at people (Session 80). He argued that the [[raconteur|Raconteur]] left the crew too exposed to Conway, the Psalmists and [[wu-ketai|Wu-Ketai]], and that they need a larger, faster, better-armed ship a small crew can run, with [[kira|Kira]], [[isaiah|Isaiah]] and [[tomas|Tomas]] trained to help crew it (Session 80). On the flight he taught the simians and Kira blackjack. At [[the-cove|The Cove]] he joined [[asher|Asher]] and [[sarik|Sarik]] in choosing the [[tutin|Tutin]] hostage rescue, and recalled hiring [[elliotts-eagles|Elliott's Eagles]] in the past (Session 80).
+
+## Voyage to Tutin & Hampton (Sessions 81–82)
+
+Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Session 81). Down to fewer than Cr 1,500, he received Cr 10,000 from [[beck|Beck]], and studied reconnaissance during the voyage (Session 82). Isaiah confided his hope of finding other intelligent uplifted simians (Session 82). On the elevator to [[hampton|Hampton]], Isambard told the artists Archie and [[penelope|Penelope]] that the simians were shy "monkey butlers". In town, the boy [[necktie|Necktie]] told him that a woman named Debra works at the ranch (Session 82).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -326,7 +334,7 @@ On Day 208 during the final extraction and escape from Metropolis (Session 79):
 - [[harvon-sargon|Harvon Sargon]]
 - [[reidmar|Reidmar]]
 - [[isaiah|Isaiah]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[loshi|Loshi]]
 - [[petow|PETOW]]
 - [[dr-vance|Dr. Vance]]
@@ -385,3 +393,7 @@ On Day 208 during the final extraction and escape from Metropolis (Session 79):
 - [[csabai-psalmist-center|Csabai Psalmist Center]]
 - [[marcolandia|Marcolandia]]
 - [[darlene-suitor|Darlene Suitor]]
+- [[the-cove|The Cove]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]
+- [[necktie|Necktie]]
+- [[penelope|Penelope]]

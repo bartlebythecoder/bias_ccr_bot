@@ -5,7 +5,8 @@ category: lore_tech
 tags:
   - lore_tech
   - fauna
-last_updated: 2026-10-21
+last_updated: 2026-10-27
+sessions: [82]
 ---
 # Rock Squid
 
@@ -13,7 +14,7 @@ last_updated: 2026-10-21
 
 **Summary**: Colossal carnivorous ambush predator native to [[tutin|Tutin]], 20 to 40 metres long with specimens reported at up to 100 metres, which mimics a boulder while motionless and strikes at prey that comes close.
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-10-27
 
 ---
 
@@ -33,6 +34,10 @@ The rock squid is dangerous to humans. Its size and its habit of lying in wait w
 
 - Typical adults measure 20 to 40 metres in length.
 - Specimens of up to 100 metres have been reported, though such reports are unconfirmed.
+
+## Hunting Permits
+
+Visitors to [[tutin|Tutin]] can apply for permits to hunt rock squid near the Sundance colony; applications can take a day or two to clear (Session 82).
 
 ## Related pages
 

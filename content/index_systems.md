@@ -35,6 +35,7 @@ title: "Systems, Geography & Stations"
 - [[eternity-station|Eternity Station]]: Interstellar habitat in the Dark Crescent ruled by Meinhoff Brigade, site of Doptown and general strike.
 - [[incubu|Incubu Asteroid Colony]]: Asteroid research colony in the Arico belt funded by House Ilethian, site of Psalmist genetic friction.
 - [[janus|Janus Asteroid Base]]: Secretive 40-person asteroid research outpost in the Arico belt operated by Carbrooke Minerals.
+- [[the-cove|The Cove]]: Lord Baltimore's pressurized landing dock inside an asteroid in the Arico belts.
 - [[suliman|Suliman]]: Massive Wu-Ketai corporate genetics asteroid (pop 70,000) facing severe labor unrest.
 - [[kc-station|K.C. Station]]: Modular research post on Mirassol (Redshed, Workshop, Science Building) target of espionage mission.
 - [[morella-station|Morella Station]]: Subterranean mining rig and settlement on Romentino, site of illicit clone replacement labor.
@@ -83,6 +84,7 @@ title: "Systems, Geography & Stations"
 ### Tutin
 - [[hampton|Hampton]]: Town on Tutin near the orbital elevator, the entry and exit point for all workers on the planet.
 - [[hillcrest|Hillcrest]]: Luxury destination on Tutin catering to high society visitors.
+- [[the-ranch-near-hampton|The Ranch near Hampton]]: Defended luxury retreat on Tutin where Dr. Pearson is held hostage.
 
 ### Eternity Station
 - [[the-choke|The Choke]]: Sprawling scant-oxygen under-region on Eternity Station where residents who cannot pay the daily tax are sent.

@@ -6,14 +6,14 @@ tags:
   - metropolis-station
   - ally
 date: 2026-07-28
-sessions: [73]
+sessions: [73, 80, 82]
 ---
 
 # Kira
 
 **Summary**: Self-aware survivor android from the Disassembly Chamber of [[metropolis-station|Metropolis Station]] who allied with BIAS CCR.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-27
 
 ---
 
@@ -71,6 +71,12 @@ In Session 79 (Session 79):
 - **Protection from Officer Conway**: When parleying with the corrupt security executive [[conway|Officer Conway]], Conway attempted to claim Kira as salvage/station property or an artifact to be confiscated. [[isambard|Isambard]] firmly shut down the demand, declaring Kira to be a fully recognized member of the crew under BIAS CCR protection.
 - **Escape into Asteroid Belt**: Safely boarded the [[raconteur|Raconteur]] alongside the squad and the retrieved [[exact-replica-of-the-duchess|Exact Replica of the Duchess]], escaping into the uncharted asteroid belt coordinates just prior to the nuclear vaporization of [[metropolis-station|Metropolis Station]].
 
+## Sentience & The Cove (Session 80)
+
+During the flight to [[the-cove|The Cove]], [[isambard|Isambard]] taught Kira and the simians blackjack, and Kira showed emotions and fears. Unlike the ordinary robots the crew knew, Kira was made sentient by [[monarch|Monarch]], though she is not a supercomputer (Session 80). Isambard proposed training her, [[isaiah|Isaiah]] and [[tomas|Tomas]] to help crew a larger ship (Session 80). Kira joined the crew at dinner with [[lord-baltimore|Lord Baltimore]], who questioned her (Session 80).
+
+Kira stayed aboard the [[raconteur|Raconteur]] when the team went down to [[tutin|Tutin]] on Day 228-1105 (Session 82).
+
 ## Related pages
 - [[metropolis-station|Metropolis Station]]
 - [[monarch|Monarch]]
@@ -83,3 +89,7 @@ In Session 79 (Session 79):
 - [[renzo|Renzo]]
 - [[raconteur|Raconteur]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[the-cove|The Cove]]
+- [[lord-baltimore|Lord Baltimore]]
+- [[tomas|Tomas]]
+- [[isaiah|Isaiah]]

@@ -7,13 +7,14 @@ tags:
   - lore
 sources:
   - "[[wu-ketai]]"
-last_updated: 2026-09-20
+last_updated: 2026-10-27
+sessions: [80]
 ---
 # Cloning and Memory Units
 
 **Summary**: Biological replication technologies in Sector Solo-6, spanning frowned-upon natural cloning, dangerous fast-cloning, and fatal experimental memory transfer units.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -40,6 +41,10 @@ In 1105, [[real-red-hand|Real Red Hand]] labor leader [[tres-capulet|Tres Capule
 
 - **The Erebus Power Breakthrough**: In Day 47-1105, geneticist [[dr-eva-smart|Dr. Eva Smart]] at [[morella-station|Morella Station]] claimed to have successfully solved the terminal problem of fast-clone psychosis, enabling the rapid cultivation of adult clones without psychological collapse, bankrolled by [[erebus-power|Erebus Power]] (Session 18).
 
+## Memory Scans after Metropolis (Session 80)
+
+BIAS CCR holds brain scans of [[duchess-margaret|the Duchess]] and others recovered from [[metropolis-station|Metropolis]]. The scans hold memories up to the time they were made, but the crew lacks the lab equipment to access them. Earlier attempts to install downloaded memories in bots or clones drove the recipients insane within months. [[erebus-power|Erebus Power]] had apparently made clones last longer at [[morella-station|Morella Station]], while [[monarch|Monarch]] could rapidly install scans in human-looking infiltrator bots (Session 80).
+
 ## Related pages
 
 - [[wu-ketai|Wu-Ketai]]
@@ -52,3 +57,5 @@ In 1105, [[real-red-hand|Real Red Hand]] labor leader [[tres-capulet|Tres Capule
 - [[morella-station|Morella Station]]
 - [[danny-conti|Danny Conti]]
 - [[karl-jurgens|Karl Jurgens]]
+- [[monarch|Monarch]]
+- [[metropolis-station|Metropolis Station]]

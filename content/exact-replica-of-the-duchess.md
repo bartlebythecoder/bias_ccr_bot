@@ -7,14 +7,14 @@ tags:
   - duchess-margaret
   - monarch
 date: 2026-09-01
-sessions: [77]
+sessions: [77, 80, 81]
 ---
 
 # Exact Replica of the Duchess
 
 **Summary**: Inert android duplicate of [[duchess-margaret|Duchess Margaret]] made by [[monarch|Monarch]] inside [[metropolis-station|Metropolis Station]] and recovered by BIAS CCR.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-27
 
 ---
 
@@ -40,6 +40,10 @@ During their withdrawal from the warhead sector on Day 208 (Session 79):
 - **Microhangar Laser Cut**: Under escalating defense conditions (Condition 14), Sarik laser-cut a path into Micro-Hangar C-118, allowing the squad to load the replica onto their shuttle bus.
 - **Evacuation into the Belt**: The Duchess replica was brought aboard the [[raconteur|Raconteur]], successfully evacuating Metropolis Station prior to the nuclear explosion. The inert duplicate remains in BIAS CCR's possession as they transit toward Lord Baltimore's asteroid hideout.
 
+## Returned to the Duchess (Sessions 80–81)
+
+BIAS CCR handed the replica over to [[lord-baltimore|Lord Baltimore]] at [[the-cove|The Cove]], and it has been returned to [[duchess-margaret|Duchess Margaret]]. Baltimore said the Duchess owes the crew a favor for returning her body (Sessions 80–81).
+
 ## Related pages
 
 - [[duchess-margaret|Duchess Margaret]]
@@ -50,3 +54,4 @@ During their withdrawal from the warhead sector on Day 208 (Session 79):
 - [[raconteur|Raconteur]]
 - [[lord-baltimore|Lord Baltimore]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[the-cove|The Cove]]

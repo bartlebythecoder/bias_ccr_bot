@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5]
-last_updated: 2026-09-20
+sessions: [1, 2, 3, 4, 5, 80, 81, 82]
+last_updated: 2026-10-27
 ---
 # Asher
 
 **Summary**: Brilliant chemist and elite hacker originating from the impoverished world of [[pharr|Pharr]] and educated on [[nesvorny|Nesvorny]], serving as scientific and cyber infiltration specialist for the crew.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -101,7 +101,7 @@ Later on Day 117, Asher initiated laboratory processing on Richard Lundquist's b
 Asher stepped aside, letting the ape brush past him to escape into the corridor (Session 39). Joining Sarik and Isambard in the animal pen labs, Asher accessed the lab computers to download critical project files and telemetry while the crew struck a pact with the articulate captive apes. When [[dr-vance|Dr. Vance]] returned with the recaptured simian, Asher and the team subdued her, using her fingerprint to breach the chrono lab. Asher helped record conclusive video evidence of the Chrono-Energetic Siphoning device before the crew fled through the maintenance tunnels and launched an emergency escape ship into deep space (Session 39).
 
 ## Electronic Surveillance on Eternity Station
-Arriving at [[eternity-station|Eternity Station]] on Day 118-1105, Asher supported the team's [[petow|PETOW]] cover during negotiations with dockmaster [[loshi|Loshi]] (Session 40). When Teamster leader [[reidmar|Reidmar]] tasked the operatives with exposing suspected card cheat [[harvon-sargon|Harvon Sargon]], Asher ran comprehensive background checks on Sargon, pulling dossier files on his stylish persona and ties to the [[meinhoff-brigade|Meinhoff Brigade]]. Asher deployed a portable radio-frequency (RF) signal sweeper to scan the card table for illicit electronic transmissions. During the game at Stellar Burn, Asher maintained overwatch alongside uplifted simian [[thomas|Thomas]], supporting Isambard's confrontation of Sargon (Session 40).
+Arriving at [[eternity-station|Eternity Station]] on Day 118-1105, Asher supported the team's [[petow|PETOW]] cover during negotiations with dockmaster [[loshi|Loshi]] (Session 40). When Teamster leader [[reidmar|Reidmar]] tasked the operatives with exposing suspected card cheat [[harvon-sargon|Harvon Sargon]], Asher ran comprehensive background checks on Sargon, pulling dossier files on his stylish persona and ties to the [[meinhoff-brigade|Meinhoff Brigade]]. Asher deployed a portable radio-frequency (RF) signal sweeper to scan the card table for illicit electronic transmissions. During the game at Stellar Burn, Asher maintained overwatch alongside uplifted simian [[tomas|Tomas]], supporting Isambard's confrontation of Sargon (Session 40).
 
 ## Investigating Sargon's Cybernetics & Solon's Clinic
 On Day 119-1105, Asher accompanied Isambard and Sarik to Section 2 (Session 41). Outside Katarin's apartment, Asher was confronted by a hostile visitor named [[mosh|Mosh]], narrowly defusing a violent clash. Inside, Asher offered Cr 1,000 and passage off-station before Isambard finalized terms with Katarin. Following leads to [[ricardo|Ricardo]] and elite cyber-practitioner [[solon|Solon]], Asher assisted in the armed breach of Solon's office. Once Solon confessed to installing Sargon's total-recall "black box", Asher extracted and copied the surgical files and client records from Solon's systems and disabled the clinic security alarm before the team reported to Reidmar (Session 41).
@@ -143,7 +143,7 @@ When Beck and Sarik raided the [[zero-g-vipers|Zero-G Vipers]] clubhouse at [[ca
 
 ## Tracing Omni, Packing the Ancient Orb & Park 32 Overwatch
 
-Upon Beck's call from Jonestown, Asher packed essential expedition gear—including the [[ancient-orb|Ancient Orb]] and psionic defense helmets—and mobilized with simians [[isaiah|Isaiah]] and [[thomas|Thomas]] to rendezvous at Halfway Cafe (Session 52).
+Upon Beck's call from Jonestown, Asher packed essential expedition gear—including the [[ancient-orb|Ancient Orb]] and psionic defense helmets—and mobilized with simians [[isaiah|Isaiah]] and [[tomas|Tomas]] to rendezvous at Halfway Cafe (Session 52).
 
 Analyzing the decrypted financial data from the Vipers' laptop, Asher ran corporate registry checks on shell entity [[omni|Omni]], identifying [[starka-pramerski|Starka Pramerski]] as its sole employee and tracking down his residential address. While en route to Pramerski's home, Asher received a direct priority alert from the anonymous Tipster: *"Save Starka Pramerski. Park 32. Hurry."* (Session 52). At Park 32, Asher maintained perimeter tactical surveillance alongside Sarik as Hunter's Heroes cordoned the area (Session 52).
 
@@ -175,7 +175,7 @@ At the [[stardust-casino|Stardust Casino]] charity gala on the evening of Day 13
 During the assault on Marie Orslo Jollynn's mansion on Day 133-1105, Asher provided technical reconnaissance and tactical fire support (Sessions 56–57):
 - **Perimeter Camera Sweep**: Confirmed the complete absence of exterior security cameras, enabling the team to inspect ground-floor windows and service doors unhindered.
 - **Combat Support & First Aid**: Rushed to assist Sky in the maid's quarters and sprinted to retrieve emergency trauma medikits, administering critical stabilization aid to Sarik following his brutal balcony firefight.
-- **Diversion against Richard**: When chief bodyguard Richard entered the residence, Asher created a noise distraction on the upper level, drawing Richard's focus away and allowing Thomas and Sky to incapacitate him silently.
+- **Diversion against Richard**: When chief bodyguard Richard entered the residence, Asher created a noise distraction on the upper level, drawing Richard's focus away and allowing Tomas and Sky to incapacitate him silently.
 - **Phone Cracking & Evidence Relay**: Following Jollynn's execution, Asher seized her unlocked mobile phone and disabled its remote wipe and security features. Asher extracted call records and operational archives, transmitting them to attorney [[ridpath|Ridpath]] to prove Jollynn's control of [[the-stratemeyers|The Stratemeyers]] and secure the 800,000 credit bounty payment (Sessions 56–57).
 
 ## Eternity Station Sabbatical & Metropolis Preparation (Session 58)
@@ -321,6 +321,16 @@ On Day 208 during the high-speed extraction from Metropolis Station (Session 79)
 - **Iris Valve Narrow Escape**: Rushing through the Infiltration Personalities Databank under **Defense Condition 13**, an automated iris valve snapped shut abruptly, with Asher pulling back just in time to avoid the loss of a limb.
 - **Escape to Baltimore's Asteroid**: Boarded *The Raconteur* and assisted in orbital navigation into the asteroid belt toward Lord Baltimore's uncharted coordinates, monitoring sensors as the nuclear warhead detonated behind them.
 
+## The Cove & The Artifact Sale (Session 80)
+
+After Metropolis fell, Asher agreed with [[isambard|Isambard]] that it had been sad when androids were hurt and said he was glad to have left. They discussed the brain scans taken of [[duchess-margaret|the Duchess]] and others: the scans hold memories up to the time they were made, but the crew lacks the lab equipment to access them (Session 80). Asher recalled leaving his computer cable with [[conway|Officer Conway]], and studied a device that can identify a synth only after death (Session 80).
+
+Asher carried the [[ancient-orb|Ancient Orb]] into [[the-cove|The Cove]] and, with [[sarik|Sarik]] and Isambard, chose the [[tutin|Tutin]] hostage rescue for [[lord-baltimore|Lord Baltimore]] (Session 80). He takes the northern route to [[the-ranch-near-hampton|the ranch]] (Session 81).
+
+## Voyage to Tutin (Session 82)
+
+Asher studied mechanics during the voyage. He told the crew he was unhappy that they had given all the artifacts to Lord Baltimore, and that something was going on (Session 82). On Tutin his cover is that of a professor (Session 81). In [[hampton|Hampton]], [[jiro|Jiro]] asked him for a Cr 5,000 poker loan, promising to repay Cr 10,000; Asher refused (Session 82).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -412,7 +422,7 @@ On Day 208 during the high-speed extraction from Metropolis Station (Session 79)
 - [[roxy|Roxy]]
 - [[eternity-station|Eternity Station]]
 - [[harvon-sargon|Harvon Sargon]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[isaiah|Isaiah]]
 - [[reidmar|Reidmar]]
 - [[dr-vance|Dr. Vance]]
@@ -477,3 +487,7 @@ On Day 208 during the high-speed extraction from Metropolis Station (Session 79)
 - [[margaux-evans|Margaux Evans]]
 - [[agnes-tuttle|Agnes Tuttle]]
 - [[morella-station|Morella Station]]
+- [[the-cove|The Cove]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]
+- [[jiro|Jiro]]
+- [[lord-baltimore|Lord Baltimore]]

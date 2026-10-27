@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [6]
-last_updated: 2026-09-20
+sessions: [6, 80, 82]
+last_updated: 2026-10-27
 ---
 # Sky
 
 **Summary**: Commercial flyer pilot at [[kc-station|K.C. Station]], former Imperial Marine, and [[cooper|Cooper]]'s local contact who joined the crew's raid on the [[mirassol-pyramid|Mirassol Pyramid]] for an equal share of artifacts.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -128,8 +128,8 @@ At the [[stardust-casino|Stardust Casino]] charity gala on the evening of Day 13
 
 During the direct assault on Marie Orslo Jollynn's gated mansion on Day 133-1105, Sky served as point scout and stealth infiltrator (Sessions 56–57):
 - **Perimeter Breach**: Sky led the team over the estate's perimeter fence while the gatehouse guard was distracted, locating the unlocked service entrance into the mansion.
-- **Maid's Room Skirmish**: Entering an interior room, Sky surprised an armed guard and housemaid [[isabel|Isabel]]. Sky slashed the guard, sustained a gunshot wound in return, and assisted Thomas in neutralizing him.
-- **Takedown of Richard**: When chief bodyguard Richard ([[the-man-with-the-gun|The Man With The Gun]]) entered the residence calling for Isabel, Sky ambushed him in tandem with Thomas, stabbing Richard in the neck and incapacitating him without gunfire.
+- **Maid's Room Skirmish**: Entering an interior room, Sky surprised an armed guard and housemaid [[isabel|Isabel]]. Sky slashed the guard, sustained a gunshot wound in return, and assisted Tomas in neutralizing him.
+- **Takedown of Richard**: When chief bodyguard Richard ([[the-man-with-the-gun|The Man With The Gun]]) entered the residence calling for Isabel, Sky ambushed him in tandem with Tomas, stabbing Richard in the neck and incapacitating him without gunfire.
 - **Mansion Sweep & Tunnel Escape**: Outfitted in captured guard flak armor, Sky cleaned foyer evidence and assisted in securing the perimeter while Beck blasted open the safe, safely extracting through the underground escape tunnel into a public park (Sessions 56–57).
 
 ## Permanent Contract & Project Metropolis Transit (Session 58)
@@ -155,6 +155,14 @@ Aboard the starship across Days 189–190 (Session 65):
 - **Relaying Dana Westby's Alert**: Relayed an urgent transmission from [[dana-westby|Dana Westby]] on Eternity Station warning that a **[[one-handed-man|One-Handed Man]]** had arrived hunting Sarik. Sky aggressively proposed mounting an immediate preemptive strike to eliminate the pursuer before he tracked them to Metropolis.
 - **Lord Baltimore In-System Comms**: Received a direct transmission from [[lord-baltimore|Lord Baltimore]], who arrived in-system and inquired whether BIAS CCR still had possession of the **[[ancient-orb|Ancient Orb]]**.
 
+## Arrival at The Cove (Session 80)
+
+When flight control challenged the [[raconteur|Raconteur]] for approaching [[lord-baltimore|Lord Baltimore]]'s asteroid base without a transponder, Sky activated it, identified the ship and received clearance to enter [[the-cove|The Cove]] (Session 80).
+
+## Staying Aboard for Tutin (Session 82)
+
+Sky stayed aboard the Raconteur during the [[tutin|Tutin]] rescue mission (Session 82).
+
 ## Related pages
 - [[one-handed-man|One-Handed Man]]
 - [[dana-westby|Dana Westby]]
@@ -169,7 +177,7 @@ Aboard the starship across Days 189–190 (Session 65):
 - [[arkady|Arkady]]
 - [[angus|Angus]]
 - [[isabel|Isabel]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[javier|Javier]]
 - [[tora-takanabe|Tora Takanabe]]
 - [[stardust-casino|Stardust Casino]]
@@ -225,3 +233,5 @@ Aboard the starship across Days 189–190 (Session 65):
 - [[lord-edgar|Lord Edgar]]
 - [[the-doves|The Doves]]
 - [[csabai-starport-alpha|Csabai Starport Alpha]]
+- [[the-cove|The Cove]]
+- [[tutin|Tutin]]

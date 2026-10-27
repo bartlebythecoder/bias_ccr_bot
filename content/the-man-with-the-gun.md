@@ -20,7 +20,7 @@ links:
   - "[[orion-docks]]"
   - "[[irquez]]"
   - "[[sky]]"
-  - "[[thomas]]"
+  - "[[tomas]]"
   - "[[freeport]]"
 tags:
   - person
@@ -51,7 +51,7 @@ Dressed in a formal older-style business suit, Richard operated as a fixer, assa
 * **The Murder of Starka Pramerski (Day 133-1105)**: Hours after escaping Park 32, the operative tracked Starka Pramerski to a Freeport shopping mall. Hacked municipal surveillance footage showed him following Starka into a public restroom, strangling him, scattering pills across the floor to stage an overdose, and exiting to alert mall security (Session 54).
 * **Orion Docks Union Ties**: Photographs shown to [[irquez|Irquez]] at [[orion-docks|Orion Docks]] confirmed that the operative frequently accompanied Starka Pramerski to pay off union dockworkers ensuring customs clearance for illicit cargo (Session 54).
 * **Jollynn Trust Bodyguard**: Reconnaissance by Sky outside the Jollynn Trust bank tower and cyber-intrusions by [[asher|Asher]] revealed multiple photos of this operative acting openly as Marie Orslo Jollynn's personal protection detail, establishing the direct pipeline between syndicate street killings and the bank's CEO (Session 54).
-* **Ambush & Death at Jollynn Mansion (Day 133-1105)**: Escorting Marie Orslo Jollynn and her assistant back from the charity gala in a security hovercart, Richard entered the residence calling for maid Isabel. Asher created a noise diversion upstairs, allowing uplifted simian [[thomas|Thomas]] to grapple Richard's gun arm while [[sky|Sky]] lunged and stabbed him in the neck, rendering him unconscious without a shot being fired. Thomas subsequently eliminated him, ending the hitman's terror (Sessions 56–57).
+* **Ambush & Death at Jollynn Mansion (Day 133-1105)**: Escorting Marie Orslo Jollynn and her assistant back from the charity gala in a security hovercart, Richard entered the residence calling for maid Isabel. Asher created a noise diversion upstairs, allowing uplifted simian [[tomas|Tomas]] to grapple Richard's gun arm while [[sky|Sky]] lunged and stabbed him in the neck, rendering him unconscious without a shot being fired. Tomas subsequently eliminated him, ending the hitman's terror (Sessions 56–57).
 
 ## Related Pages
 - [[orslo-jollynn|Orslo Jollynn]]
@@ -60,5 +60,5 @@ Dressed in a formal older-style business suit, Richard operated as a fixer, assa
 - [[winslow-leach|Winslow Leach]]
 - [[the-stratemeyers|The Stratemeyers]]
 - [[sky|Sky]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[freeport|Freeport]]

@@ -5,13 +5,13 @@ category: lore_tech
 tags:
   - lore_tech
   - relic
-sessions: [65, 66, 67, 68]
+sessions: [65, 66, 67, 68, 80, 81]
 ---
 # Heavy Marbles
 
 **Summary**: Dense black spheres of unknown purpose recovered by BIAS CCR from [[metropolis-station|Metropolis Station]] and sellable to fences such as [[fagan|Fagan]].
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-27
 
 ---
 
@@ -25,3 +25,9 @@ sessions: [65, 66, 67, 68]
 - **Cafeteria Cache**: On Level 1, the team discovered a manila envelope tucked beneath a table in the cafeteria containing four additional heavy marbles.
 - **Underworld Buyer**: [[arkady|Arkady]] identified [[fagan|Fagan]], a black market broker operating on [[eternity-station|Eternity Station]], as an established buyer for the marbles.
 
+## Sale to Lord Baltimore (Sessions 80–81)
+
+[[lord-baltimore|Lord Baltimore]]'s appraisal valued the crew's eight marbles at Cr 10,000 apiece. They went to Baltimore with the rest of the crew's artifacts (Sessions 80–81).
+
+## Related pages
+- [[lord-baltimore|Lord Baltimore]]

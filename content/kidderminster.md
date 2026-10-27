@@ -8,13 +8,14 @@ tags:
 sources:
   - "[[news-1105-vol-2]]"
   - "[[news-1105-vol-10]]"
-last_updated: 2026-10-13
+last_updated: 2026-10-27
+sessions: [81]
 ---
 # Kidderminster
 
 **Summary**: Major system 1226 in Solo Sector Subsector J, historical naval anchor during the [[hessian-revolt|Hessian Revolt]], and administrator of Tutin following the 1077–1083 Pacification.
 
-**Last updated**: 2026-10-13
+**Last updated**: 2026-10-27
 
 ---
 
@@ -44,6 +45,10 @@ In 1105, Kidderminster mediated the resolution of the Sanlucar conflict:
 
 - **[[beck|Beck]]**: High-status psychological profiler and medical specialist who benefits from advanced cellular rejuvenation before turning to freelance corporate espionage (Sessions 1–5).
 
+## Recent Developments (Session 81)
+
+[[dr-pearson|Dr. Pearson]] is to be returned to Kidderminster after his rescue from [[tutin|Tutin]]. [[elsa-fisher|Elsa Fisher]], [[beck|Beck]]'s contact in [[duchess-margaret|Duchess Margaret]]'s inner circle, is on Kidderminster, and the crew's new ship is to be collected there (Sessions 80–81).
+
 ## Related pages
 
 - [[battle-of-liberty|Battle of Liberty]]
@@ -59,3 +64,5 @@ In 1105, Kidderminster mediated the resolution of the Sanlucar conflict:
 - [[tukera-lines|Tukera Lines]]
 - [[psalm-134|Psalm 134]]
 - [[david-ives|David Ives]]
+- [[elsa-fisher|Elsa Fisher]]
+- [[dr-pearson|Dr. Pearson]]

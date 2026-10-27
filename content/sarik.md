@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5]
-last_updated: 2026-09-20
+sessions: [1, 2, 3, 4, 5, 80, 81, 82]
+last_updated: 2026-10-27
 ---
 # Sarik
 
 **Summary**: Former Imperial marine veteran of the [[sanlucar-civil-war|Sanlucar Civil War]] and Tutin colonist, operating as the heavy combatant and field operative for the crew.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -326,6 +326,18 @@ On Day 208 during the high-speed evacuation from the nuclear warhead (Session 79
 - **Duchess Retrieval & Laser Cut**: Secured the [[exact-replica-of-the-duchess|Duchess's cloned body]] in the Infiltrator Android Room, then executed a grueling 30-minute laser cut through the bulkheads into Micro-Hangar C-118 under **Defense Condition 14**.
 - **Extraction to the Belt**: Escorted the Duchess replica onto the shuttle bus and safely boarded *The Raconteur*, watching from the asteroid belt as the nuclear explosion incinerated Metropolis Station.
 
+## The Cove & The Tutin Contract (Sessions 80–81)
+
+Sarik rested after suffering the bends during the flight to [[the-cove|The Cove]] (Session 80). He accepted the crew's classification of friends and enemies but said he did not personally hate [[wu-ketai|Wu-Ketai]]. At dinner with [[lord-baltimore|Lord Baltimore]] he told Baltimore that no one needed to worry about [[monarch|Monarch]] anymore, and he joined [[asher|Asher]] and [[isambard|Isambard]] in choosing the [[tutin|Tutin]] hostage rescue (Session 80). Sarik's family lives on Tutin (Session 81); for the rescue he takes the northern route and offered to provide medical care (Session 81).
+
+## Voyage to Tutin (Session 82)
+
+- Sarik proposed confronting the [[one-handed-man|One-Handed Man]] pursuing him, with [[reidmar|Reidmar]] perhaps helping to find him, but dropped the detour once the crew established that the man was on [[freeport|Freeport]], not [[eternity-station|Eternity Station]] (Session 82).
+- He read that the crew's activities had driven down the share prices of [[wu-ketai|Wu-Ketai]] and its parent company, [[hortalez-et-cie|Hortalez et Cie]]; no investment was made (Session 82).
+- He studied streetwise skills during the voyage (Session 82).
+- The team's cover on [[tutin|Tutin]] is that they are going to work in Sundance, the colony where Sarik's family lives, and will hunt before starting (Session 82).
+- In [[hampton|Hampton]], a man named Slim told Sarik at the bar that Redshirt spies were listening everywhere, some of them in the spa (Session 82).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -421,7 +433,7 @@ On Day 208 during the high-speed evacuation from the nuclear warhead (Session 79
 - [[eternity-station|Eternity Station]]
 - [[harvon-sargon|Harvon Sargon]]
 - [[isaiah|Isaiah]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[reidmar|Reidmar]]
 - [[dr-vance|Dr. Vance]]
 - [[orla|Orla]]
@@ -488,3 +500,6 @@ On Day 208 during the high-speed evacuation from the nuclear warhead (Session 79
 - [[csabai-psalmist-center|Csabai Psalmist Center]]
 - [[guillaume-sterling|Guillaume Sterling]]
 - [[darlene-suitor|Darlene Suitor]]
+- [[the-cove|The Cove]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]
+- [[hampton|Hampton]]

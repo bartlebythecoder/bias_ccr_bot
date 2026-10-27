@@ -7,13 +7,14 @@ tags:
 aliases:
   - Hunter's Heroes
 category: faction
+sessions: [80]
 ---
 
 # Hunter's Heroes
 
 **Summary**: Rival mercenary outfit in the [[arico-el-nuevo|Arico]] system that competes aggressively with BIAS CCR for contracts and bounties.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-27
 
 ---
 
@@ -85,3 +86,8 @@ Following BIAS CCR's armed storming of Marie Orslo Jollynn's mansion, Palmas eme
 - [[freeport|Freeport]]
 - [[eternity-station|Eternity Station]] (Contract staging area)
 
+## In System (Session 80)
+
+Hunter's Heroes were in the system when BIAS CCR considered hiring mercenaries for the [[tutin|Tutin]] rescue, but the crew agreed to bring none (Sessions 80, 82).
+
+## Related pages

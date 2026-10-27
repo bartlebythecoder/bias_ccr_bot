@@ -5,13 +5,14 @@ category: systems
 tags:
   - systems
   - establishment
-last_updated: 2026-10-21
+last_updated: 2026-10-27
+sessions: [81, 82]
 ---
 # Hampton
 
 **Summary**: Town on [[tutin|Tutin]] near the orbital elevator, serving as the entry and exit point for all workers on the planet.
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-10-27
 
 ---
 
@@ -33,6 +34,14 @@ The town hosts a Subsector Navy contingent commanded by marine colonel [[colonel
 
 Hampton and the surrounding area are administered by colony administrator [[governor-stieg-tanaka|Governor Stieg Tanaka]].
 
+## Martial Law & Daily Life (Sessions 81–82)
+
+Hampton has scores of residents rather than hundreds, and supports the wealthy estates and their visitors (Session 81). Workers often arrive five to seven days early to spend time outdoors before starting work (Session 82).
+
+When BIAS CCR arrived on Day 228-1105, [[tutin|Tutin]] was under martial law. Redshirt Marines watch Hampton and keep order through summary executions; visitors are expected to be polite, avoid intimidation and not brandish weapons. Shotguns and knives may be taken down the elevator, pistols must be worn openly and gauss rifles need permits. Redshirt guards check arrivals' papers at the elevator (Session 82). According to a local named Slim, Redshirt spies listen everywhere in town, including the spa (Session 82).
+
+People BIAS CCR met in Hampton include [[francis|Francis]], the boy [[necktie|Necktie]] and the gambler [[jiro|Jiro]]. The artists Archie and [[penelope|Penelope]] rode the elevator down with the crew. A woman named Debra works at [[the-ranch-near-hampton|the ranch]] beyond the hills and comes into town once a week (Session 82).
+
 ## Related pages
 
 - [[tutin|Tutin]]
@@ -41,3 +50,8 @@ Hampton and the surrounding area are administered by colony administrator [[gove
 - [[colonel-marshall-moses-clark|Colonel Marshall Moses Clark]]
 - [[hillcrest|Hillcrest]]
 - [[tutin-pacification|Tutin Pacification]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]
+- [[francis|Francis]]
+- [[necktie|Necktie]]
+- [[jiro|Jiro]]
+- [[penelope|Penelope]]

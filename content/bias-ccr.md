@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [11]
-last_updated: 2026-09-20
+sessions: [11, 80, 81, 82]
+last_updated: 2026-10-27
 ---
 # BIAS Corporate Conflict Resolution
 
 **Summary**: Legally registered corporate consulting and private security firm established on [[romentino|Romentino]] by [[beck|Beck]], [[asher|Asher]], [[isambard|Isambard]], and [[sarik|Sarik]] as an operational cover.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -70,7 +70,7 @@ After reporting Richard's fate to [[joanna-lundquist|Joanna Lundquist]], BIAS CC
 Evading the running simian, Beck and Asher linked back up with Sarik and Isambard in the red section animal holding pens after Sarik shorted the electronic lock with a crop duster (Session 39). Discovering that the uplifted simians possessed articulate speech, BIAS CCR struck an alliance, liberating the apes in exchange for a synchronized corridor revolt rounding up laboratory staff. Subduing returning researcher [[dr-vance|Dr. Vance]], the operatives wheeled her on a gurney and used her biometric credentials to breach the chrono lab. The team captured complete video documentation of the operational [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]] apparatus, radioed [[sky|Sky]] to extract informant [[romero|Romero]] to [[freeport|Freeport]], and escaped Suliman aboard an emergency launch craft into deep space (Session 39).
 
 ## Operations on Eternity Station
-On Day 118-1105, BIAS CCR steered their stolen corporate launch to the uncertified habitat [[eternity-station|Eternity Station]] to avoid corporate patrols at Freeport (Session 40). After transferring ten liberated simians to an underground network, two articulate primates—[[isaiah|Isaiah]] and [[thomas|Thomas]]—remained with the team. Countering suspicions from dockmaster [[loshi|Loshi]] and broker [[angus|Angus]], the team adopted the cover identity [[petow|PETOW]] (*People for the Ethical Treatment of Uplifted Workers*). Guided by [[dana-westby|Dana Westby]] through The Icebox, the operatives met Teamster leader [[reidmar|Reidmar]] at Stellar Burn. To secure a vital pass extension while awaiting extraction by [[sky|Sky]], BIAS CCR funded a Cr 10,000 poker buy-in, enabling Isambard, Isaiah, and Sarik to expose [[meinhoff-brigade|Meinhoff]] card cheat [[harvon-sargon|Harvon Sargon]] (Session 40).
+On Day 118-1105, BIAS CCR steered their stolen corporate launch to the uncertified habitat [[eternity-station|Eternity Station]] to avoid corporate patrols at Freeport (Session 40). After transferring ten liberated simians to an underground network, two articulate primates—[[isaiah|Isaiah]] and [[tomas|Tomas]]—remained with the team. Countering suspicions from dockmaster [[loshi|Loshi]] and broker [[angus|Angus]], the team adopted the cover identity [[petow|PETOW]] (*People for the Ethical Treatment of Uplifted Workers*). Guided by [[dana-westby|Dana Westby]] through The Icebox, the operatives met Teamster leader [[reidmar|Reidmar]] at Stellar Burn. To secure a vital pass extension while awaiting extraction by [[sky|Sky]], BIAS CCR funded a Cr 10,000 poker buy-in, enabling Isambard, Isaiah, and Sarik to expose [[meinhoff-brigade|Meinhoff]] card cheat [[harvon-sargon|Harvon Sargon]] (Session 40).
 
 ## Exposing the Black Box & Sargon's Murder
 On Day 119-1105, as news broke of Reidmar's freighters being captured by [[the-stratemeyers|The Stratemeyers]], BIAS CCR pursued Sargon's cybernetic secrets (Session 41). Paying informant [[roxy|Roxy]] for Sargon's girlfriend [[katarin|Katarin]]'s address, the team parried hostile resident [[mosh|Mosh]] and negotiated for intel pointing to street surgeon [[ricardo|Ricardo]] in The Icebox. Escalating to elite cyberneticist [[solon|Solon]], Isambard, Asher, and Sarik forced entry and held the clinic at gunpoint, coercing Solon into confessing that he had installed a total-recall "black box" cognitive module in Sargon. After downloading Solon's records, the team presented the forensic proof to Reidmar—who summoned them back mere hours later with the breaking news that Sargon had been murdered (Session 41).
@@ -92,7 +92,7 @@ On the evening of Day 130-1105, following contact from Soto's fearful friend Jul
 1. **Stadler Deal**: Isambard and Sky bought footage at the [[stardust-casino|Stardust Casino]] revealing Parker had been violently kidnapped by an armed strike team.
 2. **Hunter's Heroes Standoff**: Beck and Asher infiltrated Hunter's Heroes' townhouse safehouse, discovering the rivals held Parker captive; Beck interrogated Parker, proved his innocence, and deceptively affirmed his guilt to mislead the rivals.
 3. **Wu-Ketai Tower Infiltration**: Sarik breached the corporate tower via a tavern fire distraction, discovering contracts relating to Project [[metropolis-station|Metropolis]], Carbrooke Minerals, and an Ancient precursor artifact on the [[janus|Janus]] asteroid.
-Upon returning to their Freeport headquarters, the team was confronted by an unexpected woman sitting comfortably with [[isaiah|Isaiah]] and [[thomas|Thomas]], greeting them with *"Hello, you must be BIAS CCR."* (Session 46).
+Upon returning to their Freeport headquarters, the team was confronted by an unexpected woman sitting comfortably with [[isaiah|Isaiah]] and [[tomas|Tomas]], greeting them with *"Hello, you must be BIAS CCR."* (Session 46).
 
 ## Risiano Tiler Interview, Julie's Ambush & Sarik's Abduction
 The mysterious visitor was revealed as independent journalist [[risiano-tiler|Risiano Tiler]], who sought information on BIAS CCR's activities at [[suliman|Suliman]] while probing illegal elite personality backup and consciousness transfer tech (Session 47). The crew exchanged sanitized second-hand accounts of Suliman vitality extraction and [[morella-station|Morella Station]] cloning in return for future Syndicate intelligence.
@@ -162,15 +162,15 @@ On the evening of Day 133-1105, BIAS CCR infiltrated the fourth-floor charity ga
 ## The Jollynn Estate Assault, Decapitation & Stratemeyer Bounty Closure (Session 56–57)
 
 On the night of Day 133-1105, BIAS CCR executed a decisive military strike against the leadership of [[the-stratemeyers|The Stratemeyers]] (Sessions 56–57):
-- **Storming the Mansion**: As Jollynn wrapped up her speech, Sky, Sarik, Asher, Isaiah, and Thomas breached the gated estate. Inside, Sky and Thomas neutralized an interior guard, while Isaiah restrained housemaid [[isabel|Isabel]]. Outside, Sarik engaged and incapacitated two balcony guards in close-quarters combat.
-- **Ambush & Execution of Jollynn**: When a security hovercart arrived carrying Jollynn, her assistant, and chief bodyguard [[the-man-with-the-gun|Richard]], the crew struck. Thomas and Sky incapacitated Richard inside the foyer. Sarik killed the hovercart driver through the windshield, Beck and Sarik returned fire on the assistant, eliminating her, and Sarik executed Marie Orslo Jollynn directly within the vehicle.
+- **Storming the Mansion**: As Jollynn wrapped up her speech, Sky, Sarik, Asher, Isaiah, and Tomas breached the gated estate. Inside, Sky and Tomas neutralized an interior guard, while Isaiah restrained housemaid [[isabel|Isabel]]. Outside, Sarik engaged and incapacitated two balcony guards in close-quarters combat.
+- **Ambush & Execution of Jollynn**: When a security hovercart arrived carrying Jollynn, her assistant, and chief bodyguard [[the-man-with-the-gun|Richard]], the crew struck. Tomas and Sky incapacitated Richard inside the foyer. Sarik killed the hovercart driver through the windshield, Beck and Sarik returned fire on the assistant, eliminating her, and Sarik executed Marie Orslo Jollynn directly within the vehicle.
 - **Safe Heist & Tunnel Extraction**: Guided by servant intelligence from Isabel, Beck discovered a secret library room, recovered an Advanced Combat Rifle (ACR), and blasted open the hidden safe to seize **Cr 65,000**. The operatives exfiltrated through a subterranean escape tunnel into a public park, paying Isabel Cr 10,000 for her silence.
 - **Bounty Settlement & The Informant Unmasked**: Meeting through attorney [[ridpath|Ridpath]], the crew agreed to a 50/50 evidence pool with [[palmas|Palmas]] of [[hunters-heroes|Hunter's Heroes]], securing a net payout of **Cr 800,000** from [[yandee|Demon Prince Yandee]]. Decrypted records revealed that escaped bank president [[tora-takanabe|Tora Takanabe]] was the informant "The President." Flush with funds, BIAS CCR prepared to depart Freeport for [[eternity-station|Eternity Station]] to pursue [[metropolis-station|Project Metropolis]] and the [[janus|Janus Asteroid]] (Sessions 56–57).
 
 ## Eternity Station Sabbatical & Project Metropolis Infiltration Preparation (Session 58)
 
 Following the liquidation of the Stratemeyer high command, BIAS CCR established base on [[eternity-station|Eternity Station]] for an extended seven-week rest and preparation period under the patronage of [[yandee|Demon Prince Yandee]] (Session 58):
-- **Contracts & Living Expenses**: Formalized employment terms with pilot [[sky|Sky]] and simian operatives [[isaiah|Isaiah]] and [[thomas|Thomas]] (base salary + hazard pay). Paid Cr 76,500 in living costs, station fees, and ship refueling from the firm's consolidated slush fund.
+- **Contracts & Living Expenses**: Formalized employment terms with pilot [[sky|Sky]] and simian operatives [[isaiah|Isaiah]] and [[tomas|Tomas]] (base salary + hazard pay). Paid Cr 76,500 in living costs, station fees, and ship refueling from the firm's consolidated slush fund.
 - **The Metropolis Dossier**: Assessed megacorporation [[hortalez-et-cie|Hortalez et Cie]] as the dominant financial power in the sector and purchased a classified "Metropolis" dossier from information broker [[angus|Angus]]. The intelligence exposed [[metropolis-station|Project Metropolis]] as a zero-G, erratically powered orbital installation crawling with rogue robots and guarded by external [[wu-ketai|Wu-Ketai]] security gunboats.
 - **Vessel & Tactical Armament**: Refitted the starship with a double turret housing an industrial laser drill for hull breaching. Acquired heavy combat armor with grav-assist maneuvering for [[sarik|Sarik]] and [[isambard|Isambard]], combat environment suits and military cyber-warfare decks for [[beck|Beck]] and [[asher|Asher]], an accelerator rifle for Sarik, and a laser sniper rifle for Isambard.
 - **Transit & Target Contact**: After training and personal pursuits (Beck's hospital volunteering, Isambard's gambling and cellmate letters, Asher's outreach to [[tina|Tina]], and Sarik's family check-ins), the operatives launched on a 3.5-day flight toward Metropolis Station, preparing for stealth evasion of Wu-Ketai patrols to make contact with [[arkady|The Old Man]] (Session 58).
@@ -345,8 +345,24 @@ On Day 208, during the final four hours before nuclear detonation (Session 79):
 - **Rocket Booby Traps & Ghost Ambush**: Retreating from the nuclear vault, Asher constructed two proximity-triggered booby traps using Sarik's rockets at the War Studies and Quarantine choke points. En route, the ghost [[renzo|Renzo]] ambushed the squad with a devastating psychic assault, permanently damaging Asher's mind (blunting analytical intellect while instilling an acute empathy for synthetics). Isambard dispersed Renzo with an EMP grenade.
 - **Duchess Extraction & Micro-Hangar Breach**: Retrieving the suspended [[exact-replica-of-the-duchess|Exact Replica of Duchess Margaret]], the crew reached Micro-Hangar C-118, where Sarik used the cutting laser for 30 minutes to slice through sealed blast doors. Boarding the orbital shuttle bus, Isambard piloted them out into space just as Asher's rocket traps detonated inside the station at 17:00 hours.
 - **Parley with Officer Conway**: Rendezvousing with *The Raconteur* at the Loading Dock, the crew faced a hostile confrontation with corrupt security chief [[conway|Officer Conway]]. Beck negotiated safe passage by offering a 50% split on low-tier salvage while concealing the high-value Precursor relics. When Conway attempted to seize [[kira|Kira]], Isambard fiercely defended her status as protected crew. BIAS CCR deliberately kept Conway in the dark about the armed nuclear warhead.
-- **Silent Escape & The Flash**: Setting sublight thrusters to silent running and cutting transponders, *The Raconteur* slipped into the uncharted Kidderminster asteroid belt toward safehouse coordinates provided by [[lord-baltimore|Lord Baltimore]].
+- **Silent Escape & The Flash**: Setting sublight thrusters to silent running and cutting transponders, *The Raconteur* slipped into the uncharted Arico asteroid belt toward safehouse coordinates provided by [[lord-baltimore|Lord Baltimore]].
 - **The Annihilation of Metropolis**: At 20:30 hours on Day 208, the nuclear warhead detonated. The resulting catastrophic thermonuclear fireball vaporized [[metropolis-station|Metropolis Station]], the primary core of [[monarch|Monarch]], the scavenger habitat ***[[the-bell|The Bell]]*** (killing Arkady and all remaining inhabitants), and the blockading [[the-doves|Psalmist]] warship. At midnight, the Duchess's Redshirt fleet arrived only to find glowing radioactive debris.
+
+## The Cove & Lord Baltimore's Offer (Session 80)
+
+From Day 209 to 211, the [[raconteur|Raconteur]] crossed the Arico belts to [[lord-baltimore|Lord Baltimore]]'s asteroid base, [[the-cove|The Cove]], keeping out of sight of the Red Fleet approaching from [[freeport|Freeport]] (Session 80). On the way, [[isaiah|Isaiah]] led the crew in mapping their friends and enemies (see [[ledger|the Ledger]]).
+
+At dinner, Baltimore revealed that he works in Redshirt naval intelligence for [[duchess-margaret|Duchess Margaret]], and [[commander-kilroy|Commander Kilroy]] confirmed she had left [[wu-ketai|Wu-Ketai]] for the Redshirts. The crew sold Baltimore all of their artifacts, including the [[ancient-orb|Ancient Orb]], for MCr 1 and a navy-seized ship, and took a MCr 4 navy contract to rescue a hostage on [[tutin|Tutin]], with Cr 400,000 up front (Session 80). They chose a Light Reconnaissance Ship, to be collected on [[kidderminster|Kidderminster]] (Session 80).
+
+## The Dr. Pearson Assignment (Session 81)
+
+The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a defended luxury ranch near Hampton]]. The mission is covert: the team may not reveal themselves as Red Shirts or arrest anyone, and will submit to arrest if it goes wrong. They plan to approach by the northern route while [[beck|Beck]] climbs in alone by the direct route to scout ahead (Session 81).
+
+## To Marcolandia & Tutin (Session 82)
+
+- **Day 213**: The crew agreed to bring no extra mercenaries and outfitted with surveillance gear, camouflage, medical and field supplies and weapons, equipping [[isaiah|Isaiah]] and [[tomas|Tomas]]. The shared fund stood at Cr 370,000 before travel and crew costs (Session 82).
+- **Day 220**: The Raconteur reached [[marcolandia|Marcolandia]]. Passage cost Cr 17,000 and crew payday Cr 10,000, leaving Cr 318,000 (Session 82).
+- **Day 228**: Arrival at [[tutin|Tutin]], under martial law. With permits from Baltimore and a cover story of work in the Sundance colony, the team rode the elevator down to [[hampton|Hampton]] and began asking about the ranch (Session 82).
 
 ## Related pages
 - [[renzo|Renzo]]
@@ -465,7 +481,7 @@ On Day 208, during the final four hours before nuclear detonation (Session 79):
 - [[harvon-sargon|Harvon Sargon]]
 - [[reidmar|Reidmar]]
 - [[isaiah|Isaiah]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[loshi|Loshi]]
 - [[dana-westby|Dana Westby]]
 - [[petow|PETOW]]
@@ -516,3 +532,6 @@ On Day 208, during the final four hours before nuclear detonation (Session 79):
 - [[csabai-psalmist-center|Csabai Psalmist Center]]
 - [[erebus-power|Erebus Power]]
 - [[darnes|Darnes]]
+- [[the-cove|The Cove]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]
+- [[dr-pearson|Dr. Pearson]]

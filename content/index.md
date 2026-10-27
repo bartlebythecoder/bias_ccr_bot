@@ -24,7 +24,7 @@ For targeted browsing and AI navigation, the knowledge base is organized into sp
 ## Quick Navigation & Major Hubs
 
 ### Campaign Operations & Tracking
-- **Master Chronology:** **[[timeline|Campaign Master Timeline]]** (Complete sequence of events from Day 023 to Day 208-1105).
+- **Master Chronology:** **[[timeline|Campaign Master Timeline]]** (Complete sequence of events from Day 023 to Day 228-1105).
 - **Party Assets & Ledger:** **[[ledger|BIAS CCR Campaign Ledger]]** (Finances, starships, precursor relics, medical augmentations, and faction threat matrix).
 
 ### Core Campaign Elements
@@ -39,6 +39,7 @@ For targeted browsing and AI navigation, the knowledge base is organized into sp
 - **[[romentino|Romentino]]** (1428) — Corrosive mining world, [[startown-liberty|Startown Liberty]], [[morella-station|Morella Station]], Noavarite.
 - **[[sanlucar-de-barram|Sanlucar de Barram]]** (1022) — Gas-mining moon system, Aridush revolution, pressure crystals.
 - **[[marcolandia|Marcolandia]]** (1425) — Balkanized icy mining moon, super-metals, [[foust-refinery|Foust Refinery]].
+- **[[tutin|Tutin]]** (1624) — Breathable nature-reserve world under martial law, [[hampton|Hampton]] elevator town, [[the-ranch-near-hampton|the Ranch]].
 
 ### Major Factions & Megacorporations
 - **Megacorporations:** [[ling-standard-products|Ling Standard Products]] (LSP), [[wu-ketai|Wu-Ketai]], [[susag|SuSAG]], [[hortalez-et-cie|Hortalez et Cie]], [[erebus-power|Erebus Power]], [[general-products|General Products]]

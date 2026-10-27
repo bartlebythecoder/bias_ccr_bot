@@ -30,7 +30,8 @@ title: "People & Operatives"
 - [[lord-edgar|Lord Edgar]]: Curt younger brother of Viscount Rittenhouse implicated in the Beaugard theft plot.
 - [[lady-eleanor-finch|Lady Eleanor Finch]]: Daughter of Viscount Rittenhouse, protective of her brother Lord Julian.
 - [[jean-luc-cartier|Jean Luc Cartier]]: Nobleman nephew of Viscount Rittenhouse, eloping to Marcolandia.
-- [[lord-baltimore|Lord Baltimore]]: Influential noble in Startown Liberty, Cooper's contact, host of the Baltimore House soiree.
+- [[lord-baltimore|Lord Baltimore]]: Noble and Redshirt naval intelligence officer for the Duchess; Cooper's contact and BIAS CCR's patron.
+- [[elsa-fisher|Elsa Fisher]]: Beck's contact in Duchess Margaret's inner circle on Kidderminster.
 - [[major-samson|Major Samson]]: Aristocratic ex-military noble on Romentino pleased by LSP's embarrassment.
 - [[giuliana-weber|Giuliana Weber]]: President of the Commonwealth States of Sanlucar and veteran commander of the Aridush Freedom Fighters.
 - [[supreme-leader-volkov|Supreme Leader Volkov]]: Authoritarian Leader for Life of Beaumont.
@@ -56,7 +57,7 @@ title: "People & Operatives"
 - [[marcus-novak|Marcus Novak]]: Researcher offering bounties for escaped Wu-Ketai uplifted simians.
 - [[kino-yuba-foust|Kino Yuba Foust]]: Owner and operator of Foust Refinery in Hollow, Marcolandia.
 - [[rainford-ruby|Rainford Ruby]]: Industrial rival and cousin of Kino Yuba Foust; owner of Ruby Refinery.
-- [[dr-pearson|Dr. Pearson]]: Archaeology professor at Nesvorny University researching ancient Romentino civilization and Ancient Orbs.
+- [[dr-pearson|Dr. Pearson]]: Nesvorny archaeologist who wrote on Ancient Orbs; held hostage on Tutin, target of BIAS CCR's rescue.
 - [[winslow-leach|Winslow Leach]]: University researcher studying Ancient technology/Project Metropolis, funded by Ortega Frey.
 - [[elena-dumont|Elena Dumont]]: Chief Medical Officer at K.C. Station on Mirassol, manipulated by Beck to authorize covert search party.
 - [[tricia-schelling|Tricia Schelling]]: Base Manager at K.C. Station on Mirassol, doll collector, debriefed the crew after the pyramid raid.
@@ -173,7 +174,11 @@ title: "People & Operatives"
 - [[pastor|Pastor]]: Core lab worker who revealed internal management dynamics to Isambard.
 - [[cindy|Cindy]]: Young girl in the Green Area main hall of the core labs who offered directions to Asher and Sarik.
 - [[isaiah|Isaiah]]: Articulate uplifted simian companion who joined BIAS CCR and observed Sargon's poker tell.
-- [[thomas|Thomas]]: Articulate uplifted simian companion who joined BIAS CCR following the Suliman breakout.
+- [[tomas|Tomas]]: Articulate uplifted simian companion who joined BIAS CCR following the Suliman breakout.
+- [[francis|Francis]]: Hampton local on Tutin who employs Necktie and warned the crew about Jiro.
+- [[jiro|Jiro]]: Hampton gambler who asked Asher for a Cr 5,000 poker loan.
+- [[necktie|Necktie]]: Ten-year-old in Hampton who told Isambard that Debra works at the ranch.
+- [[penelope|Penelope]]: Artist who rode the Tutin elevator down with BIAS CCR.
 - [[loshi|Loshi]]: Dockmaster on Eternity Station who levied oxygen taxes and issued 24-hour passes.
 - [[angus|Angus]]: Information broker on Eternity Station who alerted Loshi to incoming Suliman fugitives.
 - [[dana-westby|Dana Westby]]: Guide and intermediary on Eternity Station who exposed Meinhoff infiltration to BIAS CCR.

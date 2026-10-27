@@ -1,5 +1,6 @@
 ---
 title: "Campaign Master Timeline"
+sessions: [80, 81, 82]
 ---
 # Solo Subsector J — Campaign Master Timeline
 
@@ -87,7 +88,7 @@ title: "Campaign Master Timeline"
 | In-Game Date | Location | Key Narrative Milestones |
 | :--- | :--- | :--- |
 | **Day 118** | Suliman (1324) | Infiltrating Yellow Labs; acquiring Richard's DNA; encounter with escaped uplifted simian. |
-| **Day 119** | Suliman (1324) | Chrono lab breached; uplifted simian revolt; [[isaiah\|Isaiah]] & [[thomas\|Thomas]] join crew; asteroid extraction. |
+| **Day 119** | Suliman (1324) | Chrono lab breached; uplifted simian revolt; [[isaiah\|Isaiah]] & [[tomas\|Tomas]] join crew; asteroid extraction. |
 | **Day 120–123** | Eternity Station | Arrival in [[dark-crescent\|Dark Crescent]]; PETOW cover deployed; high-stakes poker confrontation with [[harvon-sargon\|Harvon Sargon]]. |
 | **Day 124–125** | Eternity Station | Search for [[katarin\|Katarin]]; tracking black-market bodyshop cybernetics in The Icebox; Sargon assassinated. |
 | **Day 126** | Eternity Station | Investigation of Bunk 43; Tempest Company mercenary ambush repelled. |
@@ -141,3 +142,15 @@ title: "Campaign Master Timeline"
 | In-Game Date | Location | Key Narrative Milestones |
 | :--- | :--- | :--- |
 | **Day 212** | Subsector J | Subsector and Imperial inquiries into [[wu-ketai\|Wu-Ketai]] over [[risiano-tiler\|Risiano Tiler]]'s [[suliman\|Suliman]] report; [[orslo-jollynn\|Jollynn]] murder unsolved; LSP takes control of Marcolandia refineries; Hortalez becomes Subsector Navy banker ([[news-1105-vol-10\|Vol 10]]). |
+
+---
+
+### Phase 8: The Cove & The Tutin Rescue (Days 209 – 228)
+
+| In-Game Date | Location | Key Narrative Milestones |
+| :--- | :--- | :--- |
+| **Day 209–211** | Arico Belts / [[the-cove\|The Cove]] | Crew maps friends and enemies; [[lord-baltimore\|Lord Baltimore]] revealed as Redshirt naval intelligence; [[commander-kilroy\|Kilroy]] has joined the Redshirts; all artifacts incl. the [[ancient-orb\|Ancient Orb]] sold for MCr 1 + a ship; MCr 4 Tutin rescue accepted (Session 80). |
+| **Day 212** | The Cove | Covert Redshirt briefing: extract [[dr-pearson\|Dr. Pearson]] from [[the-ranch-near-hampton\|the ranch near Hampton]]; approach plan settled (Session 81). |
+| **Day 213** | Arico | Party outfits and leaves for Marcolandia; Sarik drops a detour after the [[one-handed-man\|One-Handed Man]] (Session 82). |
+| **Day 220** | [[marcolandia\|Marcolandia]] | Refuel and resupply; fund at Cr 318,000 (Session 82). |
+| **Day 228** | [[tutin\|Tutin]] / [[hampton\|Hampton]] | Arrival under martial law; elevator descent; inquiries about the ranch in Hampton (Session 82). |

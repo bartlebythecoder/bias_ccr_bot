@@ -11,13 +11,14 @@ links:
   - "[[arkady]]"
   - "[[metropolis-station]]"
 category: person
+sessions: [80]
 ---
 
 # Commander Kilroy
 
-**Summary**: [[wu-ketai|Wu-Ketai]] naval commander of the interdiction sweep around [[metropolis-station|Metropolis Station]], determined to destroy [[monarch|Monarch]].
+**Summary**: Former [[wu-ketai|Wu-Ketai]] naval commander at [[metropolis-station|Metropolis Station]], sworn enemy of [[monarch|Monarch]], who left the corporation to join the Redshirts.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-10-27
 
 ---
 
@@ -47,6 +48,10 @@ In Session 75 (Session 75):
 - **Intelligence on Damien & Kira**: Received critical intelligence that [[damien|Damien]] is positioned on **Level 3** under an alias, and that survivor android [[kira|Kira]] possesses immunity from previous wipe cycles.
 - **Pact & Support**: Kilroy permitted the crew to retain their clamshell diagnostic analyzer and agreed to furnish replacement vacuum suits, grenades, and heavy ordnance for their planned incursion into Level 3.
 
+## Defection to the Redshirts (Session 80)
+
+At [[the-cove|The Cove]], Kilroy reappeared alongside [[lord-baltimore|Lord Baltimore]]. Formerly of [[wu-ketai|Wu-Ketai]] security at [[metropolis-station|Metropolis Station]], she confirmed that she had left the corporation and sought Redshirt help (Session 80).
+
 ## Related pages
 - [[raconteur|Raconteur]]
 - [[kira|Kira]]
@@ -59,3 +64,5 @@ In Session 75 (Session 75):
 - [[arkady|Arkady]]
 - [[metropolis-station|Metropolis Station]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[lord-baltimore|Lord Baltimore]]
+- [[the-cove|The Cove]]

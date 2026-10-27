@@ -7,13 +7,14 @@ tags:
   - station
 sources:
   - "[[news-1105-vol-8]]"
-last_updated: 2026-09-20
+last_updated: 2026-10-27
+sessions: [81]
 ---
 # Eternity Station
 
 **Summary**: Quasi-legal worker co-op habitat in the [[dark-crescent|Dark Crescent]] of the [[arico-el-nuevo|Arico]] belt, ruled by the [[meinhoff-brigade|Meinhoff Brigade]] under [[yandee|Demon Prince Yandee]], and paralyzed by strikes in 1105.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -37,7 +38,7 @@ Eternity Station is an uncertified, quasi-legal deep-space habitat situated in t
 - **Religious Presence**: Strong following of the *Solars*, a specialized Psalmist sect.
 
 ## BIAS CCR Infiltration & Sargon Showdown
-On Day 118-1105, [[bias-ccr|BIAS CCR]] arrived at Eternity Station aboard a stolen [[wu-ketai|Wu-Ketai]] launch with liberated simians [[isaiah|Isaiah]] and [[thomas|Thomas]] (Session 40). Utilizing the advocacy front [[petow|PETOW]] to deflect suspicions from dockmaster Loshi and broker [[angus|Angus]], the team navigated through The Icebox guided by [[dana-westby|Dana Westby]]. Meeting Reidmar at Stellar Burn, the operatives agreed to infiltrate a Cr 10,000 poker match against [[meinhoff-brigade|Meinhoff]] card cheat [[harvon-sargon|Harvon Sargon]] to secure extended station passes (Session 40).
+On Day 118-1105, [[bias-ccr|BIAS CCR]] arrived at Eternity Station aboard a stolen [[wu-ketai|Wu-Ketai]] launch with liberated simians [[isaiah|Isaiah]] and [[tomas|Tomas]] (Session 40). Utilizing the advocacy front [[petow|PETOW]] to deflect suspicions from dockmaster Loshi and broker [[angus|Angus]], the team navigated through The Icebox guided by [[dana-westby|Dana Westby]]. Meeting Reidmar at Stellar Burn, the operatives agreed to infiltrate a Cr 10,000 poker match against [[meinhoff-brigade|Meinhoff]] card cheat [[harvon-sargon|Harvon Sargon]] to secure extended station passes (Session 40).
 
 ## 1105 Crisis and General Strike
 
@@ -45,11 +46,15 @@ In 131-1105, following the execution of hostages by [[the-stratemeyers|The Strat
 
 ## Seven-Week Sabbatical & Metropolis Preparation (Session 58)
 Following their successful raid on Marie Orslo Jollynn's mansion and the decapitation of [[the-stratemeyers|The Stratemeyers]], BIAS CCR returned to Eternity Station to spend seven weeks under the hospitality and protection of [[yandee|Demon Prince Yandee]] (Session 58). During this extended period:
-- The team formalized permanent contracts with pilot [[sky|Sky]] and simians [[isaiah|Isaiah]] and [[thomas|Thomas]].
+- The team formalized permanent contracts with pilot [[sky|Sky]] and simians [[isaiah|Isaiah]] and [[tomas|Tomas]].
 - The crew disbursed Cr 76,500 in living expenses, lodging, and starship refueling.
 - The operatives purchased the classified "Metropolis" dossier from station broker [[angus|Angus]], warning of zero-G sectors, rogue robots, and [[wu-ketai|Wu-Ketai]] patrols.
 - The starship was refitted with a double turret and industrial laser drill for hull breaching.
 - Crew members engaged in personal training, hospital volunteering ([[beck|Beck]]), gambling/correspondence ([[isambard|Isambard]]), family check-ins ([[sarik|Sarik]]), and outreach to [[tina|Tina]] ([[asher|Asher]]) before departing on a 3.5-day flight to [[metropolis-station|Project Metropolis]] (Session 58).
+
+## Equipment Source (Session 81)
+
+Eternity, a criminal station under [[yandee|Yandee]], can supply almost any equipment, and was noted as a source of gear for the [[tutin|Tutin]] rescue mission (Session 81).
 
 ## Related pages
 - [[angus|Angus]]
@@ -63,7 +68,7 @@ Following their successful raid on Marie Orslo Jollynn's mansion and the decapit
 - [[dana-westby|Dana Westby]]
 - [[loshi|Loshi]]
 - [[isaiah|Isaiah]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
 - [[dark-crescent|Dark Crescent]]
 - [[arico-el-nuevo|Arico El Nuevo]]

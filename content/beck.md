@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5]
-last_updated: 2026-09-20
+sessions: [1, 2, 3, 4, 5, 81, 82]
+last_updated: 2026-10-27
 ---
 # Beck
 
 **Summary**: High-society psychological profiler from [[kidderminster|Kidderminster]] who serves as medical specialist, interrogator, and social engineer for the crew.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -170,7 +170,7 @@ On the night of Day 133-1105, Beck monitored Marie Orslo Jollynn at the gala unt
 
 ## Eternity Station Sabbatical & Metropolis Preparation (Session 58)
 During the seven-week preparation period on [[eternity-station|Eternity Station]] under [[yandee|Demon Prince Yandee's]] hospitality (Session 58):
-- **Operating Logistics**: Managed pooled finances to disburse Cr 76,500 in living costs and starship refueling, while formalizing employment contracts for [[sky|Sky]], [[isaiah|Isaiah]], and [[thomas|Thomas]].
+- **Operating Logistics**: Managed pooled finances to disburse Cr 76,500 in living costs and starship refueling, while formalizing employment contracts for [[sky|Sky]], [[isaiah|Isaiah]], and [[tomas|Tomas]].
 - **Tactical Outfitting**: Acquired a specialized combat environment suit and a high-performance cyber-warfare laptop loaded with advanced electronic penetration tools. Beck and the team also stocked up on medical supplies, forensics kits, and grenades.
 - **Skill Training & Volunteering**: Successfully advanced her professional skill training while volunteering medical services at a local Eternity Station hospital. Beck also cultivated diplomatic and social relationships with prominent underworld and station figures.
 - **Metropolis Infiltration Flight**: Deployed with BIAS CCR on a 3.5-day sublight voyage to infiltrate [[metropolis-station|Project Metropolis]] via EVA hull breach to contact [[arkady|The Old Man]] (Session 58).
@@ -305,6 +305,12 @@ On Day 208 during the station-wide evacuation (Session 79):
 - **Conway Parley Support**: Supported Isambard's negotiation with Officer Officer Conway, backing the artifact selection draft and the protection of Kira.
 - **Transponder-Silent Escape**: Monitored comms and sensor evasion as the *Raconteur* plunged into the asteroid belt with transponders disabled, watching the nuclear detonation obliterate Metropolis Station.
 
+## Tutin Planning & Outfitting (Sessions 81–82)
+
+For the [[dr-pearson|Dr. Pearson]] rescue, Beck takes the direct climbing route to [[the-ranch-near-hampton|the ranch]] alone, aiming to arrive a day early, scout it and report by communicator. She noted the ranch's climbable walls and flat roof, and her looky-loo can intercept unencrypted radio traffic or detect encrypted transmissions (Session 81). Her contact in [[duchess-margaret|the Duchess]]'s inner circle, [[elsa-fisher|Elsa Fisher]], is on [[kidderminster|Kidderminster]], and Beck wants to return there to update her contacts (Session 81). The [[heavy-marbles|Heavy Marbles]] and a beetle artifact have gone to [[lord-baltimore|Lord Baltimore]], and Beck no longer holds Data Drive 73 (Session 81).
+
+As keeper of the shared funds, Beck paid Cr 10,000 each to [[isambard|Isambard]], [[asher|Asher]] and [[sarik|Sarik]], and bought a chameleon suit for planting surveillance bugs at the ranch (Session 82). She studied jump-drive operation during the voyage and reported Cr 318,000 remaining on arrival at [[marcolandia|Marcolandia]]. At the [[tutin|Tutin]] elevator she declared her Adrenalizer, anti-rat supplies, micro-tranks and chameleon suit without objection (Session 82).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -401,7 +407,7 @@ On Day 208 during the station-wide evacuation (Session 79):
 - [[harvon-sargon|Harvon Sargon]]
 - [[reidmar|Reidmar]]
 - [[isaiah|Isaiah]]
-- [[thomas|Thomas]]
+- [[tomas|Tomas]]
 - [[petow|PETOW]]
 - [[dr-vance|Dr. Vance]]
 - [[orla|Orla]]
@@ -462,3 +468,6 @@ On Day 208 during the station-wide evacuation (Session 79):
 - [[margaux-evans|Margaux Evans]]
 - [[apex|Apex]]
 - [[romentino|Romentino]]
+- [[elsa-fisher|Elsa Fisher]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]
+- [[dr-pearson|Dr. Pearson]]

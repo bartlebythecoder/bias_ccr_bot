@@ -10,13 +10,14 @@ sources:
   - "[[news-1105-vol-9]]"
   - "[[house-yetrina]]"
   - "[[noble-houses]]"
-last_updated: 2026-09-20
+last_updated: 2026-10-27
+sessions: [80, 81]
 ---
 # Duchess Margaret
 
 **Summary**: Ruling noblewoman of [[kidderminster|Kidderminster]] and head of [[house-yetrina|House Yetrina]], allied with [[tukera-lines|Tukera Lines]], and patron of the subsector-wide Grand Tour cultural initiative.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-27
 
 ---
 
@@ -46,6 +47,10 @@ In Session 79 (Session 79):
 - **Evacuation of the Duplicate**: BIAS CCR retrieved the inert synthetic duplicate and successfully evacuated it aboard *The Raconteur* into the asteroid belt.
 - **Fleet Arrives at Nuclear Ruins**: When the Redshirt Navy fleet arrived at Metropolis around midnight on Day 208, they found only expanding radioactive wreckage and thermal radiation, as the station had been completely obliterated by the nuclear warhead two hours prior.
 
+## Baltimore's Intelligence Service & A Favor Owed (Sessions 80–81)
+
+[[lord-baltimore|Lord Baltimore]] works in Redshirt naval intelligence for Duchess Margaret (Session 80). Her replica body was returned to her through Baltimore, and he will brief her personally and secure the favor she owes BIAS CCR for it, which could bring them an audience or help if they are jailed (Session 81). [[beck|Beck]]'s contact in the Duchess's inner circle is [[elsa-fisher|Elsa Fisher]] (Session 81).
+
 ## Related pages
 
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -60,3 +65,5 @@ In Session 79 (Session 79):
 - [[viscount-rittenhouse|Viscount Rittenhouse of Csabai]]
 - [[sabrina|Sabrina]]
 - [[psalm-134|Psalm 134]]
+- [[lord-baltimore|Lord Baltimore]]
+- [[elsa-fisher|Elsa Fisher]]
