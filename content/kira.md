@@ -75,7 +75,7 @@ In Session 79 (Session 79):
 
 During the flight to [[the-cove|The Cove]], [[isambard|Isambard]] taught Kira and the simians blackjack, and Kira showed emotions and fears. Unlike the ordinary robots the crew knew, Kira was made sentient by [[monarch|Monarch]], though she is not a supercomputer (Session 80). Isambard proposed training her, [[isaiah|Isaiah]] and [[tomas|Tomas]] to help crew a larger ship (Session 80). Kira joined the crew at dinner with [[lord-baltimore|Lord Baltimore]], who questioned her (Session 80).
 
-Kira stayed aboard the [[raconteur|Raconteur]] when the team went down to [[tutin|Tutin]] on Day 228-1105 (Session 82).
+Kira stayed aboard the [[raconteur|Raconteur]] when the team went down to [[tutin|Tutin]] on Day 230-1105 (Session 82).
 
 ## Related pages
 - [[metropolis-station|Metropolis Station]]

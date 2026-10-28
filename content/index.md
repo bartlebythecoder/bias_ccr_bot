@@ -24,7 +24,7 @@ For targeted browsing and AI navigation, the knowledge base is organized into sp
 ## Quick Navigation & Major Hubs
 
 ### Campaign Operations & Tracking
-- **Master Chronology:** **[[timeline|Campaign Master Timeline]]** (Complete sequence of events from Day 023 to Day 228-1105).
+- **Master Chronology:** **[[timeline|Campaign Master Timeline]]** (Complete sequence of events from Day 023 to Day 230-1105).
 - **Party Assets & Ledger:** **[[ledger|BIAS CCR Campaign Ledger]]** (Finances, starships, precursor relics, medical augmentations, and faction threat matrix).
 
 ### Core Campaign Elements

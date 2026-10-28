@@ -19,7 +19,7 @@ last_updated: 2026-10-28
 
 The Admiral Grace Inn is an inn in [[hampton|Hampton]], the elevator town on [[tutin|Tutin]]. It is run by Mackey Falk.
 
-BIAS CCR knows of the inn from the information in their database, but as of Day 228-1105 the crew has not been there.
+BIAS CCR knows of the inn from the information in their database, but as of Day 230-1105 the crew has not been there.
 
 ## Related pages
 

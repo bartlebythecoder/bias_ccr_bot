@@ -51,7 +51,7 @@ sessions: [80, 81, 82]
 
 ### *The Raconteur* (Primary Vessel)
 - **Class / Type:** Imperial Type-S Scout/Courier (100–200 tons).
-- **Status:** Operational. Carried the team to [[the-cove\|The Cove]], [[marcolandia\|Marcolandia]] and, on Day 228-1105, [[tutin\|Tutin]] (Sessions 80–82).
+- **Status:** Operational. Carried the team to [[the-cove\|The Cove]], [[marcolandia\|Marcolandia]] and [[tutin\|Tutin]] (arrived in-system Day 228-1105, in orbit Day 230-1105) (Sessions 80–82).
 - **Ownership:** On official long-term loan to [[isambard|Isambard]] from the Imperial Scout Service.
 - **Key Modifications:**
   - Forward heavy laser-drill refit (installed at Eternity Station for asteroid penetration).

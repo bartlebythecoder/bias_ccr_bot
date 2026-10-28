@@ -145,7 +145,7 @@ sessions: [80, 81, 82]
 
 ---
 
-### Phase 8: The Cove & The Tutin Rescue (Days 209 – 228)
+### Phase 8: The Cove & The Tutin Rescue (Days 209 – 230)
 
 | In-Game Date | Location | Key Narrative Milestones |
 | :--- | :--- | :--- |
@@ -153,4 +153,5 @@ sessions: [80, 81, 82]
 | **Day 212** | The Cove | Covert Redshirt briefing: extract [[dr-pearson\|Dr. Pearson]] from [[the-ranch-near-hampton\|the ranch near Hampton]]; approach plan settled (Session 81). |
 | **Day 213** | Arico | Party outfits and leaves for Marcolandia; Sarik drops a detour after the [[one-handed-man\|One-Handed Man]] (Session 82). |
 | **Day 220** | [[marcolandia\|Marcolandia]] | Refuel and resupply; fund at Cr 318,000 (Session 82). |
-| **Day 228** | [[tutin\|Tutin]] / [[hampton\|Hampton]] | Arrival under martial law; elevator descent; inquiries about the ranch in Hampton (Session 82). |
+| **Day 228** | [[tutin\|Tutin]] system | Arrival in the Tutin system; two days in-system to reach orbit (Session 82). |
+| **Day 230** | [[tutin\|Tutin]] / [[hampton\|Hampton]] | Arrival in orbit under martial law; elevator descent; inquiries about the ranch in Hampton (Session 82). |

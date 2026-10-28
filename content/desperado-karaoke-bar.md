@@ -12,7 +12,7 @@ last_updated: 2026-10-28
 ---
 # Desperado Karaoke Bar
 
-**Summary**: Karaoke bar in [[hampton|Hampton]] on [[tutin|Tutin]], managed by [[francis|Francis Wahlgren]], where [[bias-ccr|BIAS CCR]] gathered local gossip about [[the-ranch-near-hampton|the ranch]] on Day 228-1105.
+**Summary**: Karaoke bar in [[hampton|Hampton]] on [[tutin|Tutin]], managed by [[francis|Francis Wahlgren]], where [[bias-ccr|BIAS CCR]] gathered local gossip about [[the-ranch-near-hampton|the ranch]] on Day 230-1105.
 
 **Last updated**: 2026-10-28
 
@@ -22,7 +22,7 @@ last_updated: 2026-10-28
 
 The Desperado Karaoke Bar is a bar in [[hampton|Hampton]], the elevator town on [[tutin|Tutin]]. It is managed by [[francis|Francis Wahlgren]], and the ten-year-old [[necktie|Necktie]] works there.
 
-## BIAS CCR's Visit (Day 228-1105)
+## BIAS CCR's Visit (Day 230-1105)
 
 After riding the elevator down to Hampton, BIAS CCR spent time at the Desperado asking around about the ranch, the town and the surrounding country (Session 82):
 

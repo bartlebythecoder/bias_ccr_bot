@@ -70,7 +70,7 @@ Tutin's native ecology is the reason for its status as a restricted nature reser
 
 Land on Tutin is leased rather than owned. After [[kidderminster|Kidderminster]] toppled the Psalmist government, hundreds of colonists were resettled on the world to replace that population with loyal Imperial citizens. Its oceans, wildlife and open air make it a playground for the wealthy, and travel across the planet is generally by air (Session 81).
 
-By Day 228-1105, Tutin was under martial law, with Redshirt Marines enforcing order in [[hampton|Hampton]] (Session 82). [[sarik|Sarik]]'s family lives in the Sundance colony (Session 82). [[dr-pearson|Dr. Pearson]] is held hostage at [[the-ranch-near-hampton|a luxury ranch beyond the hills from Hampton]] (Session 81).
+By Day 230-1105, Tutin was under martial law, with Redshirt Marines enforcing order in [[hampton|Hampton]] (Session 82). [[sarik|Sarik]]'s family lives in the Sundance colony (Session 82). [[dr-pearson|Dr. Pearson]] is held hostage at [[the-ranch-near-hampton|a luxury ranch beyond the hills from Hampton]] (Session 81).
 
 ## Related pages
 

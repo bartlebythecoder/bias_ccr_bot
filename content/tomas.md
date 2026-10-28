@@ -8,7 +8,7 @@ tags:
 aliases:
   - Thomas
 sessions: [40, 56, 57, 58, 80, 81, 82]
-last_updated: 2026-10-27
+last_updated: 2026-10-28
 ---
 
 # Tomas
@@ -39,7 +39,7 @@ After the fall of Metropolis, [[isambard|Isambard]] suggested training Tomas, Is
 ## The Tutin Rescue Mission (Sessions 81–82)
 Tomas joined the team for the covert rescue of [[dr-pearson|Dr. Pearson]] on [[tutin|Tutin]], assigned to the northern approach route to [[the-ranch-near-hampton|the ranch]] (Session 81). He had no weapons or armor of his own, so the crew equipped him for the expedition (Session 82). Isaiah told Isambard that he and Tomas had undergone additional experiments on Suliman (Session 82).
 
-On the elevator descent to [[hampton|Hampton]] on Day 228-1105, Tomas grunted when the artist Archie asked about the simians, and did not become angry when [[penelope|Penelope]] touched him. In Hampton the simians attracted attention and stayed close to the crew (Session 82).
+On the elevator descent to [[hampton|Hampton]] on Day 230-1105, Tomas grunted when the artist Archie asked about the simians, and did not become angry when [[penelope|Penelope]] touched him. In Hampton the simians attracted attention and stayed close to the crew (Session 82).
 
 ## Related pages
 - [[isaiah|Isaiah]]

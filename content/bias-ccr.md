@@ -6,7 +6,7 @@ tags:
   - people
   - protagonist
 sessions: [11, 80, 81, 82]
-last_updated: 2026-10-27
+last_updated: 2026-10-28
 ---
 # BIAS Corporate Conflict Resolution
 
@@ -362,7 +362,8 @@ The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a de
 
 - **Day 213**: The crew agreed to bring no extra mercenaries and outfitted with surveillance gear, camouflage, medical and field supplies and weapons, equipping [[isaiah|Isaiah]] and [[tomas|Tomas]]. The shared fund stood at Cr 370,000 before travel and crew costs (Session 82).
 - **Day 220**: The Raconteur reached [[marcolandia|Marcolandia]]. Passage cost Cr 17,000 and crew payday Cr 10,000, leaving Cr 318,000 (Session 82).
-- **Day 228**: Arrival at [[tutin|Tutin]], under martial law. With permits from Baltimore and a cover story of work in the Sundance colony, the team rode the elevator down to [[hampton|Hampton]] and began asking about the ranch (Session 82).
+- **Day 228**: Arrival in the [[tutin|Tutin]] system, followed by two days of in-system travel to the planet (Session 82).
+- **Day 230**: Arrival in orbit at Tutin, under martial law. With permits from Baltimore and a cover story of work in the Sundance colony, the team rode the elevator down to [[hampton|Hampton]] and began asking about the ranch (Session 82).
 
 ## Related pages
 - [[renzo|Renzo]]
