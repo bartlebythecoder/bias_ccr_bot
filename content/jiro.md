@@ -25,5 +25,5 @@ On Day 228-1105, Jiro asked [[asher|Asher]] for a Cr 5,000 loan, promising to re
 ## Related pages
 
 - [[hampton|Hampton]]
-- [[francis|Francis]]
+- [[francis|Francis Wahlgren]]
 - [[asher|Asher]]

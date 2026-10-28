@@ -83,6 +83,8 @@ title: "Systems, Geography & Stations"
 
 ### Tutin
 - [[hampton|Hampton]]: Town on Tutin near the orbital elevator, the entry and exit point for all workers on the planet.
+- [[admiral-grace-inn|Admiral Grace Inn]]: Hampton inn run by Mackey Falk; known to BIAS CCR but not yet visited.
+- [[desperado-karaoke-bar|Desperado Karaoke Bar]]: Hampton karaoke bar managed by Francis Wahlgren, where BIAS CCR picked up leads on the ranch.
 - [[hillcrest|Hillcrest]]: Luxury destination on Tutin catering to high society visitors.
 - [[the-ranch-near-hampton|The Ranch near Hampton]]: Defended luxury retreat on Tutin where Dr. Pearson is held hostage.
 

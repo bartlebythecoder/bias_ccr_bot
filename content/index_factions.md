@@ -50,6 +50,7 @@ title: "Factions, Houses & Megacorporations"
 
 - [[arico-gangs|Gangs of Arico]]: Overview of the Arico underworld: Jonestown street gangs on Freeport and the Dark Crescent syndicates.
 - [[aridush-freedom-fighters|Aridush Freedom Fighters]]: Revolutionary rebel movement that seized control of Sanlucar.
+- [[dawn-seekers|Dawn Seekers]]: Nomadic Psalmist survivors of the Tutin Pacification living in hiding in Tutin's hills and caves.
 - [[children-of-the-psalms|Children of the Psalms]]: Political and governing arm of Psalm 134 that assumed control of Pleasant Hill on 353-1104.
 - [[covert-action-teams|Covert Action Teams]]: Corporate 5-person undercover intelligence and black-ops mercenary assault doctrine.
 - [[demon-princes|Demon Princes]]: The supreme criminal warlords commanding multi-system underworld empires across the subsector.

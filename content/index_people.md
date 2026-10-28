@@ -175,7 +175,7 @@ title: "People & Operatives"
 - [[cindy|Cindy]]: Young girl in the Green Area main hall of the core labs who offered directions to Asher and Sarik.
 - [[isaiah|Isaiah]]: Articulate uplifted simian companion who joined BIAS CCR and observed Sargon's poker tell.
 - [[tomas|Tomas]]: Articulate uplifted simian companion who joined BIAS CCR following the Suliman breakout.
-- [[francis|Francis]]: Hampton local on Tutin who employs Necktie and warned the crew about Jiro.
+- [[francis|Francis Wahlgren]]: Manager of the Desperado Karaoke Bar in Hampton; employs Necktie and warned the crew about Jiro.
 - [[jiro|Jiro]]: Hampton gambler who asked Asher for a Cr 5,000 poker loan.
 - [[necktie|Necktie]]: Ten-year-old in Hampton who told Isambard that Debra works at the ranch.
 - [[penelope|Penelope]]: Artist who rode the Tutin elevator down with BIAS CCR.

@@ -5,13 +5,13 @@ category: lore_tech
 tags:
   - lore_tech
   - lore
-last_updated: 2026-09-20
+last_updated: 2026-10-28
 ---
 # Tutin Pacification
 
 **Summary**: Prolonged 1077–1083 counter-insurgency on Tutin where [[kidderminster|Kidderminster]] military forces crushed the militant Order of the Psalms, laying the groundwork for the modern 134 Psalms movement.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-10-28
 
 ---
 
@@ -28,6 +28,7 @@ The war devolved into grueling guerrilla combat across rugged terrain:
 ## Long-Term Repercussions
 
 - **Rise of the 134 Psalms**: While the political-militant Order was exterminated, its non-political theological wing—the **134 Psalms**—dissociated from the insurgency, spreading peacefully across the subsector and evolving into the modern [[psalm-134|Psalm 134]] movement.
+- **The Dawn Seekers**: The Psalmist people and families left over from the war remain on Tutin as the [[dawn-seekers|Dawn Seekers]], nomads who live off the land and mostly stay in hiding.
 - **Devastation of Tutin**: The planet's infrastructure collapsed. In 1105, Tutin remains a closely monitored protectorate under direct Kidderminster administration, its full-time population reduced to fewer than 1,000 residents subject to strict residency vetting.
 
 ## Related pages
@@ -35,3 +36,4 @@ The war devolved into grueling guerrilla combat across rugged terrain:
 - [[tutin|Tutin]]
 - [[psalm-134|Psalm 134]]
 - [[kidderminster|Kidderminster]]
+- [[dawn-seekers|Dawn Seekers]]

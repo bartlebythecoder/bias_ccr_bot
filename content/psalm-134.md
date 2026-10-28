@@ -13,13 +13,13 @@ sources:
   - "[[news-1105-vol-10]]"
   - "[[tutin-pacification]]"
   - "[[the-134-psalms]]"
-last_updated: 2026-10-13
+last_updated: 2026-10-28
 ---
 # Psalm 134
 
 **Summary**: A pervasive religious and socio-political movement centered on 134 sacred verses, characterized by decentralized study groups, ducal political backing, and sharp working-class resistance.
 
-**Last updated**: 2026-10-13
+**Last updated**: 2026-10-28
 
 ---
 
@@ -60,6 +60,7 @@ The movement has evolved into a deeply polarizing interstellar force:
 - [[the-134-psalms|The 134 Psalms]]
 - [[children-of-the-psalms|Children of the Psalms]]
 - [[tutin-pacification|Tutin Pacification]]
+- [[dawn-seekers|Dawn Seekers]]
 - [[psionics|Psionics]]
 - [[pleasant-hill|Pleasant Hill]]
 - [[duke-dulinor|Duke Dulinor]]

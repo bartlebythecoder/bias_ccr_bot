@@ -5,7 +5,7 @@ category: systems
 tags:
   - systems
   - world
-last_updated: 2026-10-27
+last_updated: 2026-10-28
 sessions: [81, 82]
 ---
 # Tutin
@@ -14,7 +14,7 @@ sessions: [81, 82]
 
 **Summary**: One of two breathable worlds in the subsector (1624), now a restricted nature reserve owned and operated by the [[kidderminster|Kidderminster]] government and site of the [[tutin-pacification|Tutin Pacification]].
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-10-28
 
 ---
 
@@ -46,9 +46,9 @@ The known colonies are:
 - Eden
 - Elysium
 
-## Nomadic Zealot Communities
+## The Dawn Seekers
 
-An undocumented population of nomadic religious zealot communities inhabits the hills and caves of Tutin. These groups are the remnants of the Psalmist community expelled from the world during the [[tutin-pacification|Tutin Pacification]].
+An undocumented population of nomadic Psalmist communities, calling themselves the [[dawn-seekers|Dawn Seekers]], inhabits the hills and caves of Tutin. They are the people and families of the Psalmists left over from the [[tutin-pacification|Tutin Pacification]], and they live off the land, mostly in hiding.
 
 ## Hillcrest
 
@@ -83,6 +83,7 @@ By Day 228-1105, Tutin was under martial law, with Redshirt Marines enforcing or
 - [[hill-monkey|Hill Monkey]]
 - [[psalm-134|Psalm 134]]
 - [[the-134-psalms|The 134 Psalms]]
+- [[dawn-seekers|Dawn Seekers]]
 - [[sarik|Sarik]]
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[dr-pearson|Dr. Pearson]]
