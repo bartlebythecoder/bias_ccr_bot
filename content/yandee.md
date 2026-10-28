@@ -18,7 +18,10 @@ category: person
 
 # Yandee
 
-**Summary**: Demon Prince who rules [[eternity-station|Eternity Station]] and leads the [[meinhoff-brigade|Meinhoff Brigade]].
+**Summary**: Demon Prince(ess) who rules [[eternity-station|Eternity Station]] and leads the [[meinhoff-brigade|Meinhoff Brigade]].
+
+![[yandee.png]]
+
 
 **Last updated**: 2026-09-30
 

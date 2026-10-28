@@ -40,6 +40,7 @@ title: "Lore, Technology, Science & Relics"
 - [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]]: Theoretical bio-mechanical transfer of biological lifespan and youth between organisms.
 - [[cloning|Cloning and Memory Units]]: Traditional cloning methods, lethal fast-cloning breakdown, and failed SMU personality transfer experiments.
 - [[deleon|DeLeon]]: Proprietary anagathic life-extension drug developed by SuSAG, banned across worlds and rumored used by the Emperor.
+- [[ettailla-drive|Ettailla Drive]]: Extremely expensive head-mounted hard drive ("LaChat Hard Drive"), permanently implanted to give computer-like processing and memory.
 - [[noavarite|Noavarite]]: Rare catalytic fuel-refining mineral mined under extreme conditions on Romentino by LSP; precursor to Starlight.
 - [[pressure-crystals|Pressure Crystals]]: Gravitationally formed crystalline matrices harvested from Nazca, essential for contra-grav drives.
 - [[project-chimera|Project Chimera]]: Classified Wu-Ketai corporate genetic engineering and uplift project on Suliman.

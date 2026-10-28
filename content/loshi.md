@@ -18,6 +18,8 @@ category: person
 
 **Summary**: Dockmaster at [[eternity-station|Eternity Station]] who admitted BIAS CCR on their stolen [[wu-ketai|Wu-Ketai]] launch.
 
+![[loshi.png]]
+
 **Last updated**: 2026-09-30
 
 ---
