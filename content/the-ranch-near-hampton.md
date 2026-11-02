@@ -7,14 +7,14 @@ tags:
   - establishment
 aliases:
   - The Ranch
-sessions: [81, 82]
-last_updated: 2026-10-27
+sessions: [81, 82, 83]
+last_updated: 2026-11-02
 ---
 # The Ranch near Hampton
 
 **Summary**: Heavily defended luxury wilderness retreat on [[tutin|Tutin]], beyond the hills from [[hampton|Hampton]], where [[dr-pearson|Dr. Pearson]] is held hostage; target of [[bias-ccr|BIAS CCR]]'s covert Redshirt rescue mission.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-02
 
 ---
 
@@ -22,7 +22,7 @@ last_updated: 2026-10-27
 
 The ranch is a wealthy person's luxury retreat in the mountains of [[tutin|Tutin]], not a working livestock operation. [[dr-pearson|Dr. Pearson]] has been held there as a hostage for more than a year. [[lord-baltimore|Lord Baltimore]] hired BIAS CCR to extract him alive (Sessions 80–81).
 
-The ranch has no driveway and no road connection; like most travel on Tutin, access is by air. Few of [[hampton|Hampton]]'s residents are likely to visit or supply it (Session 81). A local boy, [[necktie|Necktie]], told [[isambard|Isambard]] that a woman named Debra works at the ranch "beyond the hills" and comes into town once a week (Session 82).
+The ranch has no driveway and no road connection; like most travel on Tutin, access is by air. Few of [[hampton|Hampton]]'s residents are likely to visit or supply it (Session 81). A local boy, [[necktie|Necktie]], told [[isambard|Isambard]] that a woman named [[deborah|Deborah]] works at the ranch "beyond the hills" and comes into town once a week (Session 82). [[slim|Slim]] says she cleans wealthy ranches; the hills around Hampton are mostly private property and difficult to reach (Session 83).
 
 ## Layout
 
@@ -79,3 +79,5 @@ No extraction has been arranged. A ship can be hired through a network to collec
 - [[tutin|Tutin]]
 - [[necktie|Necktie]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[deborah|Deborah]]
+- [[slim|Slim]]

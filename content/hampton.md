@@ -5,14 +5,14 @@ category: systems
 tags:
   - systems
   - establishment
-last_updated: 2026-10-28
-sessions: [81, 82]
+last_updated: 2026-11-02
+sessions: [81, 82, 83]
 ---
 # Hampton
 
 **Summary**: Town on [[tutin|Tutin]] near the orbital elevator, serving as the entry and exit point for all workers on the planet.
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-02
 
 ---
 
@@ -29,7 +29,7 @@ The town sits at the ground terminus of Tutin's orbital elevator, which links it
 ## Establishments
 
 - [[desperado-karaoke-bar|Desperado Karaoke Bar]]: karaoke bar managed by [[francis|Francis Wahlgren]].
-- [[admiral-grace-inn|Admiral Grace Inn]]: inn run by Mackey Falk.
+- [[admiral-grace-inn|Admiral Grace Inn]]: inn run by Mackey Falk, where BIAS CCR took rooms on Day 230-1105.
 
 ## Subsector Navy Presence
 
@@ -39,13 +39,21 @@ The town hosts a Subsector Navy contingent commanded by marine colonel [[colonel
 
 Hampton and the surrounding area are administered by colony administrator [[governor-stieg-tanaka|Governor Stieg Tanaka]].
 
-## Martial Law & Daily Life (Sessions 81–82)
+## Martial Law & Daily Life (Sessions 81–83)
 
 Hampton has scores of residents rather than hundreds, and supports the wealthy estates and their visitors (Session 81). Workers often arrive five to seven days early to spend time outdoors before starting work (Session 82).
 
 When BIAS CCR arrived on Day 230-1105, [[tutin|Tutin]] was under martial law. Redshirt Marines watch Hampton and keep order through summary executions; visitors are expected to be polite, avoid intimidation and not brandish weapons. Shotguns and knives may be taken down the elevator, pistols must be worn openly and gauss rifles need permits. Redshirt guards check arrivals' papers at the elevator (Session 82). According to a local named Slim, Redshirt spies listen everywhere in town, including the spa (Session 82).
 
-The crew spent their first evening at the [[desperado-karaoke-bar|Desperado Karaoke Bar]], managed by [[francis|Francis Wahlgren]] (Session 82). People BIAS CCR met in Hampton include [[francis|Francis]], the boy [[necktie|Necktie]] and the gambler [[jiro|Jiro]]. The artists Archie and [[penelope|Penelope]] rode the elevator down with the crew. A woman named Debra works at [[the-ranch-near-hampton|the ranch]] beyond the hills and comes into town once a week (Session 82).
+The crew spent their first evening at the [[desperado-karaoke-bar|Desperado Karaoke Bar]], managed by [[francis|Francis Wahlgren]] (Session 82). People BIAS CCR met in Hampton include [[francis|Francis]], the boy [[necktie|Necktie]] and the gambler [[jiro|Jiro]]. The artists Archie and [[penelope|Penelope]] rode the elevator down with the crew. A woman named [[deborah|Deborah]] works at [[the-ranch-near-hampton|the ranch]] beyond the hills and comes into town once a week (Session 82).
+
+## Days 230–231-1105 (Session 83)
+
+- **Hostility to the simians:** At the Desperado, a local named Saul accused the crew's uplifted simians of taking local jobs and told the crew they and their employers were not welcome. [[sarik|Sarik]] defused the argument by offering drinks and paid guide work (Session 83).
+- **Undercover Redshirts:** Town talk had Redshirts circulating undercover, and linked the suspected surveillance to the [[dawn-seekers|Dawn Seekers]] in the hills (Session 83).
+- **The statue:** A bronze statue of Lars Tanaka, a hero of a nearby battle in the [[tutin-pacification|Tutin Pacification]], stands near the town center (Session 83).
+- **Getting around:** There is no taxi or rental vehicle in town, and Tutin has no roads. The hills around Hampton are mostly private property and difficult to reach (Session 83).
+- **Contacts:** [[slim|Slim]] gave the crew directions to the home of [[deborah|Deborah]], north of town (Session 83).
 
 ## Related pages
 
@@ -62,3 +70,7 @@ The crew spent their first evening at the [[desperado-karaoke-bar|Desperado Kara
 - [[necktie|Necktie]]
 - [[jiro|Jiro]]
 - [[penelope|Penelope]]
+- [[slim|Slim]]
+- [[deborah|Deborah]]
+- [[sundance|Sundance]]
+- [[dawn-seekers|Dawn Seekers]]

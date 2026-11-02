@@ -15,7 +15,7 @@ links:
   - "[[bias-ccr]]"
 category: person
 ---
-
+---
 # Yandee
 
 **Summary**: Demon Prince(ess) who rules [[eternity-station|Eternity Station]] and leads the [[meinhoff-brigade|Meinhoff Brigade]].

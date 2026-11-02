@@ -5,8 +5,8 @@ category: systems
 tags:
   - systems
   - world
-last_updated: 2026-10-28
-sessions: [81, 82]
+last_updated: 2026-11-02
+sessions: [81, 82, 83]
 ---
 # Tutin
 
@@ -14,7 +14,7 @@ sessions: [81, 82]
 
 **Summary**: One of two breathable worlds in the subsector (1624), now a restricted nature reserve owned and operated by the [[kidderminster|Kidderminster]] government and site of the [[tutin-pacification|Tutin Pacification]].
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-02
 
 ---
 
@@ -41,7 +41,7 @@ Beyond the main settlements, Tutin is dotted with a number of small settlements 
 
 The known colonies are:
 
-- Sundance
+- [[sundance|Sundance]]
 - Moonlight
 - Eden
 - Elysium
@@ -66,11 +66,17 @@ Tutin's native ecology is the reason for its status as a restricted nature reser
 - [[rock-squid|Rock Squid]]: A colossal carnivorous ambush predator, typically 20 to 40 metres long, which mimics a boulder while motionless and strikes at prey that comes close. Dangerous to humans.
 - [[hill-monkey|Hill Monkey]]: A shy nocturnal herbivore of the high elevations, 25 to 30 centimetres tall. Not generally aggressive, but a frequent disease carrier and a persistent campsite thief.
 
-## Martial Law & The Ranch (Sessions 81–82)
+## Martial Law & The Ranch (Sessions 81–83)
 
 Land on Tutin is leased rather than owned. After [[kidderminster|Kidderminster]] toppled the Psalmist government, hundreds of colonists were resettled on the world to replace that population with loyal Imperial citizens. Its oceans, wildlife and open air make it a playground for the wealthy, and travel across the planet is generally by air (Session 81).
 
-By Day 230-1105, Tutin was under martial law, with Redshirt Marines enforcing order in [[hampton|Hampton]] (Session 82). [[sarik|Sarik]]'s family lives in the Sundance colony (Session 82). [[dr-pearson|Dr. Pearson]] is held hostage at [[the-ranch-near-hampton|a luxury ranch beyond the hills from Hampton]] (Session 81).
+By Day 230-1105, Tutin was under martial law, with Redshirt Marines enforcing order in [[hampton|Hampton]] (Session 82). [[sarik|Sarik]]'s family lives in the [[sundance|Sundance]] colony (Session 82). [[dr-pearson|Dr. Pearson]] is held hostage at [[the-ranch-near-hampton|a luxury ranch beyond the hills from Hampton]] (Session 81).
+
+## Local Knowledge (Session 83)
+
+- Tutin has no roads; locals travel by air/raft (Session 83).
+- Townspeople in [[hampton|Hampton]] say Tutin was once independent under an elected government before it was overthrown, and that the [[dawn-seekers|Dawn Seekers]] want to take the planet back (Session 83).
+- The hills around Hampton are mostly private property and difficult to reach, while [[sundance|Sundance]] has extensive woods (Session 83).
 
 ## Related pages
 
@@ -87,3 +93,4 @@ By Day 230-1105, Tutin was under martial law, with Redshirt Marines enforcing or
 - [[sarik|Sarik]]
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[dr-pearson|Dr. Pearson]]
+- [[sundance|Sundance]]

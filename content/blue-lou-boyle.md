@@ -7,13 +7,14 @@ tags:
   - npc
 sources:
   - "[[demon-princes]]"
-last_updated: 2026-09-20
+sessions: [83]
+last_updated: 2026-11-02
 ---
 # Blue Lou Boyle
 
 **Summary**: Notorious [[demon-princes|Demon Prince]] and underworld kingpin controlling smuggling, racketeering, and gambling across the Lower Circuit, suspected to be former Imperial officer Lazlo Kovacs.
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-11-02
 
 ---
 
@@ -39,6 +40,10 @@ In late 1105, Boyle expanded his syndicate's antiquities smuggling operations to
 
 Demonstrating his far-reaching diplomatic influence across the Lower Circuit, Boyle successfully brokered an underworld pact between [[the-red-hand|The Red Hand]] and the Romentino banking oligarchy, consolidating the gang's monopoly over Startown vice in exchange for ending kidnappings and prohibiting [[starlight-narcotic|Starlight]] exports (Session 12).
 
+## Beck's Rivalry (Session 83)
+
+[[beck|Beck]] believes Boyle is Lazlo Kovacs, her former commander in the [[tutin-pacification|Tutin Pacification]]. Kovacs dismissed her after blaming her for reports he judged not significant enough, and their rivalry began on [[tutin|Tutin]] (Session 83).
+
 ## Related pages
 
 - [[demon-princes|Demon Princes]]
@@ -53,3 +58,5 @@ Demonstrating his far-reaching diplomatic influence across the Lower Circuit, Bo
 - [[sophia|Sophia]]
 - [[liam|Liam]]
 - [[kc-station|K.C. Station]]
+- [[beck|Beck]]
+- [[tutin-pacification|Tutin Pacification]]

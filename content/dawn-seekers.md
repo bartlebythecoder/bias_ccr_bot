@@ -6,13 +6,14 @@ tags:
   - factions
 aliases:
   - Psalmist Nomads of Tutin
-last_updated: 2026-10-28
+sessions: [83]
+last_updated: 2026-11-02
 ---
 # Dawn Seekers
 
 **Summary**: Nomadic Psalmist survivors of the [[tutin-pacification|Tutin Pacification]] and their families, living off the land and mostly in hiding in the hills and caves of [[tutin|Tutin]].
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-02
 
 ---
 
@@ -24,6 +25,10 @@ The Dawn Seekers are the people and families of the Psalmist community left over
 
 The Dawn Seekers are nomads. They live off the land and spend most of their lives in hiding among Tutin's hills and caves. Their numbers are undocumented: they appear in no official count of the world's population, which Kidderminster limits to roughly 100 permanent residents and about 1,000 people including temporary workers.
 
+## Talk in Hampton (Session 83)
+
+In [[hampton|Hampton]], town talk described the Dawn Seekers as a small group of Psalmists living in the hills who want to take the planet back, and connected them to rumors of undercover Redshirt surveillance in town. Locals also recalled that Tutin was once independent under an elected government before it was overthrown (Session 83).
+
 ## Related pages
 
 - [[tutin|Tutin]]
@@ -31,3 +36,4 @@ The Dawn Seekers are nomads. They live off the land and spend most of their live
 - [[psalm-134|Psalm 134]]
 - [[the-134-psalms|The 134 Psalms]]
 - [[kidderminster|Kidderminster]]
+- [[hampton|Hampton]]

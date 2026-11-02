@@ -1,6 +1,6 @@
 ---
 title: "BIAS CCR Campaign Ledger & Asset Tracker"
-sessions: [80, 81, 82]
+sessions: [80, 81, 82, 83]
 ---
 # Solo Subsector J — BIAS CCR Campaign Ledger & Asset Tracker
 
@@ -44,6 +44,9 @@ sessions: [80, 81, 82]
 | **Day 211-1105** | Tutin Hostage Rescue (Redshirt Navy) | `+Cr 400,000` advance | MCr 4.0 total fee for extracting [[dr-pearson\|Dr. Pearson]] alive; Cr 400,000 paid up front for equipment (Sessions 80–82). |
 | **Day 213-1105** | Personal Disbursements | `-Cr 30,000` | Cr 10,000 each to Isambard, Asher and Sarik. Expedition gear bought; shared fund stood at Cr 370,000 (Session 82). |
 | **Day 220-1105** | Marcolandia Passage & Crew Payday | `-Cr 27,000` | Passage Cr 17,000; crew payday Cr 10,000. Fund at Cr 318,000 (Session 82). |
+| **Day 230-1105** | Admiral Grace Inn | Not recorded | Three rooms in [[hampton\|Hampton]] booked for two weeks (Session 83). |
+| **Day 231-1105** | Starport Weapons Release | `-Cr 5,000` | Paid by Beck to a starport bureaucrat for early release of the crew's rifles, promised for Day 232 (Session 83). |
+| **Day 231-1105** | Poker Game at the Desperado | `-Cr 5,000` | Isambard's stake, lost on purpose while gathering information (Session 83). |
 
 ---
 

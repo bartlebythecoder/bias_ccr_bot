@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [11, 80, 81, 82]
-last_updated: 2026-10-28
+sessions: [11, 80, 81, 82, 83]
+last_updated: 2026-11-02
 ---
 # BIAS Corporate Conflict Resolution
 
 **Summary**: Legally registered corporate consulting and private security firm established on [[romentino|Romentino]] by [[beck|Beck]], [[asher|Asher]], [[isambard|Isambard]], and [[sarik|Sarik]] as an operational cover.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-02
 
 ---
 
@@ -358,12 +358,13 @@ At dinner, Baltimore revealed that he works in Redshirt naval intelligence for [
 
 The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a defended luxury ranch near Hampton]]. The mission is covert: the team may not reveal themselves as Red Shirts or arrest anyone, and will submit to arrest if it goes wrong. They plan to approach by the northern route while [[beck|Beck]] climbs in alone by the direct route to scout ahead (Session 81).
 
-## To Marcolandia & Tutin (Session 82)
+## To Marcolandia & Tutin (Sessions 82–83)
 
 - **Day 213**: The crew agreed to bring no extra mercenaries and outfitted with surveillance gear, camouflage, medical and field supplies and weapons, equipping [[isaiah|Isaiah]] and [[tomas|Tomas]]. The shared fund stood at Cr 370,000 before travel and crew costs (Session 82).
 - **Day 220**: The Raconteur reached [[marcolandia|Marcolandia]]. Passage cost Cr 17,000 and crew payday Cr 10,000, leaving Cr 318,000 (Session 82).
 - **Day 228**: Arrival in the [[tutin|Tutin]] system, followed by two days of in-system travel to the planet (Session 82).
-- **Day 230**: Arrival in orbit at Tutin, under martial law. With permits from Baltimore and a cover story of work in the Sundance colony, the team rode the elevator down to [[hampton|Hampton]] and began asking about the ranch (Session 82).
+- **Day 230**: Arrival in orbit at Tutin, under martial law. With permits from Baltimore and a cover story of work in the Sundance colony, the team rode the elevator down to [[hampton|Hampton]] and began asking about the ranch (Session 82). That night the crew booked three rooms at the [[admiral-grace-inn|Admiral Grace Inn]] for two weeks (Session 83).
+- **Day 231**: [[beck|Beck]] bribed a starport official Cr 5,000 to release the crew's rifles by Day 232. At a poker game, [[slim|Slim]] gave directions to the home of [[deborah|Deborah]], who works at the ranches; [[asher|Asher]], [[isambard|Isambard]] and [[sky|Sky]] walked out to find her (Session 83).
 
 ## Related pages
 - [[renzo|Renzo]]

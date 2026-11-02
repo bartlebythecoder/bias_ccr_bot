@@ -7,15 +7,15 @@ tags:
   - simian
 aliases:
   - Thomas
-sessions: [40, 56, 57, 58, 80, 81, 82]
-last_updated: 2026-10-28
+sessions: [40, 56, 57, 58, 80, 81, 82, 83]
+last_updated: 2026-11-02
 ---
 
 # Tomas
 
 **Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with [[bias-ccr|BIAS CCR]] alongside [[isaiah|Isaiah]].
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-02
 
 ---
 
@@ -41,6 +41,10 @@ Tomas joined the team for the covert rescue of [[dr-pearson|Dr. Pearson]] on [[t
 
 On the elevator descent to [[hampton|Hampton]] on Day 230-1105, Tomas grunted when the artist Archie asked about the simians, and did not become angry when [[penelope|Penelope]] touched him. In Hampton the simians attracted attention and stayed close to the crew (Session 82).
 
+## Hampton (Session 83)
+
+At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simians of taking local jobs before [[sarik|Sarik]] defused the argument. Tomas and [[isaiah|Isaiah]] went with [[jiro|Jiro]] to the [[admiral-grace-inn|Admiral Grace Inn]], where the innkeeper questioned the crew about the simians. With the crew's rifles still held at the starport, the simians carried concealed shotguns (Session 83). On Day 231 he went on a perimeter hike with [[beck|Beck]], and stayed in town with her and [[isaiah|Isaiah]] while the others went to find [[deborah|Deborah]] (Session 83).
+
 ## Related pages
 - [[isaiah|Isaiah]]
 - [[the-man-with-the-gun|The Man With The Gun]]
@@ -49,3 +53,4 @@ On the elevator descent to [[hampton|Hampton]] on Day 230-1105, Tomas grunted wh
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[penelope|Penelope]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[admiral-grace-inn|Admiral Grace Inn]]

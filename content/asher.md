@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82]
-last_updated: 2026-10-27
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83]
+last_updated: 2026-11-02
 ---
 # Asher
 
 **Summary**: Brilliant chemist and elite hacker originating from the impoverished world of [[pharr|Pharr]] and educated on [[nesvorny|Nesvorny]], serving as scientific and cyber infiltration specialist for the crew.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-02
 
 ---
 
@@ -331,6 +331,12 @@ Asher carried the [[ancient-orb|Ancient Orb]] into [[the-cove|The Cove]] and, wi
 
 Asher studied mechanics during the voyage. He told the crew he was unhappy that they had given all the artifacts to Lord Baltimore, and that something was going on (Session 82). On Tutin his cover is that of a professor (Session 81). In [[hampton|Hampton]], [[jiro|Jiro]] asked him for a Cr 5,000 poker loan, promising to repay Cr 10,000; Asher refused (Session 82).
 
+## Hampton (Session 83)
+
+- **Day 230:** Asher sang along with Isambard at the [[desperado-karaoke-bar|Desperado]], then went with [[jiro|Jiro]] to the [[admiral-grace-inn|Admiral Grace Inn]]. That night he dreamed of [[rock-squid|rock squids]] (Session 83).
+- **Day 231:** He examined the bronze statue of Lars Tanaka, a pacification hero, in the town center, and found no photograph of [[deborah|Deborah]]. A shopkeeper told him that the hills around [[hampton|Hampton]] are mostly private property and hard to reach, that [[sundance|Sundance]] has many woods, and about [[wigoy|wigoys]] (Session 83).
+- **The lead on Deborah:** At Isambard's poker game, [[slim|Slim]] gave Asher Deborah's contact number and directions. Asher then walked out to her place with Isambard and [[sky|Sky]] (Session 83).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -491,3 +497,6 @@ Asher studied mechanics during the voyage. He told the crew he was unhappy that 
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[jiro|Jiro]]
 - [[lord-baltimore|Lord Baltimore]]
+- [[slim|Slim]]
+- [[deborah|Deborah]]
+- [[admiral-grace-inn|Admiral Grace Inn]]

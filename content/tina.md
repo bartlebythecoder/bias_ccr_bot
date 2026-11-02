@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - npc
-sessions: [10, 13]
-last_updated: 2026-09-20
+sessions: [10, 13, 83]
+last_updated: 2026-11-02
 ---
 # Tina
 
 **Summary**: Street-level Starlight dealer in [[startown-liberty|Startown Liberty]] coerced by [[joey|Joey]] into smuggling narcotics to [[nesvorny|Nesvorny]]; confidante and ally of [[asher|Asher]].
 
-**Last updated**: 2026-09-20
+**Last updated**: 2026-11-02
 
 ---
 
@@ -54,6 +54,10 @@ On Day 92-1105, Tina rendezvoused with [[sarik|Sarik]] on [[csabai-starport-alph
 
 On Day 92-1105, Tina utilized her streetwise connections on [[csabai-starport-alpha|Csabai Starport Alpha]] to identify [[reshka|Reshka]], an ethnic-[[irklan|Irklan]] starship mechanic who brokered outside contracts, enabling [[sarik|Sarik]] to purchase intelligence identifying the Psalmist client behind the assassin (Session 27).
 
+## Still on Csabai (Session 83)
+
+As of Day 231-1105, [[sky|Sky]] said she was still in contact with Tina, who remains on [[csabai|Csabai]] (Session 83).
+
 ## Related pages
 
 - [[lisa|Lisa]]
@@ -73,3 +77,4 @@ On Day 92-1105, Tina utilized her streetwise connections on [[csabai-starport-al
 - [[irklan|Irklan]]
 - [[csabai-starport-alpha|Csabai Starport Alpha]]
 - [[reshka|Reshka]]
+- [[sky|Sky]]

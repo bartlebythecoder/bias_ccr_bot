@@ -83,10 +83,11 @@ title: "Systems, Geography & Stations"
 
 ### Tutin
 - [[hampton|Hampton]]: Town on Tutin near the orbital elevator, the entry and exit point for all workers on the planet.
-- [[admiral-grace-inn|Admiral Grace Inn]]: Hampton inn run by Mackey Falk; known to BIAS CCR but not yet visited.
+- [[admiral-grace-inn|Admiral Grace Inn]]: Hampton inn run by Mackey Falk; BIAS CCR's rooms from Day 230-1105.
 - [[desperado-karaoke-bar|Desperado Karaoke Bar]]: Hampton karaoke bar managed by Francis Wahlgren, where BIAS CCR picked up leads on the ranch.
 - [[hillcrest|Hillcrest]]: Luxury destination on Tutin catering to high society visitors.
 - [[the-ranch-near-hampton|The Ranch near Hampton]]: Defended luxury retreat on Tutin where Dr. Pearson is held hostage.
+- [[sundance|Sundance]]: Wooded worker colony on Tutin; Sarik's family home and the crew's cover destination.
 
 ### Eternity Station
 - [[the-choke|The Choke]]: Sprawling scant-oxygen under-region on Eternity Station where residents who cannot pay the daily tax are sent.

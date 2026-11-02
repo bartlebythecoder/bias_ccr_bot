@@ -177,7 +177,9 @@ title: "People & Operatives"
 - [[tomas|Tomas]]: Articulate uplifted simian companion who joined BIAS CCR following the Suliman breakout.
 - [[francis|Francis Wahlgren]]: Manager of the Desperado Karaoke Bar in Hampton; employs Necktie and warned the crew about Jiro.
 - [[jiro|Jiro]]: Hampton gambler who asked Asher for a Cr 5,000 poker loan.
-- [[necktie|Necktie]]: Ten-year-old in Hampton who told Isambard that Debra works at the ranch.
+- [[necktie|Necktie]]: Ten-year-old at the Desperado in Hampton who offers the crew information; told Isambard about Deborah.
+- [[slim|Slim]]: Desperado regular who warned about Redshirt spies and gave directions to Deborah's home.
+- [[deborah|Deborah]]: Ranch cleaner near Hampton, said to work at the ranch; the crew's lead on it.
 - [[penelope|Penelope]]: Artist who rode the Tutin elevator down with BIAS CCR.
 - [[loshi|Loshi]]: Dockmaster on Eternity Station who levied oxygen taxes and issued 24-hour passes.
 - [[angus|Angus]]: Information broker on Eternity Station who alerted Loshi to incoming Suliman fugitives.

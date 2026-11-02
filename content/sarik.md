@@ -5,20 +5,20 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82]
-last_updated: 2026-10-27
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83]
+last_updated: 2026-11-02
 ---
 # Sarik
 
 **Summary**: Former Imperial marine veteran of the [[sanlucar-civil-war|Sanlucar Civil War]] and Tutin colonist, operating as the heavy combatant and field operative for the crew.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-02
 
 ---
 
 ## Background & Service History
 
-Sarik is a seasoned veteran of the Imperial Marines who saw active combat during the brutal [[sanlucar-civil-war|Sanlucar Civil War]] (1089) (Sessions 1–5). Following his military discharge, he spent an extended period as an agricultural/frontier colonist on the lush garden world of [[tutin|Tutin]] (1327), developing substantial stamina and comfort operating in wide-open, rugged environments (Sessions 1–5).
+Sarik is a seasoned veteran of the Imperial Marines who saw active combat during the brutal [[sanlucar-civil-war|Sanlucar Civil War]] (1089) (Sessions 1–5). Following his military discharge, he spent an extended period as an agricultural/frontier colonist on the lush garden world of [[tutin|Tutin]] (1624), developing substantial stamina and comfort operating in wide-open, rugged environments (Sessions 1–5).
 
 Upon losing his regular employment, Sarik joined [[beck|Beck]], [[asher|Asher]], and [[isambard|Isambard]] in high-stakes corporate espionage (Sessions 1–5).
 
@@ -338,6 +338,13 @@ Sarik rested after suffering the bends during the flight to [[the-cove|The Cove]
 - The team's cover on [[tutin|Tutin]] is that they are going to work in Sundance, the colony where Sarik's family lives, and will hunt before starting (Session 82).
 - In [[hampton|Hampton]], a man named Slim told Sarik at the bar that Redshirt spies were listening everywhere, some of them in the spa (Session 82).
 
+## Hampton (Session 83)
+
+- **Defusing Saul:** When a local named Saul accused the simians of taking local jobs, Sarik called them the crew's porters, and lovers, and offered drinks and paid work to anyone willing to guide the expedition. The argument faded, and Sarik later sang at the [[desperado-karaoke-bar|Desperado]] (Session 83).
+- **Undercover Redshirts:** Staying on at the bar, he heard talk that Redshirts were circulating undercover (Session 83).
+- **Still hunted:** At the [[admiral-grace-inn|Admiral Grace Inn]] he wedged a chair under his door handle because he is still being hunted (Session 83).
+- **Day 231:** He spent the day sharing drinks and stories with [[sky|Sky]] (Session 83).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -503,3 +510,5 @@ Sarik rested after suffering the bends during the flight to [[the-cove|The Cove]
 - [[the-cove|The Cove]]
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[hampton|Hampton]]
+- [[admiral-grace-inn|Admiral Grace Inn]]
+- [[desperado-karaoke-bar|Desperado Karaoke Bar]]

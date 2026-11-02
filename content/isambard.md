@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82]
-last_updated: 2026-10-27
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83]
+last_updated: 2026-11-02
 ---
 # Isambard
 
 **Summary**: Former pirate, Imperial scout, and merchant marine who operates as the crew's mechanic, close-quarters combatant, and pilot-in-waiting for a surplus Type-S Scout ship.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-02
 
 ---
 
@@ -265,7 +265,13 @@ Isambard said he hoped [[conway|Officer Conway]] had suffered in the nuclear bla
 
 ## Voyage to Tutin & Hampton (Sessions 81–82)
 
-Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Session 81). Down to fewer than Cr 1,500, he received Cr 10,000 from [[beck|Beck]], and studied reconnaissance during the voyage (Session 82). Isaiah confided his hope of finding other intelligent uplifted simians (Session 82). On the elevator to [[hampton|Hampton]], Isambard told the artists Archie and [[penelope|Penelope]] that the simians were shy "monkey butlers". In town, the boy [[necktie|Necktie]] told him that a woman named Debra works at the ranch (Session 82).
+Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Session 81). Down to fewer than Cr 1,500, he received Cr 10,000 from [[beck|Beck]], and studied reconnaissance during the voyage (Session 82). Isaiah confided his hope of finding other intelligent uplifted simians (Session 82). On the elevator to [[hampton|Hampton]], Isambard told the artists Archie and [[penelope|Penelope]] that the simians were shy "monkey butlers". In town, the boy [[necktie|Necktie]] told him that a woman named [[deborah|Deborah]] works at the ranch (Session 82).
+
+## Hampton (Session 83)
+
+- **"Duchess Is a Princess":** At [[necktie|Necktie]]'s suggestion, Isambard sang "Duchess Is a Princess" at the [[desperado-karaoke-bar|Desperado]] on Day 230. The patrons stood and joined in, and several recorded him (Session 83).
+- **Necktie's leads:** Staying on at the bar, he heard from Necktie about [[deborah|Deborah]]'s weekly supply flights, the lack of roads on Tutin, and [[rock-squid|rock squids]], which he dreamed of that night (Session 83).
+- **Poker for information:** On Day 231 he set up a poker game, put Cr 5,000 on the table and lost it on purpose to keep people talking; [[slim|Slim]] gave the crew directions to Deborah's home. He then walked out there with [[asher|Asher]] and [[sky|Sky]] (Session 83).
 
 ## Related pages
 - [[renzo|Renzo]]
@@ -397,3 +403,5 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[necktie|Necktie]]
 - [[penelope|Penelope]]
+- [[slim|Slim]]
+- [[deborah|Deborah]]

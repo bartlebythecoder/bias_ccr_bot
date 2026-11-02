@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 81, 82]
-last_updated: 2026-10-27
+sessions: [1, 2, 3, 4, 5, 81, 82, 83]
+last_updated: 2026-11-02
 ---
 # Beck
 
 **Summary**: High-society psychological profiler from [[kidderminster|Kidderminster]] who serves as medical specialist, interrogator, and social engineer for the crew.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-02
 
 ---
 
@@ -311,6 +311,13 @@ For the [[dr-pearson|Dr. Pearson]] rescue, Beck takes the direct climbing route 
 
 As keeper of the shared funds, Beck paid Cr 10,000 each to [[isambard|Isambard]], [[asher|Asher]] and [[sarik|Sarik]], and bought a chameleon suit for planting surveillance bugs at the ranch (Session 82). She studied jump-drive operation during the voyage and reported Cr 318,000 remaining on arrival at [[marcolandia|Marcolandia]]. At the [[tutin|Tutin]] elevator she declared her Adrenalizer, anti-rat supplies, micro-tranks and chameleon suit without objection (Session 82).
 
+## Hampton (Session 83)
+
+- **Day 230:** Beck danced while Isambard sang at the [[desperado-karaoke-bar|Desperado]]. At the [[admiral-grace-inn|Admiral Grace Inn]] she gave the crew's cover (a hunting and outdoor-work trip to [[sundance|Sundance]]), booked three rooms for two weeks and set a miniature audiovisual device in the hallway (Session 83).
+- **Pacification memories:** Over breakfast on Day 231, Beck recalled her seven years in the [[tutin-pacification|Tutin Pacification]], including the Varos counteroffensive, and her dismissal by Lazlo Kovacs, who blamed her for reports he judged not significant enough. Her rivalry with Kovacs, whom she believes to be [[blue-lou-boyle|Blue Lou Boyle]], began on Tutin (Session 83).
+- **Releasing the rifles:** The crew's rifles were still held at the starport. Beck rode the 90-minute elevator up and paid a bureaucrat Cr 5,000 for an early release; the weapons were promised for the morning of Day 232. The trip took six hours (Session 83).
+- **Day 231 evening:** Beck watched the arriving aircraft for [[deborah|Deborah]], who was not on them, then took [[tomas|Tomas]] on a perimeter hike. She stayed in town with [[isaiah|Isaiah]] and Tomas while the others went to find Deborah (Session 83).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -471,3 +478,8 @@ As keeper of the shared funds, Beck paid Cr 10,000 each to [[isambard|Isambard]]
 - [[elsa-fisher|Elsa Fisher]]
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[dr-pearson|Dr. Pearson]]
+- [[admiral-grace-inn|Admiral Grace Inn]]
+- [[blue-lou-boyle|Blue Lou Boyle]]
+- [[tutin-pacification|Tutin Pacification]]
+- [[deborah|Deborah]]
+- [[sundance|Sundance]]

@@ -5,7 +5,8 @@ category: lore_tech
 tags:
   - lore_tech
   - fauna
-last_updated: 2026-10-21
+sessions: [83]
+last_updated: 2026-11-02
 ---
 # Wigoy
 
@@ -13,7 +14,7 @@ last_updated: 2026-10-21
 
 **Summary**: Highly intelligent, eyeless herbivore native to [[tutin|Tutin]], blue-gray and bipedal, with four anemone-like tentacle arms and a body covered in sensory cilia. Now almost extinct.
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-11-02
 
 ---
 
@@ -31,9 +32,14 @@ The wigoy is native to [[tutin|Tutin]] (1624), one of only two breathable worlds
 
 The wigoy is almost extinct. The cause of its decline is not recorded.
 
+## Local Talk (Session 83)
+
+A shopkeeper in [[hampton|Hampton]] told [[asher|Asher]] about wigoys (Session 83).
+
 ## Related pages
 
 - [[tutin|Tutin]]
 - [[kidderminster|Kidderminster]]
 - [[tutin-pacification|Tutin Pacification]]
 - [[rock-squid|Rock Squid]]
+- [[hampton|Hampton]]

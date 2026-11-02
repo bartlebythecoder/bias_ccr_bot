@@ -5,13 +5,14 @@ category: lore_tech
 tags:
   - lore_tech
   - lore
-last_updated: 2026-10-28
+sessions: [83]
+last_updated: 2026-11-02
 ---
 # Tutin Pacification
 
 **Summary**: Prolonged 1077–1083 counter-insurgency on Tutin where [[kidderminster|Kidderminster]] military forces crushed the militant Order of the Psalms, laying the groundwork for the modern 134 Psalms movement.
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-02
 
 ---
 
@@ -31,9 +32,17 @@ The war devolved into grueling guerrilla combat across rugged terrain:
 - **The Dawn Seekers**: The Psalmist people and families left over from the war remain on Tutin as the [[dawn-seekers|Dawn Seekers]], nomads who live off the land and mostly stay in hiding.
 - **Devastation of Tutin**: The planet's infrastructure collapsed. In 1105, Tutin remains a closely monitored protectorate under direct Kidderminster administration, its full-time population reduced to fewer than 1,000 residents subject to strict residency vetting.
 
+## Veterans & Memorials (Session 83)
+
+- [[beck|Beck]] served seven years in the pacification, including the Varos counteroffensive. Her rivalry with Lazlo Kovacs, whom she believes to be [[blue-lou-boyle|Blue Lou Boyle]], began here (Session 83).
+- A bronze statue of Lars Tanaka, a hero of a battle near [[hampton|Hampton]] during the pacification, stands near the town center (Session 83).
+
 ## Related pages
 
 - [[tutin|Tutin]]
 - [[psalm-134|Psalm 134]]
 - [[kidderminster|Kidderminster]]
 - [[dawn-seekers|Dawn Seekers]]
+- [[beck|Beck]]
+- [[blue-lou-boyle|Blue Lou Boyle]]
+- [[hampton|Hampton]]

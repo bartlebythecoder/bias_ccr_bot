@@ -1,6 +1,6 @@
 ---
 title: "Campaign Master Timeline"
-sessions: [80, 81, 82]
+sessions: [80, 81, 82, 83]
 ---
 # Solo Subsector J — Campaign Master Timeline
 
@@ -145,7 +145,7 @@ sessions: [80, 81, 82]
 
 ---
 
-### Phase 8: The Cove & The Tutin Rescue (Days 209 – 230)
+### Phase 8: The Cove & The Tutin Rescue (Days 209 – 231)
 
 | In-Game Date | Location | Key Narrative Milestones |
 | :--- | :--- | :--- |
@@ -155,3 +155,5 @@ sessions: [80, 81, 82]
 | **Day 220** | [[marcolandia\|Marcolandia]] | Refuel and resupply; fund at Cr 318,000 (Session 82). |
 | **Day 228** | [[tutin\|Tutin]] system | Arrival in the Tutin system; two days in-system to reach orbit (Session 82). |
 | **Day 230** | [[tutin\|Tutin]] / [[hampton\|Hampton]] | Arrival in orbit under martial law; elevator descent; inquiries about the ranch in Hampton (Session 82). |
+| **Day 230** | [[desperado-karaoke-bar\|Desperado]] / [[admiral-grace-inn\|Admiral Grace Inn]] | Saul's confrontation over the simians defused; Isambard sings "Duchess Is a Princess"; three rooms booked at the inn for two weeks; Necktie's leads on [[deborah\|Deborah]] (Session 83). |
+| **Day 231** | Hampton / Tutin starport | Beck pays Cr 5,000 to have the rifles released by Day 232; Isambard's poker game gets directions to Deborah's home from [[slim\|Slim]]; Asher, Isambard and Sky walk out to it (Session 83). |
