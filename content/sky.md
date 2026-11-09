@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [6, 80, 82, 83]
-last_updated: 2026-11-02
+sessions: [6, 80, 82, 83, 84]
+last_updated: 2026-11-09
 ---
 # Sky
 
 **Summary**: Commercial flyer pilot at [[kc-station|K.C. Station]], former Imperial Marine, and [[cooper|Cooper]]'s local contact who joined the crew's raid on the [[mirassol-pyramid|Mirassol Pyramid]] for an equal share of artifacts.
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-09
 
 ---
 
@@ -166,6 +166,10 @@ Sky came down to [[hampton|Hampton]] on [[tutin|Tutin]] with the crew (Sessions 
 On Day 231, sharing drinks and stories with Sarik, Sky said she spent her first year in the Navy before becoming a Marine. She is content to work with the crew for now, but does not want to become an equal partner or stay indefinitely, and has not decided on a future path. She confirmed she is still in contact with [[tina|Tina]], who remains on [[csabai|Csabai]], but refused to discuss the pink valise, which she kept covered with a coat (Session 83).
 
 That evening Sky went with [[asher|Asher]] and Isambard to find [[deborah|Deborah]] (Session 83).
+
+## Deborah's Family & The March North (Session 84)
+
+At [[deborah|Deborah]]'s family home on Day 231, Sky recognised the machine attached to Sybil's husband Gerald as an ancient iron-lung-like device keeping his body breathing (Session 84). She then marched back to [[hampton|Hampton]] with [[asher|Asher]] and [[isambard|Isambard]].
 
 ## Related pages
 - [[one-handed-man|One-Handed Man]]

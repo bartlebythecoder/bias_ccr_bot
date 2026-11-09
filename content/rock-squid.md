@@ -5,8 +5,8 @@ category: lore_tech
 tags:
   - lore_tech
   - fauna
-last_updated: 2026-11-02
-sessions: [82, 83]
+last_updated: 2026-11-09
+sessions: [82, 83, 84]
 ---
 # Rock Squid
 
@@ -14,7 +14,7 @@ sessions: [82, 83]
 
 **Summary**: Colossal carnivorous ambush predator native to [[tutin|Tutin]], 20 to 40 metres long with specimens reported at up to 100 metres, which mimics a boulder while motionless and strikes at prey that comes close.
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-09
 
 ---
 
@@ -43,6 +43,10 @@ Visitors to [[tutin|Tutin]] can apply for permits to hunt rock squid near the Su
 
 In [[hampton|Hampton]], [[necktie|Necktie]] described rock squids as dangerous mountain creatures and passed on a story that their eyes are sensitive, so that a punch to one could paralyze the creature. He had never seen one himself (Session 83).
 
+## Encounter with BIAS CCR (Session 84)
+
+On the march to [[the-ranch-near-hampton|the ranch near Hampton]], [[sarik|Sarik]] tracked a rock squid that had recently crossed the team's route and guided the party around it (Session 84).
+
 ## Related pages
 
 - [[tutin|Tutin]]
@@ -51,3 +55,5 @@ In [[hampton|Hampton]], [[necktie|Necktie]] described rock squids as dangerous m
 - [[wigoy|Wigoy]]
 - [[necktie|Necktie]]
 - [[sundance|Sundance]]
+- [[sarik|Sarik]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]

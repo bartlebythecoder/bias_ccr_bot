@@ -128,6 +128,7 @@ title: "People & Operatives"
 - [[one-handed-man|One-Handed Man]]: Vengeful adversary seeking Sarik on Eternity Station, suspected to be Ruffian from Suliman or a bounty hunter.
 - [[fagan|Fagan]]: Black market antiquities and salvage fence on Eternity Station interested in purchasing heavy marbles.
 - [[leluz|Leluz]]: Underworld operative who leaked intelligence regarding an assassination contract.
+- [[duquette|Duquette]]: Boss of the ranch near Hampton where Dr. Pearson is held; head-mounted equipment, thought an android.
 
 ---
 
@@ -179,7 +180,7 @@ title: "People & Operatives"
 - [[jiro|Jiro]]: Hampton gambler who asked Asher for a Cr 5,000 poker loan.
 - [[necktie|Necktie]]: Ten-year-old at the Desperado in Hampton who offers the crew information; told Isambard about Deborah.
 - [[slim|Slim]]: Desperado regular who warned about Redshirt spies and gave directions to Deborah's home.
-- [[deborah|Deborah]]: Ranch cleaner near Hampton, said to work at the ranch; the crew's lead on it.
+- [[deborah|Deborah]]: Former ranch worker near Hampton, dismissed by Duquette; described the ranch and Dr. Pearson to the crew.
 - [[penelope|Penelope]]: Artist who rode the Tutin elevator down with BIAS CCR.
 - [[loshi|Loshi]]: Dockmaster on Eternity Station who levied oxygen taxes and issued 24-hour passes.
 - [[angus|Angus]]: Information broker on Eternity Station who alerted Loshi to incoming Suliman fugitives.

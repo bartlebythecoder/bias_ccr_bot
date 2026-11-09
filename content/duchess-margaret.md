@@ -10,14 +10,14 @@ sources:
   - "[[news-1105-vol-9]]"
   - "[[house-yetrina]]"
   - "[[noble-houses]]"
-last_updated: 2026-10-27
-sessions: [80, 81]
+last_updated: 2026-11-09
+sessions: [80, 81, 84]
 ---
 # Duchess Margaret
 
 **Summary**: Ruling noblewoman of [[kidderminster|Kidderminster]] and head of [[house-yetrina|House Yetrina]], allied with [[tukera-lines|Tukera Lines]], and patron of the subsector-wide Grand Tour cultural initiative.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-09
 
 ---
 
@@ -51,6 +51,10 @@ In Session 79 (Session 79):
 
 [[lord-baltimore|Lord Baltimore]] works in Redshirt naval intelligence for Duchess Margaret (Session 80). Her replica body was returned to her through Baltimore, and he will brief her personally and secure the favor she owes BIAS CCR for it, which could bring them an audience or help if they are jailed (Session 81). [[beck|Beck]]'s contact in the Duchess's inner circle is [[elsa-fisher|Elsa Fisher]] (Session 81).
 
+## Pictures on Tutin (Session 84)
+
+On [[tutin|Tutin]], pictures of the Duchess hang in the home of Sybil, mother of [[deborah|Deborah]]. [[isambard|Isambard]] implied BIAS CCR's employer was connected to the Duchess and told Sybil that the Duchess remembered her. Why Sybil keeps the pictures was not established (Session 84).
+
 ## Related pages
 
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -67,3 +71,4 @@ In Session 79 (Session 79):
 - [[psalm-134|Psalm 134]]
 - [[lord-baltimore|Lord Baltimore]]
 - [[elsa-fisher|Elsa Fisher]]
+- [[deborah|Deborah]]

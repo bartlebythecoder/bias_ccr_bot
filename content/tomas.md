@@ -7,15 +7,15 @@ tags:
   - simian
 aliases:
   - Thomas
-sessions: [40, 56, 57, 58, 80, 81, 82, 83]
-last_updated: 2026-11-02
+sessions: [40, 56, 57, 58, 80, 81, 82, 83, 84]
+last_updated: 2026-11-09
 ---
 
 # Tomas
 
 **Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with [[bias-ccr|BIAS CCR]] alongside [[isaiah|Isaiah]].
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-09
 
 ---
 
@@ -45,6 +45,10 @@ On the elevator descent to [[hampton|Hampton]] on Day 230-1105, Tomas grunted wh
 
 At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simians of taking local jobs before [[sarik|Sarik]] defused the argument. Tomas and [[isaiah|Isaiah]] went with [[jiro|Jiro]] to the [[admiral-grace-inn|Admiral Grace Inn]], where the innkeeper questioned the crew about the simians. With the crew's rifles still held at the starport, the simians carried concealed shotguns (Session 83). On Day 231 he went on a perimeter hike with [[beck|Beck]], and stayed in town with her and [[isaiah|Isaiah]] while the others went to find [[deborah|Deborah]] (Session 83).
 
+## The March North (Session 84)
+
+Tomas set out north with the team on Day 232. On the march the simians fed the [[hill-monkey|hill monkeys]] that raided the camp, despite being told not to give them equipment (Session 84).
+
 ## Related pages
 - [[isaiah|Isaiah]]
 - [[the-man-with-the-gun|The Man With The Gun]]
@@ -54,3 +58,4 @@ At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simia
 - [[penelope|Penelope]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
 - [[admiral-grace-inn|Admiral Grace Inn]]
+- [[hill-monkey|Hill Monkey]]

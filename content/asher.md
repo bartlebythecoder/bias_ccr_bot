@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83]
-last_updated: 2026-11-02
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84]
+last_updated: 2026-11-09
 ---
 # Asher
 
 **Summary**: Brilliant chemist and elite hacker originating from the impoverished world of [[pharr|Pharr]] and educated on [[nesvorny|Nesvorny]], serving as scientific and cyber infiltration specialist for the crew.
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-09
 
 ---
 
@@ -337,6 +337,12 @@ Asher studied mechanics during the voyage. He told the crew he was unhappy that 
 - **Day 231:** He examined the bronze statue of Lars Tanaka, a pacification hero, in the town center, and found no photograph of [[deborah|Deborah]]. A shopkeeper told him that the hills around [[hampton|Hampton]] are mostly private property and hard to reach, that [[sundance|Sundance]] has many woods, and about [[wigoy|wigoys]] (Session 83).
 - **The lead on Deborah:** At Isambard's poker game, [[slim|Slim]] gave Asher Deborah's contact number and directions. Asher then walked out to her place with Isambard and [[sky|Sky]] (Session 83).
 
+## Deborah's Family & The March North (Session 84)
+
+- **Day 231:** At [[deborah|Deborah]]'s family home, Asher found an image of [[duchess-margaret|the Duchess]] inside his teacup, then noticed pictures of her around the room (Session 84).
+- **Day 232:** He carries the phone-sized kill switch recovered from its cache, meant to disable [[the-ranch-near-hampton|the ranch]]'s sensors and cameras (Session 84).
+- **Day 235:** No [[hill-monkey|hill monkeys]] visited the camp during his watch above the ranch. The kill switch had not yet been used (Session 84).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -500,3 +506,4 @@ Asher studied mechanics during the voyage. He told the crew he was unhappy that 
 - [[slim|Slim]]
 - [[deborah|Deborah]]
 - [[admiral-grace-inn|Admiral Grace Inn]]
+- [[duquette|Duquette]]

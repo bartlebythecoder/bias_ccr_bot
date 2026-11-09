@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83]
-last_updated: 2026-11-02
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84]
+last_updated: 2026-11-09
 ---
 # Isambard
 
 **Summary**: Former pirate, Imperial scout, and merchant marine who operates as the crew's mechanic, close-quarters combatant, and pilot-in-waiting for a surplus Type-S Scout ship.
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-09
 
 ---
 
@@ -273,6 +273,13 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - **Necktie's leads:** Staying on at the bar, he heard from Necktie about [[deborah|Deborah]]'s weekly supply flights, the lack of roads on Tutin, and [[rock-squid|rock squids]], which he dreamed of that night (Session 83).
 - **Poker for information:** On Day 231 he set up a poker game, put Cr 5,000 on the table and lost it on purpose to keep people talking; [[slim|Slim]] gave the crew directions to Deborah's home. He then walked out there with [[asher|Asher]] and [[sky|Sky]] (Session 83).
 
+## Deborah's Family & The March North (Session 84)
+
+- **The buyer's cover:** At [[deborah|Deborah]]'s family home on Day 231, Isambard posed as the agent of a wealthy prospective buyer of [[the-ranch-near-hampton|the ranch]] and paid her mother Sybil Cr 500 to bring Deborah in. His mirror showed that Sybil's husband Gerald was not breathing, but he assured Sybil a doctor would come (Session 84).
+- **The Duchess:** He implied their employer was connected to [[duchess-margaret|the Duchess]], and told Sybil the Duchess remembered her (Session 84).
+- **Loadout:** Setting out north on Day 232, he left his shotgun behind and carried a laser sniper rifle, a pistol and pepper spray (Session 84).
+- **Day 235:** No [[hill-monkey|hill monkeys]] visited the camp during his watch above the ranch (Session 84).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -405,3 +412,4 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - [[penelope|Penelope]]
 - [[slim|Slim]]
 - [[deborah|Deborah]]
+- [[duquette|Duquette]]

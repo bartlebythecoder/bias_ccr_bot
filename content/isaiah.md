@@ -5,15 +5,15 @@ category: people
 tags:
   - people
   - simian
-sessions: [40, 47, 49, 55, 56, 57, 58, 62, 80, 81, 82, 83]
-last_updated: 2026-11-02
+sessions: [40, 47, 49, 55, 56, 57, 58, 62, 80, 81, 82, 83, 84]
+last_updated: 2026-11-09
 ---
 
 # Isaiah
 
 **Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with BIAS CCR.
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-09
 
 ---
 
@@ -56,6 +56,10 @@ During the voyage, Isaiah told [[isambard|Isambard]] that he wants to find other
 
 At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simians of taking local jobs before [[sarik|Sarik]] defused the argument. Isaiah and [[tomas|Tomas]] went with [[jiro|Jiro]] to the [[admiral-grace-inn|Admiral Grace Inn]], where the innkeeper questioned the crew about the simians. With the crew's rifles still held at the starport, the simians carried concealed shotguns (Session 83). He stayed in town with [[beck|Beck]] and [[tomas|Tomas]] while the others went to find [[deborah|Deborah]] (Session 83).
 
+## The March North (Session 84)
+
+Isaiah set out north with the team on Day 232 carrying seven gas masks, explosives and breaching charges. On the march the simians fed the [[hill-monkey|hill monkeys]] that raided the camp, despite being told not to give them equipment (Session 84).
+
 ## Related pages
 - [[isambard|Isambard]]
 - [[asher|Asher]]
@@ -70,3 +74,4 @@ At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simia
 - [[dr-pearson|Dr. Pearson]]
 - [[ledger|BIAS CCR Campaign Ledger & Asset Tracker]]
 - [[admiral-grace-inn|Admiral Grace Inn]]
+- [[hill-monkey|Hill Monkey]]

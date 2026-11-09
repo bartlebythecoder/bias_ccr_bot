@@ -5,7 +5,8 @@ category: lore_tech
 tags:
   - lore_tech
   - fauna
-last_updated: 2026-10-21
+sessions: [84]
+last_updated: 2026-11-09
 ---
 # Hill Monkey
 
@@ -13,7 +14,7 @@ last_updated: 2026-10-21
 
 **Summary**: Small shy nocturnal herbivore native to the high elevations of [[tutin|Tutin]], 25 to 30 centimetres tall, not generally aggressive but a frequent disease carrier and a persistent campsite thief.
 
-**Last updated**: 2026-10-21
+**Last updated**: 2026-11-09
 
 ---
 
@@ -33,6 +34,10 @@ Hill monkeys are a known nuisance to travellers in the Tutin highlands. They are
 
 They are also a health hazard. The animals often carry diseases, so they should be avoided, and any bite from one should be treated.
 
+## Encounter with BIAS CCR (Session 84)
+
+On Days 233–234-1105, hill monkeys watched [[bias-ccr|BIAS CCR]] from a distance on the march to [[the-ranch-near-hampton|the ranch near Hampton]], then searched the team's camp whenever it slept; even keeping a guard did not always stop them. They took [[beck|Beck]]'s binoculars and [[sarik|Sarik]]'s goggles. The crew's simians, [[isaiah|Isaiah]] and [[tomas|Tomas]], fed the monkeys despite being told not to give them equipment. Once the team made a safe, unseen camp in the forest on Day 235, no monkeys visited (Session 84).
+
 ## Related pages
 
 - [[tutin|Tutin]]
@@ -40,3 +45,5 @@ They are also a health hazard. The animals often carry diseases, so they should 
 - [[tutin-pacification|Tutin Pacification]]
 - [[wigoy|Wigoy]]
 - [[rock-squid|Rock Squid]]
+- [[bias-ccr|BIAS CCR]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]

@@ -7,13 +7,14 @@ tags:
   - technology
 aliases:
   - LaChat Hard Drive
-last_updated: 2026-10-28
+sessions: [84]
+last_updated: 2026-11-09
 ---
 # Ettailla Drive
 
 **Summary**: Extremely expensive cybernetic hard drive surgically and permanently attached to the side of the user's head, meant to give computer-like processing and memory. Informally called the "LaChat Hard Drive", after [[lachat|Lachat]].
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-09
 
 ---
 
@@ -29,7 +30,13 @@ Fitting the drive is a permanent surgical procedure; once installed, it cannot s
 
 The drive is expected to give its user computer-like processing power and memory.
 
+## Sightings
+
+[[duquette|Duquette]], boss of [[the-ranch-near-hampton|the ranch near Hampton]] on [[tutin|Tutin]], has equipment attached to his head that he uses for communications and calculations, possibly an Ettailla Drive. A former ranch worker took it as a sign that he is an android (Session 84).
+
 ## Related pages
+
+- [[duquette|Duquette]]
 
 - [[lachat|Lachat]]
 - [[index_lore_tech|Lore & Technology Index]]

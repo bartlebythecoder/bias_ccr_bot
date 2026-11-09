@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [11, 80, 81, 82, 83]
-last_updated: 2026-11-02
+sessions: [11, 80, 81, 82, 83, 84]
+last_updated: 2026-11-09
 ---
 # BIAS Corporate Conflict Resolution
 
 **Summary**: Legally registered corporate consulting and private security firm established on [[romentino|Romentino]] by [[beck|Beck]], [[asher|Asher]], [[isambard|Isambard]], and [[sarik|Sarik]] as an operational cover.
 
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-09
 
 ---
 
@@ -366,6 +366,12 @@ The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a de
 - **Day 230**: Arrival in orbit at Tutin, under martial law. With permits from Baltimore and a cover story of work in the Sundance colony, the team rode the elevator down to [[hampton|Hampton]] and began asking about the ranch (Session 82). That night the crew booked three rooms at the [[admiral-grace-inn|Admiral Grace Inn]] for two weeks (Session 83).
 - **Day 231**: [[beck|Beck]] bribed a starport official Cr 5,000 to release the crew's rifles by Day 232. At a poker game, [[slim|Slim]] gave directions to the home of [[deborah|Deborah]], who works at the ranches; [[asher|Asher]], [[isambard|Isambard]] and [[sky|Sky]] walked out to find her (Session 83).
 
+## The March on the Ranch (Session 84)
+
+- **Day 231**: At [[deborah|Deborah]]'s family home, [[isambard|Isambard]] posed as agent for a wealthy buyer and paid Cr 500 for her account of [[the-ranch-near-hampton|the ranch]]: its boss [[duquette|Duquette]], eight recently arrived armed men, and [[dr-pearson|Dr. Pearson]]'s ground-floor office and suite. Her mother Sybil will keep quiet if the crew helps her husband Gerald, and expects [[beck|Beck]] within days. The three made the six-hour march back to [[hampton|Hampton]] overnight (Session 84).
+- **Day 232**: The whole team set out north, recovering the kill switch from its cache (Session 84).
+- **Days 233–235**: Through the wilderness, harassed by [[hill-monkey|hill monkeys]] and past a [[rock-squid|rock squid]], to a safe, unseen camp overlooking the ranch (Session 84).
+
 ## Related pages
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
@@ -537,3 +543,4 @@ The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a de
 - [[the-cove|The Cove]]
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[dr-pearson|Dr. Pearson]]
+- [[duquette|Duquette]]

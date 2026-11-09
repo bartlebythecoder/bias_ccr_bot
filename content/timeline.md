@@ -145,7 +145,7 @@ sessions: [80, 81, 82, 83]
 
 ---
 
-### Phase 8: The Cove & The Tutin Rescue (Days 209 – 231)
+### Phase 8: The Cove & The Tutin Rescue (Days 209 – 235)
 
 | In-Game Date | Location | Key Narrative Milestones |
 | :--- | :--- | :--- |
@@ -157,3 +157,7 @@ sessions: [80, 81, 82, 83]
 | **Day 230** | [[tutin\|Tutin]] / [[hampton\|Hampton]] | Arrival in orbit under martial law; elevator descent; inquiries about the ranch in Hampton (Session 82). |
 | **Day 230** | [[desperado-karaoke-bar\|Desperado]] / [[admiral-grace-inn\|Admiral Grace Inn]] | Saul's confrontation over the simians defused; Isambard sings "Duchess Is a Princess"; three rooms booked at the inn for two weeks; Necktie's leads on [[deborah\|Deborah]] (Session 83). |
 | **Day 231** | Hampton / Tutin starport | Beck pays Cr 5,000 to have the rifles released by Day 232; Isambard's poker game gets directions to Deborah's home from [[slim\|Slim]]; Asher, Isambard and Sky walk out to it (Session 83). |
+| **Day 231** | Deborah's home near Hampton | Isambard pays Cr 500 for [[deborah\|Deborah]]'s account of the ranch: boss [[duquette\|Duquette]], eight armed men, [[dr-pearson\|Dr. Pearson]]'s ground-floor suite; six-hour march back (Session 84). |
+| **Day 232** | Hampton → north | Team sets out north; kill switch recovered from its cache (Session 84). |
+| **Day 233–234** | Tutin wilderness | [[hill-monkey\|Hill monkeys]] raid the camp; Sarik steers the party around a [[rock-squid\|rock squid]] (Session 84). |
+| **Day 235** | Above [[the-ranch-near-hampton\|the ranch]] | Safe, unseen camp in the forest overlooking the ranch; defenses not yet disabled (Session 84). |

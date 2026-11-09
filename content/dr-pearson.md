@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - npc
-sessions: [11, 80, 81]
-last_updated: 2026-10-27
+sessions: [11, 80, 81, 84]
+last_updated: 2026-11-09
 ---
 # Dr. Pearson
 
 **Summary**: [[nesvorny-university|Nesvorny University]] archaeologist who wrote on [[ancient-orb|Ancient Orbs]], held hostage at [[the-ranch-near-hampton|a ranch]] on [[tutin|Tutin]] and target of BIAS CCR's covert rescue.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-09
 
 ---
 
@@ -28,7 +28,16 @@ On Day 39-1105, operative [[asher|Asher]] discovered academic monographs authore
 
 By 1105, Dr. Pearson had been held hostage for more than a year at [[the-ranch-near-hampton|a luxury wilderness ranch near Hampton]] on [[tutin|Tutin]]. [[lord-baltimore|Lord Baltimore]] hired BIAS CCR, as a covert Red Shirt assignment, to extract Pearson alive and return him to [[kidderminster|Kidderminster]], for a fee of MCr 4 (Sessions 80–81). Locating Pearson's quarters is the first reconnaissance priority of the rescue plan (Session 81).
 
+## Deborah's Account (Session 84)
+
+On Day 231-1105 the former ranch worker [[deborah|Deborah]] described Pearson as a Nesvorny scholar working on a book, with an office and guest suite on the ground floor of the ranch house. The ranch boss, [[duquette|Duquette]], wanted six people kept in the building (Session 84).
+
+The crew linked Pearson to their own interest in Ancient artifacts: the [[ancient-orb|Ancient Orb]] they gave the Redshirts in exchange for a ship still on its way, the [[mirassol-pyramid|Mirassol Pyramid]], and the Psalmists' habit of collecting artifacts (Session 84). By Day 235-1105 the team was camped above the ranch, watching it (Session 84).
+
 ## Related pages
+
+- [[deborah|Deborah]]
+- [[duquette|Duquette]]
 
 - [[nesvorny-university|Nesvorny University]]
 - [[nesvorny|Nesvorny]]

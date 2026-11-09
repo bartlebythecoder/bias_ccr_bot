@@ -1,6 +1,6 @@
 ---
 title: "BIAS CCR Campaign Ledger & Asset Tracker"
-sessions: [80, 81, 82, 83]
+sessions: [80, 81, 82, 83, 84]
 ---
 # Solo Subsector J — BIAS CCR Campaign Ledger & Asset Tracker
 
@@ -47,6 +47,7 @@ sessions: [80, 81, 82, 83]
 | **Day 230-1105** | Admiral Grace Inn | Not recorded | Three rooms in [[hampton\|Hampton]] booked for two weeks (Session 83). |
 | **Day 231-1105** | Starport Weapons Release | `-Cr 5,000` | Paid by Beck to a starport bureaucrat for early release of the crew's rifles, promised for Day 232 (Session 83). |
 | **Day 231-1105** | Poker Game at the Desperado | `-Cr 5,000` | Isambard's stake, lost on purpose while gathering information (Session 83). |
+| **Day 231-1105** | Payment to Sybil | `-Cr 500` | Paid by Isambard to [[deborah\|Deborah]]'s mother for Deborah's account of the ranch (Session 84). |
 
 ---
 
