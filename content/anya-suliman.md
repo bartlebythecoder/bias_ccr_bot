@@ -1,23 +1,20 @@
 ---
 title: "Anya (Suliman)"
+type: person
+category: people
 tags:
-  - person
-  - security
-  - corporate
+  - people
+  - npc
 aliases:
   - Officer Anya (Suliman)
-links:
-  - "[[suliman]]"
-  - "[[wu-ketai]]"
-  - "[[beck]]"
-category: person
+sessions: [34]
+last_updated: 2026-11-09
 ---
-
 # Anya (Suliman)
 
 **Summary**: [[wu-ketai|Wu-Ketai]] security officer at [[suliman|Suliman]]'s arrivals checkpoint who interrogated [[beck|Beck]] under her Emily Cora cover.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -27,3 +24,9 @@ category: person
 
 ## Interrogation of Emily Cora
 On Day 115-1105, Officer Anya conducted the individual security interrogation of [[beck|Beck]], who was operating under the undercover alias *Emily Cora*. Anya questioned Beck closely about the organizational hierarchy and activities of their purported workers' rights group. While Beck experienced nervousness and struggled with specific operational details, she held her ground sufficiently to avoid blowing the group's cover (Session 34).
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[wu-ketai|Wu-Ketai]]
+- [[beck|Beck]]

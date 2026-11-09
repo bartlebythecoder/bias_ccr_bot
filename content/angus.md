@@ -1,20 +1,18 @@
 ---
 title: "Angus"
+type: person
+category: people
 tags:
-  - person
-  - underworld
-  - informant
-links:
-  - "[[eternity-station]]"
-  - "[[loshi]]"
-category: person
+  - people
+  - npc
+sessions: [40, 58]
+last_updated: 2026-11-09
 ---
-
 # Angus
 
 **Summary**: Information broker on [[eternity-station|Eternity Station]] who flagged BIAS CCR's arrival to the dockmaster and later sold them the Metropolis dossier.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -27,5 +25,8 @@ On Day 118-1105, following the landing of a stolen corporate launch from Suliman
 During BIAS CCR's seven-week sabbatical on Eternity Station, Angus brokered and sold a high-value intelligence dossier regarding [[metropolis-station|Project Metropolis]] to the operatives (Session 58). The classified dossier provided detailed schematics and operational warnings regarding the station's zero-G sections, erratic power grids, active rogue robots, and surrounding [[wu-ketai|Wu-Ketai]] patrol nets.
 
 ## Related pages
+
 - [[metropolis-station|Metropolis Station]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[eternity-station|Eternity Station]]
+- [[loshi|Loshi]]

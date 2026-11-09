@@ -1,23 +1,20 @@
 ---
 title: "Larry McKarney"
+type: person
+category: people
 tags:
-  - person
-  - military
-  - criminal
+  - people
+  - npc
 aliases:
   - McKarney
-links:
-  - "[[rainford-ruby]]"
-  - "[[foust-refinery]]"
-  - "[[sarik]]"
-category: person
+sessions: [31, 32]
+last_updated: 2026-11-09
 ---
-
 # Larry McKarney
 
 **Summary**: Alias of the mercenary commander hired by [[rainford-ruby|Rainford Ruby]] to raid the [[foust-refinery|Foust Refinery]], killed by [[sarik|Sarik]].
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -25,3 +22,9 @@ category: person
 
 ## Infiltration and Refinery Assault
 Infiltrating the facility as its secondary security chief, McKarney smuggled weapons to prisoner laborers, promising them freedom and offworld escape funds in return for staging a diversion. Following the poisoning of [[kino-yuba-foust|Kino Yuba Foust]], McKarney led an armored strike team from the east to loot the warehouse. He was intercepted by [[sky|Sky]] and subsequently killed in close-quarters blade combat by [[sarik|Sarik]] (Sessions 31–32).
+
+## Related pages
+
+- [[rainford-ruby|Rainford Ruby]]
+- [[foust-refinery|Foust Refinery]]
+- [[sarik|Sarik]]

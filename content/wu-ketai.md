@@ -46,6 +46,7 @@ By 212-1105, the Subsector and Imperial authorities had each opened an investiga
 - **Core Laboratories Penetration**: Wu-Ketai operates sterile central research laboratories accessed through a concealed security door in [[the-blue-moose|The Blue Moose]] tavern's utility closet, where outside scientists such as [[george-castle|Dr. George Castle]] have been deployed (Session 36).
 
 ## Related pages
+
 - [[david-ives|David Ives]]
 - [[suliman|Suliman]]
 - [[freeport|Freeport]]

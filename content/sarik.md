@@ -351,6 +351,7 @@ Sarik rested after suffering the bends during the flight to [[the-cove|The Cove]
 - **Days 233–234:** [[hill-monkey|Hill monkeys]] took his goggles from the camp. He tracked a [[rock-squid|rock squid]] that had recently crossed the route and guided the party around it (Session 84).
 
 ## Related pages
+
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
 - [[nuclear-warhead|Nuclear Warhead]]

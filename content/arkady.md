@@ -1,25 +1,21 @@
 ---
 title: "Arkady"
+type: person
+category: people
 tags:
-  - person
-  - scavenger
-  - metropolis
+  - people
+  - npc
 aliases:
   - The Old Man
   - Old Man
-links:
-  - "[[the-bell]]"
-  - "[[metropolis-station]]"
-  - "[[monarch]]"
-  - "[[bias-ccr]]"
-category: person
+sessions: [58, 59, 61, 62, 65]
+last_updated: 2026-11-09
 ---
-
 # Arkady
 
 **Summary**: Elderly scavenger-diver living aboard [[the-bell|The Bell]] outside [[metropolis-station|Metropolis Station]], the contact known in briefings as "The Old Man" and BIAS CCR's guide to the station's dangers.
 
-**Last updated**: 2026-10-13
+**Last updated**: 2026-11-09
 
 ---
 
@@ -59,6 +55,7 @@ In a private interview on Day 190 with **[[asher|Asher]]** in his quarters (Sess
 - **Group Diving Protocol**: Reiterated that diving teams must always exit the station together to prevent Monarch from picking off or duplicating solitary divers.
 
 ## Related pages
+
 - [[magnus|Magnus]]
 - [[ghost-eater|Ghost Eater]]
 - [[noriko|Noriko]]

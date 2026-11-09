@@ -78,6 +78,7 @@ During the flight to [[the-cove|The Cove]], [[isambard|Isambard]] taught Kira an
 Kira stayed aboard the [[raconteur|Raconteur]] when the team went down to [[tutin|Tutin]] on Day 230-1105 (Session 82).
 
 ## Related pages
+
 - [[metropolis-station|Metropolis Station]]
 - [[monarch|Monarch]]
 - [[silas|Silas]]

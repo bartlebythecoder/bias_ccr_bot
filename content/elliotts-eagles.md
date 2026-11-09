@@ -35,4 +35,5 @@ Recognizing the rare metals warehouse as the vital objective, [[bias-ccr|BIAS CC
 [[isambard|Isambard]] recalled hiring Elliott's Eagles when the crew weighed mercenary support for the [[tutin|Tutin]] rescue. [[hunters-heroes|Hunter's Heroes]] were also in the system (Session 80). In the end the crew agreed to bring no extra mercenaries (Session 82).
 
 ## Related pages
+
 - [[hunters-heroes|Hunter's Heroes]]

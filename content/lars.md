@@ -1,26 +1,18 @@
 ---
 title: "Lars"
+type: person
+category: people
 tags:
-  - person
-  - diver
-  - clone
-  - metropolis
-links:
-  - "[[saltpeter]]"
-  - "[[monarch]]"
-  - "[[arkady]]"
-  - "[[metropolis-station]]"
-  - "[[golden-rat-statue]]"
-  - "[[kevyn-barker]]"
-  - "[[bias-ccr]]"
-category: person
+  - people
+  - npc
+sessions: [61, 62]
+last_updated: 2026-11-09
 ---
-
 # Lars
 
 **Summary**: Young scavenger-diver in a tricorn hat, abandoned by [[saltpeter|the Saltpeter]]'s crew on [[metropolis-station|Metropolis Station]] and rescued by BIAS CCR.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -44,6 +36,7 @@ Arkady revealed that any scavenger returning alone from the depths is a biologic
 Back aboard *The Bell*, Lars's former crewmate and partner **[[magnus|Magnus]]** was desperately waiting for him (Session 62). Unaware of Lars's breakdown, cloning, and subsequent execution by Arkady, Magnus implored the *BIAS CCR* crew to relay the message that he would never depart *The Bell* without him.
 
 ## Related pages
+
 - [[magnus|Magnus]]
 - [[monarch|Monarch]]
 - [[arkady|Arkady]]

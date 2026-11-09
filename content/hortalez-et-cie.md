@@ -51,6 +51,7 @@ The Kidderminster Subsector headquarters are located on [[arico-el-nuevo|Arico E
 As Wu-Ketai's largest shareholder, Hortalez et Cie saw its share price fall after Subsector and Imperial authorities opened investigations into illegal aging experiments at [[suliman|Suliman]]. Hortalez denies any knowledge of the experiments. Rival Tukera Lines bought an undisclosed number of shares from Hortalez, reportedly under pressure from the Imperial governor's office. Hortalez stock fell 3 to 183 on the Arico exchange ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Related pages
+
 - [[wu-ketai|Wu-Ketai]]
 - [[david-ives|David Ives]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]

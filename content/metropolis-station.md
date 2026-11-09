@@ -138,6 +138,7 @@ Metropolis is a legendary, highly classified space station rumored to exist in a
   - **4.5-Hour Detonation Countdown**: By pacifying the ghost with EMP blasts and Beck's psychological profiling book (disguised as the diary), Asher successfully hacked the mainframe with the Ancient Orb's assistance, overriding the detonation sequence to set a **4.5-hour delay** before the station's nuclear destruction (Session 78).
 
 ## Related pages
+
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
 - [[nuclear-warhead|Nuclear Warhead]]
 - [[silas|Silas]]

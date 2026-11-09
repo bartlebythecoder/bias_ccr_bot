@@ -1,18 +1,18 @@
 ---
 title: "Cadre"
+type: person
+category: people
 tags:
-  - person
-  - civilian
-  - entertainment
-  - freeport
-category: person
+  - people
+  - npc
+sessions: [45]
+last_updated: 2026-11-09
 ---
-
 # Cadre
 
 **Summary**: [[club-strata|Club Strata]] bartender and friend of [[louise-soto|Louise Soto]] who had warned her about her violent ex-boyfriend [[david-parker|David Parker]].
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -26,7 +26,8 @@ On Day 130-1105, during [[bias-ccr|BIAS CCR]]'s homicide inquiries into the deat
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[club-strata|Club Strata]] (Workplace)
 - [[louise-soto|Louise Soto]] (Acquaintance)
 - [[david-parker|David Parker]]

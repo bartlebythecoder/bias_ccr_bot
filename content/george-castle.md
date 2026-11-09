@@ -32,6 +32,7 @@ Castle met BIAS CCR at Red's Restaurant in Delta Green at 3 AM on Day 117-1105 t
 - **Lead to David Orana**: While unfamiliar with [[richard-lundquist|Richard Lundquist]], Castle connected the team to colleague [[david-orana|David Orana]], which ultimately led the operatives to uncover [[project-echo-bloom|Project Echo Bloom]] at the Care Facility.
 
 ## Related pages
+
 - [[david-orana|David Orana]]
 - [[project-echo-bloom|Project Echo Bloom]]
 - [[black-globe-generator|Black Globe Generator]]

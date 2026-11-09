@@ -1,24 +1,18 @@
 ---
 title: "Dr. Harknett"
+type: person
+category: people
 tags:
-  - person
-  - science
-  - corporate
-aliases:
-  - Dr. Harknett
-links:
-  - "[[suliman]]"
-  - "[[wu-ketai]]"
-  - "[[dr-young]]"
-  - "[[project-echo-bloom]]"
-category: person
+  - people
+  - npc
+sessions: [38]
+last_updated: 2026-11-09
 ---
-
 # Dr. Harknett
 
 **Summary**: Elderly chief scientist and nominal head of [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] laboratories, suspected of being a figurehead for [[dr-young|Dr. Young]].
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -26,3 +20,10 @@ category: person
 
 ## Laboratory Leadership
 Regarded by junior researchers and support staff as an amiable and polite senior scientist, Dr. Harknett oversees the entire core laboratory complex. However, recent changes in management structure have led operatives of [[bias-ccr|BIAS CCR]] to suspect that Harknett may be a figurehead manipulated, shadowed, or coerced by his aggressive subordinate, [[dr-young|Dr. Young]] (Session 38).
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[wu-ketai|Wu-Ketai]]
+- [[dr-young|Dr. Young]]
+- [[project-echo-bloom|Project Echo Bloom]]

@@ -50,6 +50,7 @@ At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simia
 Tomas set out north with the team on Day 232. On the march the simians fed the [[hill-monkey|hill monkeys]] that raided the camp, despite being told not to give them equipment (Session 84).
 
 ## Related pages
+
 - [[isaiah|Isaiah]]
 - [[the-man-with-the-gun|The Man With The Gun]]
 - [[sky|Sky]]

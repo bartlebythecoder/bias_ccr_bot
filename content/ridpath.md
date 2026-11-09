@@ -1,21 +1,21 @@
 ---
 title: "Ridpath"
+type: person
+category: people
 tags:
-  - person
-  - legal
-  - eternity-station
-  - freeport
+  - people
+  - npc
 aliases:
   - Attorney Ridpath
   - Mr. Ridpath
-category: person
+sessions: [45, 48, 49, 56, 57]
+last_updated: 2026-11-09
 ---
-
 # Ridpath
 
 **Summary**: [[freeport|Freeport]] attorney who acts as [[yandee|Demon Prince Yandee]]'s legal counsel and BIAS CCR's only channel to her.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -45,7 +45,8 @@ Following the assassination of [[orslo-jollynn|Marie Orslo Jollynn]], BIAS CCR t
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[yandee|Demon Prince Yandee]] (Patron / Employer)
 - [[meinhoff-brigade|Meinhoff Brigade]] (Underworld syndicate)
 - [[freeport|Freeport]] (Operating base)

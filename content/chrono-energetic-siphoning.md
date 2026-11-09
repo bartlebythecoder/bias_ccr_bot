@@ -38,6 +38,7 @@ Internal corporate records and Care Facility admissions confirmed the device was
 On Day 117-1105, [[bias-ccr|BIAS CCR]] breached the central chrono lab facility on Suliman using the biometric authentication of captured supervisor [[dr-vance|Dr. Vance]] amid a diversionary simian revolt (Session 39). The operatives confronted two hiding research scientists and recorded extensive video telemetry directly documenting the operational machinery and architectural layout of the siphoning complex, securing incontrovertible physical evidence for client [[joanna-lundquist|Joanna Lundquist]] before escaping into deep space (Session 39).
 
 ## Related pages
+
 - [[project-echo-bloom|Project Echo Bloom]]
 - [[dr-vance|Dr. Vance]]
 - [[wu-ketai|Wu-Ketai]]

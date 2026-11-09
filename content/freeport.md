@@ -44,6 +44,7 @@ On Day 105, Year 1105, the crew of the [[raconteur|Raconteur]] arrived at Freepo
 On Day 130, Year 1105, BIAS CCR returned to Freeport to pursue their MCr 2.0 contract against [[the-stratemeyers|The Stratemeyers]] (Session 45). Meeting with syndicate attorney [[ridpath|Ridpath]] and [[inspector-coker|Inspector Coker]], the operatives investigated the assassination of [[wu-ketai|Wu-Ketai]] designer [[louise-soto|Louise Soto]] in The Lux entertainment district outside [[club-strata|Club Strata]], identifying illegal projectile ballistics and suspecting syndicate involvement behind the purported domestic violence cover of [[david-parker|David Parker]] (Session 45).
 
 ## Related pages
+
 - [[arico-gangs|Gangs of Arico]]
 - [[arico-el-nuevo|Arico El Nuevo]]
 - [[wu-ketai|Wu-Ketai]]

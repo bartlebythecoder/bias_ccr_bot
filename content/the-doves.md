@@ -68,6 +68,7 @@ In Session 79 (Session 79):
 - **Annihilation in Nuclear Detonation**: When the strategic [[nuclear-warhead|Nuclear Warhead]] detonated at 20:30 hours on Day 208, the docked and blockading Psalmist warship and its escort craft were engulfed in the nuclear blast radius and completely obliterated.
 
 ## Related pages
+
 - [[george-castle|George Castle]]
 - [[conway|Officer Conway]]
 - [[nuclear-warhead|Nuclear Warhead]]

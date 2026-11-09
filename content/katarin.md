@@ -1,23 +1,18 @@
 ---
 title: "Katarin"
+type: person
+category: people
 tags:
-  - person
-  - civilian
-  - underworld
-links:
-  - "[[eternity-station]]"
-  - "[[harvon-sargon]]"
-  - "[[ricardo]]"
-  - "[[isambard]]"
-  - "[[asher]]"
-category: person
+  - people
+  - npc
+sessions: [41, 42]
+last_updated: 2026-11-09
 ---
-
 # Katarin
 
 **Summary**: Girlfriend of [[harvon-sargon|Harvon Sargon]] on [[eternity-station|Eternity Station]] who sold BIAS CCR information about him.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -30,3 +25,11 @@ Refusing Asher's initial offer of Cr 1,000 and off-station passage, Katarin dema
 
 ## Murder Interrogation & The Secret Wife
 Following Sargon's murder later that day, BIAS CCR questioned Katarin again (Session 42). Displaying a bloodied knife, Katarin claimed she could have killed him in her own style, but denied committing the murder. She disclosed that [[sargons-wife|Sargon's Wife]] was residing on the station in Bunk 43. However, subsequent oxygen stick logs obtained by [[reidmar|Reidmar]] placed Katarin and [[mosh|Mosh]] directly in Sargon's corridor during the timeframe of the homicide (Session 42).
+
+## Related pages
+
+- [[eternity-station|Eternity Station]]
+- [[harvon-sargon|Harvon Sargon]]
+- [[ricardo|Ricardo]]
+- [[isambard|Isambard]]
+- [[asher|Asher]]

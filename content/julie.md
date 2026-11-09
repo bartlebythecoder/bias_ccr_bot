@@ -1,22 +1,21 @@
 ---
 title: "Julie (Telepathic Assassin)"
+type: person
+category: people
 tags:
-  - person
-  - psionic
-  - assassin
-  - antagonist
-  - freeport
+  - people
+  - npc
 aliases:
   - The Fake Julie
   - Telepathic Assassin
-category: person
+sessions: [47, 48, 49]
+last_updated: 2026-11-09
 ---
-
 # Julie (Telepathic Assassin)
 
 **Summary**: Psionic assassin who posed as a colleague of [[louise-soto|Louise Soto]] to infiltrate BIAS CCR and abduct [[sarik|Sarik]].
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -57,7 +56,8 @@ After facing down a brief standoff when Sky drew a combat blade, Julie was allow
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[sarik|Sarik]] (Kidnap victim)
 - [[bias-ccr|BIAS CCR]] (Adversaries turned uneasy contractors)
 - [[ridpath|Attorney Ridpath]] (Negotiator & legal intermediary)

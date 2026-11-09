@@ -32,6 +32,7 @@ Over time, the syndicate expanded into extortion, kidnapping, and interplanetary
 - **Internal Leadership Cleanup (Day 133-1105)**: Amidst mounting investigations into [[omni|Omni]] and precursor research, syndicate assassin [[the-man-with-the-gun|Richard (The Man With The Gun)]]—who served as Jollynn's personal bodyguard—murdered money-laundering administrator [[starka-pramerski|Starka Pramerski]] in a Freeport mall restroom, staging it as a drug overdose before being uncovered by [[bias-ccr|BIAS CCR]] (Session 54).
 
 ## Related pages
+
 - [[orslo-jollynn|Orslo Jollynn]]
 - [[jollynn-trust|Jollynn Trust]]
 - [[tora-takanabe|Tora Takanabe]]

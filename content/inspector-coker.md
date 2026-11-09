@@ -1,20 +1,20 @@
 ---
 title: "Inspector Coker"
+type: person
+category: people
 tags:
-  - person
-  - law_enforcement
-  - investigator
-  - freeport
+  - people
+  - npc
 aliases:
   - Coker
-category: person
+sessions: [45, 54]
+last_updated: 2026-11-09
 ---
-
 # Inspector Coker
 
 **Summary**: [[freeport|Freeport]] homicide detective leading the [[louise-soto|Louise Soto]] murder investigation, who treated it as a domestic killing.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -39,7 +39,8 @@ On Day 133-1105, Inspector Coker responded to a Freeport shopping mall where a p
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[freeport|Freeport]] (Jurisdiction)
 - [[ridpath|Attorney Ridpath]] (Legal interlocutor)
 - [[louise-soto|Louise Soto]] (Victim)

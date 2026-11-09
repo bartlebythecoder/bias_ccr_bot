@@ -172,6 +172,7 @@ That evening Sky went with [[asher|Asher]] and Isambard to find [[deborah|Debora
 At [[deborah|Deborah]]'s family home on Day 231, Sky recognised the machine attached to Sybil's husband Gerald as an ancient iron-lung-like device keeping his body breathing (Session 84). She then marched back to [[hampton|Hampton]] with [[asher|Asher]] and [[isambard|Isambard]].
 
 ## Related pages
+
 - [[one-handed-man|One-Handed Man]]
 - [[dana-westby|Dana Westby]]
 - [[lord-baltimore|Lord Baltimore]]

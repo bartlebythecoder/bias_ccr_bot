@@ -35,6 +35,7 @@ Beyond Arkady, *The Bell* hosts a small, hardened enclave of surviving scavenger
 At 20:30 hours on Day 208-1105, the strategic [[nuclear-warhead|Nuclear Warhead]] armed by [[bias-ccr|BIAS CCR]] detonated inside [[metropolis-station|Metropolis Station]] (Session 79). Because *The Bell* remained moored in immediate orbital proximity to the station, the habitat craft was caught in the epicenter of the cataclysmic thermonuclear blast and completely obliterated, likely killing Arkady and any remaining divers aboard.
 
 ## Related pages
+
 - [[arkady|Arkady]]
 - [[magnus|Magnus]]
 - [[ghost-eater|Ghost Eater]]

@@ -1,23 +1,20 @@
 ---
 title: "Marcus Fortune"
+type: person
+category: people
 tags:
-  - person
-  - security
-  - corporate
+  - people
+  - npc
 aliases:
   - Fortune
-links:
-  - "[[suliman]]"
-  - "[[wu-ketai]]"
-  - "[[project-chimera]]"
-category: person
+sessions: [35]
+last_updated: 2026-11-09
 ---
-
 # Marcus Fortune
 
 **Summary**: [[wu-ketai|Wu-Ketai]] Chief of Security on [[suliman|Suliman]], missing from his post when BIAS CCR arrived.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -32,3 +29,9 @@ As head of security, Fortune wields executive operational authority over interna
 On Day 115-1105, following a skirmish between [[bias-ccr|BIAS CCR]] and local agitators in [[the-warrens|The Warrens]], Fortune was reported completely unavailable and missing from his post, leaving subordinates like [[anderton|Officer Anderton]] to manage station crises (Session 35).
 
 Subsequent surveillance investigations conducted by [[asher|Asher]] and [[beck|Beck]] revealed that Fortune was seen leaving his private apartment surrounded by bodyguards, heading directly toward the core research laboratories—an unmonitored zone where missing scientist [[richard-lundquist|Richard Lundquist]] had also vanished (Session 35). Internal feeds further captured an unidentified patient in a medical bed being secretly moved through Fortune's private suite, linking his disappearance to clandestine bioengineering projects such as [[project-chimera|Project Chimera]].
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[wu-ketai|Wu-Ketai]]
+- [[project-chimera|Project Chimera]]

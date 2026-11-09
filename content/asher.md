@@ -344,6 +344,7 @@ Asher studied mechanics during the voyage. He told the crew he was unhappy that 
 - **Day 235:** No [[hill-monkey|hill monkeys]] visited the camp during his watch above the ranch. The kill switch had not yet been used (Session 84).
 
 ## Related pages
+
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
 - [[nuclear-warhead|Nuclear Warhead]]

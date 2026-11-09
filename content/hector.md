@@ -1,24 +1,20 @@
 ---
 title: "Hector"
+type: person
+category: people
 tags:
-  - person
-  - security
-  - corporate
+  - people
+  - npc
 aliases:
   - Officer Hector
-links:
-  - "[[suliman]]"
-  - "[[wu-ketai]]"
-  - "[[richard-lundquist]]"
-  - "[[derry]]"
-category: person
+sessions: [34, 35, 37]
+last_updated: 2026-11-09
 ---
-
 # Hector
 
 **Summary**: [[wu-ketai|Wu-Ketai]] security officer on [[suliman|Suliman]] and friend of [[richard-lundquist|Richard Lundquist]] who secretly briefed BIAS CCR, then disappeared himself.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -39,3 +35,10 @@ Advised by union leader [[carl-parker|Carl Parker]], [[bias-ccr|BIAS CCR]] track
 On Day 116-1105, corporate security officer [[anya-suliman|Anya]] interrogated [[asher|Asher]] and [[beck|Beck]], revealing that Hector Nilasen had mysteriously vanished shortly after his interaction with the party (Session 35). Subsequent surveillance hacking by Asher and Beck revealed Hector was last observed entering a packed cantina with extensive camera blind spots, joining Richard Lundquist and Security Chief [[marcus-fortune|Marcus Fortune]] among the missing (Session 35).
 
 On Day 117-1105, when Beck and Asher investigated the Suliman Care Facility following the cardiac arrest of Richard Lundquist, care worker [[elara|Elara]] confirmed that Hector had also been recently admitted as an elderly, senile patient (Session 37). Hector had been subjected to [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]] under [[project-echo-bloom|Project Echo Bloom]], having decades of his biological lifespan forcibly extracted to preserve corporate secrecy and rejuvenate recipients.
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[wu-ketai|Wu-Ketai]]
+- [[richard-lundquist|Richard Lundquist]]
+- [[derry|Derry]]

@@ -32,6 +32,7 @@ On Day 188-1105, operatives of [[bias-ccr|BIAS CCR]] entered the Level 1 Kitchen
 - **Significance**: The arrangement suggests that scavenging groups, surviving personnel, or aberrant synthetic servitors operating under [[monarch|Monarch]]'s domain have developed ritualistic, cultic practices or totemic superstitions within the isolation of the derelict station (Session 60).
 
 ## Related pages
+
 - [[metropolis-station|Metropolis Station]]
 - [[wu-ketai|Wu-Ketai]]
 - [[monarch|Monarch]]

@@ -1,26 +1,22 @@
 ---
 title: "Loshi"
+type: person
+category: people
 tags:
-  - person
-  - official
-  - laborer
+  - people
+  - npc
 aliases:
   - Dockmaster Loshi
-links:
-  - "[[eternity-station]]"
-  - "[[reidmar]]"
-  - "[[bias-ccr]]"
-  - "[[angus]]"
-category: person
+sessions: [40]
+last_updated: 2026-11-09
 ---
-
 # Loshi
 
 **Summary**: Dockmaster at [[eternity-station|Eternity Station]] who admitted BIAS CCR on their stolen [[wu-ketai|Wu-Ketai]] launch.
 
 ![[loshi.png]]
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -30,3 +26,10 @@ category: person
 On Day 118-1105, operatives of [[bias-ccr|BIAS CCR]] landed at Eternity Station aboard a stolen [[wu-ketai|Wu-Ketai]] launch craft carrying two uplifted simians, [[isaiah|Isaiah]] and [[tomas|Tomas]] (Session 40). Meeting with the operatives in his docking office, Loshi expressed deep skepticism over [[isambard|Isambard]]'s claim that they had won the corporate vessel in a card game. Loshi revealed that local information broker [[angus|Angus]] had already alerted him that the newcomers were suspected of being corporate spies or radical simian liberationists (Session 40).
 
 Accepting the team's cover credentials under [[petow|PETOW]], Loshi assessed the standard station oxygen tax and docking deposit, issuing the group a strict 24-hour pass. Because the operatives required more time to await extraction by pilot [[sky|Sky]], Loshi directed them to Teamster leader [[reidmar|Reidmar]] to negotiate a pass extension (Session 40).
+
+## Related pages
+
+- [[eternity-station|Eternity Station]]
+- [[reidmar|Reidmar]]
+- [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[angus|Angus]]

@@ -1,27 +1,20 @@
 ---
 title: "Kevyn Barker"
+type: person
+category: people
 tags:
-  - person
-  - intern
-  - wu-ketai
-  - metropolis
+  - people
+  - npc
 aliases:
   - Kevyn
-links:
-  - "[[metropolis-station]]"
-  - "[[wu-ketai]]"
-  - "[[monarch]]"
-  - "[[asher]]"
-  - "[[sarik]]"
-  - "[[bias-ccr]]"
-category: person
+sessions: [60, 62, 63]
+last_updated: 2026-11-09
 ---
-
 # Kevyn Barker
 
 **Summary**: Apparent [[wu-ketai|Wu-Ketai]] IT intern found locked in a gym locker on [[metropolis-station|Metropolis Station]], who passed a blood test but was later confirmed to be an advanced synthetic.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -43,7 +36,10 @@ During debriefings and scanner analysis in Session 62 (Session 62), the crew ver
 On Day 189-1105, upon returning to the Level 1 Employee Rec Center to verify the scene, the operatives found that the gym locker where Kevyn had initially been trapped had been violently pried open and forced, with evidence of struggle and no sign of Barker remaining (Session 63).
 
 ## Related pages
+
 - [[metropolis-station|Metropolis Station]]
 - [[wu-ketai|Wu-Ketai]]
 - [[monarch|Monarch]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[asher|Asher]]
+- [[sarik|Sarik]]

@@ -1,17 +1,18 @@
 ---
 title: "David Parker"
+type: person
+category: people
 tags:
-  - person
-  - suspect
-  - freeport
-category: person
+  - people
+  - npc
+sessions: [45, 46]
+last_updated: 2026-11-09
 ---
-
 # David Parker
 
 **Summary**: Violent ex-boyfriend of [[louise-soto|Louise Soto]] and the police's prime suspect in her murder, later found to have been abducted.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -28,7 +29,8 @@ category: person
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[louise-soto|Louise Soto]] (Former partner / Victim)
 - [[hunters-heroes|Hunter's Heroes]] (Abductors & Interrogators)
 - [[beck|Beck]] (Interrogator)

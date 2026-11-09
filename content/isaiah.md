@@ -61,6 +61,7 @@ At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simia
 Isaiah set out north with the team on Day 232 carrying seven gas masks, explosives and breaching charges. On the march the simians fed the [[hill-monkey|hill monkeys]] that raided the camp, despite being told not to give them equipment (Session 84).
 
 ## Related pages
+
 - [[isambard|Isambard]]
 - [[asher|Asher]]
 - [[sky|Sky]]

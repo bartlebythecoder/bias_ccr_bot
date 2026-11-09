@@ -281,6 +281,7 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - **Day 235:** No [[hill-monkey|hill monkeys]] visited the camp during his watch above the ranch (Session 84).
 
 ## Related pages
+
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
 - [[nuclear-warhead|Nuclear Warhead]]

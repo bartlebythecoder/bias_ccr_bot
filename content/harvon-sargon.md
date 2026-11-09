@@ -1,24 +1,20 @@
 ---
 title: "Harvon Sargon"
+type: person
+category: people
 tags:
-  - person
-  - underworld
-  - gambler
+  - people
+  - npc
 aliases:
   - Sargon
-links:
-  - "[[eternity-station]]"
-  - "[[meinhoff-brigade]]"
-  - "[[reidmar]]"
-  - "[[isambard]]"
-category: person
+sessions: [40, 41]
+last_updated: 2026-11-09
 ---
-
 # Harvon Sargon
 
 **Summary**: Meinhoff-linked high-stakes gambler on [[eternity-station|Eternity Station]] whose winning streak and later murder BIAS CCR investigated.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -36,3 +32,10 @@ During the extended game, observers [[sarik|Sarik]] and uplifted simian [[isaiah
 On Day 119-1105, BIAS CCR tracked Sargon's girlfriend [[katarin|Katarin]] in Section 2, leading them through street cyberneticist [[ricardo|Ricardo]] to elite practitioner [[solon|Solon]] in The Icebox (Session 41). Under armed duress, Solon confessed that he had surgically installed an illicit **"black box" neural module** into Sargon, granting him complete photographic recall of all cards and gestures at the tables (Session 41).
 
 BIAS CCR copied the surgical files and handed the evidence over to Teamster head [[reidmar|Reidmar]]. However, merely hours after Reidmar prepared to confront the [[meinhoff-brigade|Meinhoff Brigade]] leadership, Harvon Sargon was found **murdered** aboard the station (Session 41).
+
+## Related pages
+
+- [[eternity-station|Eternity Station]]
+- [[meinhoff-brigade|Meinhoff Brigade]]
+- [[reidmar|Reidmar]]
+- [[isambard|Isambard]]

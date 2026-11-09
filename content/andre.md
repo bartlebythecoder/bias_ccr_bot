@@ -1,18 +1,18 @@
 ---
 title: "Andre"
+type: person
+category: people
 tags:
-  - person
-  - civilian
-  - entertainment
-  - freeport
-category: person
+  - people
+  - npc
+sessions: [45]
+last_updated: 2026-11-09
 ---
-
 # Andre
 
 **Summary**: Bouncer at [[club-strata|Club Strata]] on [[freeport|Freeport]] who unknowingly carried [[hunters-heroes|Hunter's Heroes]]' surveillance bug after [[beck|Beck]] slipped it into his pocket.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -28,7 +28,8 @@ Later that evening, when [[beck|Beck]] discovered that operatives from rival mer
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[club-strata|Club Strata]] (Employer / Venue)
 - [[freeport|Freeport]]
 - [[louise-soto|Louise Soto]]

@@ -27,5 +27,6 @@ The ***Saltpeter*** is an independent salvage starship whose diving crew operate
 According to the tricorn-wearing diver [[lars|Lars]], the *Saltpeter* delivered a salvage team into Project Metropolis before abandoning Lars aboard the station approximately one week prior to the arrival of [[bias-ccr|BIAS CCR]] (Session 61).
 
 ## Related pages
+
 - [[lars|Lars]]
 - [[metropolis-station|Metropolis Station]]

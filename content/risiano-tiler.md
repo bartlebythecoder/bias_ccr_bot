@@ -1,20 +1,20 @@
 ---
 title: "Risiano Tiler"
+type: person
+category: people
 tags:
-  - person
-  - journalist
-  - investigator
-  - freeport
+  - people
+  - npc
+sessions: [47, 48]
 sources:
   - "[[news-1105-vol-10]]"
-category: person
+last_updated: 2026-11-09
 ---
-
 # Risiano Tiler
 
 **Summary**: Independent investigative journalist in the [[arico-el-nuevo|Arico]] system whose report on [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] experiments sparked two inquiries; shares leads with BIAS CCR.
 
-**Last updated**: 2026-10-13
+**Last updated**: 2026-11-09
 
 ---
 
@@ -38,7 +38,8 @@ Tiler later published an investigative report on illegal experiments at [[wu-ket
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[freeport|Freeport]] (Operating base)
 - [[bias-ccr|BIAS CCR]] (Allies / Informants)
 - [[sarik|Sarik]]

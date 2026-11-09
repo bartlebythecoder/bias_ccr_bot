@@ -325,6 +325,7 @@ As keeper of the shared funds, Beck paid Cr 10,000 each to [[isambard|Isambard]]
 - **Hill monkeys:** [[hill-monkey|Hill monkeys]] took her binoculars from the camp (Session 84).
 
 ## Related pages
+
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
 - [[nuclear-warhead|Nuclear Warhead]]

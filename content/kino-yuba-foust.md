@@ -1,23 +1,21 @@
 ---
 title: "Kino Yuba Foust"
+type: person
+category: people
 tags:
-  - person
-  - corporate
+  - people
+  - npc
 aliases:
   - Kino Foust
   - Foust
-links:
-  - "[[foust-refinery]]"
-  - "[[marcolandia]]"
-  - "[[bias-ccr]]"
-category: person
+sessions: [30, 31, 32]
+last_updated: 2026-11-09
 ---
-
 # Kino Yuba Foust
 
 **Summary**: Owner of the [[foust-refinery|Foust Refinery]] on [[marcolandia|Marcolandia]] who hired BIAS CCR to protect his stockpiled rare metals.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -31,3 +29,9 @@ Faced with severe transport and delivery bottlenecks that left his storage wareh
 
 ### Feud with Rainford Ruby and Refinery Defense
 Foust's fear of a robbery stemmed from having hired mercenaries to rob his cousin [[rainford-ruby|Rainford Ruby]]'s refinery a year earlier. During the subsequent attack on his own facility orchestrated by Ruby, Foust was poisoned at dinner by an infiltrated kitchen worker. He survived through prompt medical treatment provided by [[beck|Beck]] and the staff doctor. Following the successful defense of the warehouse and neutralization of [[larry-mckarney|Larry McKarney]] by [[bias-ccr|BIAS CCR]], Foust paid the agreed Cr 100,000 security fee alongside the Cr 250,000 heist thwart bonus (Sessions 31–32).
+
+## Related pages
+
+- [[foust-refinery|Foust Refinery]]
+- [[marcolandia|Marcolandia]]
+- [[bias-ccr|BIAS Corporate Conflict Resolution]]

@@ -1,18 +1,20 @@
 ---
 title: "Louise Soto"
+type: person
+category: people
 tags:
-  - person
-  - victim
-  - wu-ketai
-  - freeport
-category: person
+  - people
+  - npc
+sessions: [45, 50]
+sources:
+  - "[[news-1105-vol-7]]"
+last_updated: 2026-11-09
 ---
-
 # Louise Soto
 
 **Summary**: [[wu-ketai|Wu-Ketai]] graphic designer shot dead outside [[club-strata|Club Strata]] on [[freeport|Freeport]], whose murder BIAS CCR investigated.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -40,7 +42,8 @@ This critical evidence proved that Louise Soto was not targeted for corporate es
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[conde-borbon|Conde Borbon]] (Actual intended assassination target)
 - [[wu-ketai|Wu-Ketai Corporation]] (Employer)
 - [[freeport|Freeport]] (Residence & Death site)

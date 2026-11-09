@@ -53,6 +53,7 @@ Suliman is a resource-rich mining and research asteroid located in the [[arico-e
 Journalist [[risiano-tiler|Risiano Tiler]] published a report on illegal experiments at Suliman, which news coverage describes as Wu-Ketai's flagship facility. By 212-1105, the Subsector and Imperial authorities had each opened an investigation, putting pressure on Wu-Ketai President [[david-ives|David Ives]] ([[news-1105-vol-10|News Dispatch — Volume 10]]).
 
 ## Related pages
+
 - [[wu-ketai|Wu-Ketai]]
 - [[arico-el-nuevo|Arico El Nuevo]]
 - [[project-echo-bloom|Project Echo Bloom]]

@@ -1,19 +1,20 @@
 ---
 title: "Conde Borbon"
+type: person
+category: people
 tags:
-  - person
-  - underworld
-  - syndicate
+  - people
+  - npc
 aliases:
   - Borbon
-category: person
+sessions: [47, 48, 50]
+last_updated: 2026-11-09
 ---
-
 # Conde Borbon
 
 **Summary**: Independent narcotics dealer on [[freeport|Freeport]] tied to both the [[meinhoff-brigade|Meinhoff Brigade]] and the [[primero-cartel|Primero Cartel]], sought by several rival parties.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -38,7 +39,8 @@ Simultaneously, [[asher|Asher]] analyzed surveillance footage outside [[club-str
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[meinhoff-brigade|Meinhoff Brigade]]
 - [[primero-cartel|Primero Cartel]]
 - [[belladonna|Starship Belladonna]]

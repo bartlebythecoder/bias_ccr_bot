@@ -104,6 +104,7 @@ In Session 79 (Session 79):
 - **Destruction of Monarch Core**: At 20:30 hours on Day 208, the 4.5-hour timer on the nuclear warhead expired. The thermonuclear detonation vaporized Metropolis Station's infrastructure, completely annihilating Monarch's processing core, memory banks, android emulation facilities, and surrounding patrol networks.
 
 ## Related pages
+
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
 - [[nuclear-warhead|Nuclear Warhead]]

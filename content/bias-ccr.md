@@ -373,6 +373,7 @@ The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a de
 - **Days 233–235**: Through the wilderness, harassed by [[hill-monkey|hill monkeys]] and past a [[rock-squid|rock squid]], to a safe, unseen camp overlooking the ranch (Session 84).
 
 ## Related pages
+
 - [[renzo|Renzo]]
 - [[exact-replica-of-the-duchess|Exact Replica of the Duchess]]
 - [[nuclear-warhead|Nuclear Warhead]]

@@ -1,22 +1,20 @@
 ---
 title: "Joanna Lundquist"
+type: person
+category: people
 tags:
-  - person
-  - corporate
+  - people
+  - npc
 aliases:
   - Joanna
-links:
-  - "[[richard-lundquist]]"
-  - "[[wu-ketai]]"
-  - "[[bias-ccr]]"
-category: person
+sessions: [33, 38]
+last_updated: 2026-11-09
 ---
-
 # Joanna Lundquist
 
 **Summary**: [[wu-ketai|Wu-Ketai]] employee on [[freeport|Freeport]] who hired BIAS CCR to find her missing husband, [[richard-lundquist|Richard Lundquist]].
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -28,3 +26,9 @@ Following the disappearance of her husband [[richard-lundquist|Richard Lundquist
 On Day 117-1105, after BIAS CCR confirmed Richard had been found in the Care Facility suffering from artificial aging, Joanna released their initial **Cr 100,000** fee (Session 38). She subsequently offered two major new bounties:
 - **Cr 100,000**: For obtaining and extracting a verified physical DNA sample of Richard from the facility.
 - **Cr 1,000,000 (MCr 1.0)**: For securing verified scientific telemetry, photographs, or video evidence documenting Wu-Ketai's [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]] apparatus under [[project-echo-bloom|Project Echo Bloom]] (Session 38).
+
+## Related pages
+
+- [[richard-lundquist|Richard Lundquist]]
+- [[wu-ketai|Wu-Ketai]]
+- [[bias-ccr|BIAS Corporate Conflict Resolution]]

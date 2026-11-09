@@ -1,22 +1,20 @@
 ---
 title: "Richard Lundquist"
+type: person
+category: people
 tags:
-  - person
-  - corporate
+  - people
+  - npc
 aliases:
   - Richard
-links:
-  - "[[wu-ketai]]"
-  - "[[joanna-lundquist]]"
-  - "[[suliman]]"
-category: person
+sessions: [33, 34, 37]
+last_updated: 2026-11-09
 ---
-
 # Richard Lundquist
 
 **Summary**: [[wu-ketai|Wu-Ketai]] researcher who vanished on [[suliman|Suliman]] and was later found artificially aged in the Care Facility.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -30,3 +28,9 @@ According to his close friend, security guard [[hector|Hector Nilasen]], Richard
 ## Last Known Movements & The Red's Bar Altercation
 ## Discovery in the Care Facility & Fatal Cardiac Arrest
 On Day 117-1105, acting on intelligence from technician [[david-orana|David Orana]], [[beck|Beck]] and [[asher|Asher]] visited the Suliman Care Facility (Session 37). There they found that Richard had been subjected to [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]] under [[project-echo-bloom|Project Echo Bloom]], forcibly draining his youth and transforming him into a decrepit geriatric known to hospital staff as "Dickie Lundquist". Recognizing Beck, the withered researcher called out *"Richard Lundquist, Echo Bloom"* before collapsing into fatal cardiac arrest (Session 37).
+
+## Related pages
+
+- [[wu-ketai|Wu-Ketai]]
+- [[joanna-lundquist|Joanna Lundquist]]
+- [[suliman|Suliman]]

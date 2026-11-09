@@ -1,25 +1,20 @@
 ---
 title: "Dr. Vance"
+type: person
+category: people
 tags:
-  - person
-  - science
-  - corporate
+  - people
+  - npc
 aliases:
   - Vance
-links:
-  - "[[suliman]]"
-  - "[[wu-ketai]]"
-  - "[[project-echo-bloom]]"
-  - "[[chrono-energetic-siphoning]]"
-  - "[[bias-ccr]]"
-category: person
+sessions: [39]
+last_updated: 2026-11-09
 ---
-
 # Dr. Vance
 
 **Summary**: [[wu-ketai|Wu-Ketai]] scientist on [[suliman|Suliman]] who recaptured an escaped simian and walked into BIAS CCR's ambush in the animal pen labs.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -32,3 +27,11 @@ Upon re-entering the laboratory, Dr. Vance walked directly into an ambush staged
 
 ## Involuntary Key to the Chrono Lab
 As the liberated simians rampaged through the facility corridors creating a massive diversion, BIAS CCR wheeled Dr. Vance through the corridors to the sealed chrono lab. Using Dr. Vance's access keycard and biometric fingerprint, the operatives unlocked the high-security portal, granting them entry to document the operational [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]] apparatus under [[project-echo-bloom|Project Echo Bloom]] before fleeing the asteroid (Session 39).
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[wu-ketai|Wu-Ketai]]
+- [[project-echo-bloom|Project Echo Bloom]]
+- [[chrono-energetic-siphoning|Chrono-Energetic Siphoning]]
+- [[bias-ccr|BIAS Corporate Conflict Resolution]]

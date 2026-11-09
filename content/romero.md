@@ -1,23 +1,20 @@
 ---
 title: "Romero"
+type: person
+category: people
 tags:
-  - person
-  - technician
-  - underworld
+  - people
+  - npc
 aliases:
   - Informant Romero
-links:
-  - "[[suliman]]"
-  - "[[wu-ketai]]"
-  - "[[bias-ccr]]"
-category: person
+sessions: [35, 39]
+last_updated: 2026-11-09
 ---
-
 # Romero
 
 **Summary**: Underworld technician on [[suliman|Suliman]] who helped BIAS CCR tap the colony's surveillance cameras.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -28,3 +25,9 @@ On Day 116-1105, Romero offered his technical services to [[bias-ccr|BIAS CCR]] 
 
 ## Extraction to Freeport
 Having assisted BIAS CCR with surveillance intelligence, Romero secured a commitment from the team to help him flee the asteroid (Session 39). On Day 117-1105, during the climactic facility breach and simian breakout, the team contacted pilot [[sky|Sky]], instructing her to locate Romero and escort him onto an evacuation shuttle bound for [[freeport|Freeport]] before security sealed the station (Session 39).
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[wu-ketai|Wu-Ketai]]
+- [[bias-ccr|BIAS Corporate Conflict Resolution]]

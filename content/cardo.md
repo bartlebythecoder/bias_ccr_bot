@@ -1,22 +1,20 @@
 ---
 title: "Cardo"
+type: person
+category: people
 tags:
-  - person
-  - fixer
-  - underworld
+  - people
+  - npc
 aliases:
   - Broker Cardo
-links:
-  - "[[suliman]]"
-  - "[[bias-ccr]]"
-category: person
+sessions: [35]
+last_updated: 2026-11-09
 ---
-
 # Cardo
 
 **Summary**: Underworld fixer on [[suliman|Suliman]] who sold BIAS CCR covert access to the restricted [[apex|Apex]] Zenith sector for Cr 6,000.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -24,3 +22,8 @@ category: person
 
 ## Apex Access Broker
 On Day 116-1105, [[bias-ccr|BIAS CCR]] contacted Cardo to arrange covert access to the restricted Apex Zenith sector of Suliman. While Cardo initially demanded a fee of Cr 10,000, the operatives successfully negotiated the price down to Cr 6,000 before proceeding with their investigation (Session 35).
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[bias-ccr|BIAS Corporate Conflict Resolution]]

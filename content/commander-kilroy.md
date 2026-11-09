@@ -1,24 +1,20 @@
 ---
 title: "Commander Kilroy"
+type: person
+category: people
 tags:
-  - person
-  - military
-  - metropolis
+  - people
+  - npc
 aliases:
   - Kilroy
-links:
-  - "[[monarch]]"
-  - "[[arkady]]"
-  - "[[metropolis-station]]"
-category: person
-sessions: [80]
+sessions: [61, 66, 67, 68, 75, 80]
+last_updated: 2026-11-09
 ---
-
 # Commander Kilroy
 
 **Summary**: Former [[wu-ketai|Wu-Ketai]] naval commander at [[metropolis-station|Metropolis Station]], sworn enemy of [[monarch|Monarch]], who left the corporation to join the Redshirts.
 
-**Last updated**: 2026-10-27
+**Last updated**: 2026-11-09
 
 ---
 
@@ -53,6 +49,7 @@ In Session 75 (Session 75):
 At [[the-cove|The Cove]], Kilroy reappeared alongside [[lord-baltimore|Lord Baltimore]]. Formerly of [[wu-ketai|Wu-Ketai]] security at [[metropolis-station|Metropolis Station]], she confirmed that she had left the corporation and sought Redshirt help (Session 80).
 
 ## Related pages
+
 - [[raconteur|Raconteur]]
 - [[kira|Kira]]
 - [[the-bell|The Bell]]

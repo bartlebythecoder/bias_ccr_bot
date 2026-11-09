@@ -24,6 +24,7 @@ sessions: [68, 69, 70, 71, 74, 75, 77]
 - **The Past-Life Awakening Virus**: In Session 74, survivor android [[kira|Kira]] revealed that Damien engineered and released an insurgent cognitive software virus across Level 2. The virus forces newly awakened androids to recall memories of their past human lives prior to cognitive duplication, sowing chaos, confusion, and resistance to undermine [[monarch|Monarch]]'s totalitarian rule (Session 74).
 
 ## Related pages
+
 - [[kira|Kira]]
 - [[monarch|Monarch]]
 - [[metropolis-station|Metropolis Station]]

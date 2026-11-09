@@ -34,6 +34,7 @@ Following BIAS CCR's escape from the Tempest Company, Reidmar hid the operatives
 Later on Day 131-1105, in retaliation against the murder of hostages by [[the-stratemeyers|The Stratemeyers]], Reidmar mobilized the workforce and declared an indefinite general strike, halting all starship traffic and port logistics across Eternity Station ([[news-1105-vol-8|News Dispatch — Volume 8]]).
 
 ## Related pages
+
 - [[eternity-station|Eternity Station]]
 - [[meinhoff-brigade|Meinhoff Brigade]]
 - [[yandee|Yandee]]

@@ -42,6 +42,7 @@ The *Raconteur* is an Imperial Scout Service vessel on long-term loan to [[isamb
 After Metropolis, [[isambard|Isambard]] argued that the Raconteur left the crew too exposed, and the crew chose a navy-seized Light Reconnaissance Ship from [[lord-baltimore|Lord Baltimore]], to be collected on [[kidderminster|Kidderminster]] after the [[tutin|Tutin]] mission. The Raconteur carried the team to [[the-cove|The Cove]], [[marcolandia|Marcolandia]] and Tutin (Sessions 80–82).
 
 ## Related pages
+
 - [[the-bell|The Bell]]
 - [[metropolis-station|Metropolis Station]]
 - [[wu-ketai|Wu-Ketai]]

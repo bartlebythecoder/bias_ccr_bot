@@ -29,6 +29,7 @@ Janus is a secluded asteroid installation in the [[arico-el-nuevo|Arico El Nuevo
 - **Wu-Ketai & Metropolis Link**: On Day 130-1105, contracts exfiltrated by [[sarik|Sarik]] from the [[wu-ketai|Wu-Ketai]] corporate tower on [[freeport|Freeport]] proved active commercial and scientific ties between Wu-Ketai, Carbrooke Minerals, Janus asteroid, and Project [[metropolis-station|Metropolis]] (Session 46).
 
 ## Related pages
+
 - [[the-ancients|The Ancients]]
 - [[metropolis-station|Metropolis Station]]
 - [[sarik|Sarik]]

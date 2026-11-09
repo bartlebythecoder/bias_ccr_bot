@@ -1,18 +1,18 @@
 ---
 title: "Stadler"
+type: person
+category: people
 tags:
-  - person
-  - underworld
-  - broker
-  - freeport
-category: person
+  - people
+  - npc
+sessions: [46, 47, 48, 50, 52]
+last_updated: 2026-11-09
 ---
-
 # Stadler
 
 **Summary**: Information broker at the [[stardust-casino|Stardust Casino]] coffee shop who sold BIAS CCR footage of [[david-parker|David Parker]]'s abduction.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -39,7 +39,8 @@ Later that evening, [[sky|Sky]] returned to the Stardust Casino to purchase imme
 
 ---
 
-## Associated Entities
+## Related pages
+
 - [[freeport|Freeport]] (Operating base)
 - [[stardust-casino|Stardust Casino]] (Meeting place)
 - [[isambard|Isambard]] (Client)

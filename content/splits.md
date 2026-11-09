@@ -1,21 +1,18 @@
 ---
 title: "Splits"
+type: person
+category: people
 tags:
-  - person
-  - laborer
-  - gambler
-links:
-  - "[[suliman]]"
-  - "[[the-blue-moose]]"
-  - "[[isambard]]"
-category: person
+  - people
+  - npc
+sessions: [36]
+last_updated: 2026-11-09
 ---
-
 # Splits
 
 **Summary**: Card player at [[the-blue-moose|The Blue Moose]] on [[suliman|Suliman]] whose poker game gave [[isambard|Isambard]] useful rumors.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-09
 
 ---
 
@@ -23,3 +20,9 @@ category: person
 
 ## Poker Games with Isambard
 On Day 116-1105, Splits recognized [[isambard|Isambard]] from previous gambling games in the Warrens and invited him to join an ongoing card game. During their session, Isambard deliberately lost 500 credits to loosen the room's conversation, allowing Isambard to overhear crucial intelligence regarding [[ling-standard-products|LSP]] corporate espionage on Suliman and rumors that Wu-Ketai had been secretly breeding uplifted simians for over fifty years (Session 36).
+
+## Related pages
+
+- [[suliman|Suliman]]
+- [[the-blue-moose|The Blue Moose]]
+- [[isambard|Isambard]]
