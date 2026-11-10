@@ -39,6 +39,13 @@ According to [[deborah|Deborah]], Dr. Pearson has an office and guest suite on t
 
 Cover lies about a hundred yards from the building, and the surrounding mountains offer concealed observation points (Session 81).
 
+![[map_ranch.jpeg]]
+
+
+![[floorplan (1).jpg]]
+
+
+![[upper_floorplan (1).jpg]]
 ## Defenders & Security
 
 The residents are few, armed and dangerous, and wear combat armor. Few if any are conventional patrol guards, and there is no barracks, but their exact number is unknown. They may also have friends in Hampton (Session 81).
