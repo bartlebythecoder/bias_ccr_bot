@@ -1,6 +1,6 @@
 ---
 title: "Campaign Master Timeline"
-sessions: [80, 81, 82, 83]
+sessions: [80, 81, 82, 83, 84, 85]
 ---
 # Solo Subsector J — Campaign Master Timeline
 
@@ -161,3 +161,5 @@ sessions: [80, 81, 82, 83]
 | **Day 232** | Hampton → north | Team sets out north; kill switch recovered from its cache (Session 84). |
 | **Day 233–234** | Tutin wilderness | [[hill-monkey\|Hill monkeys]] raid the camp; Sarik steers the party around a [[rock-squid\|rock squid]] (Session 84). |
 | **Day 235** | Above [[the-ranch-near-hampton\|the ranch]] | Safe, unseen camp in the forest overlooking the ranch; defenses not yet disabled (Session 84). |
+| **Day 235** | Above [[the-ranch-near-hampton\|the ranch]] | Twenty-four hours observing the ranch: six guards, six-hour shifts, encrypted radio; kill switch held back for an alarm (Session 85). |
+| **Day 236** | Ambush site west of the ranch | Patrol ambushed: [[rajiv\|Rajiv]] killed and his [[nanite-belt\|Nanite Belt]] taken; [[rene-desjardins\|René Desjardins]] captured and questioned; Control calls for a check-in (Session 85). |

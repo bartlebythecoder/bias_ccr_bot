@@ -1,6 +1,6 @@
 ---
 title: "Belladonna"
-category: vessels
+category: systems
 created: 2026-09-20
 last_modified: 2026-09-20
 links:

@@ -1,6 +1,6 @@
 ---
 title: "BIAS CCR Campaign Ledger & Asset Tracker"
-sessions: [80, 81, 82, 83, 84]
+sessions: [80, 81, 82, 83, 84, 85]
 ---
 # Solo Subsector J — BIAS CCR Campaign Ledger & Asset Tracker
 
@@ -88,6 +88,10 @@ sessions: [80, 81, 82, 83, 84]
 | **Beetle Artifact** | Unknown | Sold to Lord Baltimore | Held by Beck until the sale (Session 81). |
 | **Data Drive 73** | Metropolis Goods Elevator | No longer held by the crew | Encrypted drive recovered by Asher (Sessions 74, 81). |
 | **Four Named Bullets** | Metropolis Filtration Hall | Sarik | Custom high-penetration munitions etched with precursor glyphs. |
+| **[[nanite-belt\|Nanite Belt]]** | Guard [[rajiv\|Rajiv]], ambush west of the ranch (Day 236) | BIAS CCR | Nanite belt that lets the ranch guards regenerate; use not yet known (Session 85). |
+| **Captured Patrol Radio** | Guards at [[the-ranch-near-hampton\|the ranch]] (Day 236) | BIAS CCR | Decryption computer deciphers incoming ranch transmissions (Session 85). |
+| **Kill Switch** | Redshirt Intelligence cache (Day 232) | [[asher\|Asher]] | Cuts the ranch's camera and alarm feeds; unused as of Day 236, held back for an alarm (Sessions 81, 84–85). |
+| **René's ID & Photograph of Jennifer** | [[rene-desjardins\|René Desjardins]] (Day 236) | [[sarik\|Sarik]] | Held as leverage against René (Session 85). |
 | **Psionic Clock Mechanism** | Mirassol Subterranean Pyramid | Left in situ / Destroyed | Ancient chronological gear mechanism connected to psionic frequencies. |
 
 ---

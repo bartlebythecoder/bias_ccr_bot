@@ -1,6 +1,7 @@
 ---
 title: "News Dispatch — Volume 7"
 type: news-dispatch
+category: dispatches
 tags:
   - news
   - in-universe-news

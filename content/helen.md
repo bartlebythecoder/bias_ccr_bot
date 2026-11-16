@@ -1,5 +1,6 @@
 ---
 title: "Helen"
+category: people
 tags:
   - npc
   - apparition

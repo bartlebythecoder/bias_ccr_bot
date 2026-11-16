@@ -1,5 +1,6 @@
 ---
 title: "Renzo"
+category: people
 tags:
   - ghost
   - npc

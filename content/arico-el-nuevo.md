@@ -9,7 +9,7 @@ links:
   - "[[raconteur]]"
   - "[[isambard]]"
   - "[[sarik]]"
-category: world
+category: systems
 ---
 
 # Arico El Nuevo

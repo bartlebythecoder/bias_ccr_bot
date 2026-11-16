@@ -11,7 +11,7 @@ links:
   - "[[bias-ccr]]"
   - "[[cloning]]"
   - "[[wu-ketai]]"
-category: concept
+category: lore_tech
 ---
 
 # Monarch

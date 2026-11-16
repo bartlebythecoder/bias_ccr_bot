@@ -9,7 +9,7 @@ links:
   - "[[isambard]]"
   - "[[bias-ccr]]"
   - "Imperial Scout Service"
-category: starship
+category: systems
 sessions: [80]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "The Chosen"
+category: lore_tech
 tags:
   - faction
   - caste

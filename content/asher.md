@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 # Asher
 
 **Summary**: Brilliant chemist and elite hacker originating from the impoverished world of [[pharr|Pharr]] and educated on [[nesvorny|Nesvorny]], serving as scientific and cyber infiltration specialist for the crew.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -343,6 +343,12 @@ Asher studied mechanics during the voyage. He told the crew he was unhappy that 
 - **Day 232:** He carries the phone-sized kill switch recovered from its cache, meant to disable [[the-ranch-near-hampton|the ranch]]'s sensors and cameras (Session 84).
 - **Day 235:** No [[hill-monkey|hill monkeys]] visited the camp during his watch above the ranch. The kill switch had not yet been used (Session 84).
 
+## Watching the Ranch & the Ambush (Session 85)
+
+- **Kill switch:** The team chose not to rely on the kill switch Asher carries, holding it back as a response to an alarm. It was still unused on Day 236 (Session 85).
+- **Day 236:** Asher covered the ambush west of [[the-ranch-near-hampton|the ranch]] and warned that [[rajiv|Rajiv]] could regenerate, prompting his decapitation (Session 85).
+- **René:** He argued for keeping [[rene-desjardins|René Desjardins]] alive to answer the radio check-ins (Session 85).
+
 ## Related pages
 
 - [[renzo|Renzo]]
@@ -508,3 +514,5 @@ Asher studied mechanics during the voyage. He told the crew he was unhappy that 
 - [[deborah|Deborah]]
 - [[admiral-grace-inn|Admiral Grace Inn]]
 - [[duquette|Duquette]]
+- [[rajiv|Rajiv]]
+- [[rene-desjardins|René Desjardins]]

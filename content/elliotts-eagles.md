@@ -10,7 +10,7 @@ links:
   - "[[bias-ccr]]"
   - "[[foust-refinery]]"
   - "[[marcolandia]]"
-category: organization
+category: factions
 sessions: [80]
 ---
 

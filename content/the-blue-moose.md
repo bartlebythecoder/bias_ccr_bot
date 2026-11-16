@@ -11,7 +11,7 @@ links:
   - "[[suliman]]"
   - "[[the-warrens]]"
   - "[[hector]]"
-category: location
+category: systems
 ---
 
 # The Blue Moose

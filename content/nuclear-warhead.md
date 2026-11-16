@@ -1,5 +1,6 @@
 ---
 title: "Nuclear Warhead"
+category: lore_tech
 tags:
   - weapon
   - ordnance

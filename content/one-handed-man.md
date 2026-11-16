@@ -7,7 +7,7 @@ tags:
   - bounty-hunter
 aliases:
   - The One-Handed Man
-category: character
+category: people
 ---
 # One-Handed Man
 

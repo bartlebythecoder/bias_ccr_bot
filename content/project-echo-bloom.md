@@ -14,7 +14,7 @@ links:
   - "[[richard-lundquist]]"
   - "[[hector]]"
   - "[[marcus-fortune]]"
-category: project
+category: lore_tech
 ---
 
 # Project Echo Bloom

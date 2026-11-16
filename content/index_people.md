@@ -67,7 +67,7 @@ title: "People & Operatives"
 - [[gunther-charm|Gunther Charm]]: Rig Manager in executive command of Morella Station on Romentino.
 - [[marius-hope|Marius Hope]]: Chief of Security at Morella Station responsible for facility surveillance.
 - [[hector|Hector]]: Wu-Ketai corporate security officer on Suliman and confidant of Richard Lundquist.
-- [[silas|Silas]]: Wu-Ketai checkpoint security officer on Suliman who interrogated Humphrey DuPont.
+- [[silas-suliman|Silas]]: Wu-Ketai checkpoint security officer on Suliman who interrogated Humphrey DuPont.
 - [[anya-suliman|Anya]]: Wu-Ketai security officer on Suliman who interrogated Emily Cora.
 - [[marcus-fortune|Marcus Fortune]]: Chief of Corporate Security on Suliman who mysteriously vanished en route to the core labs.
 - [[anderton|Anderton]]: Wu-Ketai corporate security officer on Suliman who detained the crew following the Warrens melee.
@@ -129,6 +129,8 @@ title: "People & Operatives"
 - [[fagan|Fagan]]: Black market antiquities and salvage fence on Eternity Station interested in purchasing heavy marbles.
 - [[leluz|Leluz]]: Underworld operative who leaked intelligence regarding an assassination contract.
 - [[duquette|Duquette]]: Boss of the ranch near Hampton where Dr. Pearson is held; head-mounted equipment, thought an android.
+- [[rene-desjardins|René Desjardins]]: Ranch guard captured in the Day 236 ambush; kept alive to answer the radio and gave details of the ranch defenses.
+- [[rajiv|Rajiv]]: Ranch guard killed by Sarik in the Day 236 ambush; wore a nanite belt.
 
 ---
 

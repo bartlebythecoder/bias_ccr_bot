@@ -1,6 +1,7 @@
 ---
 title: "News Dispatch — Volume 9"
 type: news-dispatch
+category: dispatches
 tags:
   - news
   - in-universe-news

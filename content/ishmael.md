@@ -5,7 +5,7 @@ tags:
   - npc
   - faction
   - metropolis
-category: character
+category: people
 ---
 # Ishmael
 

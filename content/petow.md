@@ -11,7 +11,7 @@ links:
   - "[[eternity-station]]"
   - "[[wu-ketai]]"
   - "[[loshi]]"
-category: organization
+category: factions
 ---
 
 # PETOW

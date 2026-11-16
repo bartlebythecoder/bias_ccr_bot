@@ -6,7 +6,7 @@ tags:
   - metropolis
 aliases:
   - Minotaur
-category: entity
+category: lore_tech
 ---
 # The Minotaur
 

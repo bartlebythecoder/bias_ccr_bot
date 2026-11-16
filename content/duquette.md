@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - npc
-sessions: [84]
-last_updated: 2026-11-09
+sessions: [84, 85]
+last_updated: 2026-11-16
 ---
 # Duquette
 
 **Summary**: Boss of [[the-ranch-near-hampton|the ranch near Hampton]] on [[tutin|Tutin]], where [[dr-pearson|Dr. Pearson]] is held; head-mounted equipment, possibly an [[ettailla-drive|Ettailla Drive]], makes [[deborah|Deborah]] think him an android.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -28,6 +28,13 @@ Deborah believes Duquette is an android because of the equipment attached to his
 
 The eight men who arrived carry rifles and radios and keep their weapons with them. Deborah saw one of them recover from a cut or bite within an hour, though she could not say whether technology or something innate explained it. The men had been able to leave the ranch and made trips to Hampton (Session 84).
 
+## At the Ranch (Session 85)
+
+- On the night of Day 235 a figure moved in the master suite; [[isambard|Isambard]] and [[asher|Asher]] guessed it was Duquette (Session 85).
+- The captured guard [[rene-desjardins|René Desjardins]] said Duquette stays mostly in the master bedroom, with **Alfred** as second-in-command and **Genrich** as third running the control center (Session 85).
+- The guards were hired for a month to frighten away anyone approaching, and nobody is allowed on or off the ranch (Session 85).
+- René swore allegiance against Duquette and offered to shoot him (Session 85).
+
 ## Related pages
 
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
@@ -37,3 +44,5 @@ The eight men who arrived carry rifles and radios and keep their weapons with th
 - [[hampton|Hampton]]
 - [[tutin|Tutin]]
 - [[bias-ccr|BIAS CCR]]
+- [[rene-desjardins|René Desjardins]]
+- [[nanite-belt|Nanite Belt]]

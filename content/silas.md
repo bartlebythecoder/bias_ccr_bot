@@ -1,5 +1,6 @@
 ---
 title: "Silas"
+category: lore_tech
 tags:
   - ai
   - sub-ai
@@ -12,11 +13,13 @@ sessions: [76]
 
 **Summary**: Independent sub-AI inside [[metropolis-station|Metropolis Station]] that operates outside [[monarch|Monarch]]'s control.
 
-**Last updated**: 2026-09-30
+**Last updated**: 2026-11-16
 
 ---
 
 **Silas** is an autonomous station sub-artificial intelligence operating within [[metropolis-station|Metropolis Station]] beyond the direct command and control of the rogue AI [[monarch|Monarch]] (Session 76).
+
+*(Not to be confused with [[silas-suliman|Silas]], the Wu-Ketai security officer on Suliman.)*
 
 ## Nature & Threat Profile
 

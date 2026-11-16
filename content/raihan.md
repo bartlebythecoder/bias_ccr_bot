@@ -1,5 +1,6 @@
 ---
 title: "Raihan"
+category: people
 tags:
   - npc
   - android

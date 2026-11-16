@@ -11,7 +11,7 @@ links:
   - "[[bias-ccr]]"
 sources:
   - "[[news-1105-vol-10]]"
-category: station
+category: systems
 ---
 
 # Freeport

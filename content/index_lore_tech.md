@@ -41,6 +41,7 @@ title: "Lore, Technology, Science & Relics"
 - [[cloning|Cloning and Memory Units]]: Traditional cloning methods, lethal fast-cloning breakdown, and failed SMU personality transfer experiments.
 - [[deleon|DeLeon]]: Proprietary anagathic life-extension drug developed by SuSAG, banned across worlds and rumored used by the Emperor.
 - [[ettailla-drive|Ettailla Drive]]: Extremely expensive Erebus Power head-mounted hard drive ("LaChat Hard Drive"), permanently implanted to give computer-like processing and memory.
+- [[nanite-belt|Nanite Belt]]: Nanite belt that lets the ranch guards on Tutin regenerate; one taken from Rajiv.
 - [[noavarite|Noavarite]]: Rare catalytic fuel-refining mineral mined under extreme conditions on Romentino by LSP; precursor to Starlight.
 - [[pressure-crystals|Pressure Crystals]]: Gravitationally formed crystalline matrices harvested from Nazca, essential for contra-grav drives.
 - [[project-chimera|Project Chimera]]: Classified Wu-Ketai corporate genetic engineering and uplift project on Suliman.

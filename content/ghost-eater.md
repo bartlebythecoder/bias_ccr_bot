@@ -5,7 +5,7 @@ tags:
   - npc
   - scavenger
   - cyborg
-category: character
+category: people
 ---
 # Ghost Eater
 

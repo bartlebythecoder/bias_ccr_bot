@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 # Sarik
 
 **Summary**: Former Imperial marine veteran of the [[sanlucar-civil-war|Sanlucar Civil War]] and Tutin colonist, operating as the heavy combatant and field operative for the crew.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -350,6 +350,11 @@ Sarik rested after suffering the bends during the flight to [[the-cove|The Cove]
 - **Day 232:** Sarik left his shotgun behind and navigated the team north toward [[the-ranch-near-hampton|the ranch]] (Session 84).
 - **Days 233–234:** [[hill-monkey|Hill monkeys]] took his goggles from the camp. He tracked a [[rock-squid|rock squid]] that had recently crossed the route and guided the party around it (Session 84).
 
+## The Ranch Ambush (Session 85)
+
+- **Day 236:** At the ambush site west of [[the-ranch-near-hampton|the ranch]], Sarik attacked [[rajiv|Rajiv]] with a knife, badly wounding him without damaging his radio. Once [[isaiah|Isaiah]] had caught and held him, Sarik killed and decapitated him so he could not regenerate (Session 85).
+- **René:** Sarik argued that [[rene-desjardins|René Desjardins]] should be killed. Overruled, he kept René's identification and a photograph of Jennifer, threatening her if René betrayed them (Session 85).
+
 ## Related pages
 
 - [[renzo|Renzo]]
@@ -520,3 +525,5 @@ Sarik rested after suffering the bends during the flight to [[the-cove|The Cove]
 - [[desperado-karaoke-bar|Desperado Karaoke Bar]]
 - [[rock-squid|Rock Squid]]
 - [[hill-monkey|Hill Monkey]]
+- [[rajiv|Rajiv]]
+- [[rene-desjardins|René Desjardins]]

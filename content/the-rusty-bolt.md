@@ -10,7 +10,7 @@ links:
   - "[[the-warrens]]"
   - "[[suliman]]"
   - "[[carl-parker]]"
-category: location
+category: systems
 ---
 
 # The Rusty Bolt

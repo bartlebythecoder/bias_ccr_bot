@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 # Isambard
 
 **Summary**: Former pirate, Imperial scout, and merchant marine who operates as the crew's mechanic, close-quarters combatant, and pilot-in-waiting for a surplus Type-S Scout ship.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -79,7 +79,7 @@ Rejoining the team on Day 92-1105, Isambard strongly opposed the Cr 75,000 intel
 On Day 93-1105, Isambard accompanied [[sarik|Sarik]] to the [[csabai-psalmist-center|Csabai Psalmist Center]] in [[basin-city|Basin City]] (Session 28). In the ground-floor chapel, Isambard engaged center head [[darlene-suitor|Darlene Suitor]] in a calculated argument, creating the distraction that enabled Sarik to slip past security and breach the upper executive suite (Session 28).
 
 ## Infiltration of Suliman as Humphrey DuPont
-On Day 115-1105, Isambard spearheaded [[bias-ccr|BIAS CCR]]'s undercover mission into the [[wu-ketai|Wu-Ketai]] mining asteroid [[suliman|Suliman]] assuming the persona of **Humphrey DuPont**, the primary spokesman for a workers' rights lobby group (Session 34). During isolated interrogations by corporate security officer [[silas|Silas]], Isambard demonstrated superb composure, convincingly framing their fact-finding mission and scheduled meetings with union organizer [[carl-parker|Carl Parker]] to clear security (Session 34).
+On Day 115-1105, Isambard spearheaded [[bias-ccr|BIAS CCR]]'s undercover mission into the [[wu-ketai|Wu-Ketai]] mining asteroid [[suliman|Suliman]] assuming the persona of **Humphrey DuPont**, the primary spokesman for a workers' rights lobby group (Session 34). During isolated interrogations by corporate security officer [[silas-suliman|Silas]], Isambard demonstrated superb composure, convincingly framing their fact-finding mission and scheduled meetings with union organizer [[carl-parker|Carl Parker]] to clear security (Session 34).
 
 During the subsequent melee in [[the-warrens|The Warrens]], Isambard urged dialogue before [[sarik|Sarik]] neutralized the attacker. When [[anderton|Officer Anderton]] intervened, Isambard surrendered his canister of pepper spray and maintained diplomatic poise, leveraging mentions of high-level connections to prevent formal charges during their overnight detention (Session 35). Following release on Day 116, Isambard won Cr 1,000 in a high-stakes poker game and negotiated a Cr 1,500 retainer with guide [[orla|Orla]] to assist in logistics and locate missing scientist [[richard-lundquist|Richard Lundquist]] (Session 35).
 
@@ -280,6 +280,12 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - **Loadout:** Setting out north on Day 232, he left his shotgun behind and carried a laser sniper rifle, a pistol and pepper spray (Session 84).
 - **Day 235:** No [[hill-monkey|hill monkeys]] visited the camp during his watch above the ranch (Session 84).
 
+## Watching the Ranch & the Ambush (Session 85)
+
+- **Day 235:** Isambard watched the guards through his PRIS binoculars, and that night saw a figure moving in the master suite, which he and [[asher|Asher]] took to be [[duquette|Duquette]] (Session 85).
+- **Day 236:** He lent his sniper rifle to [[sky|Sky]] for overwatch and took her gauss rifle, then covered the ambush west of [[the-ranch-near-hampton|the ranch]] (Session 85).
+- **René:** He said [[rene-desjardins|René Desjardins]] should be restrained and kept out of combat, and noticed René's patch reading "I am not a robot" (Session 85).
+
 ## Related pages
 
 - [[renzo|Renzo]]
@@ -359,7 +365,7 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - [[splits|Splits]]
 - [[anderton|Anderton]]
 - [[orla|Orla]]
-- [[silas|Silas]]
+- [[silas-suliman|Silas (Suliman)]]
 - [[the-warrens|The Warrens]]
 - [[project-chimera|Project Chimera]]
 
@@ -414,3 +420,4 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - [[slim|Slim]]
 - [[deborah|Deborah]]
 - [[duquette|Duquette]]
+- [[rene-desjardins|René Desjardins]]

@@ -5,15 +5,15 @@ category: people
 tags:
   - people
   - simian
-sessions: [40, 47, 49, 55, 56, 57, 58, 62, 80, 81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [40, 47, 49, 55, 56, 57, 58, 62, 80, 81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 
 # Isaiah
 
 **Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with BIAS CCR.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -60,6 +60,10 @@ At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simia
 
 Isaiah set out north with the team on Day 232 carrying seven gas masks, explosives and breaching charges. On the march the simians fed the [[hill-monkey|hill monkeys]] that raided the camp, despite being told not to give them equipment (Session 84).
 
+## The Ranch Ambush (Session 85)
+
+On Day 236 Isaiah covered the ambush west of [[the-ranch-near-hampton|the ranch]]. When the wounded guard [[rajiv|Rajiv]] fled, Isaiah ran after him and grappled him, holding him until [[sarik|Sarik]] killed him (Session 85).
+
 ## Related pages
 
 - [[isambard|Isambard]]
@@ -76,3 +80,4 @@ Isaiah set out north with the team on Day 232 carrying seven gas masks, explosiv
 - [[ledger|BIAS CCR Campaign Ledger & Asset Tracker]]
 - [[admiral-grace-inn|Admiral Grace Inn]]
 - [[hill-monkey|Hill Monkey]]
+- [[rajiv|Rajiv]]

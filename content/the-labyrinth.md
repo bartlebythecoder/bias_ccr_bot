@@ -5,7 +5,7 @@ tags:
   - metropolis
 aliases:
   - Labyrinth
-category: location
+category: systems
 ---
 # The Labyrinth
 

@@ -5,7 +5,7 @@ tags:
   - establishment
   - entertainment
   - freeport
-category: location
+category: systems
 ---
 
 # Stardust Casino

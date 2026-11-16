@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [6, 80, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [6, 80, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 # Sky
 
 **Summary**: Commercial flyer pilot at [[kc-station|K.C. Station]], former Imperial Marine, and [[cooper|Cooper]]'s local contact who joined the crew's raid on the [[mirassol-pyramid|Mirassol Pyramid]] for an equal share of artifacts.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -171,6 +171,10 @@ That evening Sky went with [[asher|Asher]] and Isambard to find [[deborah|Debora
 
 At [[deborah|Deborah]]'s family home on Day 231, Sky recognised the machine attached to Sybil's husband Gerald as an ancient iron-lung-like device keeping his body breathing (Session 84). She then marched back to [[hampton|Hampton]] with [[asher|Asher]] and [[isambard|Isambard]].
 
+## Overwatch at the Ranch (Session 85)
+
+On Day 236 Sky took overwatch with [[beck|Beck]] on the forested hill above [[the-ranch-near-hampton|the ranch]], carrying [[isambard|Isambard]]'s sniper rifle in exchange for her gauss rifle (Session 85).
+
 ## Related pages
 
 - [[one-handed-man|One-Handed Man]]
@@ -246,3 +250,4 @@ At [[deborah|Deborah]]'s family home on Day 231, Sky recognised the machine atta
 - [[tutin|Tutin]]
 - [[deborah|Deborah]]
 - [[hampton|Hampton]]
+- [[the-ranch-near-hampton|The Ranch near Hampton]]

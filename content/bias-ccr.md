@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [11, 80, 81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [11, 80, 81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 # BIAS Corporate Conflict Resolution
 
 **Summary**: Legally registered corporate consulting and private security firm established on [[romentino|Romentino]] by [[beck|Beck]], [[asher|Asher]], [[isambard|Isambard]], and [[sarik|Sarik]] as an operational cover.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -372,6 +372,11 @@ The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a de
 - **Day 232**: The whole team set out north, recovering the kill switch from its cache (Session 84).
 - **Days 233–235**: Through the wilderness, harassed by [[hill-monkey|hill monkeys]] and past a [[rock-squid|rock squid]], to a safe, unseen camp overlooking the ranch (Session 84).
 
+## Watching the Ranch & the Patrol Ambush (Session 85)
+
+- **Day 235**: Instead of using the kill switch at once, the team observed [[the-ranch-near-hampton|the ranch]] for twenty-four hours: six guards, six-hour shifts, encrypted radio, floodlights, motion sensors and cameras (Session 85).
+- **Day 236**: Ambushed the patrol west of the ranch. [[rajiv|Rajiv]] was killed and his [[nanite-belt|Nanite Belt]] taken; [[rene-desjardins|René Desjardins]] was captured and gave details of the ranch's chain of command and defenses, and was kept alive to answer the radio (Session 85).
+
 ## Related pages
 
 - [[renzo|Renzo]]
@@ -545,3 +550,6 @@ The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a de
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
 - [[dr-pearson|Dr. Pearson]]
 - [[duquette|Duquette]]
+- [[rene-desjardins|René Desjardins]]
+- [[rajiv|Rajiv]]
+- [[nanite-belt|Nanite Belt]]

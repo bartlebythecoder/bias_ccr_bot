@@ -4,7 +4,7 @@ tags:
   - character
   - npc
   - scavenger
-category: character
+category: people
 ---
 # Magnus
 

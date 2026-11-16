@@ -10,7 +10,7 @@ aliases:
 links:
   - "[[lars]]"
   - "[[metropolis-station]]"
-category: starship
+category: systems
 ---
 
 # Saltpeter

@@ -11,7 +11,7 @@ links:
   - "[[carl-parker]]"
   - "[[wu-ketai]]"
   - "[[the-rusty-bolt]]"
-category: location
+category: systems
 ---
 
 # The Warrens

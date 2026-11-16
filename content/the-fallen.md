@@ -1,5 +1,6 @@
 ---
 title: "The Fallen"
+category: lore_tech
 tags:
   - faction
   - caste

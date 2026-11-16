@@ -6,7 +6,7 @@ tags:
   - rival
 aliases:
   - Hunter's Heroes
-category: faction
+category: factions
 sessions: [80]
 ---
 

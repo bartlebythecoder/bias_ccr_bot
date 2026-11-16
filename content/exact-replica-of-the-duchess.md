@@ -1,5 +1,6 @@
 ---
 title: "Exact Replica of the Duchess"
+category: lore_tech
 tags:
   - clone
   - android

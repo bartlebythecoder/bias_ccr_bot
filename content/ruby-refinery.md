@@ -10,7 +10,7 @@ links:
   - "[[rainford-ruby]]"
   - "[[marcolandia]]"
   - "[[foust-refinery]]"
-category: facility
+category: systems
 ---
 
 # Ruby Refinery

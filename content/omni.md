@@ -1,6 +1,6 @@
 ---
 title: "Omni"
-category: organizations
+category: factions
 created: 2026-09-20
 last_modified: 2026-09-20
 links:

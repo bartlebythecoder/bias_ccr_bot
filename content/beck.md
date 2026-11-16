@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [1, 2, 3, 4, 5, 81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 # Beck
 
 **Summary**: High-society psychological profiler from [[kidderminster|Kidderminster]] who serves as medical specialist, interrogator, and social engineer for the crew.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -323,6 +323,11 @@ As keeper of the shared funds, Beck paid Cr 10,000 each to [[isambard|Isambard]]
 - **A promised visit:** Sybil, [[deborah|Deborah]]'s mother, expects Beck to come within days to examine her husband Gerald, who is in fact dead (Session 84).
 - **Rearguard:** On the night of Day 232, Beck watched for pursuers on the way north to [[the-ranch-near-hampton|the ranch]] and saw none, though the darkness limited her view (Session 84).
 - **Hill monkeys:** [[hill-monkey|Hill monkeys]] took her binoculars from the camp (Session 84).
+
+## Watching the Ranch (Session 85)
+
+- **Day 235:** Beck detected the ranch guards' encrypted communications and their radio check-ins about every thirty minutes (Session 85).
+- **Day 236:** She took overwatch with [[sky|Sky]] on the forested hill above [[the-ranch-near-hampton|the ranch]] during the ambush (Session 85).
 
 ## Related pages
 

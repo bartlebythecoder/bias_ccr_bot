@@ -1,5 +1,6 @@
 ---
 title: "Woman In Stained White Overalls"
+category: people
 tags:
   - npc
   - mystery

@@ -11,7 +11,7 @@ links:
   - "[[suliman]]"
   - "[[hector]]"
   - "[[richard-lundquist]]"
-category: location
+category: systems
 ---
 
 # Derry

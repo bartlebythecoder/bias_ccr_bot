@@ -7,15 +7,15 @@ tags:
   - simian
 aliases:
   - Thomas
-sessions: [40, 56, 57, 58, 80, 81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [40, 56, 57, 58, 80, 81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 
 # Tomas
 
 **Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with [[bias-ccr|BIAS CCR]] alongside [[isaiah|Isaiah]].
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -49,6 +49,10 @@ At the [[desperado-karaoke-bar|Desperado]], a local named Saul accused the simia
 
 Tomas set out north with the team on Day 232. On the march the simians fed the [[hill-monkey|hill monkeys]] that raided the camp, despite being told not to give them equipment (Session 84).
 
+## The Ranch Ambush (Session 85)
+
+On Day 236, at the ambush site west of [[the-ranch-near-hampton|the ranch]], Tomas restrained the guard [[rene-desjardins|René Desjardins]] and kept him from shouting, holding him while the others dealt with [[rajiv|Rajiv]] (Session 85).
+
 ## Related pages
 
 - [[isaiah|Isaiah]]
@@ -60,3 +64,5 @@ Tomas set out north with the team on Day 232. On the march the simians fed the [
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
 - [[admiral-grace-inn|Admiral Grace Inn]]
 - [[hill-monkey|Hill Monkey]]
+- [[rene-desjardins|René Desjardins]]
+- [[rajiv|Rajiv]]

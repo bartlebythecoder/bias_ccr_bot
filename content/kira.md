@@ -1,5 +1,6 @@
 ---
 title: "Kira"
+category: people
 tags:
   - npc
   - android

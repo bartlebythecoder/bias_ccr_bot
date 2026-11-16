@@ -13,7 +13,7 @@ links:
   - "[[david-ives]]"
 sources:
   - "[[news-1105-vol-10]]"
-category: corporation
+category: factions
 ---
 
 # Wu-Ketai

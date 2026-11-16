@@ -7,7 +7,7 @@ tags:
   - metropolis
 aliases:
   - The Child King
-category: character
+category: people
 ---
 # Child King
 

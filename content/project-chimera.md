@@ -12,7 +12,7 @@ links:
   - "[[suliman]]"
   - "[[richard-lundquist]]"
   - "[[asher]]"
-category: project
+category: lore_tech
 ---
 
 # Project Chimera

@@ -12,7 +12,7 @@ links:
   - "[[wu-ketai]]"
   - "[[monarch]]"
   - "[[bias-ccr]]"
-category: concept
+category: lore_tech
 ---
 
 # Golden Rat Statue

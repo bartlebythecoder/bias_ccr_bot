@@ -10,7 +10,7 @@ links:
   - "[[kino-yuba-foust]]"
   - "[[marcolandia]]"
   - "[[elliotts-eagles]]"
-category: facility
+category: systems
 ---
 
 # Foust Refinery

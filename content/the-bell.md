@@ -8,7 +8,7 @@ links:
   - "[[arkady]]"
   - "[[metropolis-station]]"
   - "[[bias-ccr]]"
-category: location
+category: systems
 ---
 
 # The Bell

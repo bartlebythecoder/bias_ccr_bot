@@ -12,7 +12,7 @@ links:
   - "[[carl-parker]]"
 sources:
   - "[[news-1105-vol-10]]"
-category: location
+category: systems
 ---
 
 # Suliman

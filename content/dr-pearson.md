@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - npc
-sessions: [11, 80, 81, 84]
-last_updated: 2026-11-09
+sessions: [11, 80, 81, 84, 85]
+last_updated: 2026-11-16
 ---
 # Dr. Pearson
 
 **Summary**: [[nesvorny-university|Nesvorny University]] archaeologist who wrote on [[ancient-orb|Ancient Orbs]], held hostage at [[the-ranch-near-hampton|a ranch]] on [[tutin|Tutin]] and target of BIAS CCR's covert rescue.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -34,6 +34,10 @@ On Day 231-1105 the former ranch worker [[deborah|Deborah]] described Pearson as
 
 The crew linked Pearson to their own interest in Ancient artifacts: the [[ancient-orb|Ancient Orb]] they gave the Redshirts in exchange for a ship still on its way, the [[mirassol-pyramid|Mirassol Pyramid]], and the Psalmists' habit of collecting artifacts (Session 84). By Day 235-1105 the team was camped above the ranch, watching it (Session 84).
 
+## The Guards (Session 85)
+
+The captured guard [[rene-desjardins|René Desjardins]] did not know who Pearson was or why he mattered. The guards had been hired for a month, and nobody is allowed on or off the ranch (Session 85).
+
 ## Related pages
 
 - [[deborah|Deborah]]
@@ -51,3 +55,4 @@ The crew linked Pearson to their own interest in Ancient artifacts: the [[ancien
 - [[lord-baltimore|Lord Baltimore]]
 - [[kidderminster|Kidderminster]]
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
+- [[rene-desjardins|René Desjardins]]

@@ -7,14 +7,14 @@ tags:
   - establishment
 aliases:
   - The Ranch
-sessions: [81, 82, 83, 84]
-last_updated: 2026-11-09
+sessions: [81, 82, 83, 84, 85]
+last_updated: 2026-11-16
 ---
 # The Ranch near Hampton
 
 **Summary**: Heavily defended luxury wilderness retreat on [[tutin|Tutin]], beyond the hills from [[hampton|Hampton]], run by [[duquette|Duquette]], where [[dr-pearson|Dr. Pearson]] is held hostage; target of [[bias-ccr|BIAS CCR]]'s covert Redshirt rescue mission.
 
-**Last updated**: 2026-11-09
+**Last updated**: 2026-11-16
 
 ---
 
@@ -64,11 +64,29 @@ Being spotted or causing trouble can raise the readiness level. There are no aut
 - **Eight armed men** arrived recently, carrying rifles and radios. They keep their weapons with them. Deborah saw one recover from a cut or bite within an hour, for reasons she could not explain.
 - The men had been able to leave the ranch and made trips to [[hampton|Hampton]].
 
+### Observed Security (Day 235, Session 85)
+
+From the forested slope the team watched the ranch for twenty-four hours. They counted six guards (of the eight Deborah reported, plus Duquette and Dr. Pearson), changing over roughly every six hours. The guards carry gauss rifles and wear cloth armor beneath their clothes rather than combat armor; their radio traffic is encrypted, with check-ins about every thirty minutes. Floodlights, motion sensors and security cameras surround the house. No vehicles came or went. At night a figure moved in the master suite, probably Duquette (Session 85).
+
+### René's Account (Day 236, Session 85)
+
+The captured guard [[rene-desjardins|René Desjardins]] told the crew (Session 85):
+
+- **Chain of command:** Duquette stays mostly in the master bedroom. **Alfred**, second-in-command, runs the control center in the great room; **Genrich**, third-in-command, relieves him there. They share an upstairs room and handle the motion sensors.
+- **Alarm drill:** on a warning the guards take cover, then put on combat armor; armored guards go outside while the others come in to suit up. Where the armor is kept is still unknown.
+- **Power:** the generator is in the basement, probably reached from the utility room.
+- **Orders:** the guards were hired for a month to frighten away anyone approaching; nobody is allowed on or off the ranch. René did not know who Dr. Pearson is.
+- **Regeneration:** the guards' fast healing comes from [[nanite-belt|nanite belts]]. René said he did not wear one.
+
+Deborah reported eight armed men. Six were seen, and one, [[rajiv|Rajiv]], is now dead; the full count is unconfirmed (Sessions 84–85).
+
 ## The Kill Switch
 
 The local Redshirt Intelligence contact identified the ranch's security frequency and hid a portable, illegal kill switch near the start of the approach. Carried to the ranch and activated, it cuts camera feeds and proximity-alarm signals to the central console. It does not stop the cameras themselves or affect ordinary communications. Activating it immediately raises the ranch from its lowest readiness level to the next (Session 81).
 
 On Day 232-1105 the team recovered the phone-sized kill switch from its marked cache; [[asher|Asher]] carries it. It disables the ranch's sensors and cameras within range. As of Day 235 it had not been used (Session 84).
+
+The switch might disrupt the ranch's encryption without stopping a warning, and the longer the team waited the more likely the ranch was to change its encryption and make it useless. The team chose to keep watching rather than move at once, and to hold the switch back as a response to an alarm. As of Day 236 it was still unused (Session 85).
 
 ## Approach Routes
 
@@ -96,6 +114,14 @@ The whole team set out north from Hampton on the afternoon of Day 232. [[sarik|S
 
 On Days 233–234, [[hill-monkey|hill monkeys]] searched the camp whenever it slept, taking Beck's binoculars and Sarik's goggles; Sarik also guided the party around a [[rock-squid|rock squid]] that had recently crossed their route. On Day 235, after rocky hills and then forest, the exhausted team made a safe, unseen camp overlooking the ranch. The ranch's defenses had not yet been disabled (Session 84).
 
+## Surveillance & Ambush (Days 235–236-1105)
+
+**Day 235:** Rather than strike at once with the kill switch, the team spent twenty-four hours observing the ranch from cover. [[isambard|Isambard]] watched through PRIS binoculars and [[beck|Beck]] picked up the guards' encrypted radio. The patrol of [[rajiv|Rajiv]] and [[rene-desjardins|René Desjardins]] was seen working the surrounding terrain. The team discussed intercepting it, splitting into ambush and overwatch teams, and routes to the house, and decided to ambush the patrol for information (Session 85).
+
+**Day 236:** Early in the day Beck and [[sky|Sky]] took overwatch on the forested hill, Sky with Isambard's sniper rifle and Isambard with her gauss rifle. The others waited at an ambush site west of the ranch and struck as the patrol headed out, leaving the most time before it was due back. [[sarik|Sarik]] badly wounded Rajiv with a knife, sparing his radio; [[tomas|Tomas]] restrained René; Isambard, [[asher|Asher]] and [[isaiah|Isaiah]] covered them. Rajiv fled and Isaiah grappled him. The team held fire, since a gauss rifle's hypersonic crack would carry. After Asher warned that Rajiv could regenerate, Sarik killed and decapitated him (Session 85).
+
+The team took Rajiv's [[nanite-belt|Nanite Belt]] and the patrol's radio, whose decryption computer can decipher incoming transmissions. René was kept alive to answer Control's check-ins. As the day ended he was held at the ambush site and the radio was calling for the patrol to check in (Session 85).
+
 ## Related pages
 
 - [[duquette|Duquette]]
@@ -109,3 +135,6 @@ On Days 233–234, [[hill-monkey|hill monkeys]] searched the camp whenever it sl
 - [[bias-ccr|BIAS Corporate Conflict Resolution]]
 - [[deborah|Deborah]]
 - [[slim|Slim]]
+- [[rene-desjardins|René Desjardins]]
+- [[rajiv|Rajiv]]
+- [[nanite-belt|Nanite Belt]]
