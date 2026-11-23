@@ -7,14 +7,14 @@ tags:
   - establishment
 aliases:
   - The Ranch
-sessions: [81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # The Ranch near Hampton
 
 **Summary**: Heavily defended luxury wilderness retreat on [[tutin|Tutin]], beyond the hills from [[hampton|Hampton]], run by [[duquette|Duquette]], where [[dr-pearson|Dr. Pearson]] is held hostage; target of [[bias-ccr|BIAS CCR]]'s covert Redshirt rescue mission.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -78,7 +78,7 @@ The captured guard [[rene-desjardins|René Desjardins]] told the crew (Session 8
 - **Orders:** the guards were hired for a month to frighten away anyone approaching; nobody is allowed on or off the ranch. René did not know who Dr. Pearson is.
 - **Regeneration:** the guards' fast healing comes from [[nanite-belt|nanite belts]]. René said he did not wear one.
 
-Deborah reported eight armed men. Six were seen, and one, [[rajiv|Rajiv]], is now dead; the full count is unconfirmed (Sessions 84–85).
+Deborah reported eight armed men. Six were seen, and one, [[rajiv|Rajiv]], is now dead. With Duquette the defenders number nine, but the count is unconfirmed: two were still unseen when the assault began (Sessions 84–86).
 
 ## The Kill Switch
 
@@ -122,6 +122,18 @@ On Days 233–234, [[hill-monkey|hill monkeys]] searched the camp whenever it sl
 
 The team took Rajiv's [[nanite-belt|Nanite Belt]] and the patrol's radio, whose decryption computer can decipher incoming transmissions. René was kept alive to answer Control's check-ins. As the day ended he was held at the ambush site and the radio was calling for the patrol to check in (Session 85).
 
+## The Assault (Day 236-1105)
+
+Late in the afternoon, with the sun setting, the team questioned [[rene-desjardins|René Desjardins]] about [[rajiv|Rajiv]]'s belt, whether it detected life signs or could be monitored at the ranch. [[sarik|Sarik]] adjusted it to fit and wore it. René said he could imitate Rajiv's voice and that the two usually patrolled together; [[beck|Beck]] judged him already frightened over the walkie-talkie. The patrol was due back within two hours (Session 86).
+
+The team reviewed the patrol routes, the two guards inside and the guards who passed through the autocourt. Isaiah noted that radio checks came every thirty minutes. They agreed to restrain René rather than leave a guard with him, and [[isambard|Isambard]] warned him to use only approved words on the radio. René stayed untied for the checks and gave the cover story about a [[rock-squid|rock squid]], but the calls grew more suspicious (Session 86).
+
+**The plan:** three teams — [[beck|Beck]] and [[sky|Sky]] on the northern terrace from the hill; [[sarik|Sarik]] and [[tomas|Tomas]] approaching by the terrace near the guest suite; and [[isambard|Isambard]], [[asher|Asher]] and [[isaiah|Isaiah]] breaching the Den from outside. Isaiah went ahead with a big-game rifle, Asher carried the breaching charge, Beck kept a gas mask and had six more to distribute, and Isambard wore Beck's chameleon suit. Both firing teams were to open on Beck's first shot (Session 86).
+
+**The attack:** Beck's switch failed to shut down the ranch systems and the cameras stayed active, so she told Sky to use automatic fire. Beck's armor-piercing round badly wounded **Aronis** without dropping him; Sky fired on Aronis and **Hedwig**; Sarik's automatic fire dropped **Brigitte** and wounded **Gertrude**. Asher's remote charge blew a hole in the wall of the Den. Sarik reported Aronis down, and after one more round from Beck he appeared dead. Sarik ordered Tomas to finish Brigitte and Gertrude, then ran for the guest suite. Asher relayed René's claim that Duquette was the only other person with a belt (Session 86).
+
+**Inside:** Sarik found an unarmed man crawling under a bed in the guest suite and had Tomas pull him out; he was [[dr-pearson|Dr. Pearson]], kept restrained and alive. Sky cleared the living room and entered the kitchen. Beck's two concussion rounds at an upstairs bedroom window both missed. Isambard reported someone upstairs. As Sarik looked across the foyer, an unidentified man in full battle armor came down the stairs with a Gauss rifle (Session 86).
+
 ## Related pages
 
 - [[duquette|Duquette]]
@@ -138,3 +150,4 @@ The team took Rajiv's [[nanite-belt|Nanite Belt]] and the patrol's radio, whose 
 - [[rene-desjardins|René Desjardins]]
 - [[rajiv|Rajiv]]
 - [[nanite-belt|Nanite Belt]]
+- [[aronis|Aronis]]

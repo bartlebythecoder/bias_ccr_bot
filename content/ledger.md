@@ -88,10 +88,13 @@ sessions: [80, 81, 82, 83, 84, 85]
 | **Beetle Artifact** | Unknown | Sold to Lord Baltimore | Held by Beck until the sale (Session 81). |
 | **Data Drive 73** | Metropolis Goods Elevator | No longer held by the crew | Encrypted drive recovered by Asher (Sessions 74, 81). |
 | **Four Named Bullets** | Metropolis Filtration Hall | Sarik | Custom high-penetration munitions etched with precursor glyphs. |
-| **[[nanite-belt\|Nanite Belt]]** | Guard [[rajiv\|Rajiv]], ambush west of the ranch (Day 236) | BIAS CCR | Nanite belt that lets the ranch guards regenerate; use not yet known (Session 85). |
+| **[[nanite-belt\|Nanite Belt]]** | Guard [[rajiv\|Rajiv]], ambush west of the ranch (Day 236) | Worn by [[sarik\|Sarik]] | Nanite belt that lets the ranch guards regenerate; adjusted to fit and worn from Day 236 (Sessions 85-86). |
 | **Captured Patrol Radio** | Guards at [[the-ranch-near-hampton\|the ranch]] (Day 236) | BIAS CCR | Decryption computer deciphers incoming ranch transmissions (Session 85). |
 | **Kill Switch** | Redshirt Intelligence cache (Day 232) | [[asher\|Asher]] | Cuts the ranch's camera and alarm feeds; unused as of Day 236, held back for an alarm (Sessions 81, 84–85). |
 | **René's ID & Photograph of Jennifer** | [[rene-desjardins\|René Desjardins]] (Day 236) | [[sarik\|Sarik]] | Held as leverage against René (Session 85). |
+| **Gas Masks** | Crew's own kit | Distributed before the assault (Day 236) | Beck kept one and had six more to hand out (Session 86). |
+| **Breaching Charge** | Crew's own kit | Expended (Day 236) | Remote charge placed by Asher; blew a hole in the wall of the Den (Session 86). |
+| **Big-Game Rifle** | Crew's own kit | Carried by [[isaiah\|Isaiah]] (Day 236) | Taken ahead of the third team during the assault (Session 86). |
 | **Psionic Clock Mechanism** | Mirassol Subterranean Pyramid | Left in situ / Destroyed | Ancient chronological gear mechanism connected to psionic frequencies. |
 
 ---

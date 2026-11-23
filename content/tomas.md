@@ -7,15 +7,15 @@ tags:
   - simian
 aliases:
   - Thomas
-sessions: [40, 56, 57, 58, 80, 81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [40, 56, 57, 58, 80, 81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 
 # Tomas
 
 **Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with [[bias-ccr|BIAS CCR]] alongside [[isaiah|Isaiah]].
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -52,6 +52,12 @@ Tomas set out north with the team on Day 232. On the march the simians fed the [
 ## The Ranch Ambush (Session 85)
 
 On Day 236, at the ambush site west of [[the-ranch-near-hampton|the ranch]], Tomas restrained the guard [[rene-desjardins|René Desjardins]] and kept him from shouting, holding him while the others dealt with [[rajiv|Rajiv]] (Session 85).
+
+## The Assault (Session 86)
+
+Tomas and [[sarik|Sarik]] approached the ranch by the terrace near the guest suite. During the fight he ran forward without firing as an alarm sounded inside the house, and was ordered by Sarik to finish **Brigitte** and **Gertrude** (Session 86).
+
+In the guest suite he pulled the unarmed [[dr-pearson|Dr. Pearson]] out from under a bed and kept him restrained, told to keep him subdued and alive (Session 86).
 
 ## Related pages
 

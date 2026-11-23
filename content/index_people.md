@@ -130,7 +130,8 @@ title: "People & Operatives"
 - [[leluz|Leluz]]: Underworld operative who leaked intelligence regarding an assassination contract.
 - [[duquette|Duquette]]: Boss of the ranch near Hampton where Dr. Pearson is held; head-mounted equipment, thought an android.
 - [[rene-desjardins|René Desjardins]]: Ranch guard captured in the Day 236 ambush; kept alive to answer the radio and gave details of the ranch defenses.
-- [[rajiv|Rajiv]]: Ranch guard killed by Sarik in the Day 236 ambush; wore a nanite belt.
+- [[rajiv|Rajiv]]: Ranch guard killed by Sarik in the Day 236 ambush; his nanite belt was taken and worn by Sarik.
+- [[aronis|Aronis]]: Armoured ranch defender wounded by Beck and Sky in the Day 236 assault; reported down and appeared dead.
 
 ---
 

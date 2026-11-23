@@ -1,6 +1,6 @@
 ---
 title: "Campaign Master Timeline"
-sessions: [80, 81, 82, 83, 84, 85]
+sessions: [80, 81, 82, 83, 84, 85, 86]
 ---
 # Solo Subsector J — Campaign Master Timeline
 
@@ -145,7 +145,7 @@ sessions: [80, 81, 82, 83, 84, 85]
 
 ---
 
-### Phase 8: The Cove & The Tutin Rescue (Days 209 – 235)
+### Phase 8: The Cove & The Tutin Rescue (Days 209 - 236)
 
 | In-Game Date | Location | Key Narrative Milestones |
 | :--- | :--- | :--- |
@@ -163,3 +163,6 @@ sessions: [80, 81, 82, 83, 84, 85]
 | **Day 235** | Above [[the-ranch-near-hampton\|the ranch]] | Safe, unseen camp in the forest overlooking the ranch; defenses not yet disabled (Session 84). |
 | **Day 235** | Above [[the-ranch-near-hampton\|the ranch]] | Twenty-four hours observing the ranch: six guards, six-hour shifts, encrypted radio; kill switch held back for an alarm (Session 85). |
 | **Day 236** | Ambush site west of the ranch | Patrol ambushed: [[rajiv\|Rajiv]] killed and his [[nanite-belt\|Nanite Belt]] taken; [[rene-desjardins\|René Desjardins]] captured and questioned; Control calls for a check-in (Session 85). |
+| **Day 236** | Above [[the-ranch-near-hampton\|the ranch]] | Questioned René about the belt; Sarik adjusted it to fit and wore it. Three teams took position; René worked the radio with the rock squid cover story as the calls grew suspicious (Session 86). |
+| **Day 236** | [[the-ranch-near-hampton\|The ranch]] | Assault at sunset: the shutdown failed and the cameras stayed active. Beck and Sky wounded [[aronis\|Aronis]] and Hedwig; Sarik's fire dropped Brigitte and wounded Gertrude; Asher's charge breached the Den (Session 86). |
+| **Day 236** | The ranch, guest suite | [[sarik\|Sarik]] and [[tomas\|Tomas]] found the unarmed [[dr-pearson\|Dr. Pearson]] hiding under a bed and kept him alive. An unidentified armoured man came down the stairs with a Gauss rifle (Session 86). |

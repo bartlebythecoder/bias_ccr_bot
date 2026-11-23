@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [6, 80, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [6, 80, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # Sky
 
 **Summary**: Commercial flyer pilot at [[kc-station|K.C. Station]], former Imperial Marine, and [[cooper|Cooper]]'s local contact who joined the crew's raid on the [[mirassol-pyramid|Mirassol Pyramid]] for an equal share of artifacts.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -174,6 +174,14 @@ At [[deborah|Deborah]]'s family home on Day 231, Sky recognised the machine atta
 ## Overwatch at the Ranch (Session 85)
 
 On Day 236 Sky took overwatch with [[beck|Beck]] on the forested hill above [[the-ranch-near-hampton|the ranch]], carrying [[isambard|Isambard]]'s sniper rifle in exchange for her gauss rifle (Session 85).
+
+## The Assault (Session 86)
+
+Sky and [[beck|Beck]] were to cover the northern terrace from the hill and open fire on Beck's first shot. When the shutdown failed and the cameras stayed active, Beck told Sky to use automatic fire (Session 86).
+
+Her Gauss rifle fire hit **Aronis** and **Hedwig**. After [[asher|Asher]]'s charge breached the Den she fired on Aronis again (Session 86).
+
+Later she cleared the living room and entered the kitchen (Session 86).
 
 ## Related pages
 

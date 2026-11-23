@@ -5,15 +5,15 @@ category: people
 tags:
   - people
   - simian
-sessions: [40, 47, 49, 55, 56, 57, 58, 62, 80, 81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [40, 47, 49, 55, 56, 57, 58, 62, 80, 81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 
 # Isaiah
 
 **Summary**: Articulate uplifted simian freed from [[wu-ketai|Wu-Ketai]]'s [[suliman|Suliman]] labs who chose to stay with BIAS CCR.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -63,6 +63,10 @@ Isaiah set out north with the team on Day 232 carrying seven gas masks, explosiv
 ## The Ranch Ambush (Session 85)
 
 On Day 236 Isaiah covered the ambush west of [[the-ranch-near-hampton|the ranch]]. When the wounded guard [[rajiv|Rajiv]] fled, Isaiah ran after him and grappled him, holding him until [[sarik|Sarik]] killed him (Session 85).
+
+## The Assault (Session 86)
+
+During the assault Isaiah reminded the team that patrol radio checks came every thirty minutes. He went ahead with a big-game rifle as the third team, with [[isambard|Isambard]] and [[asher|Asher]], to breach the Den from outside (Session 86).
 
 ## Related pages
 

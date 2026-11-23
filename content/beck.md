@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [1, 2, 3, 4, 5, 81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # Beck
 
 **Summary**: High-society psychological profiler from [[kidderminster|Kidderminster]] who serves as medical specialist, interrogator, and social engineer for the crew.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -328,6 +328,13 @@ As keeper of the shared funds, Beck paid Cr 10,000 each to [[isambard|Isambard]]
 
 - **Day 235:** Beck detected the ranch guards' encrypted communications and their radio check-ins about every thirty minutes (Session 85).
 - **Day 236:** She took overwatch with [[sky|Sky]] on the forested hill above [[the-ranch-near-hampton|the ranch]] during the ambush (Session 85).
+
+## The Assault (Session 86)
+
+- **René:** She assessed the captured [[rene-desjardins|René Desjardins]] over the walkie-talkie and said he was already frightened (Session 86).
+- **The plan:** She and [[sky|Sky]] would cover the northern terrace from the hill. Beck kept a gas mask for herself and had six more to distribute, and lent [[isambard|Isambard]] her chameleon suit. Both firing teams were to open on her first shot (Session 86).
+- **The failed shutdown:** Beck pressed the switch intended to shut down the ranch systems, but the cameras remained active. She told Sky to use automatic fire (Session 86).
+- **The fight:** Her armor-piercing round badly wounded **Aronis** without dropping him; she and Sky fired on him again after the breach, and after her final round he appeared dead. She also fired two concussion rounds at an upstairs bedroom window; the first did not enter and the second went over the building. She heard sounds beneath them (Session 86).
 
 ## Related pages
 

@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # Sarik
 
 **Summary**: Former Imperial marine veteran of the [[sanlucar-civil-war|Sanlucar Civil War]] and Tutin colonist, operating as the heavy combatant and field operative for the crew.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -354,6 +354,15 @@ Sarik rested after suffering the bends during the flight to [[the-cove|The Cove]
 
 - **Day 236:** At the ambush site west of [[the-ranch-near-hampton|the ranch]], Sarik attacked [[rajiv|Rajiv]] with a knife, badly wounding him without damaging his radio. Once [[isaiah|Isaiah]] had caught and held him, Sarik killed and decapitated him so he could not regenerate (Session 85).
 - **René:** Sarik argued that [[rene-desjardins|René Desjardins]] should be killed. Overruled, he kept René's identification and a photograph of Jennifer, threatening her if René betrayed them (Session 85).
+
+## The Assault on the Ranch (Session 86)
+
+- **The belt:** Sarik questioned René about [[rajiv|Rajiv]]'s [[nanite-belt|Nanite Belt]], then adjusted it to fit and wore it himself (Session 86).
+- **Third team:** He and [[tomas|Tomas]] approached the ranch by the terrace near the guest suite (Session 86).
+- **The fight:** His automatic fire dropped **Brigitte** and wounded **Gertrude**. He then moved to a clearer firing position and reported **Aronis** down (Session 86).
+- **The order:** Sarik ordered Tomas to finish Brigitte and Gertrude, then ran to the guest suite (Session 86).
+- **Dr. Pearson:** He found the unarmed [[dr-pearson|Dr. Pearson]] crawling under a bed and had Tomas pull him out, telling Tomas to keep him subdued and alive (Session 86).
+- **The stairs:** Looking across the foyer, he saw an unidentified man in full battle armor coming down the stairs with a Gauss rifle (Session 86).
 
 ## Related pages
 

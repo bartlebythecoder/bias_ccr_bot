@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # Isambard
 
 **Summary**: Former pirate, Imperial scout, and merchant marine who operates as the crew's mechanic, close-quarters combatant, and pilot-in-waiting for a surplus Type-S Scout ship.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -285,6 +285,12 @@ Isambard takes the northern route to [[the-ranch-near-hampton|the ranch]] (Sessi
 - **Day 235:** Isambard watched the guards through his PRIS binoculars, and that night saw a figure moving in the master suite, which he and [[asher|Asher]] took to be [[duquette|Duquette]] (Session 85).
 - **Day 236:** He lent his sniper rifle to [[sky|Sky]] for overwatch and took her gauss rifle, then covered the ambush west of [[the-ranch-near-hampton|the ranch]] (Session 85).
 - **René:** He said [[rene-desjardins|René Desjardins]] should be restrained and kept out of combat, and noticed René's patch reading "I am not a robot" (Session 85).
+
+## The Assault (Session 86)
+
+- **The radio:** Isambard believed René had agreed to cooperate only to stay alive, and warned him to use only approved words on the radio, threatening him if he said anything else (Session 86).
+- **The plan:** He, [[asher|Asher]] and [[isaiah|Isaiah]] would breach the Den from outside. Isambard chose Isaiah to go ahead with a big-game rifle, and wore [[beck|Beck]]'s chameleon suit (Session 86).
+- **The breach:** He and Asher moved toward the Den while Asher set the remote charge, which blew a hole in the wall. Isambard reported someone upstairs (Session 86).
 
 ## Related pages
 

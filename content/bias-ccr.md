@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [11, 80, 81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [11, 80, 81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # BIAS Corporate Conflict Resolution
 
 **Summary**: Legally registered corporate consulting and private security firm established on [[romentino|Romentino]] by [[beck|Beck]], [[asher|Asher]], [[isambard|Isambard]], and [[sarik|Sarik]] as an operational cover.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -376,6 +376,14 @@ The hostage is [[dr-pearson|Dr. Pearson]], held at [[the-ranch-near-hampton|a de
 
 - **Day 235**: Instead of using the kill switch at once, the team observed [[the-ranch-near-hampton|the ranch]] for twenty-four hours: six guards, six-hour shifts, encrypted radio, floodlights, motion sensors and cameras (Session 85).
 - **Day 236**: Ambushed the patrol west of the ranch. [[rajiv|Rajiv]] was killed and his [[nanite-belt|Nanite Belt]] taken; [[rene-desjardins|René Desjardins]] was captured and gave details of the ranch's chain of command and defenses, and was kept alive to answer the radio (Session 85).
+
+## The Assault on the Ranch (Session 86)
+
+- **The belt:** The crew questioned René about Rajiv's belt, then [[sarik|Sarik]] adjusted it to fit and wore it (Session 86).
+- **The plan:** Three teams — [[beck|Beck]] and [[sky|Sky]] covering the northern terrace from the hill; Sarik and [[tomas|Tomas]] by the terrace near the guest suite; [[isambard|Isambard]], [[asher|Asher]] and [[isaiah|Isaiah]] breaching the Den. René worked the radio under threat, giving the [[rock-squid|rock squid]] cover story as the calls grew more suspicious (Session 86).
+- **The attack:** The system shutdown failed and the cameras stayed active. The crew wounded **Aronis** and **Hedwig** with rifle fire, dropped **Brigitte** and wounded **Gertrude**, and blew a hole in the Den's wall. Aronis appeared dead; Sarik ordered Brigitte and Gertrude finished (Session 86).
+- **Dr. Pearson:** [[sarik|Sarik]] and Tomas found the unarmed [[dr-pearson|Dr. Pearson]] hiding in the guest suite and kept him restrained and alive (Session 86).
+- **Unresolved:** An unidentified man in full battle armor came down the stairs with a Gauss rifle (Session 86).
 
 ## Related pages
 

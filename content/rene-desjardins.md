@@ -8,14 +8,14 @@ tags:
 aliases:
   - René
   - Rene Desjardins
-sessions: [85]
-last_updated: 2026-11-16
+sessions: [85, 86]
+last_updated: 2026-11-23
 ---
 # René Desjardins
 
 **Summary**: Hired guard at [[the-ranch-near-hampton|the ranch near Hampton]] captured by [[bias-ccr|BIAS CCR]] in an ambush on Day 236-1105; kept alive to answer [[duquette|Duquette]]'s radio check-ins.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -45,6 +45,12 @@ Isambard noticed a patch on René reading "I am not a robot". René denied being
 
 At the end of Day 236 René was still held at the ambush site, as the captured radio carried Control's call for the patrol to check in (Session 85).
 
+## Working the Radio (Session 86)
+
+- **Interrogation:** The crew questioned René about [[rajiv|Rajiv]]'s belt — whether it detected life signs or could be monitored at the ranch. He said he could imitate Rajiv's voice if allowed to speak freely, and that the two of them usually spent hours on patrol. [[beck|Beck]] assessed him over the walkie-talkie and judged him already frightened (Session 86).
+- **Untied for the checks:** [[isambard|Isambard]] warned René to use only approved words on the radio and threatened him if he said anything else. The crew agreed to restrain him afterwards rather than leave someone behind to guard him; [[asher|Asher]] argued against killing him yet, in case he knew something useful. René stayed untied for the checks and gave the cover story about a [[rock-squid|rock squid]], but the calls grew more suspicious (Session 86).
+- **Duquette's belt:** René said Duquette was the only other person at the ranch with a [[nanite-belt|nanite belt]] (Session 86).
+
 ## Related pages
 
 - [[the-ranch-near-hampton|The Ranch near Hampton]]
@@ -55,3 +61,4 @@ At the end of Day 236 René was still held at the ambush site, as the captured r
 - [[sarik|Sarik]]
 - [[tomas|Tomas]]
 - [[bias-ccr|BIAS CCR]]
+- [[rock-squid|Rock Squid]]

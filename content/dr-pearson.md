@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - npc
-sessions: [11, 80, 81, 84, 85]
-last_updated: 2026-11-16
+sessions: [11, 80, 81, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # Dr. Pearson
 
-**Summary**: [[nesvorny-university|Nesvorny University]] archaeologist who wrote on [[ancient-orb|Ancient Orbs]], held hostage at [[the-ranch-near-hampton|a ranch]] on [[tutin|Tutin]] and target of BIAS CCR's covert rescue.
+**Summary**: [[nesvorny-university|Nesvorny University]] archaeologist who wrote on [[ancient-orb|Ancient Orbs]], held hostage at [[the-ranch-near-hampton|a ranch]] on [[tutin|Tutin]] and freed by BIAS CCR on Day 236-1105.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -37,6 +37,12 @@ The crew linked Pearson to their own interest in Ancient artifacts: the [[ancien
 ## The Guards (Session 85)
 
 The captured guard [[rene-desjardins|René Desjardins]] did not know who Pearson was or why he mattered. The guards had been hired for a month, and nobody is allowed on or off the ranch (Session 85).
+
+## The Rescue (Day 236-1105)
+
+During the assault on the ranch, [[sarik|Sarik]] found Pearson unarmed, crawling under a bed in the ground-floor guest suite, and had [[tomas|Tomas]] pull him out. Tomas kept him restrained while Sarik moved toward the door, and Sarik told Tomas to keep him subdued and alive. [[asher|Asher]] refused to approach him in the open while the house was not yet cleared (Session 86).
+
+Pearson was alive and in the crew's hands when an unidentified armoured man came down the stairs with a Gauss rifle (Session 86).
 
 ## Related pages
 

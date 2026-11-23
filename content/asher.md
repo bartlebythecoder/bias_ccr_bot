@@ -5,14 +5,14 @@ category: people
 tags:
   - people
   - protagonist
-sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85]
-last_updated: 2026-11-16
+sessions: [1, 2, 3, 4, 5, 80, 81, 82, 83, 84, 85, 86]
+last_updated: 2026-11-23
 ---
 # Asher
 
 **Summary**: Brilliant chemist and elite hacker originating from the impoverished world of [[pharr|Pharr]] and educated on [[nesvorny|Nesvorny]], serving as scientific and cyber infiltration specialist for the crew.
 
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ---
 
@@ -348,6 +348,13 @@ Asher studied mechanics during the voyage. He told the crew he was unhappy that 
 - **Kill switch:** The team chose not to rely on the kill switch Asher carries, holding it back as a response to an alarm. It was still unused on Day 236 (Session 85).
 - **Day 236:** Asher covered the ambush west of [[the-ranch-near-hampton|the ranch]] and warned that [[rajiv|Rajiv]] could regenerate, prompting his decapitation (Session 85).
 - **René:** He argued for keeping [[rene-desjardins|René Desjardins]] alive to answer the radio check-ins (Session 85).
+
+## The Assault (Session 86)
+
+- **René:** Asher argued they should not kill René yet, in case he knew something useful, and relayed René's claim that [[duquette|Duquette]] was the only other person at the ranch with a [[nanite-belt|nanite belt]] (Session 86).
+- **The plan:** He, [[isambard|Isambard]] and [[isaiah|Isaiah]] would breach the Den from outside. Asher took charge of the explosives and planned to place the breaching charge (Session 86).
+- **The breach:** He set the remote charge, whose blast opened a hole in the wall of the Den (Session 86).
+- **Dr. Pearson:** He refused to approach the unarmed [[dr-pearson|Dr. Pearson]] in the open while the house was not yet cleared (Session 86).
 
 ## Related pages
 
